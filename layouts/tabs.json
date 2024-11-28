@@ -1,0 +1,210 @@
+{
+    "tabbed_maps_horizontal": {
+        "type": "tabbed",
+        "tabs": [
+            {
+                "title": "Blossom",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Blossom"
+                    ]
+                }
+            },
+            {
+                "title": "Bosses",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Bosses"
+                    ]
+                }
+            },
+            {
+                "title": "Fall",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Fall"
+                    ]
+                }
+            },
+            {
+                "title": "Forbidden Isle",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Forbidden Isle"
+                    ]
+                }
+            },
+            {
+                "title": "Goals",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Goals"
+                    ]
+                }
+            },
+            {
+                "title": "Hills",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Hills"
+                    ]
+                }
+            },
+            {
+                "title": "Lake",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Lake"
+                    ]
+                }
+            },
+            {
+                "title": "Pillars",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Pillars"
+                    ]
+                }
+            },
+            {
+                "title": "Sky Cemetery",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Sky Cemetery"
+                    ]
+                }
+            },
+            {
+                "title": "Swamp",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Swamp"
+                    ]
+                }
+            },
+            {
+                "title": "Temple",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Temple"
+                    ]
+                }
+            }
+        ]
+    },
+    "tabbed_maps_vertical": {
+        "type": "tabbed",
+        "tabs": [
+            {
+                "title": "Blossom",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Blossom"
+                    ]
+                }
+            },
+            {
+                "title": "Bosses",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Bosses"
+                    ]
+                }
+            },
+            {
+                "title": "Fall",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Fall"
+                    ]
+                }
+            },
+            {
+                "title": "Forbidden Isle",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Forbidden Isle"
+                    ]
+                }
+            },
+            {
+                "title": "Goals",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Goals"
+                    ]
+                }
+            },
+            {
+                "title": "Hills",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Hills"
+                    ]
+                }
+            },
+            {
+                "title": "Lake",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Lake"
+                    ]
+                }
+            },
+            {
+                "title": "Pillars",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Pillars"
+                    ]
+                }
+            },
+            {
+                "title": "Sky Cemetery",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Sky Cemetery"
+                    ]
+                }
+            },
+            {
+                "title": "Swamp",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Swamp"
+                    ]
+                }
+            },
+            {
+                "title": "Temple",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Temple"
+                    ]
+                }
+            }
+        ]
+    }
+}

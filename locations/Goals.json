@@ -1,0 +1,110 @@
+[
+    {
+        "name": "Goals - hint",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            "{}"
+        ],
+        "sections": [
+            {
+                "name": "Defeat Rebirth - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "goals_defeat_rebirth"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Coin Hunt (8 Coins) - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "goals_coin_hunt_(8_coins)"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Coin Hunt (16 Coins) - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "goals_coin_hunt_(16_coins)"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Coin Hunt (24 Coins) - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "goals_coin_hunt_(24_coins)"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Coin Hunt (All Coins) - hint",
+                "access_rules": [],
+                "visibility_rules": [
+                    "goals_coin_hunt_(all_coins)"
+                ],
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "Goals",
+                "x": "1069",
+                "y": "1808",
+                "size": 12
+            }
+        ]
+    },
+    {
+        "name": "Goals",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "sections": [
+            {
+                "name": "Defeat Rebirth",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Coin Hunt (8 Coins)",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Coin Hunt (16 Coins)",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Coin Hunt (24 Coins)",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Coin Hunt (All Coins)",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "Goals",
+                "x": "1069",
+                "y": "1808",
+                "size": 6
+            }
+        ]
+    }
+]

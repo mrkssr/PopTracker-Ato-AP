@@ -1,0 +1,996 @@
+[
+    {
+        "name": "temple_coins_double_jump_paradise",
+        "type": "toggle",
+        "img": "images/items/temple_coins_double_jump_paradise.png",
+        "img_mods": "",
+        "codes": "temple_coins_double_jump_paradise"
+    },
+    {
+        "name": "fall_checkpoints_armor_arena",
+        "type": "toggle",
+        "img": "images/items/fall_checkpoints_armor_arena.png",
+        "img_mods": "",
+        "codes": "fall_checkpoints_armor_arena"
+    },
+    {
+        "name": "sky_cemetery_checkpoints_yari",
+        "type": "toggle",
+        "img": "images/items/sky_cemetery_checkpoints_yari.png",
+        "img_mods": "",
+        "codes": "sky_cemetery_checkpoints_yari"
+    },
+    {
+        "name": "temple_checkpoints_samurai",
+        "type": "toggle",
+        "img": "images/items/temple_checkpoints_samurai.png",
+        "img_mods": "",
+        "codes": "temple_checkpoints_samurai"
+    },
+    {
+        "name": "sky_cemetery_coins_yari",
+        "type": "toggle",
+        "img": "images/items/sky_cemetery_coins_yari.png",
+        "img_mods": "",
+        "codes": "sky_cemetery_coins_yari"
+    },
+    {
+        "name": "lake_coins_fatal_draw",
+        "type": "toggle",
+        "img": "images/items/lake_coins_fatal_draw.png",
+        "img_mods": "",
+        "codes": "lake_coins_fatal_draw"
+    },
+    {
+        "name": "lake_talismans_archer",
+        "type": "toggle",
+        "img": "images/items/lake_talismans_archer.png",
+        "img_mods": "",
+        "codes": "lake_talismans_archer"
+    },
+    {
+        "name": "pillars_checkpoints_spin_puzzles",
+        "type": "toggle",
+        "img": "images/items/pillars_checkpoints_spin_puzzles.png",
+        "img_mods": "",
+        "codes": "pillars_checkpoints_spin_puzzles"
+    },
+    {
+        "name": "fall_skills_chain_dash",
+        "type": "toggle",
+        "img": "images/items/fall_skills_chain_dash.png",
+        "img_mods": "",
+        "codes": "fall_skills_chain_dash"
+    },
+    {
+        "name": "temple_coins_black_area_entry",
+        "type": "toggle",
+        "img": "images/items/temple_coins_black_area_entry.png",
+        "img_mods": "",
+        "codes": "temple_coins_black_area_entry"
+    },
+    {
+        "name": "fall_talismans_hidden_top",
+        "type": "toggle",
+        "img": "images/items/fall_talismans_hidden_top.png",
+        "img_mods": "",
+        "codes": "fall_talismans_hidden_top"
+    },
+    {
+        "name": "fall_skills_triple_slash",
+        "type": "toggle",
+        "img": "images/items/fall_skills_triple_slash.png",
+        "img_mods": "",
+        "codes": "fall_skills_triple_slash"
+    },
+    {
+        "name": "lake_magic_bars_magic_bar_tiny_warrior",
+        "type": "toggle",
+        "img": "images/items/lake_magic_bars_magic_bar_tiny_warrior.png",
+        "img_mods": "",
+        "codes": "lake_magic_bars_magic_bar_tiny_warrior"
+    },
+    {
+        "name": "blossom_coins_vagrant_ii_reward",
+        "type": "toggle",
+        "img": "images/items/blossom_coins_vagrant_ii_reward.png",
+        "img_mods": "",
+        "codes": "blossom_coins_vagrant_ii_reward"
+    },
+    {
+        "name": "lake_checkpoints_ninja",
+        "type": "toggle",
+        "img": "images/items/lake_checkpoints_ninja.png",
+        "img_mods": "",
+        "codes": "lake_checkpoints_ninja"
+    },
+    {
+        "name": "goals_coin_hunt_(16_coins)",
+        "type": "toggle",
+        "img": "images/items/goals_coin_hunt_(16_coins).png",
+        "img_mods": "",
+        "codes": "goals_coin_hunt_(16_coins)"
+    },
+    {
+        "name": "pillars_checkpoints_mother",
+        "type": "toggle",
+        "img": "images/items/pillars_checkpoints_mother.png",
+        "img_mods": "",
+        "codes": "pillars_checkpoints_mother"
+    },
+    {
+        "name": "sky_cemetery_checkpoints_child",
+        "type": "toggle",
+        "img": "images/items/sky_cemetery_checkpoints_child.png",
+        "img_mods": "",
+        "codes": "sky_cemetery_checkpoints_child"
+    },
+    {
+        "name": "blossom_checkpoints_vagrant",
+        "type": "toggle",
+        "img": "images/items/blossom_checkpoints_vagrant.png",
+        "img_mods": "",
+        "codes": "blossom_checkpoints_vagrant"
+    },
+    {
+        "name": "hills_checkpoints_throw_arena",
+        "type": "toggle",
+        "img": "images/items/hills_checkpoints_throw_arena.png",
+        "img_mods": "",
+        "codes": "hills_checkpoints_throw_arena"
+    },
+    {
+        "name": "lake_coins_breakable_floors",
+        "type": "toggle",
+        "img": "images/items/lake_coins_breakable_floors.png",
+        "img_mods": "",
+        "codes": "lake_coins_breakable_floors"
+    },
+    {
+        "name": "lake_checkpoints_archer",
+        "type": "toggle",
+        "img": "images/items/lake_checkpoints_archer.png",
+        "img_mods": "",
+        "codes": "lake_checkpoints_archer"
+    },
+    {
+        "name": "goals_coin_hunt_(24_coins)",
+        "type": "toggle",
+        "img": "images/items/goals_coin_hunt_(24_coins).png",
+        "img_mods": "",
+        "codes": "goals_coin_hunt_(24_coins)"
+    },
+    {
+        "name": "lake_coins_time_puzzle_tiny_warrior",
+        "type": "toggle",
+        "img": "images/items/lake_coins_time_puzzle_tiny_warrior.png",
+        "img_mods": "",
+        "codes": "lake_coins_time_puzzle_tiny_warrior"
+    },
+    {
+        "name": "fall_checkpoints_geisha",
+        "type": "toggle",
+        "img": "images/items/fall_checkpoints_geisha.png",
+        "img_mods": "",
+        "codes": "fall_checkpoints_geisha"
+    },
+    {
+        "name": "hills_coins_phantom_shin",
+        "type": "toggle",
+        "img": "images/items/hills_coins_phantom_shin.png",
+        "img_mods": "",
+        "codes": "hills_coins_phantom_shin"
+    },
+    {
+        "name": "sky_cemetery_talismans_yari",
+        "type": "toggle",
+        "img": "images/items/sky_cemetery_talismans_yari.png",
+        "img_mods": "",
+        "codes": "sky_cemetery_talismans_yari"
+    },
+    {
+        "name": "fall_coins_twitch_arena",
+        "type": "toggle",
+        "img": "images/items/fall_coins_twitch_arena.png",
+        "img_mods": "",
+        "codes": "fall_coins_twitch_arena"
+    },
+    {
+        "name": "fall_coins_tempest",
+        "type": "toggle",
+        "img": "images/items/fall_coins_tempest.png",
+        "img_mods": "",
+        "codes": "fall_coins_tempest"
+    },
+    {
+        "name": "bosses_acolyte",
+        "type": "toggle",
+        "img": "images/items/bosses_acolyte.png",
+        "img_mods": "",
+        "codes": "bosses_acolyte"
+    },
+    {
+        "name": "pillars_talismans_spins",
+        "type": "toggle",
+        "img": "images/items/pillars_talismans_spins.png",
+        "img_mods": "",
+        "codes": "pillars_talismans_spins"
+    },
+    {
+        "name": "blossom_talismans_behind_rocks",
+        "type": "toggle",
+        "img": "images/items/blossom_talismans_behind_rocks.png",
+        "img_mods": "",
+        "codes": "blossom_talismans_behind_rocks"
+    },
+    {
+        "name": "blossom_runes_juggernaut_rune",
+        "type": "toggle",
+        "img": "images/items/blossom_runes_juggernaut_rune.png",
+        "img_mods": "",
+        "codes": "blossom_runes_juggernaut_rune"
+    },
+    {
+        "name": "hills_talismans_preview",
+        "type": "toggle",
+        "img": "images/items/hills_talismans_preview.png",
+        "img_mods": "",
+        "codes": "hills_talismans_preview"
+    },
+    {
+        "name": "hills_talismans_jin",
+        "type": "toggle",
+        "img": "images/items/hills_talismans_jin.png",
+        "img_mods": "",
+        "codes": "hills_talismans_jin"
+    },
+    {
+        "name": "fall_coins_left_of_bridge_room",
+        "type": "toggle",
+        "img": "images/items/fall_coins_left_of_bridge_room.png",
+        "img_mods": "",
+        "codes": "fall_coins_left_of_bridge_room"
+    },
+    {
+        "name": "fall_checkpoints_tempest",
+        "type": "toggle",
+        "img": "images/items/fall_checkpoints_tempest.png",
+        "img_mods": "",
+        "codes": "fall_checkpoints_tempest"
+    },
+    {
+        "name": "lake_talismans_hidden_breakables",
+        "type": "toggle",
+        "img": "images/items/lake_talismans_hidden_breakables.png",
+        "img_mods": "",
+        "codes": "lake_talismans_hidden_breakables"
+    },
+    {
+        "name": "lake_checkpoints_sentinel",
+        "type": "toggle",
+        "img": "images/items/lake_checkpoints_sentinel.png",
+        "img_mods": "",
+        "codes": "lake_checkpoints_sentinel"
+    },
+    {
+        "name": "pillars_checkpoints_ancient_warrior",
+        "type": "toggle",
+        "img": "images/items/pillars_checkpoints_ancient_warrior.png",
+        "img_mods": "",
+        "codes": "pillars_checkpoints_ancient_warrior"
+    },
+    {
+        "name": "lake_coins_tiny_warrior_entry",
+        "type": "toggle",
+        "img": "images/items/lake_coins_tiny_warrior_entry.png",
+        "img_mods": "",
+        "codes": "lake_coins_tiny_warrior_entry"
+    },
+    {
+        "name": "sky_cemetery_talismans_black_piles_room",
+        "type": "toggle",
+        "img": "images/items/sky_cemetery_talismans_black_piles_room.png",
+        "img_mods": "",
+        "codes": "sky_cemetery_talismans_black_piles_room"
+    },
+    {
+        "name": "temple_coins_switch_puzzle",
+        "type": "toggle",
+        "img": "images/items/temple_coins_switch_puzzle.png",
+        "img_mods": "",
+        "codes": "temple_coins_switch_puzzle"
+    },
+    {
+        "name": "temple_checkpoints_demon",
+        "type": "toggle",
+        "img": "images/items/temple_checkpoints_demon.png",
+        "img_mods": "",
+        "codes": "temple_checkpoints_demon"
+    },
+    {
+        "name": "hills_checkpoints_berserker",
+        "type": "toggle",
+        "img": "images/items/hills_checkpoints_berserker.png",
+        "img_mods": "",
+        "codes": "hills_checkpoints_berserker"
+    },
+    {
+        "name": "fall_talismans_fans",
+        "type": "toggle",
+        "img": "images/items/fall_talismans_fans.png",
+        "img_mods": "",
+        "codes": "fall_talismans_fans"
+    },
+    {
+        "name": "forbidden_isle_checkpoints_monk",
+        "type": "toggle",
+        "img": "images/items/forbidden_isle_checkpoints_monk.png",
+        "img_mods": "",
+        "codes": "forbidden_isle_checkpoints_monk"
+    },
+    {
+        "name": "lake_skills_spin_upgrade",
+        "type": "toggle",
+        "img": "images/items/lake_skills_spin_upgrade.png",
+        "img_mods": "",
+        "codes": "lake_skills_spin_upgrade"
+    },
+    {
+        "name": "blossom_checkpoints_rogue",
+        "type": "toggle",
+        "img": "images/items/blossom_checkpoints_rogue.png",
+        "img_mods": "",
+        "codes": "blossom_checkpoints_rogue"
+    },
+    {
+        "name": "hills_coins_8_coins_door",
+        "type": "toggle",
+        "img": "images/items/hills_coins_8_coins_door.png",
+        "img_mods": "",
+        "codes": "hills_coins_8_coins_door"
+    },
+    {
+        "name": "hills_talismans_top_platforms",
+        "type": "toggle",
+        "img": "images/items/hills_talismans_top_platforms.png",
+        "img_mods": "",
+        "codes": "hills_talismans_top_platforms"
+    },
+    {
+        "name": "blossom_talismans_under_leaves",
+        "type": "toggle",
+        "img": "images/items/blossom_talismans_under_leaves.png",
+        "img_mods": "",
+        "codes": "blossom_talismans_under_leaves"
+    },
+    {
+        "name": "pillars_skills_spin",
+        "type": "toggle",
+        "img": "images/items/pillars_skills_spin.png",
+        "img_mods": "",
+        "codes": "pillars_skills_spin"
+    },
+    {
+        "name": "lake_talismans_low_gravity_bumper",
+        "type": "toggle",
+        "img": "images/items/lake_talismans_low_gravity_bumper.png",
+        "img_mods": "",
+        "codes": "lake_talismans_low_gravity_bumper"
+    },
+    {
+        "name": "lake_checkpoints_tiny_warrior",
+        "type": "toggle",
+        "img": "images/items/lake_checkpoints_tiny_warrior.png",
+        "img_mods": "",
+        "codes": "lake_checkpoints_tiny_warrior"
+    },
+    {
+        "name": "lake_talismans_sentinel",
+        "type": "toggle",
+        "img": "images/items/lake_talismans_sentinel.png",
+        "img_mods": "",
+        "codes": "lake_talismans_sentinel"
+    },
+    {
+        "name": "forbidden_isle_checkpoints_fatal_arena",
+        "type": "toggle",
+        "img": "images/items/forbidden_isle_checkpoints_fatal_arena.png",
+        "img_mods": "",
+        "codes": "forbidden_isle_checkpoints_fatal_arena"
+    },
+    {
+        "name": "hills_coins_behind_warp",
+        "type": "toggle",
+        "img": "images/items/hills_coins_behind_warp.png",
+        "img_mods": "",
+        "codes": "hills_coins_behind_warp"
+    },
+    {
+        "name": "swamp_talismans_throws",
+        "type": "toggle",
+        "img": "images/items/swamp_talismans_throws.png",
+        "img_mods": "",
+        "codes": "swamp_talismans_throws"
+    },
+    {
+        "name": "blossom_talismans_leave_room",
+        "type": "toggle",
+        "img": "images/items/blossom_talismans_leave_room.png",
+        "img_mods": "",
+        "codes": "blossom_talismans_leave_room"
+    },
+    {
+        "name": "lake_checkpoints_bridge_drop",
+        "type": "toggle",
+        "img": "images/items/lake_checkpoints_bridge_drop.png",
+        "img_mods": "",
+        "codes": "lake_checkpoints_bridge_drop"
+    },
+    {
+        "name": "lake_talismans_ninja",
+        "type": "toggle",
+        "img": "images/items/lake_talismans_ninja.png",
+        "img_mods": "",
+        "codes": "lake_talismans_ninja"
+    },
+    {
+        "name": "lake_talismans_owl",
+        "type": "toggle",
+        "img": "images/items/lake_talismans_owl.png",
+        "img_mods": "",
+        "codes": "lake_talismans_owl"
+    },
+    {
+        "name": "pillars_talismans_ancient_warrior_checkpoint",
+        "type": "toggle",
+        "img": "images/items/pillars_talismans_ancient_warrior_checkpoint.png",
+        "img_mods": "",
+        "codes": "pillars_talismans_ancient_warrior_checkpoint"
+    },
+    {
+        "name": "blossom_skills_dodge_upgrade",
+        "type": "toggle",
+        "img": "images/items/blossom_skills_dodge_upgrade.png",
+        "img_mods": "",
+        "codes": "blossom_skills_dodge_upgrade"
+    },
+    {
+        "name": "blossom_talismans_bandit",
+        "type": "toggle",
+        "img": "images/items/blossom_talismans_bandit.png",
+        "img_mods": "",
+        "codes": "blossom_talismans_bandit"
+    },
+    {
+        "name": "lake_skills_chain_dash_upgrade",
+        "type": "toggle",
+        "img": "images/items/lake_skills_chain_dash_upgrade.png",
+        "img_mods": "",
+        "codes": "lake_skills_chain_dash_upgrade"
+    },
+    {
+        "name": "hills_talismans_dash",
+        "type": "toggle",
+        "img": "images/items/hills_talismans_dash.png",
+        "img_mods": "",
+        "codes": "hills_talismans_dash"
+    },
+    {
+        "name": "blossom_coins_basement",
+        "type": "toggle",
+        "img": "images/items/blossom_coins_basement.png",
+        "img_mods": "",
+        "codes": "blossom_coins_basement"
+    },
+    {
+        "name": "fall_talismans_secret",
+        "type": "toggle",
+        "img": "images/items/fall_talismans_secret.png",
+        "img_mods": "",
+        "codes": "fall_talismans_secret"
+    },
+    {
+        "name": "fall_talismans_bumper_time_puzzle",
+        "type": "toggle",
+        "img": "images/items/fall_talismans_bumper_time_puzzle.png",
+        "img_mods": "",
+        "codes": "fall_talismans_bumper_time_puzzle"
+    },
+    {
+        "name": "bosses_samurai",
+        "type": "toggle",
+        "img": "images/items/bosses_samurai.png",
+        "img_mods": "",
+        "codes": "bosses_samurai"
+    },
+    {
+        "name": "blossom_skills_crystal_break",
+        "type": "toggle",
+        "img": "images/items/blossom_skills_crystal_break.png",
+        "img_mods": "",
+        "codes": "blossom_skills_crystal_break"
+    },
+    {
+        "name": "hills_checkpoints_phantom_shin",
+        "type": "toggle",
+        "img": "images/items/hills_checkpoints_phantom_shin.png",
+        "img_mods": "",
+        "codes": "hills_checkpoints_phantom_shin"
+    },
+    {
+        "name": "blossom_coins_rogue",
+        "type": "toggle",
+        "img": "images/items/blossom_coins_rogue.png",
+        "img_mods": "",
+        "codes": "blossom_coins_rogue"
+    },
+    {
+        "name": "forbidden_isle_skills_fatal_draw_upgrade",
+        "type": "toggle",
+        "img": "images/items/forbidden_isle_skills_fatal_draw_upgrade.png",
+        "img_mods": "",
+        "codes": "forbidden_isle_skills_fatal_draw_upgrade"
+    },
+    {
+        "name": "lake_skills_vision",
+        "type": "toggle",
+        "img": "images/items/lake_skills_vision.png",
+        "img_mods": "",
+        "codes": "lake_skills_vision"
+    },
+    {
+        "name": "swamp_checkpoints_green_area_entry",
+        "type": "toggle",
+        "img": "images/items/swamp_checkpoints_green_area_entry.png",
+        "img_mods": "",
+        "codes": "swamp_checkpoints_green_area_entry"
+    },
+    {
+        "name": "swamp_checkpoints_deceiver",
+        "type": "toggle",
+        "img": "images/items/swamp_checkpoints_deceiver.png",
+        "img_mods": "",
+        "codes": "swamp_checkpoints_deceiver"
+    },
+    {
+        "name": "lake_talismans_bumper",
+        "type": "toggle",
+        "img": "images/items/lake_talismans_bumper.png",
+        "img_mods": "",
+        "codes": "lake_talismans_bumper"
+    },
+    {
+        "name": "sky_cemetery_orbs_red_orb",
+        "type": "toggle",
+        "img": "images/items/sky_cemetery_orbs_red_orb.png",
+        "img_mods": "",
+        "codes": "sky_cemetery_orbs_red_orb"
+    },
+    {
+        "name": "blossom_coins_hub_up",
+        "type": "toggle",
+        "img": "images/items/blossom_coins_hub_up.png",
+        "img_mods": "",
+        "codes": "blossom_coins_hub_up"
+    },
+    {
+        "name": "fall_skills_armor_upgrade",
+        "type": "toggle",
+        "img": "images/items/fall_skills_armor_upgrade.png",
+        "img_mods": "",
+        "codes": "fall_skills_armor_upgrade"
+    },
+    {
+        "name": "lake_coins_after_bridge_drop",
+        "type": "toggle",
+        "img": "images/items/lake_coins_after_bridge_drop.png",
+        "img_mods": "",
+        "codes": "lake_coins_after_bridge_drop"
+    },
+    {
+        "name": "blossom_coins_hub_left",
+        "type": "toggle",
+        "img": "images/items/blossom_coins_hub_left.png",
+        "img_mods": "",
+        "codes": "blossom_coins_hub_left"
+    },
+    {
+        "name": "fall_skills_double_jump",
+        "type": "toggle",
+        "img": "images/items/fall_skills_double_jump.png",
+        "img_mods": "",
+        "codes": "fall_skills_double_jump"
+    },
+    {
+        "name": "blossom_magic_bars_magic_bar_vagrant",
+        "type": "toggle",
+        "img": "images/items/blossom_magic_bars_magic_bar_vagrant.png",
+        "img_mods": "",
+        "codes": "blossom_magic_bars_magic_bar_vagrant"
+    },
+    {
+        "name": "temple_checkpoints_rebirth",
+        "type": "toggle",
+        "img": "images/items/temple_checkpoints_rebirth.png",
+        "img_mods": "",
+        "codes": "temple_checkpoints_rebirth"
+    },
+    {
+        "name": "fall_talismans_hidden",
+        "type": "toggle",
+        "img": "images/items/fall_talismans_hidden.png",
+        "img_mods": "",
+        "codes": "fall_talismans_hidden"
+    },
+    {
+        "name": "pillars_coins_spins",
+        "type": "toggle",
+        "img": "images/items/pillars_coins_spins.png",
+        "img_mods": "",
+        "codes": "pillars_coins_spins"
+    },
+    {
+        "name": "temple_runes_risk_rune",
+        "type": "toggle",
+        "img": "images/items/temple_runes_risk_rune.png",
+        "img_mods": "",
+        "codes": "temple_runes_risk_rune"
+    },
+    {
+        "name": "fall_runes_mind_rune",
+        "type": "toggle",
+        "img": "images/items/fall_runes_mind_rune.png",
+        "img_mods": "",
+        "codes": "fall_runes_mind_rune"
+    },
+    {
+        "name": "blossom_talismans_deflector",
+        "type": "toggle",
+        "img": "images/items/blossom_talismans_deflector.png",
+        "img_mods": "",
+        "codes": "blossom_talismans_deflector"
+    },
+    {
+        "name": "goals_coin_hunt_(8_coins)",
+        "type": "toggle",
+        "img": "images/items/goals_coin_hunt_(8_coins).png",
+        "img_mods": "",
+        "codes": "goals_coin_hunt_(8_coins)"
+    },
+    {
+        "name": "lake_checkpoints_spin_arena",
+        "type": "toggle",
+        "img": "images/items/lake_checkpoints_spin_arena.png",
+        "img_mods": "",
+        "codes": "lake_checkpoints_spin_arena"
+    },
+    {
+        "name": "fall_coins_red_area_entry",
+        "type": "toggle",
+        "img": "images/items/fall_coins_red_area_entry.png",
+        "img_mods": "",
+        "codes": "fall_coins_red_area_entry"
+    },
+    {
+        "name": "fall_talismans_armor_geisha_area",
+        "type": "toggle",
+        "img": "images/items/fall_talismans_armor_geisha_area.png",
+        "img_mods": "",
+        "codes": "fall_talismans_armor_geisha_area"
+    },
+    {
+        "name": "lake_skills_fatal_draw",
+        "type": "toggle",
+        "img": "images/items/lake_skills_fatal_draw.png",
+        "img_mods": "",
+        "codes": "lake_skills_fatal_draw"
+    },
+    {
+        "name": "blossom_skills_dodge",
+        "type": "toggle",
+        "img": "images/items/blossom_skills_dodge.png",
+        "img_mods": "",
+        "codes": "blossom_skills_dodge"
+    },
+    {
+        "name": "fall_talismans_chain_dash",
+        "type": "toggle",
+        "img": "images/items/fall_talismans_chain_dash.png",
+        "img_mods": "",
+        "codes": "fall_talismans_chain_dash"
+    },
+    {
+        "name": "fall_coins_phantom_jin",
+        "type": "toggle",
+        "img": "images/items/fall_coins_phantom_jin.png",
+        "img_mods": "",
+        "codes": "fall_coins_phantom_jin"
+    },
+    {
+        "name": "fall_checkpoints_phantom_jin",
+        "type": "toggle",
+        "img": "images/items/fall_checkpoints_phantom_jin.png",
+        "img_mods": "",
+        "codes": "fall_checkpoints_phantom_jin"
+    },
+    {
+        "name": "hills_skills_electric_wind_lethal_strike",
+        "type": "toggle",
+        "img": "images/items/hills_skills_electric_wind_lethal_strike.png",
+        "img_mods": "",
+        "codes": "hills_skills_electric_wind_lethal_strike"
+    },
+    {
+        "name": "lake_skills_speed_charge",
+        "type": "toggle",
+        "img": "images/items/lake_skills_speed_charge.png",
+        "img_mods": "",
+        "codes": "lake_skills_speed_charge"
+    },
+    {
+        "name": "blossom_checkpoints_twins",
+        "type": "toggle",
+        "img": "images/items/blossom_checkpoints_twins.png",
+        "img_mods": "",
+        "codes": "blossom_checkpoints_twins"
+    },
+    {
+        "name": "forbidden_isle_skills_demon_blade",
+        "type": "toggle",
+        "img": "images/items/forbidden_isle_skills_demon_blade.png",
+        "img_mods": "",
+        "codes": "forbidden_isle_skills_demon_blade"
+    },
+    {
+        "name": "temple_runes_agility_rune",
+        "type": "toggle",
+        "img": "images/items/temple_runes_agility_rune.png",
+        "img_mods": "",
+        "codes": "temple_runes_agility_rune"
+    },
+    {
+        "name": "lake_talismans_tiny_warrior",
+        "type": "toggle",
+        "img": "images/items/lake_talismans_tiny_warrior.png",
+        "img_mods": "",
+        "codes": "lake_talismans_tiny_warrior"
+    },
+    {
+        "name": "swamp_orbs_yellow_orb",
+        "type": "toggle",
+        "img": "images/items/swamp_orbs_yellow_orb.png",
+        "img_mods": "",
+        "codes": "swamp_orbs_yellow_orb"
+    },
+    {
+        "name": "hills_runes_flurry_rune",
+        "type": "toggle",
+        "img": "images/items/hills_runes_flurry_rune.png",
+        "img_mods": "",
+        "codes": "hills_runes_flurry_rune"
+    },
+    {
+        "name": "fall_checkpoints_guardian",
+        "type": "toggle",
+        "img": "images/items/fall_checkpoints_guardian.png",
+        "img_mods": "",
+        "codes": "fall_checkpoints_guardian"
+    },
+    {
+        "name": "fall_coins_secret_room",
+        "type": "toggle",
+        "img": "images/items/fall_coins_secret_room.png",
+        "img_mods": "",
+        "codes": "fall_coins_secret_room"
+    },
+    {
+        "name": "fall_checkpoints_warden",
+        "type": "toggle",
+        "img": "images/items/fall_checkpoints_warden.png",
+        "img_mods": "",
+        "codes": "fall_checkpoints_warden"
+    },
+    {
+        "name": "lake_coins_bumper_time_puzzle",
+        "type": "toggle",
+        "img": "images/items/lake_coins_bumper_time_puzzle.png",
+        "img_mods": "",
+        "codes": "lake_coins_bumper_time_puzzle"
+    },
+    {
+        "name": "temple_talismans_warp_obstacles",
+        "type": "toggle",
+        "img": "images/items/temple_talismans_warp_obstacles.png",
+        "img_mods": "",
+        "codes": "temple_talismans_warp_obstacles"
+    },
+    {
+        "name": "blossom_talismans_spin_puzzle",
+        "type": "toggle",
+        "img": "images/items/blossom_talismans_spin_puzzle.png",
+        "img_mods": "",
+        "codes": "blossom_talismans_spin_puzzle"
+    },
+    {
+        "name": "swamp_talismans_warps",
+        "type": "toggle",
+        "img": "images/items/swamp_talismans_warps.png",
+        "img_mods": "",
+        "codes": "swamp_talismans_warps"
+    },
+    {
+        "name": "fall_skills_parry",
+        "type": "toggle",
+        "img": "images/items/fall_skills_parry.png",
+        "img_mods": "",
+        "codes": "fall_skills_parry"
+    },
+    {
+        "name": "fall_skills_meditate",
+        "type": "toggle",
+        "img": "images/items/fall_skills_meditate.png",
+        "img_mods": "",
+        "codes": "fall_skills_meditate"
+    },
+    {
+        "name": "lake_coins_vagrant_i_reward",
+        "type": "toggle",
+        "img": "images/items/lake_coins_vagrant_i_reward.png",
+        "img_mods": "",
+        "codes": "lake_coins_vagrant_i_reward"
+    },
+    {
+        "name": "swamp_checkpoints_father",
+        "type": "toggle",
+        "img": "images/items/swamp_checkpoints_father.png",
+        "img_mods": "",
+        "codes": "swamp_checkpoints_father"
+    },
+    {
+        "name": "fall_runes_echo_rune",
+        "type": "toggle",
+        "img": "images/items/fall_runes_echo_rune.png",
+        "img_mods": "",
+        "codes": "fall_runes_echo_rune"
+    },
+    {
+        "name": "swamp_coins_armor_time_puzzle",
+        "type": "toggle",
+        "img": "images/items/swamp_coins_armor_time_puzzle.png",
+        "img_mods": "",
+        "codes": "swamp_coins_armor_time_puzzle"
+    },
+    {
+        "name": "blossom_checkpoints_bandit",
+        "type": "toggle",
+        "img": "images/items/blossom_checkpoints_bandit.png",
+        "img_mods": "",
+        "codes": "blossom_checkpoints_bandit"
+    },
+    {
+        "name": "swamp_skills_armor",
+        "type": "toggle",
+        "img": "images/items/swamp_skills_armor.png",
+        "img_mods": "",
+        "codes": "swamp_skills_armor"
+    },
+    {
+        "name": "blossom_talismans_start_room",
+        "type": "toggle",
+        "img": "images/items/blossom_talismans_start_room.png",
+        "img_mods": "",
+        "codes": "blossom_talismans_start_room"
+    },
+    {
+        "name": "lake_checkpoints_acolyte",
+        "type": "toggle",
+        "img": "images/items/lake_checkpoints_acolyte.png",
+        "img_mods": "",
+        "codes": "lake_checkpoints_acolyte"
+    },
+    {
+        "name": "sky_cemetery_skills_throw",
+        "type": "toggle",
+        "img": "images/items/sky_cemetery_skills_throw.png",
+        "img_mods": "",
+        "codes": "sky_cemetery_skills_throw"
+    },
+    {
+        "name": "blossom_talismans_runway",
+        "type": "toggle",
+        "img": "images/items/blossom_talismans_runway.png",
+        "img_mods": "",
+        "codes": "blossom_talismans_runway"
+    },
+    {
+        "name": "hills_skills_throw_upgrade",
+        "type": "toggle",
+        "img": "images/items/hills_skills_throw_upgrade.png",
+        "img_mods": "",
+        "codes": "hills_skills_throw_upgrade"
+    },
+    {
+        "name": "swamp_coins_father",
+        "type": "toggle",
+        "img": "images/items/swamp_coins_father.png",
+        "img_mods": "",
+        "codes": "swamp_coins_father"
+    },
+    {
+        "name": "forbidden_isle_coins_most_left",
+        "type": "toggle",
+        "img": "images/items/forbidden_isle_coins_most_left.png",
+        "img_mods": "",
+        "codes": "forbidden_isle_coins_most_left"
+    },
+    {
+        "name": "pillars_orbs_blue_orb",
+        "type": "toggle",
+        "img": "images/items/pillars_orbs_blue_orb.png",
+        "img_mods": "",
+        "codes": "pillars_orbs_blue_orb"
+    },
+    {
+        "name": "lake_checkpoints_climb",
+        "type": "toggle",
+        "img": "images/items/lake_checkpoints_climb.png",
+        "img_mods": "",
+        "codes": "lake_checkpoints_climb"
+    },
+    {
+        "name": "hills_coins_hidden_time_puzzle",
+        "type": "toggle",
+        "img": "images/items/hills_coins_hidden_time_puzzle.png",
+        "img_mods": "",
+        "codes": "hills_coins_hidden_time_puzzle"
+    },
+    {
+        "name": "fall_coins_right_of_double_jump_room",
+        "type": "toggle",
+        "img": "images/items/fall_coins_right_of_double_jump_room.png",
+        "img_mods": "",
+        "codes": "fall_coins_right_of_double_jump_room"
+    },
+    {
+        "name": "blossom_talismans_twins",
+        "type": "toggle",
+        "img": "images/items/blossom_talismans_twins.png",
+        "img_mods": "",
+        "codes": "blossom_talismans_twins"
+    },
+    {
+        "name": "temple_talismans_lore_room",
+        "type": "toggle",
+        "img": "images/items/temple_talismans_lore_room.png",
+        "img_mods": "",
+        "codes": "temple_talismans_lore_room"
+    },
+    {
+        "name": "hills_skills_dash",
+        "type": "toggle",
+        "img": "images/items/hills_skills_dash.png",
+        "img_mods": "",
+        "codes": "hills_skills_dash"
+    },
+    {
+        "name": "blossom_coins_love_room",
+        "type": "toggle",
+        "img": "images/items/blossom_coins_love_room.png",
+        "img_mods": "",
+        "codes": "blossom_coins_love_room"
+    },
+    {
+        "name": "goals_coin_hunt_(all_coins)",
+        "type": "toggle",
+        "img": "images/items/goals_coin_hunt_(all_coins).png",
+        "img_mods": "",
+        "codes": "goals_coin_hunt_(all_coins)"
+    },
+    {
+        "name": "goals_defeat_rebirth",
+        "type": "toggle",
+        "img": "images/items/goals_defeat_rebirth.png",
+        "img_mods": "",
+        "codes": "goals_defeat_rebirth"
+    }
+]

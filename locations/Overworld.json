@@ -1,0 +1,1578 @@
+[
+    {
+        "name": "Overworld Hints",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "children": [
+            {
+                "name": "Blossom - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": "Skills - Dodge - hint",
+                        "ref": "Blossom - hint/Skills - hint/Dodge - hint"
+                    },
+                    {
+                        "name": "Skills - Dodge Upgrade - hint",
+                        "ref": "Blossom - hint/Skills - hint/Dodge Upgrade - hint"
+                    },
+                    {
+                        "name": "Skills - Crystal Break - hint",
+                        "ref": "Blossom - hint/Skills - hint/Crystal Break - hint"
+                    },
+                    {
+                        "name": "Runes - Juggernaut Rune - hint",
+                        "ref": "Blossom - hint/Runes - hint/Juggernaut Rune - hint"
+                    },
+                    {
+                        "name": "Magic Bars - Magic Bar Vagrant - hint",
+                        "ref": "Blossom - hint/Magic Bars - hint/Magic Bar Vagrant - hint"
+                    },
+                    {
+                        "name": "Coins - Basement - hint",
+                        "ref": "Blossom - hint/Coins - hint/Basement - hint"
+                    },
+                    {
+                        "name": "Coins - Love Room - hint",
+                        "ref": "Blossom - hint/Coins - hint/Love Room - hint"
+                    },
+                    {
+                        "name": "Coins - Hub Left - hint",
+                        "ref": "Blossom - hint/Coins - hint/Hub Left - hint"
+                    },
+                    {
+                        "name": "Coins - Hub Up - hint",
+                        "ref": "Blossom - hint/Coins - hint/Hub Up - hint"
+                    },
+                    {
+                        "name": "Coins - Vagrant II Reward - hint",
+                        "ref": "Blossom - hint/Coins - hint/Vagrant II Reward - hint"
+                    },
+                    {
+                        "name": "Coins - Rogue - hint",
+                        "ref": "Blossom - hint/Coins - hint/Rogue - hint"
+                    },
+                    {
+                        "name": "Talismans - Start Room - hint",
+                        "ref": "Blossom - hint/Talismans - hint/Start Room - hint"
+                    },
+                    {
+                        "name": "Talismans - Runway - hint",
+                        "ref": "Blossom - hint/Talismans - hint/Runway - hint"
+                    },
+                    {
+                        "name": "Talismans - Under Leaves - hint",
+                        "ref": "Blossom - hint/Talismans - hint/Under Leaves - hint"
+                    },
+                    {
+                        "name": "Talismans - Bandit - hint",
+                        "ref": "Blossom - hint/Talismans - hint/Bandit - hint"
+                    },
+                    {
+                        "name": "Talismans - Leave Room - hint",
+                        "ref": "Blossom - hint/Talismans - hint/Leave Room - hint"
+                    },
+                    {
+                        "name": "Talismans - Behind Rocks - hint",
+                        "ref": "Blossom - hint/Talismans - hint/Behind Rocks - hint"
+                    },
+                    {
+                        "name": "Talismans - Spin Puzzle - hint",
+                        "ref": "Blossom - hint/Talismans - hint/Spin Puzzle - hint"
+                    },
+                    {
+                        "name": "Talismans - Deflector - hint",
+                        "ref": "Blossom - hint/Talismans - hint/Deflector - hint"
+                    },
+                    {
+                        "name": "Talismans - Twins - hint",
+                        "ref": "Blossom - hint/Talismans - hint/Twins - hint"
+                    },
+                    {
+                        "name": "Checkpoints - Bandit - hint",
+                        "ref": "Blossom - hint/Checkpoints - hint/Bandit - hint"
+                    },
+                    {
+                        "name": "Checkpoints - Vagrant - hint",
+                        "ref": "Blossom - hint/Checkpoints - hint/Vagrant - hint"
+                    },
+                    {
+                        "name": "Checkpoints - Rogue - hint",
+                        "ref": "Blossom - hint/Checkpoints - hint/Rogue - hint"
+                    },
+                    {
+                        "name": "Checkpoints - Twins - hint",
+                        "ref": "Blossom - hint/Checkpoints - hint/Twins - hint"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": "730",
+                        "y": "1995",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "Bosses - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": "Bosses - Acolyte - hint",
+                        "ref": "Bosses - hint/Acolyte - hint"
+                    },
+                    {
+                        "name": "Bosses - Samurai - hint",
+                        "ref": "Bosses - hint/Samurai - hint"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": "500",
+                        "y": "855",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "Fall - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": "Skills - Chain Dash - hint",
+                        "ref": "Fall - hint/Skills - hint/Chain Dash - hint"
+                    },
+                    {
+                        "name": "Skills - Double Jump - hint",
+                        "ref": "Fall - hint/Skills - hint/Double Jump - hint"
+                    },
+                    {
+                        "name": "Skills - Armor Upgrade - hint",
+                        "ref": "Fall - hint/Skills - hint/Armor Upgrade - hint"
+                    },
+                    {
+                        "name": "Skills - Parry - hint",
+                        "ref": "Fall - hint/Skills - hint/Parry - hint"
+                    },
+                    {
+                        "name": "Skills - Meditate - hint",
+                        "ref": "Fall - hint/Skills - hint/Meditate - hint"
+                    },
+                    {
+                        "name": "Skills - Triple Slash - hint",
+                        "ref": "Fall - hint/Skills - hint/Triple Slash - hint"
+                    },
+                    {
+                        "name": "Runes - Echo Rune - hint",
+                        "ref": "Fall - hint/Runes - hint/Echo Rune - hint"
+                    },
+                    {
+                        "name": "Runes - Mind Rune - hint",
+                        "ref": "Fall - hint/Runes - hint/Mind Rune - hint"
+                    },
+                    {
+                        "name": "Coins - Twitch Arena - hint",
+                        "ref": "Fall - hint/Coins - hint/Twitch Arena - hint"
+                    },
+                    {
+                        "name": "Coins - Secret Room - hint",
+                        "ref": "Fall - hint/Coins - hint/Secret Room - hint"
+                    },
+                    {
+                        "name": "Coins - Phantom Jin - hint",
+                        "ref": "Fall - hint/Coins - hint/Phantom Jin - hint"
+                    },
+                    {
+                        "name": "Coins - Red Area Entry - hint",
+                        "ref": "Fall - hint/Coins - hint/Red Area Entry - hint"
+                    },
+                    {
+                        "name": "Coins - Left of Bridge Room - hint",
+                        "ref": "Fall - hint/Coins - hint/Left of Bridge Room - hint"
+                    },
+                    {
+                        "name": "Coins - Right of Double Jump Room - hint",
+                        "ref": "Fall - hint/Coins - hint/Right of Double Jump Room - hint"
+                    },
+                    {
+                        "name": "Coins - Tempest - hint",
+                        "ref": "Fall - hint/Coins - hint/Tempest - hint"
+                    },
+                    {
+                        "name": "Talismans - Hidden - hint",
+                        "ref": "Fall - hint/Talismans - hint/Hidden - hint"
+                    },
+                    {
+                        "name": "Talismans - Armor Geisha Area - hint",
+                        "ref": "Fall - hint/Talismans - hint/Armor Geisha Area - hint"
+                    },
+                    {
+                        "name": "Talismans - Fans - hint",
+                        "ref": "Fall - hint/Talismans - hint/Fans - hint"
+                    },
+                    {
+                        "name": "Talismans - Secret - hint",
+                        "ref": "Fall - hint/Talismans - hint/Secret - hint"
+                    },
+                    {
+                        "name": "Talismans - Hidden Top - hint",
+                        "ref": "Fall - hint/Talismans - hint/Hidden Top - hint"
+                    },
+                    {
+                        "name": "Talismans - Bumper Time Puzzle - hint",
+                        "ref": "Fall - hint/Talismans - hint/Bumper Time Puzzle - hint"
+                    },
+                    {
+                        "name": "Talismans - Chain Dash - hint",
+                        "ref": "Fall - hint/Talismans - hint/Chain Dash - hint"
+                    },
+                    {
+                        "name": "Checkpoints - Geisha - hint",
+                        "ref": "Fall - hint/Checkpoints - hint/Geisha - hint"
+                    },
+                    {
+                        "name": "Checkpoints - Phantom Jin - hint",
+                        "ref": "Fall - hint/Checkpoints - hint/Phantom Jin - hint"
+                    },
+                    {
+                        "name": "Checkpoints - Warden - hint",
+                        "ref": "Fall - hint/Checkpoints - hint/Warden - hint"
+                    },
+                    {
+                        "name": "Checkpoints - Guardian - hint",
+                        "ref": "Fall - hint/Checkpoints - hint/Guardian - hint"
+                    },
+                    {
+                        "name": "Checkpoints - Tempest - hint",
+                        "ref": "Fall - hint/Checkpoints - hint/Tempest - hint"
+                    },
+                    {
+                        "name": "Checkpoints - Armor Arena - hint",
+                        "ref": "Fall - hint/Checkpoints - hint/Armor Arena - hint"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": "2061",
+                        "y": "708",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "Forbidden Isle - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": "Skills - Demon Blade - hint",
+                        "ref": "Forbidden Isle - hint/Skills - hint/Demon Blade - hint"
+                    },
+                    {
+                        "name": "Skills - Fatal Draw Upgrade - hint",
+                        "ref": "Forbidden Isle - hint/Skills - hint/Fatal Draw Upgrade - hint"
+                    },
+                    {
+                        "name": "Coins - Most Left - hint",
+                        "ref": "Forbidden Isle - hint/Coins - hint/Most Left - hint"
+                    },
+                    {
+                        "name": "Checkpoints - Fatal Arena - hint",
+                        "ref": "Forbidden Isle - hint/Checkpoints - hint/Fatal Arena - hint"
+                    },
+                    {
+                        "name": "Checkpoints - Monk - hint",
+                        "ref": "Forbidden Isle - hint/Checkpoints - hint/Monk - hint"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": "1625",
+                        "y": "1996",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "Goals - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": "Goals - Defeat Rebirth - hint",
+                        "ref": "Goals - hint/Defeat Rebirth - hint"
+                    },
+                    {
+                        "name": "Goals - Coin Hunt (8 Coins) - hint",
+                        "ref": "Goals - hint/Coin Hunt (8 Coins) - hint"
+                    },
+                    {
+                        "name": "Goals - Coin Hunt (16 Coins) - hint",
+                        "ref": "Goals - hint/Coin Hunt (16 Coins) - hint"
+                    },
+                    {
+                        "name": "Goals - Coin Hunt (24 Coins) - hint",
+                        "ref": "Goals - hint/Coin Hunt (24 Coins) - hint"
+                    },
+                    {
+                        "name": "Goals - Coin Hunt (All Coins) - hint",
+                        "ref": "Goals - hint/Coin Hunt (All Coins) - hint"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": "833",
+                        "y": "694",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "Hills - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": "Skills - Dash - hint",
+                        "ref": "Hills - hint/Skills - hint/Dash - hint"
+                    },
+                    {
+                        "name": "Skills - Throw Upgrade - hint",
+                        "ref": "Hills - hint/Skills - hint/Throw Upgrade - hint"
+                    },
+                    {
+                        "name": "Skills - Electric Wind Lethal Strike - hint",
+                        "ref": "Hills - hint/Skills - hint/Electric Wind Lethal Strike - hint"
+                    },
+                    {
+                        "name": "Runes - Flurry Rune - hint",
+                        "ref": "Hills - hint/Runes - hint/Flurry Rune - hint"
+                    },
+                    {
+                        "name": "Coins - Phantom Shin - hint",
+                        "ref": "Hills - hint/Coins - hint/Phantom Shin - hint"
+                    },
+                    {
+                        "name": "Coins - Behind Warp - hint",
+                        "ref": "Hills - hint/Coins - hint/Behind Warp - hint"
+                    },
+                    {
+                        "name": "Coins - Hidden Time Puzzle - hint",
+                        "ref": "Hills - hint/Coins - hint/Hidden Time Puzzle - hint"
+                    },
+                    {
+                        "name": "Coins - 8 Coins Door - hint",
+                        "ref": "Hills - hint/Coins - hint/8 Coins Door - hint"
+                    },
+                    {
+                        "name": "Talismans - Preview - hint",
+                        "ref": "Hills - hint/Talismans - hint/Preview - hint"
+                    },
+                    {
+                        "name": "Talismans - Top Platforms - hint",
+                        "ref": "Hills - hint/Talismans - hint/Top Platforms - hint"
+                    },
+                    {
+                        "name": "Talismans - Dash - hint",
+                        "ref": "Hills - hint/Talismans - hint/Dash - hint"
+                    },
+                    {
+                        "name": "Talismans - Jin - hint",
+                        "ref": "Hills - hint/Talismans - hint/Jin - hint"
+                    },
+                    {
+                        "name": "Checkpoints - Phantom Shin - hint",
+                        "ref": "Hills - hint/Checkpoints - hint/Phantom Shin - hint"
+                    },
+                    {
+                        "name": "Checkpoints - Throw Arena - hint",
+                        "ref": "Hills - hint/Checkpoints - hint/Throw Arena - hint"
+                    },
+                    {
+                        "name": "Checkpoints - Berserker - hint",
+                        "ref": "Hills - hint/Checkpoints - hint/Berserker - hint"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": "716",
+                        "y": "1216",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "Lake - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": "Skills - Chain Dash Upgrade - hint",
+                        "ref": "Lake - hint/Skills - hint/Chain Dash Upgrade - hint"
+                    },
+                    {
+                        "name": "Skills - Speed Charge - hint",
+                        "ref": "Lake - hint/Skills - hint/Speed Charge - hint"
+                    },
+                    {
+                        "name": "Skills - Spin Upgrade - hint",
+                        "ref": "Lake - hint/Skills - hint/Spin Upgrade - hint"
+                    },
+                    {
+                        "name": "Skills - Vision - hint",
+                        "ref": "Lake - hint/Skills - hint/Vision - hint"
+                    },
+                    {
+                        "name": "Skills - Fatal Draw - hint",
+                        "ref": "Lake - hint/Skills - hint/Fatal Draw - hint"
+                    },
+                    {
+                        "name": "Magic Bars - Magic Bar Tiny Warrior - hint",
+                        "ref": "Lake - hint/Magic Bars - hint/Magic Bar Tiny Warrior - hint"
+                    },
+                    {
+                        "name": "Coins - After Bridge Drop - hint",
+                        "ref": "Lake - hint/Coins - hint/After Bridge Drop - hint"
+                    },
+                    {
+                        "name": "Coins - Vagrant I Reward - hint",
+                        "ref": "Lake - hint/Coins - hint/Vagrant I Reward - hint"
+                    },
+                    {
+                        "name": "Coins - Fatal Draw - hint",
+                        "ref": "Lake - hint/Coins - hint/Fatal Draw - hint"
+                    },
+                    {
+                        "name": "Coins - Breakable Floors - hint",
+                        "ref": "Lake - hint/Coins - hint/Breakable Floors - hint"
+                    },
+                    {
+                        "name": "Coins - Tiny Warrior Entry - hint",
+                        "ref": "Lake - hint/Coins - hint/Tiny Warrior Entry - hint"
+                    },
+                    {
+                        "name": "Coins - Time Puzzle Tiny Warrior - hint",
+                        "ref": "Lake - hint/Coins - hint/Time Puzzle Tiny Warrior - hint"
+                    },
+                    {
+                        "name": "Coins - Bumper Time Puzzle - hint",
+                        "ref": "Lake - hint/Coins - hint/Bumper Time Puzzle - hint"
+                    },
+                    {
+                        "name": "Talismans - Low Gravity Bumper - hint",
+                        "ref": "Lake - hint/Talismans - hint/Low Gravity Bumper - hint"
+                    },
+                    {
+                        "name": "Talismans - Bumper - hint",
+                        "ref": "Lake - hint/Talismans - hint/Bumper - hint"
+                    },
+                    {
+                        "name": "Talismans - Tiny Warrior - hint",
+                        "ref": "Lake - hint/Talismans - hint/Tiny Warrior - hint"
+                    },
+                    {
+                        "name": "Talismans - Archer - hint",
+                        "ref": "Lake - hint/Talismans - hint/Archer - hint"
+                    },
+                    {
+                        "name": "Talismans - Ninja - hint",
+                        "ref": "Lake - hint/Talismans - hint/Ninja - hint"
+                    },
+                    {
+                        "name": "Talismans - Hidden Breakables - hint",
+                        "ref": "Lake - hint/Talismans - hint/Hidden Breakables - hint"
+                    },
+                    {
+                        "name": "Talismans - Sentinel - hint",
+                        "ref": "Lake - hint/Talismans - hint/Sentinel - hint"
+                    },
+                    {
+                        "name": "Talismans - Owl - hint",
+                        "ref": "Lake - hint/Talismans - hint/Owl - hint"
+                    },
+                    {
+                        "name": "Checkpoints - Bridge Drop - hint",
+                        "ref": "Lake - hint/Checkpoints - hint/Bridge Drop - hint"
+                    },
+                    {
+                        "name": "Checkpoints - Tiny Warrior - hint",
+                        "ref": "Lake - hint/Checkpoints - hint/Tiny Warrior - hint"
+                    },
+                    {
+                        "name": "Checkpoints - Climb - hint",
+                        "ref": "Lake - hint/Checkpoints - hint/Climb - hint"
+                    },
+                    {
+                        "name": "Checkpoints - Archer - hint",
+                        "ref": "Lake - hint/Checkpoints - hint/Archer - hint"
+                    },
+                    {
+                        "name": "Checkpoints - Ninja - hint",
+                        "ref": "Lake - hint/Checkpoints - hint/Ninja - hint"
+                    },
+                    {
+                        "name": "Checkpoints - Sentinel - hint",
+                        "ref": "Lake - hint/Checkpoints - hint/Sentinel - hint"
+                    },
+                    {
+                        "name": "Checkpoints - Spin Arena - hint",
+                        "ref": "Lake - hint/Checkpoints - hint/Spin Arena - hint"
+                    },
+                    {
+                        "name": "Checkpoints - Acolyte - hint",
+                        "ref": "Lake - hint/Checkpoints - hint/Acolyte - hint"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": "1918",
+                        "y": "1205",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "Pillars - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": "Orbs - Blue Orb - hint",
+                        "ref": "Pillars - hint/Orbs - hint/Blue Orb - hint"
+                    },
+                    {
+                        "name": "Skills - Spin - hint",
+                        "ref": "Pillars - hint/Skills - hint/Spin - hint"
+                    },
+                    {
+                        "name": "Coins - Spins - hint",
+                        "ref": "Pillars - hint/Coins - hint/Spins - hint"
+                    },
+                    {
+                        "name": "Talismans - Spins - hint",
+                        "ref": "Pillars - hint/Talismans - hint/Spins - hint"
+                    },
+                    {
+                        "name": "Talismans - Ancient Warrior Checkpoint - hint",
+                        "ref": "Pillars - hint/Talismans - hint/Ancient Warrior Checkpoint - hint"
+                    },
+                    {
+                        "name": "Checkpoints - Mother - hint",
+                        "ref": "Pillars - hint/Checkpoints - hint/Mother - hint"
+                    },
+                    {
+                        "name": "Checkpoints - Spin Puzzles - hint",
+                        "ref": "Pillars - hint/Checkpoints - hint/Spin Puzzles - hint"
+                    },
+                    {
+                        "name": "Checkpoints - Ancient Warrior - hint",
+                        "ref": "Pillars - hint/Checkpoints - hint/Ancient Warrior - hint"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": "660",
+                        "y": "293",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "Sky Cemetery - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": "Orbs - Red Orb - hint",
+                        "ref": "Sky Cemetery - hint/Orbs - hint/Red Orb - hint"
+                    },
+                    {
+                        "name": "Skills - Throw - hint",
+                        "ref": "Sky Cemetery - hint/Skills - hint/Throw - hint"
+                    },
+                    {
+                        "name": "Coins - Yari - hint",
+                        "ref": "Sky Cemetery - hint/Coins - hint/Yari - hint"
+                    },
+                    {
+                        "name": "Talismans - Black Piles Room - hint",
+                        "ref": "Sky Cemetery - hint/Talismans - hint/Black Piles Room - hint"
+                    },
+                    {
+                        "name": "Talismans - Yari - hint",
+                        "ref": "Sky Cemetery - hint/Talismans - hint/Yari - hint"
+                    },
+                    {
+                        "name": "Checkpoints - Child - hint",
+                        "ref": "Sky Cemetery - hint/Checkpoints - hint/Child - hint"
+                    },
+                    {
+                        "name": "Checkpoints - Yari - hint",
+                        "ref": "Sky Cemetery - hint/Checkpoints - hint/Yari - hint"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": "2419",
+                        "y": "658",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "Swamp - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": "Orbs - Yellow Orb - hint",
+                        "ref": "Swamp - hint/Orbs - hint/Yellow Orb - hint"
+                    },
+                    {
+                        "name": "Skills - Armor - hint",
+                        "ref": "Swamp - hint/Skills - hint/Armor - hint"
+                    },
+                    {
+                        "name": "Coins - Armor Time Puzzle - hint",
+                        "ref": "Swamp - hint/Coins - hint/Armor Time Puzzle - hint"
+                    },
+                    {
+                        "name": "Coins - Father - hint",
+                        "ref": "Swamp - hint/Coins - hint/Father - hint"
+                    },
+                    {
+                        "name": "Talismans - Throws - hint",
+                        "ref": "Swamp - hint/Talismans - hint/Throws - hint"
+                    },
+                    {
+                        "name": "Talismans - Warps - hint",
+                        "ref": "Swamp - hint/Talismans - hint/Warps - hint"
+                    },
+                    {
+                        "name": "Checkpoints - Green Area Entry - hint",
+                        "ref": "Swamp - hint/Checkpoints - hint/Green Area Entry - hint"
+                    },
+                    {
+                        "name": "Checkpoints - Father - hint",
+                        "ref": "Swamp - hint/Checkpoints - hint/Father - hint"
+                    },
+                    {
+                        "name": "Checkpoints - Deceiver - hint",
+                        "ref": "Swamp - hint/Checkpoints - hint/Deceiver - hint"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": "207",
+                        "y": "1978",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "Temple - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": "Runes - Agility Rune - hint",
+                        "ref": "Temple - hint/Runes - hint/Agility Rune - hint"
+                    },
+                    {
+                        "name": "Runes - Risk Rune - hint",
+                        "ref": "Temple - hint/Runes - hint/Risk Rune - hint"
+                    },
+                    {
+                        "name": "Coins - Double Jump Paradise - hint",
+                        "ref": "Temple - hint/Coins - hint/Double Jump Paradise - hint"
+                    },
+                    {
+                        "name": "Coins - Switch Puzzle - hint",
+                        "ref": "Temple - hint/Coins - hint/Switch Puzzle - hint"
+                    },
+                    {
+                        "name": "Coins - Black Area Entry - hint",
+                        "ref": "Temple - hint/Coins - hint/Black Area Entry - hint"
+                    },
+                    {
+                        "name": "Talismans - Warp Obstacles - hint",
+                        "ref": "Temple - hint/Talismans - hint/Warp Obstacles - hint"
+                    },
+                    {
+                        "name": "Talismans - Lore Room - hint",
+                        "ref": "Temple - hint/Talismans - hint/Lore Room - hint"
+                    },
+                    {
+                        "name": "Checkpoints - Samurai - hint",
+                        "ref": "Temple - hint/Checkpoints - hint/Samurai - hint"
+                    },
+                    {
+                        "name": "Checkpoints - Demon - hint",
+                        "ref": "Temple - hint/Checkpoints - hint/Demon - hint"
+                    },
+                    {
+                        "name": "Checkpoints - Rebirth - hint",
+                        "ref": "Temple - hint/Checkpoints - hint/Rebirth - hint"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": "99",
+                        "y": "155",
+                        "size": 12
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Overworld",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "children": [
+            {
+                "name": "Blossom",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Skills - Dodge",
+                        "ref": "Blossom/Skills/Dodge"
+                    },
+                    {
+                        "name": "Skills - Dodge Upgrade",
+                        "ref": "Blossom/Skills/Dodge Upgrade"
+                    },
+                    {
+                        "name": "Skills - Crystal Break",
+                        "ref": "Blossom/Skills/Crystal Break"
+                    },
+                    {
+                        "name": "Runes - Juggernaut Rune",
+                        "ref": "Blossom/Runes/Juggernaut Rune"
+                    },
+                    {
+                        "name": "Magic Bars - Magic Bar Vagrant",
+                        "ref": "Blossom/Magic Bars/Magic Bar Vagrant"
+                    },
+                    {
+                        "name": "Coins - Basement",
+                        "ref": "Blossom/Coins/Basement"
+                    },
+                    {
+                        "name": "Coins - Love Room",
+                        "ref": "Blossom/Coins/Love Room"
+                    },
+                    {
+                        "name": "Coins - Hub Left",
+                        "ref": "Blossom/Coins/Hub Left"
+                    },
+                    {
+                        "name": "Coins - Hub Up",
+                        "ref": "Blossom/Coins/Hub Up"
+                    },
+                    {
+                        "name": "Coins - Vagrant II Reward",
+                        "ref": "Blossom/Coins/Vagrant II Reward"
+                    },
+                    {
+                        "name": "Coins - Rogue",
+                        "ref": "Blossom/Coins/Rogue"
+                    },
+                    {
+                        "name": "Talismans - Start Room",
+                        "ref": "Blossom/Talismans/Start Room"
+                    },
+                    {
+                        "name": "Talismans - Runway",
+                        "ref": "Blossom/Talismans/Runway"
+                    },
+                    {
+                        "name": "Talismans - Under Leaves",
+                        "ref": "Blossom/Talismans/Under Leaves"
+                    },
+                    {
+                        "name": "Talismans - Bandit",
+                        "ref": "Blossom/Talismans/Bandit"
+                    },
+                    {
+                        "name": "Talismans - Leave Room",
+                        "ref": "Blossom/Talismans/Leave Room"
+                    },
+                    {
+                        "name": "Talismans - Behind Rocks",
+                        "ref": "Blossom/Talismans/Behind Rocks"
+                    },
+                    {
+                        "name": "Talismans - Spin Puzzle",
+                        "ref": "Blossom/Talismans/Spin Puzzle"
+                    },
+                    {
+                        "name": "Talismans - Deflector",
+                        "ref": "Blossom/Talismans/Deflector"
+                    },
+                    {
+                        "name": "Talismans - Twins",
+                        "ref": "Blossom/Talismans/Twins"
+                    },
+                    {
+                        "name": "Checkpoints - Bandit",
+                        "ref": "Blossom/Checkpoints/Bandit"
+                    },
+                    {
+                        "name": "Checkpoints - Vagrant",
+                        "ref": "Blossom/Checkpoints/Vagrant"
+                    },
+                    {
+                        "name": "Checkpoints - Rogue",
+                        "ref": "Blossom/Checkpoints/Rogue"
+                    },
+                    {
+                        "name": "Checkpoints - Twins",
+                        "ref": "Blossom/Checkpoints/Twins"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": "730",
+                        "y": "1995",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Bosses",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Bosses - Acolyte",
+                        "ref": "Bosses/Acolyte"
+                    },
+                    {
+                        "name": "Bosses - Samurai",
+                        "ref": "Bosses/Samurai"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": "500",
+                        "y": "855",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Fall",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Skills - Chain Dash",
+                        "ref": "Fall/Skills/Chain Dash"
+                    },
+                    {
+                        "name": "Skills - Double Jump",
+                        "ref": "Fall/Skills/Double Jump"
+                    },
+                    {
+                        "name": "Skills - Armor Upgrade",
+                        "ref": "Fall/Skills/Armor Upgrade"
+                    },
+                    {
+                        "name": "Skills - Parry",
+                        "ref": "Fall/Skills/Parry"
+                    },
+                    {
+                        "name": "Skills - Meditate",
+                        "ref": "Fall/Skills/Meditate"
+                    },
+                    {
+                        "name": "Skills - Triple Slash",
+                        "ref": "Fall/Skills/Triple Slash"
+                    },
+                    {
+                        "name": "Runes - Echo Rune",
+                        "ref": "Fall/Runes/Echo Rune"
+                    },
+                    {
+                        "name": "Runes - Mind Rune",
+                        "ref": "Fall/Runes/Mind Rune"
+                    },
+                    {
+                        "name": "Coins - Twitch Arena",
+                        "ref": "Fall/Coins/Twitch Arena"
+                    },
+                    {
+                        "name": "Coins - Secret Room",
+                        "ref": "Fall/Coins/Secret Room"
+                    },
+                    {
+                        "name": "Coins - Phantom Jin",
+                        "ref": "Fall/Coins/Phantom Jin"
+                    },
+                    {
+                        "name": "Coins - Red Area Entry",
+                        "ref": "Fall/Coins/Red Area Entry"
+                    },
+                    {
+                        "name": "Coins - Left of Bridge Room",
+                        "ref": "Fall/Coins/Left of Bridge Room"
+                    },
+                    {
+                        "name": "Coins - Right of Double Jump Room",
+                        "ref": "Fall/Coins/Right of Double Jump Room"
+                    },
+                    {
+                        "name": "Coins - Tempest",
+                        "ref": "Fall/Coins/Tempest"
+                    },
+                    {
+                        "name": "Talismans - Hidden",
+                        "ref": "Fall/Talismans/Hidden"
+                    },
+                    {
+                        "name": "Talismans - Armor Geisha Area",
+                        "ref": "Fall/Talismans/Armor Geisha Area"
+                    },
+                    {
+                        "name": "Talismans - Fans",
+                        "ref": "Fall/Talismans/Fans"
+                    },
+                    {
+                        "name": "Talismans - Secret",
+                        "ref": "Fall/Talismans/Secret"
+                    },
+                    {
+                        "name": "Talismans - Hidden Top",
+                        "ref": "Fall/Talismans/Hidden Top"
+                    },
+                    {
+                        "name": "Talismans - Bumper Time Puzzle",
+                        "ref": "Fall/Talismans/Bumper Time Puzzle"
+                    },
+                    {
+                        "name": "Talismans - Chain Dash",
+                        "ref": "Fall/Talismans/Chain Dash"
+                    },
+                    {
+                        "name": "Checkpoints - Geisha",
+                        "ref": "Fall/Checkpoints/Geisha"
+                    },
+                    {
+                        "name": "Checkpoints - Phantom Jin",
+                        "ref": "Fall/Checkpoints/Phantom Jin"
+                    },
+                    {
+                        "name": "Checkpoints - Warden",
+                        "ref": "Fall/Checkpoints/Warden"
+                    },
+                    {
+                        "name": "Checkpoints - Guardian",
+                        "ref": "Fall/Checkpoints/Guardian"
+                    },
+                    {
+                        "name": "Checkpoints - Tempest",
+                        "ref": "Fall/Checkpoints/Tempest"
+                    },
+                    {
+                        "name": "Checkpoints - Armor Arena",
+                        "ref": "Fall/Checkpoints/Armor Arena"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": "2061",
+                        "y": "708",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Forbidden Isle",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Skills - Demon Blade",
+                        "ref": "Forbidden Isle/Skills/Demon Blade"
+                    },
+                    {
+                        "name": "Skills - Fatal Draw Upgrade",
+                        "ref": "Forbidden Isle/Skills/Fatal Draw Upgrade"
+                    },
+                    {
+                        "name": "Coins - Most Left",
+                        "ref": "Forbidden Isle/Coins/Most Left"
+                    },
+                    {
+                        "name": "Checkpoints - Fatal Arena",
+                        "ref": "Forbidden Isle/Checkpoints/Fatal Arena"
+                    },
+                    {
+                        "name": "Checkpoints - Monk",
+                        "ref": "Forbidden Isle/Checkpoints/Monk"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": "1625",
+                        "y": "1996",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Goals",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Goals - Defeat Rebirth",
+                        "ref": "Goals/Defeat Rebirth"
+                    },
+                    {
+                        "name": "Goals - Coin Hunt (8 Coins)",
+                        "ref": "Goals/Coin Hunt (8 Coins)"
+                    },
+                    {
+                        "name": "Goals - Coin Hunt (16 Coins)",
+                        "ref": "Goals/Coin Hunt (16 Coins)"
+                    },
+                    {
+                        "name": "Goals - Coin Hunt (24 Coins)",
+                        "ref": "Goals/Coin Hunt (24 Coins)"
+                    },
+                    {
+                        "name": "Goals - Coin Hunt (All Coins)",
+                        "ref": "Goals/Coin Hunt (All Coins)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": "833",
+                        "y": "694",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Hills",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Skills - Dash",
+                        "ref": "Hills/Skills/Dash"
+                    },
+                    {
+                        "name": "Skills - Throw Upgrade",
+                        "ref": "Hills/Skills/Throw Upgrade"
+                    },
+                    {
+                        "name": "Skills - Electric Wind Lethal Strike",
+                        "ref": "Hills/Skills/Electric Wind Lethal Strike"
+                    },
+                    {
+                        "name": "Runes - Flurry Rune",
+                        "ref": "Hills/Runes/Flurry Rune"
+                    },
+                    {
+                        "name": "Coins - Phantom Shin",
+                        "ref": "Hills/Coins/Phantom Shin"
+                    },
+                    {
+                        "name": "Coins - Behind Warp",
+                        "ref": "Hills/Coins/Behind Warp"
+                    },
+                    {
+                        "name": "Coins - Hidden Time Puzzle",
+                        "ref": "Hills/Coins/Hidden Time Puzzle"
+                    },
+                    {
+                        "name": "Coins - 8 Coins Door",
+                        "ref": "Hills/Coins/8 Coins Door"
+                    },
+                    {
+                        "name": "Talismans - Preview",
+                        "ref": "Hills/Talismans/Preview"
+                    },
+                    {
+                        "name": "Talismans - Top Platforms",
+                        "ref": "Hills/Talismans/Top Platforms"
+                    },
+                    {
+                        "name": "Talismans - Dash",
+                        "ref": "Hills/Talismans/Dash"
+                    },
+                    {
+                        "name": "Talismans - Jin",
+                        "ref": "Hills/Talismans/Jin"
+                    },
+                    {
+                        "name": "Checkpoints - Phantom Shin",
+                        "ref": "Hills/Checkpoints/Phantom Shin"
+                    },
+                    {
+                        "name": "Checkpoints - Throw Arena",
+                        "ref": "Hills/Checkpoints/Throw Arena"
+                    },
+                    {
+                        "name": "Checkpoints - Berserker",
+                        "ref": "Hills/Checkpoints/Berserker"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": "716",
+                        "y": "1216",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Lake",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Skills - Chain Dash Upgrade",
+                        "ref": "Lake/Skills/Chain Dash Upgrade"
+                    },
+                    {
+                        "name": "Skills - Speed Charge",
+                        "ref": "Lake/Skills/Speed Charge"
+                    },
+                    {
+                        "name": "Skills - Spin Upgrade",
+                        "ref": "Lake/Skills/Spin Upgrade"
+                    },
+                    {
+                        "name": "Skills - Vision",
+                        "ref": "Lake/Skills/Vision"
+                    },
+                    {
+                        "name": "Skills - Fatal Draw",
+                        "ref": "Lake/Skills/Fatal Draw"
+                    },
+                    {
+                        "name": "Magic Bars - Magic Bar Tiny Warrior",
+                        "ref": "Lake/Magic Bars/Magic Bar Tiny Warrior"
+                    },
+                    {
+                        "name": "Coins - After Bridge Drop",
+                        "ref": "Lake/Coins/After Bridge Drop"
+                    },
+                    {
+                        "name": "Coins - Vagrant I Reward",
+                        "ref": "Lake/Coins/Vagrant I Reward"
+                    },
+                    {
+                        "name": "Coins - Fatal Draw",
+                        "ref": "Lake/Coins/Fatal Draw"
+                    },
+                    {
+                        "name": "Coins - Breakable Floors",
+                        "ref": "Lake/Coins/Breakable Floors"
+                    },
+                    {
+                        "name": "Coins - Tiny Warrior Entry",
+                        "ref": "Lake/Coins/Tiny Warrior Entry"
+                    },
+                    {
+                        "name": "Coins - Time Puzzle Tiny Warrior",
+                        "ref": "Lake/Coins/Time Puzzle Tiny Warrior"
+                    },
+                    {
+                        "name": "Coins - Bumper Time Puzzle",
+                        "ref": "Lake/Coins/Bumper Time Puzzle"
+                    },
+                    {
+                        "name": "Talismans - Low Gravity Bumper",
+                        "ref": "Lake/Talismans/Low Gravity Bumper"
+                    },
+                    {
+                        "name": "Talismans - Bumper",
+                        "ref": "Lake/Talismans/Bumper"
+                    },
+                    {
+                        "name": "Talismans - Tiny Warrior",
+                        "ref": "Lake/Talismans/Tiny Warrior"
+                    },
+                    {
+                        "name": "Talismans - Archer",
+                        "ref": "Lake/Talismans/Archer"
+                    },
+                    {
+                        "name": "Talismans - Ninja",
+                        "ref": "Lake/Talismans/Ninja"
+                    },
+                    {
+                        "name": "Talismans - Hidden Breakables",
+                        "ref": "Lake/Talismans/Hidden Breakables"
+                    },
+                    {
+                        "name": "Talismans - Sentinel",
+                        "ref": "Lake/Talismans/Sentinel"
+                    },
+                    {
+                        "name": "Talismans - Owl",
+                        "ref": "Lake/Talismans/Owl"
+                    },
+                    {
+                        "name": "Checkpoints - Bridge Drop",
+                        "ref": "Lake/Checkpoints/Bridge Drop"
+                    },
+                    {
+                        "name": "Checkpoints - Tiny Warrior",
+                        "ref": "Lake/Checkpoints/Tiny Warrior"
+                    },
+                    {
+                        "name": "Checkpoints - Climb",
+                        "ref": "Lake/Checkpoints/Climb"
+                    },
+                    {
+                        "name": "Checkpoints - Archer",
+                        "ref": "Lake/Checkpoints/Archer"
+                    },
+                    {
+                        "name": "Checkpoints - Ninja",
+                        "ref": "Lake/Checkpoints/Ninja"
+                    },
+                    {
+                        "name": "Checkpoints - Sentinel",
+                        "ref": "Lake/Checkpoints/Sentinel"
+                    },
+                    {
+                        "name": "Checkpoints - Spin Arena",
+                        "ref": "Lake/Checkpoints/Spin Arena"
+                    },
+                    {
+                        "name": "Checkpoints - Acolyte",
+                        "ref": "Lake/Checkpoints/Acolyte"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": "1918",
+                        "y": "1205",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Pillars",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Orbs - Blue Orb",
+                        "ref": "Pillars/Orbs/Blue Orb"
+                    },
+                    {
+                        "name": "Skills - Spin",
+                        "ref": "Pillars/Skills/Spin"
+                    },
+                    {
+                        "name": "Coins - Spins",
+                        "ref": "Pillars/Coins/Spins"
+                    },
+                    {
+                        "name": "Talismans - Spins",
+                        "ref": "Pillars/Talismans/Spins"
+                    },
+                    {
+                        "name": "Talismans - Ancient Warrior Checkpoint",
+                        "ref": "Pillars/Talismans/Ancient Warrior Checkpoint"
+                    },
+                    {
+                        "name": "Checkpoints - Mother",
+                        "ref": "Pillars/Checkpoints/Mother"
+                    },
+                    {
+                        "name": "Checkpoints - Spin Puzzles",
+                        "ref": "Pillars/Checkpoints/Spin Puzzles"
+                    },
+                    {
+                        "name": "Checkpoints - Ancient Warrior",
+                        "ref": "Pillars/Checkpoints/Ancient Warrior"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": "660",
+                        "y": "293",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Sky Cemetery",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Orbs - Red Orb",
+                        "ref": "Sky Cemetery/Orbs/Red Orb"
+                    },
+                    {
+                        "name": "Skills - Throw",
+                        "ref": "Sky Cemetery/Skills/Throw"
+                    },
+                    {
+                        "name": "Coins - Yari",
+                        "ref": "Sky Cemetery/Coins/Yari"
+                    },
+                    {
+                        "name": "Talismans - Black Piles Room",
+                        "ref": "Sky Cemetery/Talismans/Black Piles Room"
+                    },
+                    {
+                        "name": "Talismans - Yari",
+                        "ref": "Sky Cemetery/Talismans/Yari"
+                    },
+                    {
+                        "name": "Checkpoints - Child",
+                        "ref": "Sky Cemetery/Checkpoints/Child"
+                    },
+                    {
+                        "name": "Checkpoints - Yari",
+                        "ref": "Sky Cemetery/Checkpoints/Yari"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": "2419",
+                        "y": "658",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Swamp",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Orbs - Yellow Orb",
+                        "ref": "Swamp/Orbs/Yellow Orb"
+                    },
+                    {
+                        "name": "Skills - Armor",
+                        "ref": "Swamp/Skills/Armor"
+                    },
+                    {
+                        "name": "Coins - Armor Time Puzzle",
+                        "ref": "Swamp/Coins/Armor Time Puzzle"
+                    },
+                    {
+                        "name": "Coins - Father",
+                        "ref": "Swamp/Coins/Father"
+                    },
+                    {
+                        "name": "Talismans - Throws",
+                        "ref": "Swamp/Talismans/Throws"
+                    },
+                    {
+                        "name": "Talismans - Warps",
+                        "ref": "Swamp/Talismans/Warps"
+                    },
+                    {
+                        "name": "Checkpoints - Green Area Entry",
+                        "ref": "Swamp/Checkpoints/Green Area Entry"
+                    },
+                    {
+                        "name": "Checkpoints - Father",
+                        "ref": "Swamp/Checkpoints/Father"
+                    },
+                    {
+                        "name": "Checkpoints - Deceiver",
+                        "ref": "Swamp/Checkpoints/Deceiver"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": "207",
+                        "y": "1978",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Temple",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Runes - Agility Rune",
+                        "ref": "Temple/Runes/Agility Rune"
+                    },
+                    {
+                        "name": "Runes - Risk Rune",
+                        "ref": "Temple/Runes/Risk Rune"
+                    },
+                    {
+                        "name": "Coins - Double Jump Paradise",
+                        "ref": "Temple/Coins/Double Jump Paradise"
+                    },
+                    {
+                        "name": "Coins - Switch Puzzle",
+                        "ref": "Temple/Coins/Switch Puzzle"
+                    },
+                    {
+                        "name": "Coins - Black Area Entry",
+                        "ref": "Temple/Coins/Black Area Entry"
+                    },
+                    {
+                        "name": "Talismans - Warp Obstacles",
+                        "ref": "Temple/Talismans/Warp Obstacles"
+                    },
+                    {
+                        "name": "Talismans - Lore Room",
+                        "ref": "Temple/Talismans/Lore Room"
+                    },
+                    {
+                        "name": "Checkpoints - Samurai",
+                        "ref": "Temple/Checkpoints/Samurai"
+                    },
+                    {
+                        "name": "Checkpoints - Demon",
+                        "ref": "Temple/Checkpoints/Demon"
+                    },
+                    {
+                        "name": "Checkpoints - Rebirth",
+                        "ref": "Temple/Checkpoints/Rebirth"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": "99",
+                        "y": "155",
+                        "size": 6
+                    }
+                ]
+            }
+        ]
+    }
+]

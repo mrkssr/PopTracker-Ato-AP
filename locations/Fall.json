@@ -1,0 +1,606 @@
+[
+    {
+        "name": "Fall - hint",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            "{}"
+        ],
+        "children": [
+            {
+                "name": "Skills - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": "Chain Dash - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "fall_skills_chain_dash"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Double Jump - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "fall_skills_double_jump"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Armor Upgrade - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "fall_skills_armor_upgrade"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Parry - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "fall_skills_parry"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Meditate - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "fall_skills_meditate"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Triple Slash - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "fall_skills_triple_slash"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Fall",
+                        "x": "322",
+                        "y": "513",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "Runes - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": "Echo Rune - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "fall_runes_echo_rune"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Mind Rune - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "fall_runes_mind_rune"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Fall",
+                        "x": "1289",
+                        "y": "2417",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "Coins - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": "Twitch Arena - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "fall_coins_twitch_arena"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Secret Room - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "fall_coins_secret_room"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Phantom Jin - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "fall_coins_phantom_jin"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Red Area Entry - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "fall_coins_red_area_entry"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Left of Bridge Room - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "fall_coins_left_of_bridge_room"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Right of Double Jump Room - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "fall_coins_right_of_double_jump_room"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Tempest - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "fall_coins_tempest"
+                        ],
+                        "item_count": 0
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Fall",
+                        "x": "1371",
+                        "y": "189",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "Talismans - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": "Hidden - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "fall_talismans_hidden"
+                        ],
+                        "item_count": 2
+                    },
+                    {
+                        "name": "Armor Geisha Area - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "fall_talismans_armor_geisha_area"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Fans - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "fall_talismans_fans"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Secret - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "fall_talismans_secret"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Hidden Top - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "fall_talismans_hidden_top"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Bumper Time Puzzle - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "fall_talismans_bumper_time_puzzle"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Chain Dash - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "fall_talismans_chain_dash"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Fall",
+                        "x": "1823",
+                        "y": "2394",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "Checkpoints - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": "Geisha - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "fall_checkpoints_geisha"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Phantom Jin - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "fall_checkpoints_phantom_jin"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Warden - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "fall_checkpoints_warden"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Guardian - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "fall_checkpoints_guardian"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Tempest - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "fall_checkpoints_tempest"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Armor Arena - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "fall_checkpoints_armor_arena"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Fall",
+                        "x": "1947",
+                        "y": "1991",
+                        "size": 12
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Fall",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "children": [
+            {
+                "name": "Skills",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Chain Dash",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Double Jump",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Armor Upgrade",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Parry",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Meditate",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Triple Slash",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Fall",
+                        "x": "322",
+                        "y": "513",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Runes",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Echo Rune",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Mind Rune",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Fall",
+                        "x": "1289",
+                        "y": "2417",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Coins",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Twitch Arena",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Secret Room",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Phantom Jin",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Red Area Entry",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Left of Bridge Room",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Right of Double Jump Room",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Tempest",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Fall",
+                        "x": "1371",
+                        "y": "189",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Talismans",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Hidden",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Armor Geisha Area",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Fans",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Secret",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Hidden Top",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Bumper Time Puzzle",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Chain Dash",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Fall",
+                        "x": "1823",
+                        "y": "2394",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Checkpoints",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Geisha",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Phantom Jin",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Warden",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Guardian",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Tempest",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Armor Arena",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Fall",
+                        "x": "1947",
+                        "y": "1991",
+                        "size": 6
+                    }
+                ]
+            }
+        ]
+    }
+]
