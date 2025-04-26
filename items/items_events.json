@@ -1,0 +1,16 @@
+[
+    {
+        "name": "PrologueDone",
+        "type": "toggle",
+        "img": "images/items/PrologueDone.png",
+        "img_mods": "",
+        "codes": "prologue_done"
+    },
+    {
+        "name": "DefeatedSamurai",
+        "type": "toggle",
+        "img": "images/items/DefeatedSamurai.png",
+        "img_mods": "",
+        "codes": "defeated_samurai"
+    }
+]

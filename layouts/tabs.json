@@ -3,7 +3,35 @@
         "type": "tabbed",
         "tabs": [
             {
-                "title": "Blossom",
+                "title": "Overview",
+                "content": [
+                    {
+                        "type": "tabbed",
+                        "tabs": [
+                            {
+                                "title": "Map",
+                                "content": {
+                                    "type": "map",
+                                    "maps": [
+                                        "Overview"
+                                    ]
+                                }
+                            },
+                            {
+                                "title": "Legend",
+                                "content": {
+                                    "type": "map",
+                                    "maps": [
+                                        "MapLegend"
+                                    ]
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Blossom / Doubt",
                 "content": {
                     "type": "map",
                     "maps": [
@@ -12,43 +40,7 @@
                 }
             },
             {
-                "title": "Bosses",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Bosses"
-                    ]
-                }
-            },
-            {
-                "title": "Fall",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Fall"
-                    ]
-                }
-            },
-            {
-                "title": "Forbidden Isle",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Forbidden Isle"
-                    ]
-                }
-            },
-            {
-                "title": "Goals",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Goals"
-                    ]
-                }
-            },
-            {
-                "title": "Hills",
+                "title": "Hills / Lost",
                 "content": {
                     "type": "map",
                     "maps": [
@@ -57,7 +49,16 @@
                 }
             },
             {
-                "title": "Lake",
+                "title": "Fall / Haunt",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Fall"
+                    ]
+                }
+            },
+            {
+                "title": "Lake / Moon",
                 "content": {
                     "type": "map",
                     "maps": [
@@ -66,16 +67,16 @@
                 }
             },
             {
-                "title": "Pillars",
+                "title": "Pillar",
                 "content": {
                     "type": "map",
                     "maps": [
-                        "Pillars"
+                        "Pillar"
                     ]
                 }
             },
             {
-                "title": "Sky Cemetery",
+                "title": "Crimson",
                 "content": {
                     "type": "map",
                     "maps": [
@@ -89,6 +90,15 @@
                     "type": "map",
                     "maps": [
                         "Swamp"
+                    ]
+                }
+            },
+            {
+                "title": "Forbidden",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Forbidden"
                     ]
                 }
             },
@@ -134,11 +144,11 @@
                 }
             },
             {
-                "title": "Forbidden Isle",
+                "title": "Forbidden",
                 "content": {
                     "type": "map",
                     "maps": [
-                        "Forbidden Isle"
+                        "Forbidden"
                     ]
                 }
             },
@@ -170,11 +180,11 @@
                 }
             },
             {
-                "title": "Pillars",
+                "title": "Pillar",
                 "content": {
                     "type": "map",
                     "maps": [
-                        "Pillars"
+                        "Pillar"
                     ]
                 }
             },

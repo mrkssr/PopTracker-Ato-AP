@@ -49,11 +49,11 @@
         "codes": "lake_talismans_archer"
     },
     {
-        "name": "pillars_checkpoints_spin_puzzles",
+        "name": "pillar_checkpoints_spin_puzzles",
         "type": "toggle",
-        "img": "images/items/pillars_checkpoints_spin_puzzles.png",
+        "img": "images/items/pillar_checkpoints_spin_puzzles.png",
         "img_mods": "",
-        "codes": "pillars_checkpoints_spin_puzzles"
+        "codes": "pillar_checkpoints_spin_puzzles"
     },
     {
         "name": "fall_skills_chain_dash",
@@ -112,11 +112,11 @@
         "codes": "goals_coin_hunt_(16_coins)"
     },
     {
-        "name": "pillars_checkpoints_mother",
+        "name": "pillar_checkpoints_mother",
         "type": "toggle",
-        "img": "images/items/pillars_checkpoints_mother.png",
+        "img": "images/items/pillar_checkpoints_mother.png",
         "img_mods": "",
-        "codes": "pillars_checkpoints_mother"
+        "codes": "pillar_checkpoints_mother"
     },
     {
         "name": "sky_cemetery_checkpoints_child",
@@ -210,11 +210,11 @@
         "codes": "bosses_acolyte"
     },
     {
-        "name": "pillars_talismans_spins",
+        "name": "pillar_talismans_spins",
         "type": "toggle",
-        "img": "images/items/pillars_talismans_spins.png",
+        "img": "images/items/pillar_talismans_spins.png",
         "img_mods": "",
-        "codes": "pillars_talismans_spins"
+        "codes": "pillar_talismans_spins"
     },
     {
         "name": "blossom_talismans_behind_rocks",
@@ -273,11 +273,11 @@
         "codes": "lake_checkpoints_sentinel"
     },
     {
-        "name": "pillars_checkpoints_ancient_warrior",
+        "name": "pillar_checkpoints_ancient_warrior",
         "type": "toggle",
-        "img": "images/items/pillars_checkpoints_ancient_warrior.png",
+        "img": "images/items/pillar_checkpoints_ancient_warrior.png",
         "img_mods": "",
-        "codes": "pillars_checkpoints_ancient_warrior"
+        "codes": "pillar_checkpoints_ancient_warrior"
     },
     {
         "name": "lake_coins_tiny_warrior_entry",
@@ -364,11 +364,11 @@
         "codes": "blossom_talismans_under_leaves"
     },
     {
-        "name": "pillars_skills_spin",
+        "name": "pillar_skills_spin",
         "type": "toggle",
-        "img": "images/items/pillars_skills_spin.png",
+        "img": "images/items/pillar_skills_spin.png",
         "img_mods": "",
-        "codes": "pillars_skills_spin"
+        "codes": "pillar_skills_spin"
     },
     {
         "name": "lake_talismans_low_gravity_bumper",
@@ -441,11 +441,11 @@
         "codes": "lake_talismans_owl"
     },
     {
-        "name": "pillars_talismans_ancient_warrior_checkpoint",
+        "name": "pillar_talismans_ancient_warrior_checkpoint",
         "type": "toggle",
-        "img": "images/items/pillars_talismans_ancient_warrior_checkpoint.png",
+        "img": "images/items/pillar_talismans_ancient_warrior_checkpoint.png",
         "img_mods": "",
-        "codes": "pillars_talismans_ancient_warrior_checkpoint"
+        "codes": "pillar_talismans_ancient_warrior_checkpoint"
     },
     {
         "name": "blossom_skills_dodge_upgrade",
@@ -623,11 +623,11 @@
         "codes": "fall_talismans_hidden"
     },
     {
-        "name": "pillars_coins_spins",
+        "name": "pillar_coins_spins",
         "type": "toggle",
-        "img": "images/items/pillars_coins_spins.png",
+        "img": "images/items/pillar_coins_spins.png",
         "img_mods": "",
-        "codes": "pillars_coins_spins"
+        "codes": "pillar_coins_spins"
     },
     {
         "name": "temple_runes_risk_rune",
@@ -924,11 +924,11 @@
         "codes": "forbidden_isle_coins_most_left"
     },
     {
-        "name": "pillars_orbs_blue_orb",
+        "name": "pillar_orbs_blue_orb",
         "type": "toggle",
-        "img": "images/items/pillars_orbs_blue_orb.png",
+        "img": "images/items/pillar_orbs_blue_orb.png",
         "img_mods": "",
-        "codes": "pillars_orbs_blue_orb"
+        "codes": "pillar_orbs_blue_orb"
     },
     {
         "name": "lake_checkpoints_climb",

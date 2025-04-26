@@ -1,5 +1,8 @@
 
-            local variant = Tracker.ActiveVariantUID
+local variant = Tracker.ActiveVariantUID
+
+-- Utils
+ScriptHost:LoadScript("scripts/utils.lua")
 
 -- Items
 ScriptHost:LoadScript("scripts/items_import.lua")
@@ -7,6 +10,8 @@ ScriptHost:LoadScript("scripts/items_import.lua")
 -- Logic
 ScriptHost:LoadScript("scripts/logic/logic_helper.lua")
 ScriptHost:LoadScript("scripts/logic/logic_main.lua")
+ScriptHost:LoadScript("scripts/logic/logic_access.lua")
+ScriptHost:LoadScript("scripts/logic/logic_visible.lua")
 ScriptHost:LoadScript("scripts/logic_import.lua")
 
 -- Maps

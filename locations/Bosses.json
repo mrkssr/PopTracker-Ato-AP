@@ -1,6 +1,6 @@
 [
     {
-        "name": "Bosses - hint",
+        "name": "Bosses",
         "chest_unopened_img": "/images/items/close.png",
         "chest_opened_img": "/images/items/open.png",
         "overlay_background": "#000000",
@@ -9,7 +9,7 @@
         ],
         "sections": [
             {
-                "name": "Acolyte - hint",
+                "name": "Acolyte",
                 "access_rules": [],
                 "visibility_rules": [
                     "bosses_acolyte"
@@ -17,7 +17,7 @@
                 "item_count": 1
             },
             {
-                "name": "Samurai - hint",
+                "name": "Samurai",
                 "access_rules": [],
                 "visibility_rules": [
                     "bosses_samurai"

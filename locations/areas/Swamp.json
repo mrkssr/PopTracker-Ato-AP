@@ -1,0 +1,307 @@
+[
+    {
+        "name": "Swamp",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "children": [
+            {
+                "name": "Orbs",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "sections": [
+                    {
+                        "name": "Yellow Orb",
+                        "access_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Swamp",
+                        "x": "1922",
+                        "y": "1406",
+                        "size": 36
+                    },
+                    {
+                        "map": "Overview",
+                        "x": "3",
+                        "y": "3",
+                        "size": 16
+                    },
+                    {
+                        "map": "MapLegend",
+                        "x": "3",
+                        "y": "3",
+                        "size": 16
+                    }
+                ]
+            },
+            {
+                "name": "Skills",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "sections": [
+                    {
+                        "name": "Armor",
+                        "access_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Swamp",
+                        "x": "565",
+                        "y": "649",
+                        "size": 36
+                    },
+                    {
+                        "map": "Overview",
+                        "x": "3",
+                        "y": "3",
+                        "size": 16
+                    },
+                    {
+                        "map": "MapLegend",
+                        "x": "3",
+                        "y": "3",
+                        "size": 16
+                    }
+                ]
+            },
+            {
+                "name": "Coins",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "sections": [
+                    {
+                        "name": "Armor Time Puzzle",
+                        "access_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Swamp",
+                        "x": "1922",
+                        "y": "1166",
+                        "size": 36
+                    },
+                    {
+                        "map": "Overview",
+                        "x": "3",
+                        "y": "3",
+                        "size": 16
+                    },
+                    {
+                        "map": "MapLegend",
+                        "x": "3",
+                        "y": "3",
+                        "size": 16
+                    }
+                ]
+            },
+            {
+                "name": "Coins",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "sections": [
+                    {
+                        "name": "Father",
+                        "access_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Swamp",
+                        "x": "1922",
+                        "y": "1166",
+                        "size": 36
+                    },
+                    {
+                        "map": "Overview",
+                        "x": "3",
+                        "y": "3",
+                        "size": 16
+                    },
+                    {
+                        "map": "MapLegend",
+                        "x": "3",
+                        "y": "3",
+                        "size": 16
+                    }
+                ]
+            },
+            {
+                "name": "Talismans",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "sections": [
+                    {
+                        "name": "Throws",
+                        "access_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Swamp",
+                        "x": "2019",
+                        "y": "300",
+                        "size": 36
+                    },
+                    {
+                        "map": "Overview",
+                        "x": "3",
+                        "y": "3",
+                        "size": 16
+                    },
+                    {
+                        "map": "MapLegend",
+                        "x": "3",
+                        "y": "3",
+                        "size": 16
+                    }
+                ]
+            },
+            {
+                "name": "Talismans",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "sections": [
+                    {
+                        "name": "Warps",
+                        "access_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Swamp",
+                        "x": "2019",
+                        "y": "300",
+                        "size": 36
+                    },
+                    {
+                        "map": "Overview",
+                        "x": "3",
+                        "y": "3",
+                        "size": 16
+                    },
+                    {
+                        "map": "MapLegend",
+                        "x": "3",
+                        "y": "3",
+                        "size": 16
+                    }
+                ]
+            },
+            {
+                "name": "Checkpoints",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "sections": [
+                    {
+                        "name": "Green Area Entry",
+                        "access_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Swamp",
+                        "x": "1108",
+                        "y": "1866",
+                        "size": 36
+                    },
+                    {
+                        "map": "Overview",
+                        "x": "3",
+                        "y": "3",
+                        "size": 16
+                    },
+                    {
+                        "map": "MapLegend",
+                        "x": "3",
+                        "y": "3",
+                        "size": 16
+                    }
+                ]
+            },
+            {
+                "name": "Checkpoints",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "sections": [
+                    {
+                        "name": "Father",
+                        "access_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Swamp",
+                        "x": "1108",
+                        "y": "1866",
+                        "size": 36
+                    },
+                    {
+                        "map": "Overview",
+                        "x": "3",
+                        "y": "3",
+                        "size": 16
+                    },
+                    {
+                        "map": "MapLegend",
+                        "x": "3",
+                        "y": "3",
+                        "size": 16
+                    }
+                ]
+            },
+            {
+                "name": "Checkpoints",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "sections": [
+                    {
+                        "name": "Deceiver",
+                        "access_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Swamp",
+                        "x": "1108",
+                        "y": "1866",
+                        "size": 36
+                    },
+                    {
+                        "map": "Overview",
+                        "x": "3",
+                        "y": "3",
+                        "size": 16
+                    },
+                    {
+                        "map": "MapLegend",
+                        "x": "3",
+                        "y": "3",
+                        "size": 16
+                    }
+                ]
+            }
+        ]
+    }
+]

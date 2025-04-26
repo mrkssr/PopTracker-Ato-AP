@@ -1,0 +1,175 @@
+[
+    {
+        "name": "Forbidden",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "children": [
+            {
+                "name": "Skills",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "sections": [
+                    {
+                        "name": "Demon Blade",
+                        "access_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Forbidden",
+                        "x": "178",
+                        "y": "756",
+                        "size": 12
+                    },
+                    {
+                        "map": "Overview",
+                        "x": "3",
+                        "y": "3",
+                        "size": 16
+                    },
+                    {
+                        "map": "MapLegend",
+                        "x": "3",
+                        "y": "3",
+                        "size": 16
+                    }
+                ]
+            },
+            {
+                "name": "Skills",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "sections": [
+                    {
+                        "name": "Fatal Draw Upgrade",
+                        "access_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Forbidden",
+                        "x": "178",
+                        "y": "756",
+                        "size": 12
+                    },
+                    {
+                        "map": "Overview",
+                        "x": "3",
+                        "y": "3",
+                        "size": 16
+                    },
+                    {
+                        "map": "MapLegend",
+                        "x": "3",
+                        "y": "3",
+                        "size": 16
+                    }
+                ]
+            },
+            {
+                "name": "Coins",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "sections": [
+                    {
+                        "name": "Most Left",
+                        "access_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Forbidden",
+                        "x": "1027",
+                        "y": "1049",
+                        "size": 12
+                    },
+                    {
+                        "map": "Overview",
+                        "x": "3",
+                        "y": "3",
+                        "size": 16
+                    },
+                    {
+                        "map": "MapLegend",
+                        "x": "3",
+                        "y": "3",
+                        "size": 16
+                    }
+                ]
+            },
+            {
+                "name": "Checkpoints",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "sections": [
+                    {
+                        "name": "Fatal Arena",
+                        "access_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Forbidden",
+                        "x": "499",
+                        "y": "240",
+                        "size": 12
+                    },
+                    {
+                        "map": "Overview",
+                        "x": "3",
+                        "y": "3",
+                        "size": 16
+                    },
+                    {
+                        "map": "MapLegend",
+                        "x": "3",
+                        "y": "3",
+                        "size": 16
+                    }
+                ]
+            },
+            {
+                "name": "Checkpoints",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "sections": [
+                    {
+                        "name": "Fatal Arena",
+                        "access_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Forbidden",
+                        "x": "499",
+                        "y": "240",
+                        "size": 12
+                    },
+                    {
+                        "map": "Overview",
+                        "x": "3",
+                        "y": "3",
+                        "size": 16
+                    },
+                    {
+                        "map": "MapLegend",
+                        "x": "3",
+                        "y": "3",
+                        "size": 16
+                    }
+                ]
+            }
+        ]
+    }
+]

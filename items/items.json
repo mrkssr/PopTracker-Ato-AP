@@ -1,226 +1,245 @@
 [
     {
-        "name": "Throw",
+        "name": "CrystalBreak",
         "type": "toggle",
-        "img": "images/items/Throw.png",
+        "img": "images/items/CrystalBreak.png",
         "img_mods": "",
-        "codes": "Throw"
-    },
-    {
-        "name": "JuggernautRune",
-        "type": "toggle",
-        "img": "images/items/JuggernautRune.png",
-        "img_mods": "",
-        "codes": "JuggernautRune"
-    },
-    {
-        "name": "DefeatedSamurai",
-        "type": "toggle",
-        "img": "images/items/DefeatedSamurai.png",
-        "img_mods": "",
-        "codes": "DefeatedSamurai"
-    },
-    {
-        "name": "BlueOrb",
-        "type": "toggle",
-        "img": "images/items/BlueOrb.png",
-        "img_mods": "",
-        "codes": "BlueOrb"
-    },
-    {
-        "name": "RedOrb",
-        "type": "toggle",
-        "img": "images/items/RedOrb.png",
-        "img_mods": "",
-        "codes": "RedOrb"
-    },
-    {
-        "name": "MagicBar",
-        "type": "toggle",
-        "img": "images/items/MagicBar.png",
-        "img_mods": "",
-        "codes": "MagicBar"
-    },
-    {
-        "name": "TripleSlash",
-        "type": "toggle",
-        "img": "images/items/TripleSlash.png",
-        "img_mods": "",
-        "codes": "TripleSlash"
-    },
-    {
-        "name": "SpeedCharge",
-        "type": "toggle",
-        "img": "images/items/SpeedCharge.png",
-        "img_mods": "",
-        "codes": "SpeedCharge"
-    },
-    {
-        "name": "Parry",
-        "type": "toggle",
-        "img": "images/items/Parry.png",
-        "img_mods": "",
-        "codes": "Parry"
-    },
-    {
-        "name": "DoubleJump",
-        "type": "toggle",
-        "img": "images/items/DoubleJump.png",
-        "img_mods": "",
-        "codes": "DoubleJump"
-    },
-    {
-        "name": "YellowOrb",
-        "type": "toggle",
-        "img": "images/items/YellowOrb.png",
-        "img_mods": "",
-        "codes": "YellowOrb"
+        "codes": "crystalbreak"
     },
     {
         "name": "Dodge",
-        "type": "toggle",
-        "img": "images/items/Dodge.png",
-        "img_mods": "",
-        "codes": "Dodge"
+        "type": "progressive",
+        "loop": false,
+        "stages": [
+            {
+                "img": "images/items/Dodge.png",
+                "codes": "dodge"
+            },
+            {
+                "img": "images/items/DodgeUpgrade.png",
+                "codes": "dodge_upgrade"
+            }
+        ]
     },
     {
-        "name": "ElectricWindLethalStrike",
-        "type": "toggle",
-        "img": "images/items/ElectricWindLethalStrike.png",
-        "img_mods": "",
-        "codes": "ElectricWindLethalStrike"
+        "name": "Throw",
+        "type": "progressive",
+        "loop": false,
+        "stages": [
+            {
+                "img": "images/items/Throw.png",
+                "codes": "throw"
+            },
+            {
+                "img": "images/items/ThrowUpgrade.png",
+                "codes": "throw_upgrade"
+            }
+        ]
     },
     {
-        "name": "FlurryRune",
-        "type": "toggle",
-        "img": "images/items/FlurryRune.png",
-        "img_mods": "",
-        "codes": "FlurryRune"
-    },
-    {
-        "name": "Vision",
-        "type": "toggle",
-        "img": "images/items/Vision.png",
-        "img_mods": "",
-        "codes": "Vision"
-    },
-    {
-        "name": "FatalDraw",
-        "type": "toggle",
-        "img": "images/items/FatalDraw.png",
-        "img_mods": "",
-        "codes": "FatalDraw"
-    },
-    {
-        "name": "Love",
-        "type": "toggle",
-        "img": "images/items/Love.png",
-        "img_mods": "",
-        "codes": "Love"
+        "name": "Spin",
+        "type": "progressive",
+        "loop": false,
+        "stages": [
+            {
+                "img": "images/items/Spin.png",
+                "codes": "spin"
+            },
+            {
+                "img": "images/items/SpinUpgrade.png",
+                "codes": "spin_upgrade"
+            }
+        ]
     },
     {
         "name": "Dash",
-        "type": "toggle",
-        "img": "images/items/Dash.png",
-        "img_mods": "",
-        "codes": "Dash"
+        "type": "progressive",
+        "loop": false,
+        "stages": [
+            {
+                "img": "images/items/Dash.png",
+                "codes": "dash"
+            },
+            {
+                "img": "images/items/ChainDash.png",
+                "codes": "chaindash"
+            },
+            {
+                "img": "images/items/ChainDashUpgrade.png",
+                "codes": "chaindash_upgrade"
+            }
+        ]
     },
     {
-        "name": "AgilityRune",
-        "type": "toggle",
-        "img": "images/items/AgilityRune.png",
-        "img_mods": "",
-        "codes": "AgilityRune"
-    },
-    {
-        "name": "MindRune",
-        "type": "toggle",
-        "img": "images/items/MindRune.png",
-        "img_mods": "",
-        "codes": "MindRune"
-    },
-    {
-        "name": "Talisman",
-        "type": "toggle",
-        "img": "images/items/Talisman.png",
-        "img_mods": "",
-        "codes": "Talisman"
+        "name": "Armor",
+        "type": "progressive",
+        "loop": false,
+        "stages": [
+            {
+                "img": "images/items/Armor.png",
+                "codes": "armor"
+            },
+            {
+                "img": "images/items/ArmorUpgrade.png",
+                "codes": "armor_upgrade"
+            }
+        ]
     },
     {
         "name": "DemonBlade",
         "type": "toggle",
         "img": "images/items/DemonBlade.png",
         "img_mods": "",
-        "codes": "DemonBlade"
+        "codes": "demonBlade"
     },
     {
-        "name": "Coin",
+        "name": "SpeedCharge",
         "type": "toggle",
-        "img": "images/items/Coin.png",
+        "img": "images/items/SpeedCharge.png",
         "img_mods": "",
-        "codes": "Coin"
+        "codes": "speedcharge"
     },
     {
-        "name": "Checkpoint",
+        "name": "DoubleJump",
         "type": "toggle",
-        "img": "images/items/Checkpoint.png",
+        "img": "images/items/DoubleJump.png",
         "img_mods": "",
-        "codes": "Checkpoint"
+        "codes": "doublejump"
     },
     {
-        "name": "Armor",
+        "name": "Parry",
         "type": "toggle",
-        "img": "images/items/Armor.png",
+        "img": "images/items/Parry.png",
         "img_mods": "",
-        "codes": "Armor"
+        "codes": "parry"
     },
     {
-        "name": "RiskRune",
+        "name": "ElectricWindLethalStrike",
         "type": "toggle",
-        "img": "images/items/RiskRune.png",
+        "img": "images/items/ElectricWindLethalStrike.png",
         "img_mods": "",
-        "codes": "RiskRune"
-    },
-    {
-        "name": "PrologueDone",
-        "type": "toggle",
-        "img": "images/items/PrologueDone.png",
-        "img_mods": "",
-        "codes": "PrologueDone"
+        "codes": "electricwindlethalstrike"
     },
     {
         "name": "Meditate",
         "type": "toggle",
         "img": "images/items/Meditate.png",
         "img_mods": "",
-        "codes": "Meditate"
+        "codes": "meditate"
+    },
+    {
+        "name": "TripleSlash",
+        "type": "toggle",
+        "img": "images/items/TripleSlash.png",
+        "img_mods": "",
+        "codes": "tripleslash"
+    },
+    {
+        "name": "AgilityRune",
+        "type": "toggle",
+        "img": "images/items/AgilityRune.png",
+        "img_mods": "",
+        "codes": "agility_rune"
+    },
+    {
+        "name": "MindRune",
+        "type": "toggle",
+        "img": "images/items/MindRune.png",
+        "img_mods": "",
+        "codes": "mind_rune"
     },
     {
         "name": "EchoRune",
         "type": "toggle",
         "img": "images/items/EchoRune.png",
         "img_mods": "",
-        "codes": "EchoRune"
+        "codes": "echo_rune"
     },
     {
-        "name": "CrystalBreak",
+        "name": "JuggernautRune",
         "type": "toggle",
-        "img": "images/items/CrystalBreak.png",
+        "img": "images/items/JuggernautRune.png",
         "img_mods": "",
-        "codes": "CrystalBreak"
+        "codes": "juggernaut_rune"
     },
     {
-        "name": "Spin",
+        "name": "FlurryRune",
         "type": "toggle",
-        "img": "images/items/Spin.png",
+        "img": "images/items/FlurryRune.png",
         "img_mods": "",
-        "codes": "Spin"
+        "codes": "flurry_rune"
     },
     {
-        "name": "update",
+        "name": "RiskRune",
         "type": "toggle",
-        "img": "images/items/update.png",
+        "img": "images/items/RiskRune.png",
         "img_mods": "",
-        "codes": "update"
+        "codes": "risk_rune"
+    },
+    {
+        "name": "BlueOrb",
+        "type": "toggle",
+        "img": "images/items/BlueOrb.png",
+        "img_mods": "",
+        "codes": "blue_orb"
+    },
+    {
+        "name": "RedOrb",
+        "type": "toggle",
+        "img": "images/items/RedOrb.png",
+        "img_mods": "",
+        "codes": "red_orb"
+    },
+    {
+        "name": "YellowOrb",
+        "type": "toggle",
+        "img": "images/items/YellowOrb.png",
+        "img_mods": "",
+        "codes": "yellow_orb"
+    },
+    {
+        "name": "MagicBar",
+        "type": "consumable",
+        "min_quantity": 0,
+        "max_quantity": 2,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 0,
+        "img": "images/items/MagicBar.png",
+        "img_mods": "",
+        "codes": "magicbar"
+    },
+    {
+        "name": "Vision",
+        "type": "toggle",
+        "img": "images/items/Vision.png",
+        "img_mods": "",
+        "codes": "vision"
+    },
+    {
+        "name": "FatalDraw",
+        "type": "toggle",
+        "img": "images/items/FatalDraw.png",
+        "img_mods": "",
+        "codes": "fataldraw"
+    },
+    {
+        "name": "Talisman",
+        "type": "consumable",
+        "min_quantity": 0,
+        "max_quantity": 4,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 0,
+        "img": "images/items/Talisman.png",
+        "img_mods": "",
+        "codes": "talisman"
+    },
+    {
+        "name": "Coin",
+        "type": "consumable",
+        "img": "images/items/Coin.png",
+        "img_mods": "",
+        "codes": "coin"
     }
 ]

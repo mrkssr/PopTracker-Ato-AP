@@ -1,5 +1,5 @@
 
-            function A(result)
+function A(result)
     if result then
         return AccessibilityLevel.Normal
     else
@@ -43,27 +43,39 @@ function any(...)
     return max
 end
 
-function has(item, amount, amountInLogic)
--- function has(item, noKDS_amount, noKDS_amountInLogic, KDS_amount, KDS_amountInLogic)
-    local count
-    local amount
-    local amountInLogic
-
-    -- print(item, count, amount, amountInLogic)
-    if amountInLogic then
-        if count >= amountInLogic then
-            return AccessibilityLevel.Normal
-        elseif count >= amount then
-            return AccessibilityLevel.SequenceBreak
-        else
-            return AccessibilityLevel.None
-        end
-    end
+function has(item, amount)
+    local count = Tracker:ProviderCountForCode(item)
+    amount = tonumber(amount)
     if not amount then
         return count > 0
     else
-        amount = tonumber(amount)
         return count >= amount
     end
 end
+
+function not_has(item)
+    return not has(item)
+end
+
+--function has(item, amount, amountInLogic)
+--    local count
+--    local amount
+--    local amountInLogic
+
+--    if amountInLogic then
+--        if count >= amountInLogic then
+--            return AccessibilityLevel.Normal
+--        elseif count >= amount then
+--            return AccessibilityLevel.SequenceBreak
+--        else
+--            return AccessibilityLevel.None
+--        end
+--    end
+--    if not amount then
+--        return count > 0
+--    else
+--        amount = tonumber(amount)
+--        return count >= amount
+--    end
+--end
             

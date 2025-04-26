@@ -1,0 +1,20 @@
+[
+    {
+      "name": "Blossom Upper Access",
+      "access_rules": [
+        "$crystal_break,$dash"
+      ]
+    },
+    {
+      "name": "Haunt Access",
+      "access_rules": [
+        "$has|coin|10"
+      ]
+    },
+    {
+      "name": "Temple Access",
+      "access_rules": [
+        "$demon_bladem,$has|DefeatedSamurai"
+      ]
+    }
+]

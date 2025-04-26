@@ -1,5 +1,17 @@
 [
     {
+        "name": "Overview",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Overview.png"
+    },
+    {
+        "name": "MapLegend",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/MapLegend.png"
+    },
+    {
         "name": "Blossom",
         "location_size": 6,
         "location_border_thickness": 1,
@@ -18,10 +30,10 @@
         "img": "images/maps/Fall.png"
     },
     {
-        "name": "Forbidden Isle",
+        "name": "Forbidden",
         "location_size": 6,
         "location_border_thickness": 1,
-        "img": "images/maps/Forbidden Isle.png"
+        "img": "images/maps/Forbidden.png"
     },
     {
         "name": "Goals",
@@ -42,16 +54,16 @@
         "img": "images/maps/Lake.png"
     },
     {
-        "name": "Pillars",
+        "name": "Pillar",
         "location_size": 6,
         "location_border_thickness": 1,
-        "img": "images/maps/Pillars.png"
+        "img": "images/maps/Pillar.png"
     },
     {
         "name": "Sky Cemetery",
         "location_size": 6,
         "location_border_thickness": 1,
-        "img": "images/maps/Sky Cemetery.png"
+        "img": "images/maps/Crimson.png"
     },
     {
         "name": "Swamp",
