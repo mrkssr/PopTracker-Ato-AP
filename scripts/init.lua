@@ -1,3 +1,4 @@
+ENABLE_DEBUG_LOG = true
 
 local variant = Tracker.ActiveVariantUID
 

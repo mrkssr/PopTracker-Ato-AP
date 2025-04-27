@@ -1,337 +1,194 @@
 [
     {
         "name": "Temple",
-        "chest_unopened_img": "/images/items/close.png",
-        "chest_opened_img": "/images/items/open.png",
-        "overlay_background": "#000000",
         "children": [
             {
-                "name": "Runes",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "sections": [
-                    {
-                        "name": "Agility Rune",
-                        "access_rules": [],
-                        "item_count": 1
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Temple",
-                        "x": "1265",
-                        "y": "287",
-                        "size": 36
-                    },
-                    {
-                        "map": "Overview",
-                        "x": "3",
-                        "y": "3",
-                        "size": 16
-                    },
-                    {
-                        "map": "MapLegend",
-                        "x": "3",
-                        "y": "3",
-                        "size": 16
-                    }
-                ]
-            },
-            {
-                "name": "Runes",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "sections": [
-                    {
-                        "name": "Risk Rune",
-                        "access_rules": [],
-                        "item_count": 1
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Temple",
-                        "x": "1265",
-                        "y": "287",
-                        "size": 36
-                    },
-                    {
-                        "map": "Overview",
-                        "x": "3",
-                        "y": "3",
-                        "size": 16
-                    },
-                    {
-                        "map": "MapLegend",
-                        "x": "3",
-                        "y": "3",
-                        "size": 16
-                    }
-                ]
-            },
-            {
-                "name": "Coins",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
                 "sections": [
                     {
                         "name": "Double Jump Paradise",
-                        "access_rules": [],
-                        "item_count": 1
+                        "ref": "Coins/Double Jump Paradise"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Temple",
-                        "x": "1867",
-                        "y": "350",
-                        "size": 36
-                    },
-                    {
-                        "map": "Overview",
-                        "x": "3",
-                        "y": "3",
-                        "size": 16
-                    },
-                    {
-                        "map": "MapLegend",
-                        "x": "3",
-                        "y": "3",
-                        "size": 16
+                        "x": "0",
+                        "y": "0"
                     }
                 ]
             },
             {
-                "name": "Coins",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "sections": [
-                    {
-                        "name": "Switch Puzzle",
-                        "access_rules": [],
-                        "item_count": 1
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Temple",
-                        "x": "1867",
-                        "y": "350",
-                        "size": 36
-                    },
-                    {
-                        "map": "Overview",
-                        "x": "3",
-                        "y": "3",
-                        "size": 16
-                    },
-                    {
-                        "map": "MapLegend",
-                        "x": "3",
-                        "y": "3",
-                        "size": 16
-                    }
-                ]
-            },
-            {
-                "name": "Coins",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "sections": [
-                    {
-                        "name": "Black Area Entry",
-                        "access_rules": [],
-                        "item_count": 1
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Temple",
-                        "x": "1867",
-                        "y": "350",
-                        "size": 36
-                    },
-                    {
-                        "map": "Overview",
-                        "x": "3",
-                        "y": "3",
-                        "size": 16
-                    },
-                    {
-                        "map": "MapLegend",
-                        "x": "3",
-                        "y": "3",
-                        "size": 16
-                    }
-                ]
-            },
-            {
-                "name": "Talismans",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "sections": [
-                    {
-                        "name": "Warp Obstacles",
-                        "access_rules": [],
-                        "item_count": 1
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Temple",
-                        "x": "1793",
-                        "y": "2195",
-                        "size": 36
-                    },
-                    {
-                        "map": "Overview",
-                        "x": "3",
-                        "y": "3",
-                        "size": 16
-                    },
-                    {
-                        "map": "MapLegend",
-                        "x": "3",
-                        "y": "3",
-                        "size": 16
-                    }
-                ]
-            },
-            {
-                "name": "Talismans",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
                 "sections": [
                     {
                         "name": "Lore Room",
-                        "access_rules": [],
-                        "item_count": 1
+                        "ref": "Talismans/Lore Room"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Temple",
-                        "x": "1793",
-                        "y": "2195",
-                        "size": 36
-                    },
-                    {
-                        "map": "Overview",
-                        "x": "3",
-                        "y": "3",
-                        "size": 16
-                    },
-                    {
-                        "map": "MapLegend",
-                        "x": "3",
-                        "y": "3",
-                        "size": 16
+                        "x": "0",
+                        "y": "0"
                     }
                 ]
             },
             {
-                "name": "Checkpoints",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "sections": [
+                "name": "Temple Middle",
+                "children": [
                     {
-                        "name": "Samurai",
-                        "access_rules": [],
-                        "item_count": 1
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Temple",
-                        "x": "693",
-                        "y": "2051",
-                        "size": 36
+                        "sections": [
+                            {
+                                "name": "Risk Rune",
+                                "ref": "Runes/Risk Rune"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Temple",
+                                "x": "0",
+                                "y": "0"
+                            }
+                        ]
                     },
                     {
-                        "map": "Overview",
-                        "x": "3",
-                        "y": "3",
-                        "size": 16
+                        "sections": [
+                            {
+                                "name": "Switch Puzzle",
+                                "ref": "Coins/Switch Puzzle"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Temple",
+                                "x": "0",
+                                "y": "0"
+                            }
+                        ]
                     },
                     {
-                        "map": "MapLegend",
-                        "x": "3",
-                        "y": "3",
-                        "size": 16
-                    }
-                ]
-            },
-            {
-                "name": "Checkpoints",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "sections": [
-                    {
-                        "name": "Demon",
-                        "access_rules": [],
-                        "item_count": 1
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Temple",
-                        "x": "693",
-                        "y": "2051",
-                        "size": 36
+                        "sections": [
+                            {
+                                "name": "Black Area Entry",
+                                "ref": "Coins/Black Area Entry"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Temple",
+                                "x": "0",
+                                "y": "0"
+                            }
+                        ]
                     },
                     {
-                        "map": "Overview",
-                        "x": "3",
-                        "y": "3",
-                        "size": 16
+                        "sections": [
+                            {
+                                "name": "Warp Obstacles",
+                                "ref": "Talismans/Warp Obstacles"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Temple",
+                                "x": "0",
+                                "y": "0"
+                            }
+                        ]
                     },
                     {
-                        "map": "MapLegend",
-                        "x": "3",
-                        "y": "3",
-                        "size": 16
-                    }
-                ]
-            },
-            {
-                "name": "Checkpoints",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "sections": [
-                    {
-                        "name": "Rebirth",
-                        "access_rules": [],
-                        "item_count": 1
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Temple",
-                        "x": "693",
-                        "y": "2051",
-                        "size": 36
+                        "sections": [
+                            {
+                                "name": "Samurai",
+                                "ref": "Checkpoints/Samurai"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Temple",
+                                "x": "0",
+                                "y": "0"
+                            }
+                        ]
                     },
                     {
-                        "map": "Overview",
-                        "x": "3",
-                        "y": "3",
-                        "size": 16
+                        "sections": [
+                            {
+                                "name": "Samurai",
+                                "ref": "Bosses/Samurai"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Temple",
+                                "x": "0",
+                                "y": "0"
+                            }
+                        ]
                     },
                     {
-                        "map": "MapLegend",
-                        "x": "3",
-                        "y": "3",
-                        "size": 16
+                        "name": "Temple High",
+                        "children": [
+                            {
+                                "sections": [
+                                    {
+                                        "name": "Agility Rune",
+                                        "ref": "Runes/Agility Rune"
+                                    }
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Temple",
+                                        "x": "0",
+                                        "y": "0"
+                                    }
+                                ]
+                            },
+                            {
+                                "sections": [
+                                    {
+                                        "name": "Demon",
+                                        "ref": "Checkpoints/Demon"
+                                    }
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Temple",
+                                        "x": "0",
+                                        "y": "0"
+                                    }
+                                ]
+                            },
+                            {
+                                "sections": [
+                                    {
+                                        "name": "Rebirth",
+                                        "ref": "Checkpoints/Rebirth"
+                                    }
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Temple",
+                                        "x": "0",
+                                        "y": "0"
+                                    }
+                                ]
+                            },
+                            {
+                                "sections": [
+                                    {
+                                        "name": "Rebirth",
+                                        "ref": "Bosses/Rebirth"
+                                    }
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Temple",
+                                        "x": "0",
+                                        "y": "0"
+                                    }
+                                ]
+                            }
+                        ]
                     }
                 ]
             }

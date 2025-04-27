@@ -1,0 +1,123 @@
+[
+    {
+        "name": "Talismans",
+        "chest_unopened_img": "/images/items/collectibles/Talismans.png",
+        "chest_opened_img": "/images/items/collectibles/Talismans.png",
+        "sections": [
+            {
+                "name": "Start Room",
+                "access_rules": [
+                    "$dash"
+                ]
+            },
+            {
+                "name": "Runway",
+                "access_rules": [
+                    "$speed_charge"
+                ]
+            },
+            {
+                "name": "Under Leaves"
+            },
+            {
+                "name": "Bandit"
+            },
+            {
+                "name": "Leave Room"
+            },
+            {
+                "name": "Behind Rocks"
+            },
+            {
+                "name": "Spin Puzzle"
+            },
+            {
+                "name": "Deflector"
+            },
+            {
+                "name": "Twins"
+            },
+            {
+                "name": "Preview"
+            },
+            {
+                "name": "Top Platforms"
+            },
+            {
+                "name": "Dash"
+            },
+            {
+                "name": "Jin"
+            },
+            {
+                "name": "Hidden"
+            },
+            {
+                "name": "Armor Geisha Area"
+            },
+            {
+                "name": "Fans"
+            },
+            {
+                "name": "Secret"
+            },
+            {
+                "name": "Hidden Top"
+            },
+            {
+                "name": "Bumper Time Puzzle"
+            },
+            {
+                "name": "Chain Dash"
+            },
+            {
+                "name": "Low Gravity Bumper"
+            },
+            {
+                "name": "Bumper"
+            },
+            {
+                "name": "Tiny Warrior"
+            },
+            {
+                "name": "Archer"
+            },
+            {
+                "name": "Ninja"
+            },
+            {
+                "name": "Hidden Breakables"
+            },
+            {
+                "name": "Sentinel"
+            },
+            {
+                "name": "Owl"
+            },
+            {
+                "name": "Spins"
+            },
+            {
+                "name": "Ancient Warrior Checkpoint"
+            },
+            {
+                "name": "Black Piles Room"
+            },
+            {
+                "name": "Yari"
+            },
+            {
+                "name": "Throws"
+            },
+            {
+                "name": "Warps"
+            },
+            {
+                "name": "Lore Room"
+            },
+            {
+                "name": "Warp Obstacles"
+            }
+        ]
+    }
+]

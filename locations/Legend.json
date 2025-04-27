@@ -1,0 +1,87 @@
+[
+    {
+        "name": "Bosses",
+        "children": [
+            {
+                "sections": [
+                    {
+                        "ref": "Bosses/Lake/Acolyte",
+                        "name": "Acolyte"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "MapLegend",
+                        "x": "9",
+                        "y": "98"
+                    }
+                ]
+            },
+            {
+                "sections": [
+                    {
+                        "ref": "Bosses/Temple/Samurai",
+                        "name": "Samurai"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "MapLegend",
+                        "x": "9",
+                        "y": "208"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Skills",
+        "children" : [
+            {
+                "sections": [
+                    {
+                        "name": "Dodge",
+                        "ref": "Blossom/Blossom Lower/Dodge"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "MapLegend",
+                        "x": "160",
+                        "y": "10"
+                    }
+                ]
+            },
+            {
+                "sections": [
+                    {
+                        "name": "Dodge Upgrade",
+                        "ref": "Blossom/Blossom Lower/Dodge Upgrade"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "MapLegend",
+                        "x": "160",
+                        "y": "100"
+                    }
+                ]
+            },
+            {
+                "sections": [
+                    {
+                        "name": "Crystal Break",
+                        "ref": "Blossom/Blossom Lower/Crystal Break"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "MapLegend",
+                        "x": "160",
+                        "y": "120"
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,892 +1,442 @@
 [
     {
         "name": "Fall",
-        "chest_unopened_img": "/images/items/close.png",
-        "chest_opened_img": "/images/items/open.png",
-        "overlay_background": "#000000",
-        "access_rules": [],
         "children": [
             {
-                "name": "Skills",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [],
                 "sections": [
                     {
                         "name": "Chain Dash",
-                        "access_rules": [],
-                        "visibility_rules": [
-                            "fall_skills_chain_dash"
-                        ],
-                        "item_count": 1
+                        "ref": "Skills/Chain Dash"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Fall",
-                        "x": "3",
-                        "y": "3",
-                        "size": 36
-                    },
-                    {
-                        "map": "Overview",
-                        "x": "3",
-                        "y": "3",
-                        "size": 16
-                    },
-                    {
-                        "map": "MapLegend",
-                        "x": "3",
-                        "y": "3",
-                        "size": 16
+                        "x": "0",
+                        "y": "0"
                     }
                 ]
             },
             {
-                "name": "Skills",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [],
                 "sections": [
                     {
                         "name": "Double Jump",
-                        "access_rules": [],
-                        "visibility_rules": [
-                            "fall_skills_double_jump"
-                        ],
-                        "item_count": 1
+                        "ref": "Skills/Double Jump"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Fall",
-                        "x": "3",
-                        "y": "3",
-                        "size": 36
-                    },
-                    {
-                        "map": "Overview",
-                        "x": "3",
-                        "y": "3",
-                        "size": 16
-                    },
-                    {
-                        "map": "MapLegend",
-                        "x": "3",
-                        "y": "3",
-                        "size": 16
+                        "x": "0",
+                        "y": "0"
                     }
                 ]
             },
             {
-                "name": "Skills",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [],
                 "sections": [
                     {
                         "name": "Armor Upgrade",
-                        "access_rules": [],
-                        "visibility_rules": [
-                            "fall_skills_armor_upgrade"
-                        ],
-                        "item_count": 1
+                        "ref": "Skills/Armor Upgrade"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Fall",
-                        "x": "3",
-                        "y": "3",
-                        "size": 36
-                    },
-                    {
-                        "map": "Overview",
-                        "x": "3",
-                        "y": "3",
-                        "size": 16
-                    },
-                    {
-                        "map": "MapLegend",
-                        "x": "3",
-                        "y": "3",
-                        "size": 16
+                        "x": "0",
+                        "y": "0"
                     }
                 ]
             },
             {
-                "name": "Skills",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                     "@Haunt Access"
-                ],
-                "sections": [
-                    {
-                        "name": "Parry",
-                        "item_count": 1
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Fall",
-                        "x": "274",
-                        "y": "622",
-                        "size": 36
-                    },
-                    {
-                        "map": "Overview",
-                        "x": "3",
-                        "y": "3",
-                        "size": 16
-                    },
-                    {
-                        "map": "MapLegend",
-                        "x": "3",
-                        "y": "3",
-                        "size": 16
-                    }
-                ]
-            },
-            {
-                "name": "Skills",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [],
-                "sections": [
-                    {
-                        "name": "Meditate",
-                        "item_count": 1
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Fall",
-                        "x": "3",
-                        "y": "3",
-                        "size": 36
-                    },
-                    {
-                        "map": "Overview",
-                        "x": "3",
-                        "y": "3",
-                        "size": 16
-                    },
-                    {
-                        "map": "MapLegend",
-                        "x": "3",
-                        "y": "3",
-                        "size": 16
-                    }
-                ]
-            },
-            {
-                "name": "Skills",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [],
-                "sections": [
-                    {
-                        "name": "Triple Slash",
-                        "item_count": 1
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Fall",
-                        "x": "3",
-                        "y": "3",
-                        "size": 36
-                    },
-                    {
-                        "map": "Overview",
-                        "x": "3",
-                        "y": "3",
-                        "size": 16
-                    },
-                    {
-                        "map": "MapLegend",
-                        "x": "3",
-                        "y": "3",
-                        "size": 16
-                    }
-                ]
-            },
-            {
-                "name": "Runes",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [],
-                "sections": [
-                    {
-                        "name": "Echo Rune",
-                        "item_count": 1
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Fall",
-                        "x": "3",
-                        "y": "3",
-                        "size": 36
-                    },
-                    {
-                        "map": "Overview",
-                        "x": "3",
-                        "y": "3",
-                        "size": 16
-                    },
-                    {
-                        "map": "MapLegend",
-                        "x": "3",
-                        "y": "3",
-                        "size": 16
-                    }
-                ]
-            },
-            {
-                "name": "Runes",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [],
-                "sections": [
-                    {
-                        "name": "Mind Rune",
-                        "item_count": 1
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Fall",
-                        "x": "3",
-                        "y": "3",
-                        "size": 36
-                    },
-                    {
-                        "map": "Overview",
-                        "x": "3",
-                        "y": "3",
-                        "size": 16
-                    },
-                    {
-                        "map": "MapLegend",
-                        "x": "3",
-                        "y": "3",
-                        "size": 16
-                    }
-                ]
-            },
-            {
-                "name": "Coins",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [],
-                "sections": [
-                    {
-                        "name": "Twitch Arena",
-                        "item_count": 1
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Fall",
-                        "x": "3",
-                        "y": "3",
-                        "size": 36
-                    },
-                    {
-                        "map": "Overview",
-                        "x": "3",
-                        "y": "3",
-                        "size": 16
-                    },
-                    {
-                        "map": "MapLegend",
-                        "x": "3",
-                        "y": "3",
-                        "size": 16
-                    }
-                ]
-            },
-            {
-                "name": "Coins",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [],
                 "sections": [
                     {
                         "name": "Secret Room",
-                        "item_count": 1
+                        "ref": "Coins/Secret Room"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Fall",
-                        "x": "3",
-                        "y": "3",
-                        "size": 36
-                    },
-                    {
-                        "map": "Overview",
-                        "x": "3",
-                        "y": "3",
-                        "size": 16
-                    },
-                    {
-                        "map": "MapLegend",
-                        "x": "3",
-                        "y": "3",
-                        "size": 16
+                        "x": "0",
+                        "y": "0"
                     }
                 ]
             },
             {
-                "name": "Coins",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [],
                 "sections": [
                     {
                         "name": "Phantom Jin",
-                        "item_count": 1
+                        "ref": "Coins/Phantom Jin"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Fall",
-                        "x": "3",
-                        "y": "3",
-                        "size": 36
-                    },
-                    {
-                        "map": "Overview",
-                        "x": "3",
-                        "y": "3",
-                        "size": 16
-                    },
-                    {
-                        "map": "MapLegend",
-                        "x": "3",
-                        "y": "3",
-                        "size": 16
+                        "x": "0",
+                        "y": "0"
                     }
                 ]
             },
             {
-                "name": "Coins",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [],
                 "sections": [
                     {
                         "name": "Red Area Entry",
-                        "item_count": 1
+                        "ref": "Coins/Red Area Entry"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Fall",
-                        "x": "3",
-                        "y": "3",
-                        "size": 36
-                    },
-                    {
-                        "map": "Overview",
-                        "x": "3",
-                        "y": "3",
-                        "size": 16
-                    },
-                    {
-                        "map": "MapLegend",
-                        "x": "3",
-                        "y": "3",
-                        "size": 16
+                        "x": "0",
+                        "y": "0"
                     }
                 ]
             },
             {
-                "name": "Coins",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [],
                 "sections": [
                     {
                         "name": "Left of Bridge Room",
-                        "item_count": 1
+                        "ref": "Coins/Left of Bridge Room"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Fall",
-                        "x": "3",
-                        "y": "3",
-                        "size": 36
-                    },
-                    {
-                        "map": "Overview",
-                        "x": "3",
-                        "y": "3",
-                        "size": 16
-                    },
-                    {
-                        "map": "MapLegend",
-                        "x": "3",
-                        "y": "3",
-                        "size": 16
+                        "x": "0",
+                        "y": "0"
                     }
                 ]
             },
             {
-                "name": "Coins",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [],
                 "sections": [
                     {
                         "name": "Right of Double Jump Room",
-                        "item_count": 1
+                        "ref": "Coins/Right of Double Jump Room"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Fall",
-                        "x": "3",
-                        "y": "3",
-                        "size": 36
-                    },
-                    {
-                        "map": "Overview",
-                        "x": "3",
-                        "y": "3",
-                        "size": 16
-                    },
-                    {
-                        "map": "MapLegend",
-                        "x": "3",
-                        "y": "3",
-                        "size": 16
+                        "x": "0",
+                        "y": "0"
                     }
                 ]
             },
             {
-                "name": "Coins",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [],
-                "sections": [
-                    {
-                        "name": "Tempest",
-                        "item_count": 0
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Fall",
-                        "x": "3",
-                        "y": "3",
-                        "size": 36
-                    },
-                    {
-                        "map": "Overview",
-                        "x": "3",
-                        "y": "3",
-                        "size": 16
-                    },
-                    {
-                        "map": "MapLegend",
-                        "x": "3",
-                        "y": "3",
-                        "size": 16
-                    }
-                ]
-            },
-            {
-                "name": "Talismans",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [],
-                "sections": [
-                    {
-                        "name": "Hidden",
-                        "item_count": 2
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Fall",
-                        "x": "3",
-                        "y": "3",
-                        "size": 36
-                    },
-                    {
-                        "map": "Overview",
-                        "x": "3",
-                        "y": "3",
-                        "size": 16
-                    },
-                    {
-                        "map": "MapLegend",
-                        "x": "3",
-                        "y": "3",
-                        "size": 16
-                    }
-                ]
-            },
-            {
-                "name": "Talismans",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [],
-                "sections": [
-                    {
-                        "name": "Armor Geisha Area",
-                        "item_count": 1
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Fall",
-                        "x": "3",
-                        "y": "3",
-                        "size": 36
-                    },
-                    {
-                        "map": "Overview",
-                        "x": "3",
-                        "y": "3",
-                        "size": 16
-                    },
-                    {
-                        "map": "MapLegend",
-                        "x": "3",
-                        "y": "3",
-                        "size": 16
-                    }
-                ]
-            },
-            {
-                "name": "Talismans",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [],
-                "sections": [
-                    {
-                        "name": "Fans",
-                        "item_count": 1
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Fall",
-                        "x": "3",
-                        "y": "3",
-                        "size": 36
-                    },
-                    {
-                        "map": "Overview",
-                        "x": "3",
-                        "y": "3",
-                        "size": 16
-                    },
-                    {
-                        "map": "MapLegend",
-                        "x": "3",
-                        "y": "3",
-                        "size": 16
-                    }
-                ]
-            },
-            {
-                "name": "Talismans",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [],
-                "sections": [
-                    {
-                        "name": "Secret",
-                        "item_count": 1
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Fall",
-                        "x": "3",
-                        "y": "3",
-                        "size": 36
-                    },
-                    {
-                        "map": "Overview",
-                        "x": "3",
-                        "y": "3",
-                        "size": 16
-                    },
-                    {
-                        "map": "MapLegend",
-                        "x": "3",
-                        "y": "3",
-                        "size": 16
-                    }
-                ]
-            },
-            {
-                "name": "Talismans",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [],
-                "sections": [
-                    {
-                        "name": "Hidden Top",
-                        "item_count": 1
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Fall",
-                        "x": "3",
-                        "y": "3",
-                        "size": 36
-                    },
-                    {
-                        "map": "Overview",
-                        "x": "3",
-                        "y": "3",
-                        "size": 16
-                    },
-                    {
-                        "map": "MapLegend",
-                        "x": "3",
-                        "y": "3",
-                        "size": 16
-                    }
-                ]
-            },
-            {
-                "name": "Talismans",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [],
-                "sections": [
-                    {
-                        "name": "Bumper Time Puzzle",
-                        "item_count": 1
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Fall",
-                        "x": "3",
-                        "y": "3",
-                        "size": 36
-                    },
-                    {
-                        "map": "Overview",
-                        "x": "3",
-                        "y": "3",
-                        "size": 16
-                    },
-                    {
-                        "map": "MapLegend",
-                        "x": "3",
-                        "y": "3",
-                        "size": 16
-                    }
-                ]
-            },
-            {
-                "name": "Talismans",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [],
                 "sections": [
                     {
                         "name": "Chain Dash",
-                        "item_count": 1
+                        "ref": "Talismans/Chain Dash"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Fall",
-                        "x": "3",
-                        "y": "3",
-                        "size": 36
-                    },
-                    {
-                        "map": "Overview",
-                        "x": "3",
-                        "y": "3",
-                        "size": 16
-                    },
-                    {
-                        "map": "MapLegend",
-                        "x": "3",
-                        "y": "3",
-                        "size": 16
+                        "x": "0",
+                        "y": "0"
                     }
                 ]
             },
             {
-                "name": "Checkpoints",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [],
-                "visibility_rules": [
-                    "$checkpoints_visible"
-                ],
-                "sections": [
-                    {
-                        "name": "Geisha",
-                        "item_count": 1
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Fall",
-                        "x": "1947",
-                        "y": "1991",
-                        "size": 12
-                    }
-                ]
-            },
-            {
-                "name": "Checkpoints",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [],
-                "visibility_rules": [
-                    "$checkpoints_visible"
-                ],
-                "sections": [
-                    {
-                        "name": "Phantom Jin",
-                        "item_count": 1
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Fall",
-                        "x": "1947",
-                        "y": "1991",
-                        "size": 12
-                    }
-                ]
-            },
-            {
-                "name": "Checkpoints",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [],
-                "visibility_rules": [
-                    "$checkpoints_visible"
-                ],
-                "sections": [
-                    {
-                        "name": "Warden",
-                        "item_count": 1
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Fall",
-                        "x": "1947",
-                        "y": "1991",
-                        "size": 12
-                    }
-                ]
-            },
-            {
-                "name": "Checkpoints",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [],
-                "visibility_rules": [
-                    "$checkpoints_visible"
-                ],
                 "sections": [
                     {
                         "name": "Guardian",
-                        "item_count": 1
+                        "ref": "Checkpoints/Guardian"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Fall",
-                        "x": "1947",
-                        "y": "1991",
-                        "size": 12
+                        "x": "0",
+                        "y": "0"
                     }
                 ]
             },
             {
-                "name": "Checkpoints",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [],
-                "visibility_rules": [
-                    "$checkpoints_visible"
-                ],
-                "sections": [
-                    {
-                        "name": "Tempest",
-                        "item_count": 1
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Fall",
-                        "x": "1947",
-                        "y": "1991",
-                        "size": 12
-                    }
-                ]
-            },
-            {
-                "name": "Checkpoints",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [],
-                "visibility_rules": [
-                    "$checkpoints_visible"
-                ],
                 "sections": [
                     {
                         "name": "Armor Arena",
-                        "item_count": 1
+                        "ref": "Checkpoints/Armor Arena"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Fall",
-                        "x": "1947",
-                        "y": "1991",
-                        "size": 12
+                        "x": "0",
+                        "y": "0"
+                    }
+                ]
+            },
+            {
+                "name" : "Fall Lower",
+                "children" : [
+                    {
+                        "sections": [
+                            {
+                                "name": "Meditate",
+                                "ref": "Skills/Meditate"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fall",
+                                "x": "0",
+                                "y": "0"
+                            }
+                        ]
+                    },
+                    {
+                        "sections": [
+                            {
+                                "name": "Triple Slash",
+                                "ref": "Skills/Triple Slash"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fall",
+                                "x": "0",
+                                "y": "0"
+                            }
+                        ]
+                    },
+                    {
+                        "sections": [
+                            {
+                                "name": "Mind Rune",
+                                "ref": "Runes/Mind Rune"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fall",
+                                "x": "0",
+                                "y": "0"
+                            }
+                        ]
+                    },
+                    {
+                        "sections": [
+                            {
+                                "name": "Tempest",
+                                "ref": "Coins/Tempest"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fall",
+                                "x": "0",
+                                "y": "0"
+                            }
+                        ]
+                    },
+                    {
+                        "sections": [
+                            {
+                                "name": "Fans",
+                                "ref": "Talismans/Fans"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fall",
+                                "x": "0",
+                                "y": "0"
+                            }
+                        ]
+                    },
+                    {
+                        "sections": [
+                            {
+                                "name": "Secret",
+                                "ref": "Talismans/Secret"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fall",
+                                "x": "0",
+                                "y": "0"
+                            }
+                        ]
+                    },
+                    {
+                        "sections": [
+                            {
+                                "name": "Warden",
+                                "ref": "Checkpoints/Warden"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fall",
+                                "x": "0",
+                                "y": "0"
+                            }
+                        ]
+                    },
+                    {
+                        "sections": [
+                            {
+                                "name": "Tempest",
+                                "ref": "Checkpoints/Tempest"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fall",
+                                "x": "0",
+                                "y": "0"
+                            }
+                        ]
+                    },
+                    {
+                        "name" : "Haunt",
+                        "access_rules": [
+                            "@Haunt Access"
+                        ],
+                        "children" : [
+                            {
+                                "sections": [
+                                    {
+                                        "name": "Parry",
+                                        "ref": "Skills/Parry"
+                                    }
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Fall",
+                                        "x": "0",
+                                        "y": "0"
+                                    }
+                                ]
+                            },
+                            {
+                                "sections": [
+                                    {
+                                        "name": "Twitch Arena",
+                                        "ref": "Coins/Twitch Arena"
+                                    }
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Fall",
+                                        "x": "0",
+                                        "y": "0"
+                                    }
+                                ]
+                            },
+                            {
+                                "sections": [
+                                    {
+                                        "name": "Hidden",
+                                        "ref": "Talismans/Hidden"
+                                    }
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Fall",
+                                        "x": "0",
+                                        "y": "0"
+                                    }
+                                ]
+                            },
+                            {
+                                "sections": [
+                                    {
+                                        "name": "Armor Geisha Area",
+                                        "ref": "Talismans/Armor Geisha Area"
+                                    }
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Fall",
+                                        "x": "0",
+                                        "y": "0"
+                                    }
+                                ]
+                            },
+                            {
+                                "sections": [
+                                    {
+                                        "name": "Geisha",
+                                        "ref": "Checkpoints/Geisha"
+                                    }
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Fall",
+                                        "x": "0",
+                                        "y": "0"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name" : "Fall Upper",
+                "children" : [
+                    {
+                        "sections": [
+                            {
+                                "name": "Echo Rune",
+                                "ref": "Runes/Echo Rune"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fall",
+                                "x": "0",
+                                "y": "0"
+                            }
+                        ]
+                    },
+                    {
+                        "sections": [
+                            {
+                                "name": "Hidden Top",
+                                "ref": "Talismans/Hidden Top"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fall",
+                                "x": "0",
+                                "y": "0"
+                            }
+                        ]
+                    },
+                    {
+                        "sections": [
+                            {
+                                "name": "Bumper Time Puzzle",
+                                "ref": "Talismans/Bumper Time Puzzle"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fall",
+                                "x": "0",
+                                "y": "0"
+                            }
+                        ]
+                    },
+                    {
+                        "sections": [
+                            {
+                                "name": "Phantom Jin",
+                                "ref": "Checkpoints/Phantom Jin"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fall",
+                                "x": "0",
+                                "y": "0"
+                            }
+                        ]
                     }
                 ]
             }

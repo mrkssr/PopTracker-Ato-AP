@@ -1,0 +1,151 @@
+[
+    {
+        "name": "CrystalBreak",
+        "type": "toggle",
+        "img": "images/items/skills/CrystalBreak.png",
+        "img_mods": "",
+        "codes": "crystalbreak,skills"
+    },
+    {
+        "name": "Dodge",
+        "type": "progressive",
+        "loop": false,
+        "stages": [
+            {
+                "img": "images/items/skills/Dodge.png",
+                "codes": "dodge,skills"
+            },
+            {
+                "img": "images/items/skills/DodgeUpgrade.png",
+                "codes": "dodge_upgrade,skills"
+            }
+        ]
+    },
+    {
+        "name": "Throw",
+        "type": "progressive",
+        "loop": false,
+        "stages": [
+            {
+                "img": "images/items/skills/Throw.png",
+                "codes": "throw,skills"
+            },
+            {
+                "img": "images/items/skills/ThrowUpgrade.png",
+                "codes": "throw_upgrade,skills"
+            }
+        ]
+    },
+    {
+        "name": "Spin",
+        "type": "progressive",
+        "loop": false,
+        "stages": [
+            {
+                "img": "images/items/skills/Spin.png",
+                "codes": "spin,skills"
+            },
+            {
+                "img": "images/items/skills/SpinUpgrade.png",
+                "codes": "spin_upgrade,skills"
+            }
+        ]
+    },
+    {
+        "name": "Dash",
+        "type": "progressive",
+        "loop": false,
+        "stages": [
+            {
+                "img": "images/items/skills/Dash.png",
+                "codes": "dash,skills"
+            },
+            {
+                "img": "images/items/skills/ChainDash.png",
+                "codes": "chaindash,skills"
+            },
+            {
+                "img": "images/items/skills/ChainDashUpgrade.png",
+                "codes": "chaindash_upgrade,skills"
+            }
+        ]
+    },
+    {
+        "name": "Armor",
+        "type": "progressive",
+        "loop": false,
+        "stages": [
+            {
+                "img": "images/items/skills/Armor.png",
+                "codes": "armor,skills"
+            },
+            {
+                "img": "images/items/skills/ArmorUpgrade.png",
+                "codes": "armor_upgrade,skills"
+            }
+        ]
+    },
+    {
+        "name": "DemonBlade",
+        "type": "toggle",
+        "img": "images/items/skills/DemonBlade.png",
+        "img_mods": "",
+        "codes": "demonBlade,skills"
+    },
+    {
+        "name": "SpeedCharge",
+        "type": "toggle",
+        "img": "images/items/skills/SpeedCharge.png",
+        "img_mods": "",
+        "codes": "speedcharge,skills"
+    },
+    {
+        "name": "DoubleJump",
+        "type": "toggle",
+        "img": "images/items/skills/DoubleJump.png",
+        "img_mods": "",
+        "codes": "doublejump,skills"
+    },
+    {
+        "name": "Parry",
+        "type": "toggle",
+        "img": "images/items/skills/Parry.png",
+        "img_mods": "",
+        "codes": "parry,skills"
+    },
+    {
+        "name": "ElectricWindLethalStrike",
+        "type": "toggle",
+        "img": "images/items/skills/ElectricWindLethalStrike.png",
+        "img_mods": "",
+        "codes": "electricwindlethalstrike,skills"
+    },
+    {
+        "name": "Meditate",
+        "type": "toggle",
+        "img": "images/items/skills/Meditate.png",
+        "img_mods": "",
+        "codes": "meditate,skills"
+    },
+    {
+        "name": "TripleSlash",
+        "type": "toggle",
+        "img": "images/items/skills/TripleSlash.png",
+        "img_mods": "",
+        "codes": "tripleslash,skills"
+    },
+    {
+        "name": "Vision",
+        "type": "toggle",
+        "img": "images/items/skills/Vision.png",
+        "img_mods": "",
+        "codes": "vision,skills"
+    },
+    {
+        "name": "FatalDraw",
+        "type": "toggle",
+        "img": "images/items/skills/FatalDraw.png",
+        "img_mods": "",
+        "codes": "fataldraw,skills"
+    }
+]

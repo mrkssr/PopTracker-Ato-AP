@@ -1,9 +1,9 @@
 {
-    "tabbed_maps_horizontal": {
+    "tabbed_maps": {
         "type": "tabbed",
         "tabs": [
             {
-                "title": "Overview",
+                "title": "Overworld",
                 "content": [
                     {
                         "type": "tabbed",
@@ -13,7 +13,7 @@
                                 "content": {
                                     "type": "map",
                                     "maps": [
-                                        "Overview"
+                                        "Overworld"
                                     ]
                                 }
                             },
@@ -80,7 +80,7 @@
                 "content": {
                     "type": "map",
                     "maps": [
-                        "Sky Cemetery"
+                        "Crimson"
                     ]
                 }
             },
@@ -99,110 +99,6 @@
                     "type": "map",
                     "maps": [
                         "Forbidden"
-                    ]
-                }
-            },
-            {
-                "title": "Temple",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Temple"
-                    ]
-                }
-            }
-        ]
-    },
-    "tabbed_maps_vertical": {
-        "type": "tabbed",
-        "tabs": [
-            {
-                "title": "Blossom",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Blossom"
-                    ]
-                }
-            },
-            {
-                "title": "Bosses",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Bosses"
-                    ]
-                }
-            },
-            {
-                "title": "Fall",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Fall"
-                    ]
-                }
-            },
-            {
-                "title": "Forbidden",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Forbidden"
-                    ]
-                }
-            },
-            {
-                "title": "Goals",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Goals"
-                    ]
-                }
-            },
-            {
-                "title": "Hills",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Hills"
-                    ]
-                }
-            },
-            {
-                "title": "Lake",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Lake"
-                    ]
-                }
-            },
-            {
-                "title": "Pillar",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Pillar"
-                    ]
-                }
-            },
-            {
-                "title": "Sky Cemetery",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Sky Cemetery"
-                    ]
-                }
-            },
-            {
-                "title": "Swamp",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Swamp"
                     ]
                 }
             },

@@ -1,0 +1,105 @@
+[
+    {
+        "name": "Coins",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "sections": [
+            {
+                "name": "Basement"
+            },
+            {
+                "name": "Love Room"
+            },
+            {
+                "name": "Hub Left"
+            },
+            {
+                "name": "Hub Up"
+            },
+            {
+                "name": "Vagrant II Reward"
+            },
+            {
+                "name": "Rogue"
+            },
+            {
+                "name": "Phantom Shin"
+            },
+            {
+                "name": "Behind Warp"
+            },
+            {
+                "name": "Hidden Time Puzzle"
+            },
+            {
+                "name": "8 Coins Door"
+            },
+            {
+                "name": "Twitch Arena"
+            },
+            {
+                "name": "Secret Room"
+            },
+            {
+                "name": "Phantom Jin"
+            },
+            {
+                "name": "Red Area Entry"
+            },
+            {
+                "name": "Left of Bridge Room"
+            },
+            {
+                "name": "Right of Double Jump Room"
+            },
+            {
+                "name": "Tempest"
+            },
+            {
+                "name": "After Bridge Drop"
+            },
+            {
+                "name": "Vagrant I Reward"
+            },
+            {
+                "name": "Fatal Draw"
+            },
+            {
+                "name": "Breakable Floors"
+            },
+            {
+                "name": "Tiny Warrior Entry"
+            },
+            {
+                "name": "Time Puzzle Tiny Warrior"
+            },
+            {
+                "name": "Bumper Time Puzzle"
+            },
+            {
+                "name": "Spins"
+            },
+            {
+                "name": "Yari"
+            },
+            {
+                "name": "Armor Time Puzzle"
+            },
+            {
+                "name": "Father"
+            },
+            {
+                "name": "Most Left"
+            },
+            {
+                "name": "Double Jump Paradise"
+            },
+            {
+                "name": "Switch Puzzle"
+            },
+            {
+                "name": "Black Area Entry"
+            }
+        ]
+    }
+]

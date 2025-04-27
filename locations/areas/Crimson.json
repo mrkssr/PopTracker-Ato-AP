@@ -1,17 +1,17 @@
 [
     {
-        "name": "Swamp",
+        "name": "Crimson",
         "children": [
             {
                 "sections": [
                     {
-                        "name": "Armor",
-                        "ref": "Skills/Armor"
+                        "name": "Throw",
+                        "ref": "Skills/Throw"
                     }
                 ],
                 "map_locations": [
                     {
-                        "map": "Swamp",
+                        "map": "Crimson",
                         "x": "0",
                         "y": "0"
                     }
@@ -20,13 +20,13 @@
             {
                 "sections": [
                     {
-                        "name": "Throws",
-                        "ref": "Talismans/Throws"
+                        "name": "Black Piles Room",
+                        "ref": "Talismans/Black Piles Room"
                     }
                 ],
                 "map_locations": [
                     {
-                        "map": "Swamp",
+                        "map": "Crimson",
                         "x": "0",
                         "y": "0"
                     }
@@ -35,31 +35,31 @@
             {
                 "sections": [
                     {
-                        "name": "Green Area Entry",
-                        "ref": "Checkpoints/Green Area Entry"
+                        "name": "Child",
+                        "ref": "Checkpoints/Child"
                     }
                 ],
                 "map_locations": [
                     {
-                        "map": "Swamp",
+                        "map": "Crimson",
                         "x": "0",
                         "y": "0"
                     }
                 ]
             },
             {
-                "name": "Armor Area",
+                "name": "Throw Area",
                 "children": [
                     {
                         "sections": [
                             {
-                                "name": "Yellow Shard",
-                                "ref": "Shards/Yellow Shard"
+                                "name": "Red Shard",
+                                "ref": "Shards/Red Shard"
                             }
                         ],
                         "map_locations": [
                             {
-                                "map": "Swamp",
+                                "map": "Crimson",
                                 "x": "0",
                                 "y": "0"
                             }
@@ -68,13 +68,13 @@
                     {
                         "sections": [
                             {
-                                "name": "Armor Time Puzzle",
-                                "ref": "Coins/Armor Time Puzzle"
+                                "name": "Yari",
+                                "ref": "Coins/Yari"
                             }
                         ],
                         "map_locations": [
                             {
-                                "map": "Swamp",
+                                "map": "Crimson",
                                 "x": "0",
                                 "y": "0"
                             }
@@ -83,13 +83,13 @@
                     {
                         "sections": [
                             {
-                                "name": "Father",
-                                "ref": "Coins/Father"
+                                "name": "Yari",
+                                "ref": "Talismans/Yari"
                             }
                         ],
                         "map_locations": [
                             {
-                                "map": "Swamp",
+                                "map": "Crimson",
                                 "x": "0",
                                 "y": "0"
                             }
@@ -98,43 +98,13 @@
                     {
                         "sections": [
                             {
-                                "name": "Warps",
-                                "ref": "Talismans/Warps"
+                                "name": "Yari",
+                                "ref": "Checkpoints/Yari"
                             }
                         ],
                         "map_locations": [
                             {
-                                "map": "Swamp",
-                                "x": "0",
-                                "y": "0"
-                            }
-                        ]
-                    },
-                    {
-                        "sections": [
-                            {
-                                "name": "Father",
-                                "ref": "Checkpoints/Father"
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Swamp",
-                                "x": "0",
-                                "y": "0"
-                            }
-                        ]
-                    },
-                    {
-                        "sections": [
-                            {
-                                "name": "Deceiver",
-                                "ref": "Checkpoints/Deceiver"
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Swamp",
+                                "map": "Crimson",
                                 "x": "0",
                                 "y": "0"
                             }

@@ -1,768 +1,485 @@
 [
     {
         "name": "Lake",
-        "chest_unopened_img": "/images/items/close.png",
-        "chest_opened_img": "/images/items/open.png",
-        "overlay_background": "#000000",
         "children": [
             {
-                "name": "Skills",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "sections": [
-                    {
-                        "name": "Chain Dash Upgrade",
-                        "access_rules": [],
-                        "item_count": 1
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Lake",
-                        "x": "865",
-                        "y": "2421",
-                        "size": 12
-                    },
-                    {
-                        "map": "Overview",
-                        "x": "3",
-                        "y": "3",
-                        "size": 16
-                    },
-                    {
-                        "map": "MapLegend",
-                        "x": "3",
-                        "y": "3",
-                        "size": 16
-                    }
-                ]
-            },
-            {
-                "name": "Skills",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
                 "sections": [
                     {
                         "name": "Speed Charge",
-                        "access_rules": [],
-                        "item_count": 1
+                        "ref": "Skills/Speed Charge"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Lake",
-                        "x": "865",
-                        "y": "2421",
-                        "size": 12
-                    },
-                    {
-                        "map": "Overview",
-                        "x": "3",
-                        "y": "3",
-                        "size": 16
-                    },
-                    {
-                        "map": "MapLegend",
-                        "x": "3",
-                        "y": "3",
-                        "size": 16
+                        "x": "0",
+                        "y": "0"
                     }
                 ]
             },
             {
-                "name": "Skills",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "sections": [
-                    {
-                        "name": "Spin Upgrade",
-                        "access_rules": [],
-                        "item_count": 1
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Lake",
-                        "x": "865",
-                        "y": "2421",
-                        "size": 12
-                    },
-                    {
-                        "map": "Overview",
-                        "x": "3",
-                        "y": "3",
-                        "size": 16
-                    },
-                    {
-                        "map": "MapLegend",
-                        "x": "3",
-                        "y": "3",
-                        "size": 16
-                    }
-                ]
-            },
-            {
-                "name": "Skills",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "sections": [
-                    {
-                        "name": "Vision",
-                        "access_rules": [],
-                        "item_count": 1
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Lake",
-                        "x": "865",
-                        "y": "2421",
-                        "size": 12
-                    },
-                    {
-                        "map": "Overview",
-                        "x": "3",
-                        "y": "3",
-                        "size": 16
-                    },
-                    {
-                        "map": "MapLegend",
-                        "x": "3",
-                        "y": "3",
-                        "size": 16
-                    }
-                ]
-            },
-            {
-                "name": "Skills",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
                 "sections": [
                     {
                         "name": "Fatal Draw",
-                        "access_rules": [],
-                        "item_count": 1
+                        "ref": "Skills/Fatal Draw"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Lake",
-                        "x": "865",
-                        "y": "2421",
-                        "size": 12
-                    },
-                    {
-                        "map": "Overview",
-                        "x": "3",
-                        "y": "3",
-                        "size": 16
-                    },
-                    {
-                        "map": "MapLegend",
-                        "x": "3",
-                        "y": "3",
-                        "size": 16
+                        "x": "0",
+                        "y": "0"
                     }
                 ]
             },
             {
-                "name": "Magic Bars",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "sections": [
-                    {
-                        "name": "Magic Bar Tiny Warrior",
-                        "access_rules": [],
-                        "item_count": 1
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Lake",
-                        "x": "120",
-                        "y": "2270",
-                        "size": 12
-                    },
-                    {
-                        "map": "Overview",
-                        "x": "3",
-                        "y": "3",
-                        "size": 16
-                    },
-                    {
-                        "map": "MapLegend",
-                        "x": "3",
-                        "y": "3",
-                        "size": 16
-                    }
-                ]
-            },
-            {
-                "name": "Coins",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
                 "sections": [
                     {
                         "name": "After Bridge Drop",
-                        "access_rules": [],
-                        "item_count": 1
+                        "ref": "Coins/After Bridge Drop"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Lake",
-                        "x": "51",
-                        "y": "643",
-                        "size": 12
-                    },
-                    {
-                        "map": "Overview",
-                        "x": "3",
-                        "y": "3",
-                        "size": 16
-                    },
-                    {
-                        "map": "MapLegend",
-                        "x": "3",
-                        "y": "3",
-                        "size": 16
+                        "x": "0",
+                        "y": "0"
                     }
                 ]
             },
             {
-                "name": "Coins",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
                 "sections": [
                     {
                         "name": "Vagrant I Reward",
-                        "access_rules": [],
-                        "item_count": 1
+                        "ref": "Coins/Vagrant I Reward"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Lake",
-                        "x": "51",
-                        "y": "643",
-                        "size": 12
-                    },
-                    {
-                        "map": "Overview",
-                        "x": "3",
-                        "y": "3",
-                        "size": 16
-                    },
-                    {
-                        "map": "MapLegend",
-                        "x": "3",
-                        "y": "3",
-                        "size": 16
+                        "x": "0",
+                        "y": "0"
                     }
                 ]
             },
             {
-                "name": "Coins",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
                 "sections": [
                     {
                         "name": "Fatal Draw",
-                        "access_rules": [],
-                        "item_count": 1
+                        "ref": "Coins/Fatal Draw"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Lake",
-                        "x": "51",
-                        "y": "643",
-                        "size": 12
-                    },
-                    {
-                        "map": "Overview",
-                        "x": "3",
-                        "y": "3",
-                        "size": 16
-                    },
-                    {
-                        "map": "MapLegend",
-                        "x": "3",
-                        "y": "3",
-                        "size": 16
+                        "x": "0",
+                        "y": "0"
                     }
                 ]
             },
             {
-                "name": "Coins",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
                 "sections": [
                     {
                         "name": "Breakable Floors",
-                        "access_rules": [],
-                        "item_count": 1
+                        "ref": "Coins/Breakable Floors"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Lake",
-                        "x": "51",
-                        "y": "643",
-                        "size": 12
-                    },
-                    {
-                        "map": "Overview",
-                        "x": "3",
-                        "y": "3",
-                        "size": 16
-                    },
-                    {
-                        "map": "MapLegend",
-                        "x": "3",
-                        "y": "3",
-                        "size": 16
+                        "x": "0",
+                        "y": "0"
                     }
                 ]
             },
             {
-                "name": "Coins",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "sections": [
-                    {
-                        "name": "Tiny Warrior Entry",
-                        "access_rules": [],
-                        "item_count": 1
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Lake",
-                        "x": "51",
-                        "y": "643",
-                        "size": 12
-                    },
-                    {
-                        "map": "Overview",
-                        "x": "3",
-                        "y": "3",
-                        "size": 16
-                    },
-                    {
-                        "map": "MapLegend",
-                        "x": "3",
-                        "y": "3",
-                        "size": 16
-                    }
-                ]
-            },
-            {
-                "name": "Coins",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "sections": [
-                    {
-                        "name": "Time Puzzle Tiny Warrior",
-                        "access_rules": [],
-                        "item_count": 1
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Lake",
-                        "x": "51",
-                        "y": "643",
-                        "size": 12
-                    },
-                    {
-                        "map": "Overview",
-                        "x": "3",
-                        "y": "3",
-                        "size": 16
-                    },
-                    {
-                        "map": "MapLegend",
-                        "x": "3",
-                        "y": "3",
-                        "size": 16
-                    }
-                ]
-            },
-            {
-                "name": "Coins",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
                 "sections": [
                     {
                         "name": "Bumper Time Puzzle",
-                        "access_rules": [],
-                        "item_count": 1
+                        "ref": "Coins/Bumper Time Puzzle"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Lake",
-                        "x": "51",
-                        "y": "643",
-                        "size": 12
-                    },
-                    {
-                        "map": "Overview",
-                        "x": "3",
-                        "y": "3",
-                        "size": 16
-                    },
-                    {
-                        "map": "MapLegend",
-                        "x": "3",
-                        "y": "3",
-                        "size": 16
+                        "x": "0",
+                        "y": "0"
                     }
                 ]
             },
             {
-                "name": "Talismans",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
                 "sections": [
                     {
                         "name": "Low Gravity Bumper",
-                        "access_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Bumper",
-                        "access_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Tiny Warrior",
-                        "access_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Archer",
-                        "access_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Ninja",
-                        "access_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Hidden Breakables",
-                        "access_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Sentinel",
-                        "access_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Owl",
-                        "access_rules": [],
-                        "item_count": 1
+                        "ref": "Talismans/Low Gravity Bumper"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Lake",
-                        "x": "1369",
-                        "y": "872",
-                        "size": 12
-                    },
-                    {
-                        "map": "Overview",
-                        "x": "3",
-                        "y": "3",
-                        "size": 16
-                    },
-                    {
-                        "map": "MapLegend",
-                        "x": "3",
-                        "y": "3",
-                        "size": 16
+                        "x": "0",
+                        "y": "0"
                     }
                 ]
             },
             {
-                "name": "Checkpoints",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
+                "sections": [
+                    {
+                        "name": "Bumper",
+                        "ref": "Talismans/Bumper"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Lake",
+                        "x": "0",
+                        "y": "0"
+                    }
+                ]
+            },
+            {
+                "sections": [
+                    {
+                        "name": "Archer",
+                        "ref": "Talismans/Archer"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Lake",
+                        "x": "0",
+                        "y": "0"
+                    }
+                ]
+            },
+            {
+                "sections": [
+                    {
+                        "name": "Ninja",
+                        "ref": "Talismans/Ninja"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Lake",
+                        "x": "0",
+                        "y": "0"
+                    }
+                ]
+            },
+            {
                 "sections": [
                     {
                         "name": "Bridge Drop",
-                        "access_rules": [],
-                        "item_count": 1
+                        "ref": "Checkpoints/Bridge Drop"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Lake",
-                        "x": "1156",
-                        "y": "2062",
-                        "size": 12
-                    },
-                    {
-                        "map": "Overview",
-                        "x": "3",
-                        "y": "3",
-                        "size": 16
-                    },
-                    {
-                        "map": "MapLegend",
-                        "x": "3",
-                        "y": "3",
-                        "size": 16
+                        "x": "0",
+                        "y": "0"
                     }
                 ]
             },
             {
-                "name": "Checkpoints",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "sections": [
-                    {
-                        "name": "Tiny Warrior",
-                        "access_rules": [],
-                        "item_count": 1
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Lake",
-                        "x": "1156",
-                        "y": "2062",
-                        "size": 12
-                    },
-                    {
-                        "map": "Overview",
-                        "x": "3",
-                        "y": "3",
-                        "size": 16
-                    },
-                    {
-                        "map": "MapLegend",
-                        "x": "3",
-                        "y": "3",
-                        "size": 16
-                    }
-                ]
-            },
-            {
-                "name": "Checkpoints",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
                 "sections": [
                     {
                         "name": "Climb",
-                        "access_rules": [],
-                        "item_count": 1
+                        "ref": "Checkpoints/Climb"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Lake",
-                        "x": "1156",
-                        "y": "2062",
-                        "size": 12
-                    },
-                    {
-                        "map": "Overview",
-                        "x": "3",
-                        "y": "3",
-                        "size": 16
-                    },
-                    {
-                        "map": "MapLegend",
-                        "x": "3",
-                        "y": "3",
-                        "size": 16
+                        "x": "0",
+                        "y": "0"
                     }
                 ]
             },
             {
-                "name": "Checkpoints",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "sections": [
-                    {
-                        "name": "Archer",
-                        "access_rules": [],
-                        "item_count": 1
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Lake",
-                        "x": "1156",
-                        "y": "2062",
-                        "size": 12
-                    },
-                    {
-                        "map": "Overview",
-                        "x": "3",
-                        "y": "3",
-                        "size": 16
-                    },
-                    {
-                        "map": "MapLegend",
-                        "x": "3",
-                        "y": "3",
-                        "size": 16
-                    }
-                ]
-            },
-            {
-                "name": "Checkpoints",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
                 "sections": [
                     {
                         "name": "Ninja",
-                        "access_rules": [],
-                        "item_count": 1
+                        "ref": "Checkpoints/Ninja"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Lake",
-                        "x": "1156",
-                        "y": "2062",
-                        "size": 12
-                    },
-                    {
-                        "map": "Overview",
-                        "x": "3",
-                        "y": "3",
-                        "size": 16
-                    },
-                    {
-                        "map": "MapLegend",
-                        "x": "3",
-                        "y": "3",
-                        "size": 16
+                        "x": "0",
+                        "y": "0"
                     }
                 ]
             },
             {
-                "name": "Checkpoints",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "sections": [
+                "name": "Lake Lower",
+                "children": [
                     {
-                        "name": "Sentinel",
-                        "access_rules": [],
-                        "item_count": 1
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Lake",
-                        "x": "1156",
-                        "y": "2062",
-                        "size": 12
+                        "sections": [
+                            {
+                                "name": "Tiny Warrior Entry",
+                                "ref": "Coins/Tiny Warrior Entry"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Lake",
+                                "x": "0",
+                                "y": "0"
+                            }
+                        ]
                     },
                     {
-                        "map": "Overview",
-                        "x": "3",
-                        "y": "3",
-                        "size": 16
+                        "sections": [
+                            {
+                                "name": "Time Puzzle Tiny Warrior",
+                                "ref": "Coins/Time Puzzle Tiny Warrior"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Lake",
+                                "x": "0",
+                                "y": "0"
+                            }
+                        ]
                     },
                     {
-                        "map": "MapLegend",
-                        "x": "3",
-                        "y": "3",
-                        "size": 16
+                        "sections": [
+                            {
+                                "name": "Tiny Warrior",
+                                "ref": "Talismans/Tiny Warrior"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Lake",
+                                "x": "0",
+                                "y": "0"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Tiny Warrior",
+                        "children": [
+                            {
+                                "sections": [
+                                    {
+                                        "name": "Magic Bar Tiny Warrior",
+                                        "ref": "Magic Bars/Magic Bar Tiny Warrior"
+                                    }
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Lake",
+                                        "x": "0",
+                                        "y": "0"
+                                    }
+                                ]
+                            },
+                            {
+                                "sections": [
+                                    {
+                                        "name": "Tiny Warrior",
+                                        "ref": "Checkpoints/Tiny Warrior"
+                                    }
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Lake",
+                                        "x": "0",
+                                        "y": "0"
+                                    }
+                                ]
+                            }
+                        ]
                     }
                 ]
             },
             {
-                "name": "Checkpoints",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "sections": [
+                "name": "Archer",
+                "children": [
                     {
-                        "name": "Spin Arena",
-                        "access_rules": [],
-                        "item_count": 1
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Lake",
-                        "x": "1156",
-                        "y": "2062",
-                        "size": 12
+                        "sections": [
+                            {
+                                "name": "Chain Dash Upgrade",
+                                "ref": "Skills/Chain Dash Upgrade"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Lake",
+                                "x": "0",
+                                "y": "0"
+                            }
+                        ]
                     },
                     {
-                        "map": "Overview",
-                        "x": "3",
-                        "y": "3",
-                        "size": 16
-                    },
-                    {
-                        "map": "MapLegend",
-                        "x": "3",
-                        "y": "3",
-                        "size": 16
+                        "sections": [
+                            {
+                                "name": "Archer",
+                                "ref": "Checkpoints/Archer"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Lake",
+                                "x": "0",
+                                "y": "0"
+                            }
+                        ]
                     }
                 ]
             },
             {
-                "name": "Checkpoints",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "sections": [
+                "name": "Lake Upper",
+                "children": [
                     {
-                        "name": "Acolyte",
-                        "access_rules": [],
-                        "item_count": 1
+                        "sections": [
+                            {
+                                "name": "Vision",
+                                "ref": "Skills/Vision"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Lake",
+                                "x": "0",
+                                "y": "0"
+                            }
+                        ]
+                    },
+                    {
+                        "sections": [
+                            {
+                                "name": "Hidden Breakables",
+                                "ref": "Talismans/Hidden Breakables"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Lake",
+                                "x": "0",
+                                "y": "0"
+                            }
+                        ]
+                    },
+                    {
+                        "sections": [
+                            {
+                                "name": "Sentinel",
+                                "ref": "Talismans/Sentinel"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Lake",
+                                "x": "0",
+                                "y": "0"
+                            }
+                        ]
+                    },
+                    {
+                        "sections": [
+                            {
+                                "name": "Sentinel",
+                                "ref": "Checkpoints/Sentinel"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Lake",
+                                "x": "0",
+                                "y": "0"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Arena Area",
+                        "children": [
+                            {
+                                "sections": [
+                                    {
+                                        "name": "Spin Upgrade",
+                                        "ref": "Skills/Spin Upgrade"
+                                    }
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Lake",
+                                        "x": "0",
+                                        "y": "0"
+                                    }
+                                ]
+                            },
+                            {
+                                "sections": [
+                                    {
+                                        "name": "Owl",
+                                        "ref": "Talismans/Owl"
+                                    }
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Lake",
+                                        "x": "0",
+                                        "y": "0"
+                                    }
+                                ]
+                            },
+                            {
+                                "sections": [
+                                    {
+                                        "name": "Spin Arena",
+                                        "ref": "Checkpoints/Spin Arena"
+                                    }
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Lake",
+                                        "x": "0",
+                                        "y": "0"
+                                    }
+                                ]
+                            }
+                        ]
                     }
-                ],
-                "map_locations": [
+
+                ]
+            },
+            {
+                "name": "Lake Temple",
+                "children": [
                     {
-                        "map": "Lake",
-                        "x": "1156",
-                        "y": "2062",
-                        "size": 12
+                        "sections": [
+                            {
+                                "name": "Acolyte",
+                                "ref": "Checkpoints/Acolyte"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Lake",
+                                "x": "0",
+                                "y": "0"
+                            }
+                        ]
                     },
                     {
-                        "map": "Overview",
-                        "x": "3",
-                        "y": "3",
-                        "size": 16
-                    },
-                    {
-                        "map": "MapLegend",
-                        "x": "3",
-                        "y": "3",
-                        "size": 16
+                        "sections": [
+                            {
+                                "name": "Acolyte",
+                                "ref": "Bosses/Acolyte"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Lake",
+                                "x": "0",
+                                "y": "0"
+                            }
+                        ]
                     }
                 ]
             }

@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Runes",
+        "sections": [
+            {
+                "name": "Juggernaut Rune",
+                "chest_unopened_img": "/images/items/collectibles/JuggernautRune.png",
+                "chest_opened_img": "/images/items/collectibles/JuggernautRune.png"
+            },
+            {
+                "name": "Flurry Rune",
+                "chest_unopened_img": "/images/items/FlurryRune.png",
+                "chest_opened_img": "/images/items/FlurryRune.png"
+            },
+            {
+                "name": "Agility Rune",
+                "chest_unopened_img": "/images/items/collectibles/AgilityRune.png",
+                "chest_opened_img": "/images/items/collectibles/AgilityRune.png"
+            },
+            {
+                "name": "Risk Rune",
+                "chest_unopened_img": "/images/items/RiskRune.png",
+                "chest_opened_img": "/images/items/RiskRune.png"
+            },
+            {
+                "name": "Echo Rune",
+                "chest_unopened_img": "/images/items/collectibles/EchoRune.png",
+                "chest_opened_img": "/images/items/collectibles/EchoRune.png"
+            },
+            {
+                "name": "Mind Rune",
+                "chest_unopened_img": "/images/items/MindRune.png",
+                "chest_opened_img": "/images/items/MindRune.png"
+            }
+        ]
+    }
+]

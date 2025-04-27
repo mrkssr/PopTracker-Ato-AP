@@ -1,0 +1,47 @@
+{
+    "collectibles": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "vertical",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "2, 2",
+                        "h_alignment": "left",
+                        "item_h_alignment": "center",
+                        "item_v_alignment": "center",
+                        "item_height": 36,
+                        "item_width": 36,
+                        "rows": [
+                            [
+                                "blue_shard",
+                                "red_shard",
+                                "yellow_shard"
+                            ],
+                            [
+                                "agility_rune",
+                                "mind_rune",
+                                "echo_rune"
+                            ],
+                            [
+                                "juggernaut_rune",
+                                "flurry_rune",
+                                "risk_rune"
+                            ],
+                            [
+                                "magicbar",
+                                "talisman",
+                                "coin"
+                            ]
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

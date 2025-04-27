@@ -1,80 +1,68 @@
 [
     {
-        "name": "Overview",
-        "location_size": 6,
+        "name": "Overworld",
+        "location_size": 16,
         "location_border_thickness": 1,
-        "img": "images/maps/Overview.png"
+        "img": "images/maps/Overworld.png"
     },
     {
         "name": "MapLegend",
-        "location_size": 6,
+        "location_size": 16,
         "location_border_thickness": 1,
         "img": "images/maps/MapLegend.png"
     },
     {
         "name": "Blossom",
-        "location_size": 6,
-        "location_border_thickness": 1,
+        "location_size": 40,
+        "location_border_thickness": 2,
         "img": "images/maps/Blossom.png"
     },
     {
-        "name": "Bosses",
-        "location_size": 6,
-        "location_border_thickness": 1,
-        "img": "images/maps/Bosses.png"
-    },
-    {
-        "name": "Fall",
-        "location_size": 6,
-        "location_border_thickness": 1,
-        "img": "images/maps/Fall.png"
-    },
-    {
-        "name": "Forbidden",
-        "location_size": 6,
-        "location_border_thickness": 1,
-        "img": "images/maps/Forbidden.png"
-    },
-    {
-        "name": "Goals",
-        "location_size": 6,
-        "location_border_thickness": 1,
-        "img": "images/maps/Goals.png"
-    },
-    {
         "name": "Hills",
-        "location_size": 6,
-        "location_border_thickness": 1,
+        "location_size": 40,
+        "location_border_thickness": 2,
         "img": "images/maps/Hills.png"
     },
     {
+        "name": "Fall",
+        "location_size": 40,
+        "location_border_thickness": 2,
+        "img": "images/maps/Fall.png"
+    },
+    {
         "name": "Lake",
-        "location_size": 6,
-        "location_border_thickness": 1,
+        "location_size": 40,
+        "location_border_thickness": 2,
         "img": "images/maps/Lake.png"
     },
     {
         "name": "Pillar",
-        "location_size": 6,
-        "location_border_thickness": 1,
+        "location_size": 40,
+        "location_border_thickness": 2,
         "img": "images/maps/Pillar.png"
     },
     {
-        "name": "Sky Cemetery",
-        "location_size": 6,
-        "location_border_thickness": 1,
+        "name": "Crimson",
+        "location_size": 40,
+        "location_border_thickness": 2,
         "img": "images/maps/Crimson.png"
     },
     {
         "name": "Swamp",
-        "location_size": 6,
-        "location_border_thickness": 1,
+        "location_size": 40,
+        "location_border_thickness": 2,
         "img": "images/maps/Swamp.png"
     },
     {
+        "name": "Forbidden",
+        "location_size": 40,
+        "location_border_thickness": 2,
+        "img": "images/maps/Forbidden.png"
+    },
+    {
         "name": "Temple",
-        "location_size": 6,
-        "location_border_thickness": 1,
+        "location_size": 40,
+        "location_border_thickness": 2,
         "img": "images/maps/Temple.png"
     }
 ]

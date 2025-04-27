@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Bosses",
+        "sections": [
+            {
+                "name": "Acolyte"
+            },
+            {
+                "name": "Samurai"
+            },
+            {
+                "name": "Rebirth"
+            }
+        ]
+    }
+]

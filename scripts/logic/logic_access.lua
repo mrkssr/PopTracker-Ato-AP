@@ -17,9 +17,7 @@ end
 
 function chain_dash()
     return
-        (has("dash") and has("chaindash")) or
-        (has("dash") and has("chaindashupgrade")) or
-        (has("chaindash") and has("chaindashupgrade")) or
+        dash_state(2) or
         (dash_state(1) and armor())
 end
 
@@ -30,15 +28,15 @@ function chain_dash_upgrade()
 end
 
 function dash_state(amount)
-    return amount >= (
+    return amount <= (
         bool_to_number(has("dash")) +
         bool_to_number(has("chaindash")) +
-        bool_to_number(has("chaindashupgrade"))
+        bool_to_number(has("chaindash_upgrade"))
     )
 end
 
 function double_jump()
-    return has("doublejump")
+    return has("doublejump") or (not_has("doublejump") and armor())
 end
 
 function speed_charge()
@@ -66,8 +64,8 @@ function demon_blade()
 end
 -- End Skills
 
--- Orbs
-function all_orbs()
-    return has("blue_orb") and has("red_orb") and has("yellow_orb")
+-- Shards
+function all_shards()
+    return has("blue_shard") and has("red_shard") and has("yellow_shard")
 end
--- End Orbs
+-- End Shards

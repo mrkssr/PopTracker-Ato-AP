@@ -1,20 +1,40 @@
 [
-    {
-      "name": "Blossom Upper Access",
-      "access_rules": [
-        "$crystal_break,$dash"
-      ]
-    },
-    {
-      "name": "Haunt Access",
-      "access_rules": [
-        "$has|coin|10"
-      ]
-    },
-    {
-      "name": "Temple Access",
-      "access_rules": [
-        "$demon_bladem,$has|DefeatedSamurai"
-      ]
-    }
+  {
+    "name": "Blossom Middle Access",
+    "access_rules": [
+      "$crystal_break,$dash"
+    ]
+  },
+  {
+    "name": "Blossom Upper Access",
+    "access_rules": [
+      "@Blossom Middle Access",
+      "@Hills Upper Access"
+    ]
+  },
+  {
+    "name": "Hills Middle Access",
+    "access_rules": [
+      "$dash"
+    ]
+  },
+  {
+    "name": "Hills Upper Access",
+    "access_rules": [
+      "@Hills Middle Access,$crystal_break",
+      "@Blossom Upper Access"
+    ]
+  },
+  {
+    "name": "Haunt Access",
+    "access_rules": [
+      "$has|coin|10"
+    ]
+  },
+  {
+    "name": "Temple Access",
+    "access_rules": [
+      "$demon_blade,$has|DefeatedSamurai"
+    ]
+  }
 ]

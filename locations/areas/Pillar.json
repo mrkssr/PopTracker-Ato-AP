@@ -1,17 +1,17 @@
 [
     {
-        "name": "Swamp",
+        "name": "Pillar",
         "children": [
             {
                 "sections": [
                     {
-                        "name": "Armor",
-                        "ref": "Skills/Armor"
+                        "name": "Spin",
+                        "ref": "Skills/Spin"
                     }
                 ],
                 "map_locations": [
                     {
-                        "map": "Swamp",
+                        "map": "Pillar",
                         "x": "0",
                         "y": "0"
                     }
@@ -20,46 +20,31 @@
             {
                 "sections": [
                     {
-                        "name": "Throws",
-                        "ref": "Talismans/Throws"
+                        "name": "Mother",
+                        "ref": "Checkpoints/Mother"
                     }
                 ],
                 "map_locations": [
                     {
-                        "map": "Swamp",
+                        "map": "Pillar",
                         "x": "0",
                         "y": "0"
                     }
                 ]
             },
             {
-                "sections": [
-                    {
-                        "name": "Green Area Entry",
-                        "ref": "Checkpoints/Green Area Entry"
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Swamp",
-                        "x": "0",
-                        "y": "0"
-                    }
-                ]
-            },
-            {
-                "name": "Armor Area",
+                "name": "Spin Area",
                 "children": [
                     {
                         "sections": [
                             {
-                                "name": "Yellow Shard",
-                                "ref": "Shards/Yellow Shard"
+                                "name": "Blue Shard",
+                                "ref": "Shards/Blue Shard"
                             }
                         ],
                         "map_locations": [
                             {
-                                "map": "Swamp",
+                                "map": "Pillar",
                                 "x": "0",
                                 "y": "0"
                             }
@@ -68,13 +53,13 @@
                     {
                         "sections": [
                             {
-                                "name": "Armor Time Puzzle",
-                                "ref": "Coins/Armor Time Puzzle"
+                                "name": "Spins",
+                                "ref": "Coins/Spins"
                             }
                         ],
                         "map_locations": [
                             {
-                                "map": "Swamp",
+                                "map": "Pillar",
                                 "x": "0",
                                 "y": "0"
                             }
@@ -83,13 +68,13 @@
                     {
                         "sections": [
                             {
-                                "name": "Father",
-                                "ref": "Coins/Father"
+                                "name": "Spins",
+                                "ref": "Talismans/Spins"
                             }
                         ],
                         "map_locations": [
                             {
-                                "map": "Swamp",
+                                "map": "Pillar",
                                 "x": "0",
                                 "y": "0"
                             }
@@ -98,13 +83,13 @@
                     {
                         "sections": [
                             {
-                                "name": "Warps",
-                                "ref": "Talismans/Warps"
+                                "name": "Ancient Warrior Checkpoint",
+                                "ref": "Talismans/Ancient Warrior Checkpoint"
                             }
                         ],
                         "map_locations": [
                             {
-                                "map": "Swamp",
+                                "map": "Pillar",
                                 "x": "0",
                                 "y": "0"
                             }
@@ -113,13 +98,13 @@
                     {
                         "sections": [
                             {
-                                "name": "Father",
-                                "ref": "Checkpoints/Father"
+                                "name": "Spin Puzzles",
+                                "ref": "Checkpoints/Spin Puzzles"
                             }
                         ],
                         "map_locations": [
                             {
-                                "map": "Swamp",
+                                "map": "Pillar",
                                 "x": "0",
                                 "y": "0"
                             }
@@ -128,13 +113,13 @@
                     {
                         "sections": [
                             {
-                                "name": "Deceiver",
-                                "ref": "Checkpoints/Deceiver"
+                                "name": "Ancient Warrior",
+                                "ref": "Checkpoints/Ancient Warrior"
                             }
                         ],
                         "map_locations": [
                             {
-                                "map": "Swamp",
+                                "map": "Pillar",
                                 "x": "0",
                                 "y": "0"
                             }

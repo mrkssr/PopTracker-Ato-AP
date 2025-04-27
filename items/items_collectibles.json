@@ -1,0 +1,101 @@
+[
+    {
+        "name": "AgilityRune",
+        "type": "toggle",
+        "img": "images/items/collectibles/AgilityRune.png",
+        "img_mods": "",
+        "codes": "agility_rune,collectibles,runes"
+    },
+    {
+        "name": "MindRune",
+        "type": "toggle",
+        "img": "images/items/collectibles/MindRune.png",
+        "img_mods": "",
+        "codes": "mind_rune,collectibles,runes"
+    },
+    {
+        "name": "EchoRune",
+        "type": "toggle",
+        "img": "images/items/collectibles/EchoRune.png",
+        "img_mods": "",
+        "codes": "echo_rune,collectibles,runes"
+    },
+    {
+        "name": "JuggernautRune",
+        "type": "toggle",
+        "img": "images/items/collectibles/JuggernautRune.png",
+        "img_mods": "",
+        "codes": "juggernaut_rune,collectibles,runes"
+    },
+    {
+        "name": "FlurryRune",
+        "type": "toggle",
+        "img": "images/items/collectibles/FlurryRune.png",
+        "img_mods": "",
+        "codes": "flurry_rune,collectibles,runes"
+    },
+    {
+        "name": "RiskRune",
+        "type": "toggle",
+        "img": "images/items/collectibles/RiskRune.png",
+        "img_mods": "",
+        "codes": "risk_rune,collectibles,runes"
+    },
+    {
+        "name": "BlueShard",
+        "type": "toggle",
+        "img": "images/items/collectibles/BlueShard.png",
+        "img_mods": "",
+        "codes": "blue_shard,collectibles,shards"
+    },
+    {
+        "name": "RedShard",
+        "type": "toggle",
+        "img": "images/items/collectibles/RedShard.png",
+        "img_mods": "",
+        "codes": "red_shard,collectibles,shards"
+    },
+    {
+        "name": "YellowShard",
+        "type": "toggle",
+        "img": "images/items/collectibles/YellowShard.png",
+        "img_mods": "",
+        "codes": "yellow_shard,collectibles,shards"
+    },
+    {
+        "name": "MagicBar",
+        "type": "consumable",
+        "min_quantity": 0,
+        "max_quantity": 2,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 0,
+        "img": "images/items/collectibles/MagicBar.png",
+        "img_mods": "",
+        "codes": "magicbar,collectibles"
+    },
+    {
+        "name": "Talisman",
+        "type": "consumable",
+        "min_quantity": 0,
+        "max_quantity": 36,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 0,
+        "img": "images/items/collectibles/Talisman.png",
+        "img_mods": "",
+        "codes": "talisman,collectibles"
+    },
+    {
+        "name": "Coin",
+        "type": "consumable",
+        "min_quantity": 0,
+        "max_quantity": 32,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 0,
+        "img": "images/items/collectibles/Coin.png",
+        "img_mods": "",
+        "codes": "coin,collectibles"
+    }
+]

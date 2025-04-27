@@ -1,7 +1,7 @@
 ITEM_MAPPING = {
-	[1] = {{"Blue Orb", "toggle"}},
-	[2] = {{"Red Orb", "toggle"}},
-	[3] = {{"Yellow Orb", "toggle"}},
+	[1] = {{"Blue Shard", "toggle"}},
+	[2] = {{"Red Shard", "toggle"}},
+	[3] = {{"Yellow Shard", "toggle"}},
 	[4] = {{"Demon Blade", "toggle"}},
 	[10] = {{"Dodge", "progressive"}},
 	[12] = {{"Dash", "progressive"}},

@@ -1,502 +1,245 @@
 [
     {
         "name": "Hills",
-        "chest_unopened_img": "/images/items/close.png",
-        "chest_opened_img": "/images/items/open.png",
-        "overlay_background": "#000000",
         "children": [
             {
-                "name": "Skills",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
                 "sections": [
                     {
                         "name": "Dash",
-                        "access_rules": [],
-                        "item_count": 1
+                        "ref": "Skills/Dash"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Hills",
-                        "x": "1163",
-                        "y": "866",
-                        "size": 12
-                    },
-                    {
-                        "map": "Overview",
-                        "x": "3",
-                        "y": "3",
-                        "size": 16
-                    },
-                    {
-                        "map": "MapLegend",
-                        "x": "3",
-                        "y": "3",
-                        "size": 16
+                        "x": "0",
+                        "y": "0"
                     }
                 ]
             },
             {
-                "name": "Skills",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "sections": [
-                    {
-                        "name": "Throw Upgrade",
-                        "access_rules": [],
-                        "item_count": 1
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Hills",
-                        "x": "1163",
-                        "y": "866",
-                        "size": 12
-                    },
-                    {
-                        "map": "Overview",
-                        "x": "3",
-                        "y": "3",
-                        "size": 16
-                    },
-                    {
-                        "map": "MapLegend",
-                        "x": "3",
-                        "y": "3",
-                        "size": 16
-                    }
-                ]
-            },
-            {
-                "name": "Skills",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "sections": [
-                    {
-                        "name": "Electric Wind Lethal Strike",
-                        "access_rules": [],
-                        "item_count": 1
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Hills",
-                        "x": "1163",
-                        "y": "866",
-                        "size": 12
-                    },
-                    {
-                        "map": "Overview",
-                        "x": "3",
-                        "y": "3",
-                        "size": 16
-                    },
-                    {
-                        "map": "MapLegend",
-                        "x": "3",
-                        "y": "3",
-                        "size": 16
-                    }
-                ]
-            },
-            {
-                "name": "Runes",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "sections": [
-                    {
-                        "name": "Flurry Rune",
-                        "access_rules": [],
-                        "item_count": 1
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Hills",
-                        "x": "325",
-                        "y": "1189",
-                        "size": 12
-                    },
-                    {
-                        "map": "Overview",
-                        "x": "3",
-                        "y": "3",
-                        "size": 16
-                    },
-                    {
-                        "map": "MapLegend",
-                        "x": "3",
-                        "y": "3",
-                        "size": 16
-                    }
-                ]
-            },
-            {
-                "name": "Coins",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "sections": [
-                    {
-                        "name": "Phantom Shin",
-                        "access_rules": [],
-                        "item_count": 1
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Hills",
-                        "x": "655",
-                        "y": "1796",
-                        "size": 12
-                    },
-                    {
-                        "map": "Overview",
-                        "x": "3",
-                        "y": "3",
-                        "size": 16
-                    },
-                    {
-                        "map": "MapLegend",
-                        "x": "3",
-                        "y": "3",
-                        "size": 16
-                    }
-                ]
-            },
-            {
-                "name": "Coins",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "sections": [
-                    {
-                        "name": "Behind Warp",
-                        "access_rules": [],
-                        "item_count": 1
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Hills",
-                        "x": "655",
-                        "y": "1796",
-                        "size": 12
-                    },
-                    {
-                        "map": "Overview",
-                        "x": "3",
-                        "y": "3",
-                        "size": 16
-                    },
-                    {
-                        "map": "MapLegend",
-                        "x": "3",
-                        "y": "3",
-                        "size": 16
-                    }
-                ]
-            },
-            {
-                "name": "Coins",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "sections": [
-                    {
-                        "name": "Hidden Time Puzzle",
-                        "access_rules": [],
-                        "item_count": 1
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Hills",
-                        "x": "655",
-                        "y": "1796",
-                        "size": 12
-                    },
-                    {
-                        "map": "Overview",
-                        "x": "3",
-                        "y": "3",
-                        "size": 16
-                    },
-                    {
-                        "map": "MapLegend",
-                        "x": "3",
-                        "y": "3",
-                        "size": 16
-                    }
-                ]
-            },
-            {
-                "name": "Coins",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
                 "sections": [
                     {
                         "name": "8 Coins Door",
-                        "access_rules": [],
-                        "item_count": 1
+                        "ref": "Coins/8 Coins Door"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Hills",
-                        "x": "655",
-                        "y": "1796",
-                        "size": 12
-                    },
-                    {
-                        "map": "Overview",
-                        "x": "3",
-                        "y": "3",
-                        "size": 16
-                    },
-                    {
-                        "map": "MapLegend",
-                        "x": "3",
-                        "y": "3",
-                        "size": 16
+                        "x": "0",
+                        "y": "0"
                     }
                 ]
             },
             {
-                "name": "Talismans",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "sections": [
-                    {
-                        "name": "Preview",
-                        "access_rules": [],
-                        "item_count": 1
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Hills",
-                        "x": "977",
-                        "y": "1163",
-                        "size": 12
-                    },
-                    {
-                        "map": "Overview",
-                        "x": "3",
-                        "y": "3",
-                        "size": 16
-                    },
-                    {
-                        "map": "MapLegend",
-                        "x": "3",
-                        "y": "3",
-                        "size": 16
-                    }
-                ]
-            },
-            {
-                "name": "Talismans",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "sections": [
-                    {
-                        "name": "Top Platforms",
-                        "access_rules": [],
-                        "item_count": 1
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Hills",
-                        "x": "977",
-                        "y": "1163",
-                        "size": 12
-                    },
-                    {
-                        "map": "Overview",
-                        "x": "3",
-                        "y": "3",
-                        "size": 16
-                    },
-                    {
-                        "map": "MapLegend",
-                        "x": "3",
-                        "y": "3",
-                        "size": 16
-                    }
-                ]
-            },
-            {
-                "name": "Talismans",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
                 "sections": [
                     {
                         "name": "Dash",
-                        "access_rules": [],
-                        "item_count": 1
+                        "ref": "Talismans/Dash"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Hills",
-                        "x": "977",
-                        "y": "1163",
-                        "size": 12
-                    },
-                    {
-                        "map": "Overview",
-                        "x": "3",
-                        "y": "3",
-                        "size": 16
-                    },
-                    {
-                        "map": "MapLegend",
-                        "x": "3",
-                        "y": "3",
-                        "size": 16
+                        "x": "0",
+                        "y": "0"
                     }
                 ]
             },
             {
-                "name": "Talismans",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "sections": [
-                    {
-                        "name": "Jin",
-                        "access_rules": [],
-                        "item_count": 1
-                    }
+                "name": "Hills Middle",
+                "access_rules": [
+                    "@Hills Middle Access"
                 ],
-                "map_locations": [
+                "children": [
                     {
-                        "map": "Hills",
-                        "x": "977",
-                        "y": "1163",
-                        "size": 12
+                        "sections": [
+                            {
+                                "name": "Throw Upgrade",
+                                "ref": "Skills/Throw Upgrade"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hills",
+                                "x": "0",
+                                "y": "0"
+                            }
+                        ]
                     },
                     {
-                        "map": "Overview",
-                        "x": "3",
-                        "y": "3",
-                        "size": 16
+                        "sections": [
+                            {
+                                "name": "Flurry Rune",
+                                "ref": "Runes/Flurry Rune"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hills",
+                                "x": "0",
+                                "y": "0"
+                            }
+                        ]
                     },
                     {
-                        "map": "MapLegend",
-                        "x": "3",
-                        "y": "3",
-                        "size": 16
-                    }
-                ]
-            },
-            {
-                "name": "Checkpoints",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "sections": [
-                    {
-                        "name": "Phantom Shin",
-                        "access_rules": [],
-                        "item_count": 1
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Hills",
-                        "x": "250",
-                        "y": "2296",
-                        "size": 12
+                        "sections": [
+                            {
+                                "name": "Hidden Time Puzzle",
+                                "ref": "Coins/Hidden Time Puzzle"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hills",
+                                "x": "0",
+                                "y": "0"
+                            }
+                        ]
                     },
                     {
-                        "map": "Overview",
-                        "x": "3",
-                        "y": "3",
-                        "size": 16
+                        "sections": [
+                            {
+                                "name": "Preview",
+                                "ref": "Talismans/Preview"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hills",
+                                "x": "0",
+                                "y": "0"
+                            }
+                        ]
                     },
                     {
-                        "map": "MapLegend",
-                        "x": "3",
-                        "y": "3",
-                        "size": 16
-                    }
-                ]
-            },
-            {
-                "name": "Checkpoints",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "sections": [
-                    {
-                        "name": "Throw Arena",
-                        "access_rules": [],
-                        "item_count": 1
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Hills",
-                        "x": "250",
-                        "y": "2296",
-                        "size": 12
+                        "sections": [
+                            {
+                                "name": "Top Platforms",
+                                "ref": "Talismans/Top Platforms"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hills",
+                                "x": "0",
+                                "y": "0"
+                            }
+                        ]
                     },
                     {
-                        "map": "Overview",
-                        "x": "3",
-                        "y": "3",
-                        "size": 16
+                        "sections": [
+                            {
+                                "name": "Jin",
+                                "ref": "Talismans/Jin"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hills",
+                                "x": "0",
+                                "y": "0"
+                            }
+                        ]
                     },
                     {
-                        "map": "MapLegend",
-                        "x": "3",
-                        "y": "3",
-                        "size": 16
-                    }
-                ]
-            },
-            {
-                "name": "Checkpoints",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "sections": [
-                    {
-                        "name": "Berserker",
-                        "access_rules": [],
-                        "item_count": 1
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Hills",
-                        "x": "250",
-                        "y": "2296",
-                        "size": 12
+                        "sections": [
+                            {
+                                "name": "Throw Arena",
+                                "ref": "Checkpoints/Throw Arena"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hills",
+                                "x": "0",
+                                "y": "0"
+                            }
+                        ]
                     },
                     {
-                        "map": "Overview",
-                        "x": "3",
-                        "y": "3",
-                        "size": 16
+                        "sections": [
+                            {
+                                "name": "Berserker",
+                                "ref": "Checkpoints/Berserker"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hills",
+                                "x": "0",
+                                "y": "0"
+                            }
+                        ]
                     },
                     {
-                        "map": "MapLegend",
-                        "x": "3",
-                        "y": "3",
-                        "size": 16
+                        "name": "Hills Upper",
+                        "access_rules": [
+                            "@Hills Upper Access"
+                        ],
+                        "children": [
+                            {
+                                "sections": [
+                                    {
+                                        "name": "Electric Wind Lethal Strike",
+                                        "ref": "Skills/Electric Wind Lethal Strike"
+                                    }
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Hills",
+                                        "x": "0",
+                                        "y": "0"
+                                    }
+                                ]
+                            },
+                            {
+                                "sections": [
+                                    {
+                                        "name": "Phantom Shin",
+                                        "ref": "Coins/Phantom Shin"
+                                    }
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Hills",
+                                        "x": "0",
+                                        "y": "0"
+                                    }
+                                ]
+                            },
+                            {
+                                "sections": [
+                                    {
+                                        "name": "Behind Warp",
+                                        "ref": "Coins/Behind Warp"
+                                    }
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Hills",
+                                        "x": "0",
+                                        "y": "0"
+                                    }
+                                ]
+                            },
+                            {
+                                "sections": [
+                                    {
+                                        "name": "Phantom Shin",
+                                        "ref": "Checkpoints/Phantom Shin"
+                                    }
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Hills",
+                                        "x": "0",
+                                        "y": "0"
+                                    }
+                                ]
+                            }
+                        ]
                     }
                 ]
             }
