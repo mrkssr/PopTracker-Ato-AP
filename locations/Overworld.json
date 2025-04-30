@@ -10,7 +10,7 @@
                         "sections": [
                             {
                                 "name": "Dodge",
-                                "ref": "Blossom/Blossom Lower/Skills/Dodge"
+                                "ref": "Blossom/rA0_4PowerUp/Dodge"
                             }
                         ],
                         "map_locations": [
@@ -47,7 +47,7 @@
                         "sections": [
                             {
                                 "name": "Dodge Upgrade",
-                                "ref": "Blossom/Blossom Upper/Dodge Upgrade"
+                                "ref": "Blossom/Blossom Middle/rA1_4 - Skill/Dodge Upgrade"
                             }
                         ],
                         "map_locations": [

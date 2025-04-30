@@ -3,10 +3,12 @@
         "name": "Blossom",
         "children": [
             {
+                "name": "rA0_4PowerUp",
                 "sections": [
                     {
                         "name": "Dodge",
-                        "ref": "Skills/Dodge"
+                        "chest_unopened_img": "/images/items/skills/Dodge.png",
+                        "chest_opened_img": "/images/items/skills/Dodge.png"
                     }
                 ],
                 "map_locations": [
@@ -129,10 +131,15 @@
                 ],
                 "children" : [
                     {
+                        "name": "rA1_4 - Skill",
                         "sections": [
                             {
                                 "name": "Dodge Upgrade",
-                                "ref": "Skills/Dodge Upgrade"
+                                "chest_unopened_img": "/images/items/skills/DodgeUpgrade.png",
+                                "chest_opened_img": "/images/items/skills/DodgeUpgrade.png",
+                                "access_rules": [
+                                    "$dash"
+                                ]
                             }
                         ],
                         "map_locations": [

@@ -45,11 +45,6 @@
                 "chest_opened_img": "/images/items/skills/ChainDashUpgrade.png"
             },
             {
-                "name": "Throw Upgrade",
-                "chest_unopened_img": "/images/items/skills/ThrowUpgrade.png",
-                "chest_opened_img": "/images/items/skills/ThrowUpgrade.png"
-            },
-            {
                 "name": "Electric Wind Lethal Strike",
                 "chest_unopened_img": "/images/items/skills/ElectricWindLethalStrike.png",
                 "chest_opened_img": "/images/items/skills/ElectricWindLethalStrike.png"
