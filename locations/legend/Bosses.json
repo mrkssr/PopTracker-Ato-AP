@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Bosses - Legend",
+        "children": [
+            {
+                "sections": [
+                    {
+                        "name": "Acolyte",
+                        "ref": "Lake/Lake Temple/[1]/Acolyte"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "MapLegend",
+                        "x": "9",
+                        "y": "98"
+                    }
+                ]
+            },
+            {
+                "sections": [
+                    {
+                        "name": "Samurai",
+                        "ref": "Temple/Temple Middle/[5]/Samurai"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "MapLegend",
+                        "x": "9",
+                        "y": "208"
+                    }
+                ]
+            }
+        ]
+    }
+]

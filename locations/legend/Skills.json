@@ -1,0 +1,52 @@
+[
+    {
+        "name": "Skills - Legend",
+        "children" : [
+            {
+                "sections": [
+                    {
+                        "name": "Dodge",
+                        "ref": "Blossom/rA0_4PowerUp/Dodge"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "MapLegend",
+                        "x": "160",
+                        "y": "10"
+                    }
+                ]
+            },
+            {
+                "sections": [
+                    {
+                        "name": "Dodge Upgrade",
+                        "ref": "Blossom/Blossom Middle/rA1_4 - Skill/Dodge Upgrade"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "MapLegend",
+                        "x": "160",
+                        "y": "338"
+                    }
+                ]
+            },
+            {
+                "sections": [
+                    {
+                        "name": "Crystal Break",
+                        "ref": "Blossom/Blossom Lower/Crystal Break"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "MapLegend",
+                        "x": "160",
+                        "y": "120"
+                    }
+                ]
+            }
+        ]
+    }
+]

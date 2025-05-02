@@ -41,4 +41,6 @@ Tracker:AddLocations("locations/overworld/Swamp.json")
 Tracker:AddLocations("locations/overworld/Temple.json")
 
 -- legend
-Tracker:AddLocations("locations/Legend.json")
+Tracker:AddLocations("locations/legend/Bosses.json")
+Tracker:AddLocations("locations/legend/Obstacles.json")
+Tracker:AddLocations("locations/legend/Skills.json")
