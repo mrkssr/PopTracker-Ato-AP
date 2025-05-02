@@ -25,36 +25,6 @@
             {
                 "sections": [
                     {
-                        "name": "Crystal Break",
-                        "ref": "Skills/Crystal Break"
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Blossom",
-                        "x": "128",
-                        "y": "535"
-                    }
-                ]
-            },
-            {
-                "sections": [
-                    {
-                        "name": "Basement",
-                        "ref": "Coins/Basement"
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Blossom",
-                        "x": "0",
-                        "y": "0"
-                    }
-                ]
-            },
-            {
-                "sections": [
-                    {
                         "name": "Love Room",
                         "ref": "Coins/Love Room"
                     }
@@ -132,64 +102,45 @@
                 "access_rules": [
                     "@Crystal Break Area Access"
                 ],
-                "children": []
+                "children": [
+                    {
+                        "sections": [
+                            {
+                                "name": "Crystal Break",
+                                "ref": "Skills/Crystal Break"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Blossom",
+                                "x": "128",
+                                "y": "535"
+                            }
+                        ]
+                    },
+                    {
+                        "sections": [
+                            {
+                                "name": "Basement",
+                                "ref": "Coins/Basement"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Blossom",
+                                "x": "0",
+                                "y": "0"
+                            }
+                        ]
+                    }
+                ]
             },
             {
                 "name": "Blossom Middle",
                 "access_rules": [
                     "@Blossom Middle Access"
                 ],
-                "children" : [
-                    {
-                        "name": "rA1_4 - Skill",
-                        "sections": [
-                            {
-                                "name": "Dodge Upgrade",
-                                "chest_unopened_img": "/images/items/skills/DodgeUpgrade.png",
-                                "chest_opened_img": "/images/items/skills/DodgeUpgrade.png",
-                                "access_rules": [
-                                    "$dash"
-                                ]
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Blossom",
-                                "x": "850",
-                                "y": "375"
-                            }
-                        ]
-                    },
-                    {
-                        "sections": [
-                            {
-                                "name": "Hub Left",
-                                "ref": "Coins/Hub Left"
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Blossom",
-                                "x": "0",
-                                "y": "0"
-                            }
-                        ]
-                    },
-                    {
-                        "sections": [
-                            {
-                                "name": "Hub Up",
-                                "ref": "Coins/Hub Up"
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Blossom",
-                                "x": "0",
-                                "y": "0"
-                            }
-                        ]
-                    },
+                "children": [
                     {
                         "sections": [
                             {
@@ -206,70 +157,10 @@
                         ]
                     },
                     {
-                        "sections": [
-                            {
-                                "name": "Bandit",
-                                "ref": "Talismans/Bandit"
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Blossom",
-                                "x": "0",
-                                "y": "0"
-                            }
-                        ]
-                    },
-                    {
-                        "sections": [
-                            {
-                                "name": "Leave Room",
-                                "ref": "Talismans/Leave Room"
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Blossom",
-                                "x": "0",
-                                "y": "0"
-                            }
-                        ]
-                    },
-                    {
-                        "sections": [
-                            {
-                                "name": "Bandit",
-                                "ref": "Checkpoints/Bandit"
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Blossom",
-                                "x": "0",
-                                "y": "0"
-                            }
-                        ]
-                    },
-                    {
                         "name": "Vagrant Area",
                         "access_rules": [
                             "@Vagrant Area Access"
                         ],
-                        "children": []
-                    },
-                    {
-                        "name": "Bandit Area",
-                        "access_rules": [
-                            "@Bandit Area Access"
-                        ],
-                        "children": []
-                    },
-                    {
-                        "name": "Blossom Upper",
-                        "access_rules": [
-                            "@Blossom Upper Access"
-                        ],
-                        "visibility_rules": [],
                         "children": [
                             {
                                 "name": "Magic Bars",
@@ -287,6 +178,118 @@
                                     }
                                 ]
                             },
+                            {
+                                "sections": [
+                                    {
+                                        "name": "Hub Left",
+                                        "ref": "Coins/Hub Left"
+                                    }
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Blossom",
+                                        "x": "0",
+                                        "y": "0"
+                                    }
+                                ]
+                            },
+                            {
+                                "sections": [
+                                    {
+                                        "name": "Hub Up",
+                                        "ref": "Coins/Hub Up"
+                                    }
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Blossom",
+                                        "x": "0",
+                                        "y": "0"
+                                    }
+                                ]
+                            },
+                            {
+                                "sections": [
+                                    {
+                                        "name": "Vagrant",
+                                        "ref": "Checkpoints/Vagrant"
+                                    }
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Blossom",
+                                        "x": "0",
+                                        "y": "0"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Bandit Area",
+                        "access_rules": [
+                            "@Bandit Area Access"
+                        ],
+                        "children": [
+                            {
+                                "name": "rA1_4 - Skill",
+                                "sections": [
+                                    {
+                                        "name": "Dodge Upgrade",
+                                        "chest_unopened_img": "/images/items/skills/DodgeUpgrade.png",
+                                        "chest_opened_img": "/images/items/skills/DodgeUpgrade.png",
+                                        "access_rules": [
+                                            "$dash"
+                                        ]
+                                    }
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Blossom",
+                                        "x": "850",
+                                        "y": "375"
+                                    }
+                                ]
+                            },
+                            {
+                                "sections": [
+                                    {
+                                        "name": "Bandit",
+                                        "ref": "Talismans/Bandit"
+                                    }
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Blossom",
+                                        "x": "0",
+                                        "y": "0"
+                                    }
+                                ]
+                            },
+                            {
+                                "sections": [
+                                    {
+                                        "name": "Bandit",
+                                        "ref": "Checkpoints/Bandit"
+                                    }
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Blossom",
+                                        "x": "0",
+                                        "y": "0"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Blossom Upper",
+                        "access_rules": [
+                            "@Blossom Upper Access"
+                        ],
+                        "visibility_rules": [],
+                        "children": [
                             {
                                 "name": "Runes",
                                 "sections": [
@@ -310,6 +313,21 @@
                                     {
                                         "name": "Vagrant II Reward",
                                         "ref": "Coins/Vagrant II Reward"
+                                    }
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Blossom",
+                                        "x": "0",
+                                        "y": "0"
+                                    }
+                                ]
+                            },
+                            {
+                                "sections": [
+                                    {
+                                        "name": "Leave Room",
+                                        "ref": "Talismans/Leave Room"
                                     }
                                 ],
                                 "map_locations": [
@@ -370,21 +388,6 @@
                                     {
                                         "name": "Twins",
                                         "ref": "Talismans/Twins"
-                                    }
-                                ],
-                                "map_locations": [
-                                    {
-                                        "map": "Blossom",
-                                        "x": "0",
-                                        "y": "0"
-                                    }
-                                ]
-                            },
-                            {
-                                "sections": [
-                                    {
-                                        "name": "Vagrant",
-                                        "ref": "Checkpoints/Vagrant"
                                     }
                                 ],
                                 "map_locations": [

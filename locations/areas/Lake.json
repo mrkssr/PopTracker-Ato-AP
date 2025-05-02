@@ -8,98 +8,8 @@
             {
                 "sections": [
                     {
-                        "name": "Speed Charge",
-                        "ref": "Skills/Speed Charge"
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Lake",
-                        "x": "0",
-                        "y": "0"
-                    }
-                ]
-            },
-            {
-                "sections": [
-                    {
-                        "name": "Fatal Draw",
-                        "ref": "Skills/Fatal Draw"
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Lake",
-                        "x": "0",
-                        "y": "0"
-                    }
-                ]
-            },
-            {
-                "sections": [
-                    {
                         "name": "After Bridge Drop",
                         "ref": "Coins/After Bridge Drop"
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Lake",
-                        "x": "0",
-                        "y": "0"
-                    }
-                ]
-            },
-            {
-                "sections": [
-                    {
-                        "name": "Vagrant I Reward",
-                        "ref": "Coins/Vagrant I Reward"
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Lake",
-                        "x": "0",
-                        "y": "0"
-                    }
-                ]
-            },
-            {
-                "sections": [
-                    {
-                        "name": "Fatal Draw",
-                        "ref": "Coins/Fatal Draw"
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Lake",
-                        "x": "0",
-                        "y": "0"
-                    }
-                ]
-            },
-            {
-                "sections": [
-                    {
-                        "name": "Breakable Floors",
-                        "ref": "Coins/Breakable Floors"
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Lake",
-                        "x": "0",
-                        "y": "0"
-                    }
-                ]
-            },
-            {
-                "sections": [
-                    {
-                        "name": "Bumper Time Puzzle",
-                        "ref": "Coins/Bumper Time Puzzle"
                     }
                 ],
                 "map_locations": [
@@ -128,83 +38,8 @@
             {
                 "sections": [
                     {
-                        "name": "Bumper",
-                        "ref": "Talismans/Bumper"
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Lake",
-                        "x": "0",
-                        "y": "0"
-                    }
-                ]
-            },
-            {
-                "sections": [
-                    {
-                        "name": "Archer",
-                        "ref": "Talismans/Archer"
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Lake",
-                        "x": "0",
-                        "y": "0"
-                    }
-                ]
-            },
-            {
-                "sections": [
-                    {
-                        "name": "Ninja",
-                        "ref": "Talismans/Ninja"
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Lake",
-                        "x": "0",
-                        "y": "0"
-                    }
-                ]
-            },
-            {
-                "sections": [
-                    {
                         "name": "Bridge Drop",
                         "ref": "Checkpoints/Bridge Drop"
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Lake",
-                        "x": "0",
-                        "y": "0"
-                    }
-                ]
-            },
-            {
-                "sections": [
-                    {
-                        "name": "Climb",
-                        "ref": "Checkpoints/Climb"
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Lake",
-                        "x": "0",
-                        "y": "0"
-                    }
-                ]
-            },
-            {
-                "sections": [
-                    {
-                        "name": "Ninja",
-                        "ref": "Checkpoints/Ninja"
                     }
                 ],
                 "map_locations": [
@@ -313,11 +148,177 @@
                 ],
                 "children": [
                     {
+                        "sections": [
+                            {
+                                "name": "Speed Charge",
+                                "ref": "Skills/Speed Charge"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Lake",
+                                "x": "0",
+                                "y": "0"
+                            }
+                        ]
+                    },
+                    {
+                        "sections": [
+                            {
+                                "name": "Breakable Floors",
+                                "ref": "Coins/Breakable Floors"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Lake",
+                                "x": "0",
+                                "y": "0"
+                            }
+                        ]
+                    },
+                    {
+                        "sections": [
+                            {
+                                "name": "Bumper Time Puzzle",
+                                "ref": "Coins/Bumper Time Puzzle"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Lake",
+                                "x": "0",
+                                "y": "0"
+                            }
+                        ]
+                    },
+                    {
+                        "sections": [
+                            {
+                                "name": "Bumper",
+                                "ref": "Talismans/Bumper"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Lake",
+                                "x": "0",
+                                "y": "0"
+                            }
+                        ]
+                    },
+                    {
+                        "sections": [
+                            {
+                                "name": "Archer",
+                                "ref": "Talismans/Archer"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Lake",
+                                "x": "0",
+                                "y": "0"
+                            }
+                        ]
+                    },
+                    {
+                        "sections": [
+                            {
+                                "name": "Ninja",
+                                "ref": "Talismans/Ninja"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Lake",
+                                "x": "0",
+                                "y": "0"
+                            }
+                        ]
+                    },
+                    {
+                        "sections": [
+                            {
+                                "name": "Climb",
+                                "ref": "Checkpoints/Climb"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Lake",
+                                "x": "0",
+                                "y": "0"
+                            }
+                        ]
+                    },
+                    {
+                        "sections": [
+                            {
+                                "name": "Ninja",
+                                "ref": "Checkpoints/Ninja"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Lake",
+                                "x": "0",
+                                "y": "0"
+                            }
+                        ]
+                    },
+                    {
                         "name": "Lake Top Left",
                         "access_rules": [
                             "@Lake Top Left Access"
                         ],
-                        "children": []
+                        "children": [
+                            {
+                                "sections": [
+                                    {
+                                        "name": "Fatal Draw",
+                                        "ref": "Skills/Fatal Draw"
+                                    }
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Lake",
+                                        "x": "0",
+                                        "y": "0"
+                                    }
+                                ]
+                            },
+                            {
+                                "sections": [
+                                    {
+                                        "name": "Vagrant I Reward",
+                                        "ref": "Coins/Vagrant I Reward"
+                                    }
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Lake",
+                                        "x": "0",
+                                        "y": "0"
+                                    }
+                                ]
+                            },
+                            {
+                                "sections": [
+                                    {
+                                        "name": "Fatal Draw",
+                                        "ref": "Coins/Fatal Draw"
+                                    }
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Lake",
+                                        "x": "0",
+                                        "y": "0"
+                                    }
+                                ]
+                            }
+                        ]
                     },
                     {
                         "name": "Archer Area",
