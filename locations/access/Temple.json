@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Temple Access",
+    "access_rules": [
+      "@Lake Temple Access,$prologue_done"
+    ]
+  },
+  {
+    "name": "Temple Upper Access",
+    "access_rules": [
+      "@Temple Access,$prologue_done"
+    ]
+  },
+  {
+    "name": "Temple High Access",
+    "access_rules": [
+      "@Temple Upper Access,$demon_blade,$has|DefeatedSamurai,$chain_dash"
+    ]
+  }
+]

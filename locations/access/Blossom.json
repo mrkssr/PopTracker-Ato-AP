@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Blossom",
+    "access_rules": []
+  },
+  {
+    "name": "Crystal Break Area Access",
+    "access_rules": [
+      "$double_jump,$chain_dash"
+    ]
+  },
+  {
+    "name": "Blossom Middle Access",
+    "access_rules": [
+      "$crystal_break,$dash"
+    ]
+  },
+  {
+    "name": "Vagrant Area Access",
+    "access_rules": [
+      "@Blossom Middle Access,$double_jump"
+    ]
+  },
+  {
+    "name": "Bandit Area Access",
+    "access_rules": [
+      "@Blossom Middle Access,$double_jump"
+    ]
+  },
+  {
+    "name": "Blossom Upper Access",
+    "access_rules": [
+      "@Blossom Middle Access,$double_jump,$chain_dash",
+      "@Hills Upper Access"
+    ]
+  }
+]

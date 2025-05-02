@@ -1,0 +1,59 @@
+[
+  {
+    "name": "Lake Access",
+    "access_rules": [
+      "@Fall Upper Access"
+    ]
+  },
+  {
+    "name": "Lake Lower Access",
+    "access_rules": [
+      "@Lake Access,$is_prologue,$double_slash_boost,$dash",
+      "@Lake Access,$is_prologue,$double_jump,$dash",
+      "@Lake Access,$prologue_done,$crystal_break"
+    ]
+  },
+  {
+    "name": "Tiny Warrior Area Access",
+    "access_rules": [
+      "Lake Lower Access,$demon_blade"
+    ]
+  },
+  {
+    "name": "Lake Middle Access",
+    "access_rules": [
+      "@Lake Access,$double_jump,$chain_dash",
+      "@Lake Access,$use_map_jump,$double_jump,$dash"
+    ]
+  },
+  {
+    "name": "Lake Top Left Access",
+    "access_rules": [
+      "@Lake Middle Access,$double_jump,$dash"
+    ]
+  },
+  {
+    "name": "Archer Area Access",
+    "access_rules": [
+      "@Lake Middle Access,$demon_blade"
+    ]
+  },
+  {
+    "name": "Lake East Access",
+    "access_rules": [
+      "@Lake Middle Access,$speed_charge,$double_jump,$chain_dash"
+    ]
+  },
+  {
+    "name": "Lake Upper Access",
+    "access_rules": [
+      "@Lake East Access,$speed_charge,$double_jump,$chain_dash"
+    ]
+  },
+  {
+    "name": "Lake Temple Access",
+    "access_rules": [
+      "@Lake East Access,$double_jump"
+    ]
+  }
+]

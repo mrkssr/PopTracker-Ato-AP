@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Pillar Access",
+    "access_rules": [
+      "@Blossom Upper Access,$double_jump,$chain_dash"
+    ]
+  },
+  {
+    "name": "Spin Area Access",
+    "access_rules": [
+      "@Pillar Access,$spin"
+    ]
+  }
+]

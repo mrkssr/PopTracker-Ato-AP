@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Hills Access",
+    "access_rules": []
+  },
+  {
+    "name": "Hills Middle Access",
+    "access_rules": [
+      "@Hills Access,$dash"
+    ]
+  },
+  {
+    "name": "Hills Upper Access",
+    "access_rules": [
+      "@Hills Middle Access,$dash,$crystal_break",
+      "@Blossom Upper Access"
+    ]
+  }
+]

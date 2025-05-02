@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Swamp Access",
+    "access_rules": [
+      "@Lake East Access,$crystal_break"
+    ]
+  },
+  {
+    "name": "Armor Area Access",
+    "access_rules": [
+      "@Swamp Access,$armor"
+    ]
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "name": "Fall Access",
+    "access_rules": [
+      "@Hills Middle Access"
+    ]
+  },
+  {
+    "name": "Fall Middle Access",
+    "access_rules": [
+      "@Fall Access,$double_jump"
+    ]
+  },
+  {
+    "name": "Fall Upper Access",
+    "access_rules": [
+      "@Fall Middle Access,$double_jump,$double_dash"
+    ]
+  },
+  {
+    "name": "Fall Red Area Hallway Access",
+    "access_rules": [
+      "@Fall Upper Access,$double_jump,$double_dash,$crystal_break",
+      "@Fall Upper Access,$speed_charge,$double_dash,$crystal_break",
+      "@Fall Middle Access,$double_jump,$dash,$crystal_break"
+    ]
+  },
+  {
+    "name": "Phantom Jin Access",
+    "access_rules": [
+      "@Fall Red Area Hallway Access,$has|coin|10"
+    ]
+  },
+  {
+    "name": "Fall Lower Access",
+    "access_rules": [
+      "@Fall Access,$crystal_break"
+    ]
+  },
+  {
+    "name": "Haunt Access",
+    "access_rules": [
+      "@Fall Lower Access,$has|coin|10"
+    ]
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Crimson Access",
+    "access_rules": [
+      "@Fall Red Area Hallway Access"
+    ]
+  },
+  {
+    "name": "Throw Area Access",
+    "access_rules": [
+      "@Crimson Access,$double_jump,$dash,$throw"
+    ]
+  }
+]

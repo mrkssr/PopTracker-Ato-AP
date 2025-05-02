@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Forbidden Access",
+    "access_rules": [
+      "@Crystal Break Area Access,$double_jump,$chain_dash"
+    ]
+  },
+  {
+    "name": "Forbidden Upper Access",
+    "access_rules": [
+      "@Forbidden Access,$double_jump,$chain_dash,$spin,$armor,$throw"
+    ]
+  }
+]
