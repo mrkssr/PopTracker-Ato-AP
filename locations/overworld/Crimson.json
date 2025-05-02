@@ -5,8 +5,49 @@
             {
                 "name": "",
                 "sections": [
+                    {
+                        "name": "",
+                        "ref": ""
+                    }
                 ],
                 "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": "0",
+                        "y": "0"
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "sections": [
+                    {
+                        "name": "",
+                        "ref": ""
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": "0",
+                        "y": "0"
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "sections": [
+                    {
+                        "name": "",
+                        "ref": ""
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": "0",
+                        "y": "0"
+                    }
                 ]
             }
         ]
@@ -17,8 +58,65 @@
             {
                 "name": "",
                 "sections": [
+                    {
+                        "name": "",
+                        "ref": ""
+                    }
                 ],
                 "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": "0",
+                        "y": "0"
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "sections": [
+                    {
+                        "name": "",
+                        "ref": ""
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": "0",
+                        "y": "0"
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "sections": [
+                    {
+                        "name": "",
+                        "ref": ""
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": "0",
+                        "y": "0"
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "sections": [
+                    {
+                        "name": "",
+                        "ref": ""
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": "0",
+                        "y": "0"
+                    }
                 ]
             }
         ]

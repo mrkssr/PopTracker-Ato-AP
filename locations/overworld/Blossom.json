@@ -17,6 +17,86 @@
                         "y": "492"
                     }
                 ]
+            },
+            {
+                "name": "",
+                "sections": [
+                    {
+                        "name": "",
+                        "ref": ""
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": "0",
+                        "y": "0"
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "sections": [
+                    {
+                        "name": "",
+                        "ref": ""
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": "0",
+                        "y": "0"
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "sections": [
+                    {
+                        "name": "",
+                        "ref": ""
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": "0",
+                        "y": "0"
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "sections": [
+                    {
+                        "name": "",
+                        "ref": ""
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": "0",
+                        "y": "0"
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "sections": [
+                    {
+                        "name": "",
+                        "ref": ""
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": "0",
+                        "y": "0"
+                    }
+                ]
             }
         ]
     },
@@ -38,17 +118,117 @@
                         "y": "492"
                     }
                 ]
+            },
+            {
+                "name": "",
+                "sections": [
+                    {
+                        "name": "",
+                        "ref": ""
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": "0",
+                        "y": "0"
+                    }
+                ]
             }
         ]
     },
     {
         "name": "Blossom Middle - Overworld",
         "children": [
-            
+            {
+                "name": "",
+                "sections": [
+                    {
+                        "name": "",
+                        "ref": ""
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": "0",
+                        "y": "0"
+                    }
+                ]
+            }
         ]
     },
     {
         "name": "Vagrant Area - Overworld",
+        "children": [
+            {
+                "name": "",
+                "sections": [
+                    {
+                        "name": "",
+                        "ref": ""
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": "0",
+                        "y": "0"
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "sections": [
+                    {
+                        "name": "",
+                        "ref": ""
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": "0",
+                        "y": "0"
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "sections": [
+                    {
+                        "name": "",
+                        "ref": ""
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": "0",
+                        "y": "0"
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "sections": [
+                    {
+                        "name": "",
+                        "ref": ""
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": "0",
+                        "y": "0"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Bandit Area - Overworld",
         "children": [
             {
                 "name": "rA0_4PowerUp",
@@ -65,17 +245,37 @@
                         "y": "430"
                     }
                 ]
-            }
-        ]
-    },
-    {
-        "name": "Bandit Area - Overworld",
-        "children": [
+            },
             {
                 "name": "",
                 "sections": [
+                    {
+                        "name": "",
+                        "ref": ""
+                    }
                 ],
                 "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": "0",
+                        "y": "0"
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "sections": [
+                    {
+                        "name": "",
+                        "ref": ""
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": "0",
+                        "y": "0"
+                    }
                 ]
             }
         ]
@@ -86,8 +286,129 @@
             {
                 "name": "",
                 "sections": [
+                    {
+                        "name": "",
+                        "ref": ""
+                    }
                 ],
                 "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": "0",
+                        "y": "0"
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "sections": [
+                    {
+                        "name": "",
+                        "ref": ""
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": "0",
+                        "y": "0"
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "sections": [
+                    {
+                        "name": "",
+                        "ref": ""
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": "0",
+                        "y": "0"
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "sections": [
+                    {
+                        "name": "",
+                        "ref": ""
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": "0",
+                        "y": "0"
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "sections": [
+                    {
+                        "name": "",
+                        "ref": ""
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": "0",
+                        "y": "0"
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "sections": [
+                    {
+                        "name": "",
+                        "ref": ""
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": "0",
+                        "y": "0"
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "sections": [
+                    {
+                        "name": "",
+                        "ref": ""
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": "0",
+                        "y": "0"
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "sections": [
+                    {
+                        "name": "",
+                        "ref": ""
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": "0",
+                        "y": "0"
+                    }
                 ]
             }
         ]
