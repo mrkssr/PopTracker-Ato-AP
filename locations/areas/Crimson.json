@@ -1,6 +1,9 @@
 [
     {
         "name": "Crimson",
+        "access_rules": [
+            "@Crimson Access"
+        ],
         "children": [
             {
                 "sections": [
@@ -49,6 +52,9 @@
             },
             {
                 "name": "Throw Area",
+                "access_rules": [
+                    "@Throw Area Access"
+                ],
                 "children": [
                     {
                         "sections": [

@@ -1,7 +1,9 @@
 [
     {
         "name": "Forbidden",
-        "access_rules": [],
+        "access_rules": [
+            "@Forbidden Access"
+        ],
         "children": [
             {
                 "sections": [
@@ -77,6 +79,13 @@
                         "y": "0"
                     }
                 ]
+            },
+            {
+                "name": "Forbidden Upper",
+                "access_rules": [
+                    "@Forbidden Upper Access"
+                ],
+                "children": []
             }
         ]
     }

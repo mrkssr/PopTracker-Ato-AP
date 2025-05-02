@@ -1,6 +1,9 @@
 [
     {
         "name": "Swamp",
+        "access_rules": [
+            "@Swamp Access"
+        ],
         "children": [
             {
                 "sections": [
@@ -49,6 +52,9 @@
             },
             {
                 "name": "Armor Area",
+                "access_rules": [
+                    "@Armor Area Access"
+                ],
                 "children": [
                     {
                         "sections": [

@@ -33,7 +33,10 @@
                 ]
             },
             {
-                "name": "Temple Middle",
+                "name": "Temple Upper",
+                "access_rules": [
+                    "@Temple Upper Access"
+                ],
                 "children": [
                     {
                         "sections": [
@@ -127,6 +130,9 @@
                     },
                     {
                         "name": "Temple High",
+                        "access_rules": [
+                            "@Temple High Access"
+                        ],
                         "children": [
                             {
                                 "sections": [

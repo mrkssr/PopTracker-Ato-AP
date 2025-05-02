@@ -1,6 +1,9 @@
 [
     {
         "name": "Lake",
+        "access_rules": [
+            "@Lake Access"
+        ],
         "children": [
             {
                 "sections": [
@@ -214,6 +217,9 @@
             },
             {
                 "name": "Lake Lower",
+                "access_rules": [
+                    "@Lake Lower Access"
+                ],
                 "children": [
                     {
                         "sections": [
@@ -261,7 +267,10 @@
                         ]
                     },
                     {
-                        "name": "Tiny Warrior",
+                        "name": "Tiny Warrior Area",
+                        "access_rules": [
+                            "@Tiny Warrior Area Access"
+                        ],
                         "children": [
                             {
                                 "sections": [
@@ -298,111 +307,29 @@
                 ]
             },
             {
-                "name": "Archer",
+                "name": "Lake Middle",
+                "access_rules": [
+                    "@Lake Middle Access"
+                ],
                 "children": [
                     {
-                        "sections": [
-                            {
-                                "name": "Chain Dash Upgrade",
-                                "ref": "Skills/Chain Dash Upgrade"
-                            }
+                        "name": "Lake Top Left",
+                        "access_rules": [
+                            "@Lake Top Left Access"
                         ],
-                        "map_locations": [
-                            {
-                                "map": "Lake",
-                                "x": "0",
-                                "y": "0"
-                            }
-                        ]
+                        "children": []
                     },
                     {
-                        "sections": [
-                            {
-                                "name": "Archer",
-                                "ref": "Checkpoints/Archer"
-                            }
+                        "name": "Archer Area",
+                        "access_rules": [
+                            "@Archer Area Access"
                         ],
-                        "map_locations": [
-                            {
-                                "map": "Lake",
-                                "x": "0",
-                                "y": "0"
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "name": "Lake Upper",
-                "children": [
-                    {
-                        "sections": [
-                            {
-                                "name": "Vision",
-                                "ref": "Skills/Vision"
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Lake",
-                                "x": "0",
-                                "y": "0"
-                            }
-                        ]
-                    },
-                    {
-                        "sections": [
-                            {
-                                "name": "Hidden Breakables",
-                                "ref": "Talismans/Hidden Breakables"
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Lake",
-                                "x": "0",
-                                "y": "0"
-                            }
-                        ]
-                    },
-                    {
-                        "sections": [
-                            {
-                                "name": "Sentinel",
-                                "ref": "Talismans/Sentinel"
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Lake",
-                                "x": "0",
-                                "y": "0"
-                            }
-                        ]
-                    },
-                    {
-                        "sections": [
-                            {
-                                "name": "Sentinel",
-                                "ref": "Checkpoints/Sentinel"
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Lake",
-                                "x": "0",
-                                "y": "0"
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Arena Area",
                         "children": [
                             {
                                 "sections": [
                                     {
-                                        "name": "Spin Upgrade",
-                                        "ref": "Skills/Spin Upgrade"
+                                        "name": "Chain Dash Upgrade",
+                                        "ref": "Skills/Chain Dash Upgrade"
                                     }
                                 ],
                                 "map_locations": [
@@ -416,8 +343,8 @@
                             {
                                 "sections": [
                                     {
-                                        "name": "Owl",
-                                        "ref": "Talismans/Owl"
+                                        "name": "Archer",
+                                        "ref": "Checkpoints/Archer"
                                     }
                                 ],
                                 "map_locations": [
@@ -427,57 +354,173 @@
                                         "y": "0"
                                     }
                                 ]
-                            },
-                            {
-                                "sections": [
-                                    {
-                                        "name": "Spin Arena",
-                                        "ref": "Checkpoints/Spin Arena"
-                                    }
-                                ],
-                                "map_locations": [
-                                    {
-                                        "map": "Lake",
-                                        "x": "0",
-                                        "y": "0"
-                                    }
-                                ]
-                            }
-                        ]
-                    }
-
-                ]
-            },
-            {
-                "name": "Lake Temple",
-                "children": [
-                    {
-                        "sections": [
-                            {
-                                "name": "Acolyte",
-                                "ref": "Checkpoints/Acolyte"
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Lake",
-                                "x": "0",
-                                "y": "0"
                             }
                         ]
                     },
                     {
-                        "sections": [
-                            {
-                                "name": "Acolyte",
-                                "ref": "Bosses/Acolyte"
-                            }
+                        "name": "Lake East",
+                        "access_rules": [
+                            "@Lake East Access"
                         ],
-                        "map_locations": [
+                        "children": [
                             {
-                                "map": "Lake",
-                                "x": "0",
-                                "y": "0"
+                                "name": "Lake Upper",
+                                "access_rules": [
+                                    "@Lake Upper Access"
+                                ],
+                                "children": [
+                                    {
+                                        "sections": [
+                                            {
+                                                "name": "Vision",
+                                                "ref": "Skills/Vision"
+                                            }
+                                        ],
+                                        "map_locations": [
+                                            {
+                                                "map": "Lake",
+                                                "x": "0",
+                                                "y": "0"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "sections": [
+                                            {
+                                                "name": "Hidden Breakables",
+                                                "ref": "Talismans/Hidden Breakables"
+                                            }
+                                        ],
+                                        "map_locations": [
+                                            {
+                                                "map": "Lake",
+                                                "x": "0",
+                                                "y": "0"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "sections": [
+                                            {
+                                                "name": "Sentinel",
+                                                "ref": "Talismans/Sentinel"
+                                            }
+                                        ],
+                                        "map_locations": [
+                                            {
+                                                "map": "Lake",
+                                                "x": "0",
+                                                "y": "0"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "sections": [
+                                            {
+                                                "name": "Sentinel",
+                                                "ref": "Checkpoints/Sentinel"
+                                            }
+                                        ],
+                                        "map_locations": [
+                                            {
+                                                "map": "Lake",
+                                                "x": "0",
+                                                "y": "0"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Spin Arena Area",
+                                        "access_rules": [
+                                            "@Spin Arena Area Access"
+                                        ],
+                                        "children": [
+                                            {
+                                                "sections": [
+                                                    {
+                                                        "name": "Spin Upgrade",
+                                                        "ref": "Skills/Spin Upgrade"
+                                                    }
+                                                ],
+                                                "map_locations": [
+                                                    {
+                                                        "map": "Lake",
+                                                        "x": "0",
+                                                        "y": "0"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "sections": [
+                                                    {
+                                                        "name": "Owl",
+                                                        "ref": "Talismans/Owl"
+                                                    }
+                                                ],
+                                                "map_locations": [
+                                                    {
+                                                        "map": "Lake",
+                                                        "x": "0",
+                                                        "y": "0"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "sections": [
+                                                    {
+                                                        "name": "Spin Arena",
+                                                        "ref": "Checkpoints/Spin Arena"
+                                                    }
+                                                ],
+                                                "map_locations": [
+                                                    {
+                                                        "map": "Lake",
+                                                        "x": "0",
+                                                        "y": "0"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Lake Temple",
+                                "access_rules": [
+                                    "@Lake Temple Access"
+                                ],
+                                "children": [
+                                    {
+                                        "sections": [
+                                            {
+                                                "name": "Acolyte",
+                                                "ref": "Checkpoints/Acolyte"
+                                            }
+                                        ],
+                                        "map_locations": [
+                                            {
+                                                "map": "Lake",
+                                                "x": "0",
+                                                "y": "0"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "sections": [
+                                            {
+                                                "name": "Acolyte",
+                                                "ref": "Bosses/Acolyte"
+                                            }
+                                        ],
+                                        "map_locations": [
+                                            {
+                                                "map": "Lake",
+                                                "x": "0",
+                                                "y": "0"
+                                            }
+                                        ]
+                                    }
+                                ]
                             }
                         ]
                     }

@@ -1,6 +1,9 @@
 [
     {
         "name": "Pillar",
+        "access_rules": [
+            "@Pillar Access"
+        ],
         "children": [
             {
                 "sections": [
@@ -34,6 +37,9 @@
             },
             {
                 "name": "Spin Area",
+                "access_rules": [
+                    "@Spin Area Access"
+                ],
                 "children": [
                     {
                         "sections": [

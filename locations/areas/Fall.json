@@ -1,8 +1,12 @@
 [
     {
         "name": "Fall",
+        "access_rules": [
+            "@Fall Access"
+        ],
         "children": [
             {
+                "name": "rA0_23",
                 "sections": [
                     {
                         "name": "Chain Dash",
@@ -50,98 +54,8 @@
             {
                 "sections": [
                     {
-                        "name": "Secret Room",
-                        "ref": "Coins/Secret Room"
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Fall",
-                        "x": "0",
-                        "y": "0"
-                    }
-                ]
-            },
-            {
-                "sections": [
-                    {
-                        "name": "Phantom Jin",
-                        "ref": "Coins/Phantom Jin"
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Fall",
-                        "x": "0",
-                        "y": "0"
-                    }
-                ]
-            },
-            {
-                "sections": [
-                    {
-                        "name": "Red Area Entry",
-                        "ref": "Coins/Red Area Entry"
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Fall",
-                        "x": "0",
-                        "y": "0"
-                    }
-                ]
-            },
-            {
-                "sections": [
-                    {
-                        "name": "Left of Bridge Room",
-                        "ref": "Coins/Left of Bridge Room"
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Fall",
-                        "x": "0",
-                        "y": "0"
-                    }
-                ]
-            },
-            {
-                "sections": [
-                    {
                         "name": "Right of Double Jump Room",
                         "ref": "Coins/Right of Double Jump Room"
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Fall",
-                        "x": "0",
-                        "y": "0"
-                    }
-                ]
-            },
-            {
-                "sections": [
-                    {
-                        "name": "Chain Dash",
-                        "ref": "Talismans/Chain Dash"
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Fall",
-                        "x": "0",
-                        "y": "0"
-                    }
-                ]
-            },
-            {
-                "sections": [
-                    {
-                        "name": "Guardian",
-                        "ref": "Checkpoints/Guardian"
                     }
                 ],
                 "map_locations": [
@@ -168,8 +82,11 @@
                 ]
             },
             {
-                "name" : "Fall Lower",
-                "children" : [
+                "name": "Fall Lower",
+                "access_rules": [
+                    "@Fall Lower Access"
+                ],
+                "children": [
                     {
                         "sections": [
                             {
@@ -220,6 +137,21 @@
                             {
                                 "name": "Tempest",
                                 "ref": "Coins/Tempest"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fall",
+                                "x": "0",
+                                "y": "0"
+                            }
+                        ]
+                    },
+                    {
+                        "sections": [
+                            {
+                                "name": "Secret Room",
+                                "ref": "Coins/Secret Room"
                             }
                         ],
                         "map_locations": [
@@ -291,11 +223,11 @@
                         ]
                     },
                     {
-                        "name" : "Haunt",
+                        "name": "Haunt",
                         "access_rules": [
                             "@Haunt Access"
                         ],
-                        "children" : [
+                        "children": [
                             {
                                 "sections": [
                                     {
@@ -376,13 +308,16 @@
                 ]
             },
             {
-                "name" : "Fall Upper",
-                "children" : [
+                "name": "Fall Middle",
+                "access_rules": [
+                    "@Fall Middle Access"
+                ],
+                "children": [
                     {
                         "sections": [
                             {
-                                "name": "Echo Rune",
-                                "ref": "Runes/Echo Rune"
+                                "name": "Chain Dash",
+                                "ref": "Talismans/Chain Dash"
                             }
                         ],
                         "map_locations": [
@@ -396,8 +331,8 @@
                     {
                         "sections": [
                             {
-                                "name": "Hidden Top",
-                                "ref": "Talismans/Hidden Top"
+                                "name": "Guardian",
+                                "ref": "Checkpoints/Guardian"
                             }
                         ],
                         "map_locations": [
@@ -409,32 +344,133 @@
                         ]
                     },
                     {
-                        "sections": [
-                            {
-                                "name": "Bumper Time Puzzle",
-                                "ref": "Talismans/Bumper Time Puzzle"
-                            }
+                        "name": "Fall Upper",
+                        "access_rules": [
+                            "@Fall Upper Access"
                         ],
-                        "map_locations": [
+                        "children": [
                             {
-                                "map": "Fall",
-                                "x": "0",
-                                "y": "0"
+                                "sections": [
+                                    {
+                                        "name": "Echo Rune",
+                                        "ref": "Runes/Echo Rune"
+                                    }
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Fall",
+                                        "x": "0",
+                                        "y": "0"
+                                    }
+                                ]
+                            },
+                            {
+                                "sections": [
+                                    {
+                                        "name": "Phantom Jin",
+                                        "ref": "Coins/Phantom Jin"
+                                    }
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Fall",
+                                        "x": "0",
+                                        "y": "0"
+                                    }
+                                ]
+                            },
+                            {
+                                "sections": [
+                                    {
+                                        "name": "Red Area Entry",
+                                        "ref": "Coins/Red Area Entry"
+                                    }
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Fall",
+                                        "x": "0",
+                                        "y": "0"
+                                    }
+                                ]
+                            },
+                            {
+                                "sections": [
+                                    {
+                                        "name": "Left of Bridge Room",
+                                        "ref": "Coins/Left of Bridge Room"
+                                    }
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Fall",
+                                        "x": "0",
+                                        "y": "0"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "rA0_17secret",
+                                "sections": [
+                                    {
+                                        "name": "Hidden Top",
+                                        "ref": "Talismans/Hidden Top"
+                                    }
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Fall",
+                                        "x": "0",
+                                        "y": "0"
+                                    }
+                                ]
+                            },
+                            {
+                                "sections": [
+                                    {
+                                        "name": "Bumper Time Puzzle",
+                                        "ref": "Talismans/Bumper Time Puzzle"
+                                    }
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Fall",
+                                        "x": "0",
+                                        "y": "0"
+                                    }
+                                ]
+                            },
+                            {
+                                "sections": [
+                                    {
+                                        "name": "Phantom Jin",
+                                        "ref": "Checkpoints/Phantom Jin"
+                                    }
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Fall",
+                                        "x": "0",
+                                        "y": "0"
+                                    }
+                                ]
                             }
                         ]
                     },
                     {
-                        "sections": [
+                        "name": "Fall Red Area Hallway",
+                        "access_rules": [
+                            "@Fall Red Area Hallway Access"
+                        ],
+                        "children": [
                             {
                                 "name": "Phantom Jin",
-                                "ref": "Checkpoints/Phantom Jin"
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Fall",
-                                "x": "0",
-                                "y": "0"
+                                "access_rules": [
+                                    "@Phantom Jin Access"
+                                ],
+                                "children": [
+                                    
+                                ]
                             }
                         ]
                     }

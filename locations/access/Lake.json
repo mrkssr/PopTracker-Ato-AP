@@ -51,6 +51,12 @@
     ]
   },
   {
+    "name": "Spin Arena Area Access",
+    "access_rules": [
+      "@Lake Upper Access,$has|coin|13,$spin"
+    ]
+  },
+  {
     "name": "Lake Temple Access",
     "access_rules": [
       "@Lake East Access,$double_jump"

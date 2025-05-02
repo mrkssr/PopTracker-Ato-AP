@@ -1,6 +1,9 @@
 [
     {
         "name": "Blossom",
+        "access_rules": [
+            "@Blossom"
+        ],
         "children": [
             {
                 "name": "rA0_4PowerUp",
@@ -125,6 +128,13 @@
                 ]
             },
             {
+                "name": "Crystal Break Area",
+                "access_rules": [
+                    "@Crystal Break Area Access"
+                ],
+                "children": []
+            },
+            {
                 "name": "Blossom Middle",
                 "access_rules": [
                     "@Blossom Middle Access"
@@ -239,6 +249,20 @@
                                 "y": "0"
                             }
                         ]
+                    },
+                    {
+                        "name": "Vagrant Area",
+                        "access_rules": [
+                            "@Vagrant Area Access"
+                        ],
+                        "children": []
+                    },
+                    {
+                        "name": "Bandit Area",
+                        "access_rules": [
+                            "@Bandit Area Access"
+                        ],
+                        "children": []
                     },
                     {
                         "name": "Blossom Upper",

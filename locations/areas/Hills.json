@@ -1,6 +1,9 @@
 [
     {
         "name": "Hills",
+        "access_rules": [
+            "@Hills Access"
+        ],
         "children": [
             {
                 "sections": [
@@ -35,7 +38,7 @@
             {
                 "sections": [
                     {
-                        "name": "Dash",
+                        "name": "Dash Room",
                         "ref": "Talismans/Dash"
                     }
                 ],
