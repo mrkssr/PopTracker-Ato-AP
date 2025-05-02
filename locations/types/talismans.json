@@ -13,11 +13,15 @@
             {
                 "name": "Runway",
                 "access_rules": [
-                    "$speed_charge"
+                    "$speed_charge,$chain_dash"
                 ]
             },
             {
-                "name": "Under Leaves"
+                "name": "Under Leaves",
+                "access_rules": [
+                    "$double_jump",
+                    "$armor"
+                ]
             },
             {
                 "name": "Bandit"
@@ -38,19 +42,34 @@
                 "name": "Twins"
             },
             {
-                "name": "Preview"
+                "name": "Preview",
+                "access_rules": [
+                    "$dash"
+                ]
             },
             {
-                "name": "Top Platforms"
+                "name": "Top Platforms",
+                "access_rules": [
+                    "$dash"
+                ]
             },
             {
-                "name": "Dash"
+                "name": "Dash Room",
+                "access_rules": [
+                    "$dash"
+                ]
             },
             {
-                "name": "Jin"
+                "name": "Jin",
+                "access_rules": [
+                    "$double_jump"
+                ]
             },
             {
-                "name": "Hidden"
+                "name": "Hidden",
+                "access_rules": [
+                    "$double_jump,$dash"
+                ]
             },
             {
                 "name": "Armor Geisha Area"
@@ -65,31 +84,58 @@
                 "name": "Hidden Top"
             },
             {
-                "name": "Bumper Time Puzzle"
+                "name": "Left Red Area Entry"
             },
             {
-                "name": "Chain Dash"
+                "name": "Chain Dash Room",
+                "access_rules": [
+                    "$chain_dash",
+                    "$double_slash_boost",
+                    "$speed_charge,$double_jump"
+                ]
             },
             {
-                "name": "Low Gravity Bumper"
+                "name": "Low Gravity Bumper",
+                "access_rules": [
+                    "$is_prologue,$double_slash_boost,$dash",
+                    "$is_prologue,$double_jump,$dash",
+                    "$prologue_done"
+                ]
             },
             {
-                "name": "Bumper"
+                "name": "Bumper",
+                "access_rules": [
+                    "$double_jump,$chain_dash"
+                ]
             },
             {
-                "name": "Tiny Warrior"
+                "name": "Tiny Warrior",
+                "access_rules": [
+                    "$double_jump,$chain_dash",
+                    "$use_map_jump,$double_jump,$dash"
+                ]
             },
             {
-                "name": "Archer"
+                "name": "Archer",
+                "access_rules": [
+                    "$double_jump,$chain_dash"
+                ]
             },
             {
-                "name": "Ninja"
+                "name": "Ninja",
+                "access_rules": [
+                    "$double_jump,$chain_dash"
+                ]
             },
             {
                 "name": "Hidden Breakables"
             },
             {
-                "name": "Sentinel"
+                "name": "Sentinel",
+                "access_rules": [
+                    "$speed_charge,$dash,$slash_boost",
+                    "$speed_charge,$chain_dash"
+                ]
             },
             {
                 "name": "Owl"

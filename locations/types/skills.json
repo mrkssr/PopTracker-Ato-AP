@@ -4,30 +4,9 @@
         "visibility_rules": [],
         "sections": [
             {
-                "name": "Double Jump",
-                "chest_unopened_img": "/images/items/skills/DoubleJump.png",
-                "chest_opened_img": "/images/items/skills/DoubleJump.png"
-            },
-            {
                 "name": "Dodge",
                 "chest_unopened_img": "/images/items/skills/Dodge.png",
                 "chest_opened_img": "/images/items/skills/Dodge.png"
-            },
-            {
-                "name": "Dodge Upgrade",
-                "chest_unopened_img": "/images/items/skills/DodgeUpgrade.png",
-                "chest_opened_img": "/images/items/skills/DodgeUpgrade.png",
-                "access_rules": [
-                    "$dash"
-                ]
-            },
-            {
-                "name": "Crystal Break",
-                "chest_unopened_img": "/images/items/skills/CrystalBreak.png",
-                "chest_opened_img": "/images/items/skills/CrystalBreak.png",
-                "access_rules": [
-                    "$chain_dash"
-                ]
             },
             {
                 "name": "Dash",
@@ -43,6 +22,30 @@
                 "name": "Chain Dash Upgrade",
                 "chest_unopened_img": "/images/items/skills/ChainDashUpgrade.png",
                 "chest_opened_img": "/images/items/skills/ChainDashUpgrade.png"
+            },
+            {
+                "name": "Double Jump",
+                "chest_unopened_img": "/images/items/skills/DoubleJump.png",
+                "chest_opened_img": "/images/items/skills/DoubleJump.png",
+                "access_rules": [
+                    "$dash"
+                ]
+            },
+            {
+                "name": "Dodge Upgrade",
+                "chest_unopened_img": "/images/items/skills/DodgeUpgrade.png",
+                "chest_opened_img": "/images/items/skills/DodgeUpgrade.png",
+                "access_rules": [
+                    "$dash"
+                ]
+            },
+            {
+                "name": "Crystal Break",
+                "chest_unopened_img": "/images/items/skills/CrystalBreak.png",
+                "chest_opened_img": "/images/items/skills/CrystalBreak.png",
+                "access_rules": [
+                    "$prologue_done"
+                ]
             },
             {
                 "name": "Electric Wind Lethal Strike",
@@ -108,6 +111,23 @@
                 "name": "Triple Slash",
                 "chest_unopened_img": "/images/items/skills/TripleSlash.png",
                 "chest_opened_img": "/images/items/skills/TripleSlash.png"
+            },
+            {
+                "name": "Speed Charge",
+                "chest_unopened_img": "/images/items/skills/SpeedCharge.png",
+                "chest_opened_img": "/images/items/skills/SpeedCharge.png",
+                "access_rules": [
+                    "$double_jump,$chain_dash"
+                ]
+            },
+            {
+                "name": "Vision",
+                "chest_unopened_img": "/images/items/skills/Vision.png",
+                "chest_opened_img": "/images/items/skills/Vision.png",
+                "access_rules": [
+                    "$double_jump,$dash,$crystal_break",
+                    "$double_jump,$armor,$crystal_break"
+                ]
             }
         ]
     }

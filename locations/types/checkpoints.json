@@ -3,13 +3,13 @@
         "name": "Checkpoints",
         "sections": [
             {
+                "name": "Rogue"
+            },
+            {
                 "name": "Bandit"
             },
             {
                 "name": "Vagrant"
-            },
-            {
-                "name": "Rogue"
             },
             {
                 "name": "Twins"
@@ -21,7 +21,10 @@
                 "name": "Throw Arena"
             },
             {
-                "name": "Berserker"
+                "name": "Berserker",
+                "access_rules": [
+                    "$dash"
+                ]
             },
             {
                 "name": "Geisha"
@@ -57,13 +60,19 @@
                 "name": "Archer"
             },
             {
-                "name": "Sentinel"
+                "name": "Sentinel",
+                "access_rules": [
+                    "$double_jump"
+                ]
             },
             {
                 "name": "Spin Arena"
             },
             {
-                "name": "Acolyte"
+                "name": "Acolyte",
+                "access_rules": [
+                    "@Lake Temple Access,$double_jump"
+                ]
             },
             {
                 "name": "Mother"

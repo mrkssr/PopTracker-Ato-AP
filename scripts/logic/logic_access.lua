@@ -64,6 +64,30 @@ function demon_blade()
 end
 -- End Skills
 
+-- Techs
+function use_slash_boost()
+    return true
+end
+
+function use_double_slash_boost()
+    return true
+end
+
+function use_map_jump()
+    return true
+end
+-- End Techs
+
+-- Events
+function prologue_done()
+    return has("prologue_done")
+end
+
+function is_prologue()
+    return not prologue_done()
+end
+-- End Events
+
 -- Shards
 function all_shards()
     return has("blue_shard") and has("red_shard") and has("yellow_shard")
