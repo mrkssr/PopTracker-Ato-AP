@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Fall - Overworld",
+        "children": [
+            {
+                "name": "",
+                "sections": [
+                ],
+                "map_locations": [
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Fall Lower - Overworld",
+        "children": [
+            {
+                "name": "",
+                "sections": [
+                ],
+                "map_locations": [
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Haunt - Overworld",
+        "children": [
+            {
+                "name": "",
+                "sections": [
+                ],
+                "map_locations": [
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Fall Middle - Overworld",
+        "children": [
+            {
+                "name": "",
+                "sections": [
+                ],
+                "map_locations": [
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Fall Upper - Overworld",
+        "children": [
+            {
+                "name": "",
+                "sections": [
+                ],
+                "map_locations": [
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Fall Red Area Hallway - Overworld",
+        "children": [
+            {
+                "name": "",
+                "sections": [
+                ],
+                "map_locations": [
+                ]
+            }
+        ]
+    }
+]

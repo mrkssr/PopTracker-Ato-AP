@@ -1,0 +1,86 @@
+[
+    {
+        "name": "Lake - Overworld",
+        "children": [
+            {
+                "name": "",
+                "sections": [
+                ],
+                "map_locations": [
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Lake Lower - Overworld",
+        "children": [
+            {
+                "name": "",
+                "sections": [
+                ],
+                "map_locations": [
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Tiny Warrior Area - Overworld",
+        "children": [
+            {
+                "name": "",
+                "sections": [
+                ],
+                "map_locations": [
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Lake Middle - Overworld",
+        "children": [
+            {
+                "name": "",
+                "sections": [
+                ],
+                "map_locations": [
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Lake Top Left - Overworld",
+        "children": [
+            {
+                "name": "",
+                "sections": [
+                ],
+                "map_locations": [
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Archer Area - Overworld",
+        "children": [
+            {
+                "name": "",
+                "sections": [
+                ],
+                "map_locations": [
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Lake East - Overworld",
+        "children": [
+            {
+                "name": "",
+                "sections": [
+                ],
+                "map_locations": [
+                ]
+            }
+        ]
+    }
+]

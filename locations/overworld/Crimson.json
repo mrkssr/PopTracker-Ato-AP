@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Crimson - Overworld",
+        "children": [
+            {
+                "name": "",
+                "sections": [
+                ],
+                "map_locations": [
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Throw Area - Overworld",
+        "children": [
+            {
+                "name": "",
+                "sections": [
+                ],
+                "map_locations": [
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Forbidden - Overworld",
+        "children": [
+            {
+                "name": "",
+                "sections": [
+                ],
+                "map_locations": [
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Forbidden Upper - Overworld",
+        "children": [
+            {
+                "name": "",
+                "sections": [
+                ],
+                "map_locations": [
+                ]
+            }
+        ]
+    }
+]
