@@ -1,72 +1,78 @@
 [
     {
-        "name": "Overworld",
+        "name": "Blossom - Overworld",
         "children": [
             {
-                "name": "Blossom Lower",
-                "children": [
+                "name": "rA0_4PowerUp",
+                "sections": [
                     {
-                        "name": "rA0_4PowerUp",
-                        "sections": [
-                            {
-                                "name": "Dodge",
-                                "ref": "Blossom/rA0_4PowerUp/Dodge"
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Overworld",
-                                "x": "812",
-                                "y": "492"
-                            }
-                        ]
-                    },
-                    {
-                        "name": "rA1_8",
-                        "sections": [
-                            {
-                                "name": "Crystal Break",
-                                "ref": "Blossom/Blossom Lower/Crystal Break"
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Overworld",
-                                "x": "483",
-                                "y": "492"
-                            }
-                        ]
+                        "name": "Dodge",
+                        "ref": "Blossom/rA0_4PowerUp/Dodge"
                     }
-                ]
-            },
-            {
-                "name": "Blossom Upper",
-                "children": [
+                ],
+                "map_locations": [
                     {
-                        "name": "rA0_4PowerUp",
-                        "sections": [
-                            {
-                                "name": "Dodge Upgrade",
-                                "ref": "Blossom/Blossom Middle/rA1_4 - Skill/Dodge Upgrade"
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Overworld",
-                                "x": "779",
-                                "y": "430"
-                            }
-                        ]
+                        "map": "Overworld",
+                        "x": "812",
+                        "y": "492"
                     }
                 ]
             }
         ]
     },
     {
-        "name": "Hills",
+        "name": "Crystal Break Area - Overworld",
         "children": [
             {
-                "name": "rA0",
+                "name": "rA1_8",
+                "sections": [
+                    {
+                        "name": "Crystal Break",
+                        "ref": "Blossom/Blossom Lower/Crystal Break"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": "483",
+                        "y": "492"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Blossom Middle - Overworld",
+        "children": [
+            
+        ]
+    },
+    {
+        "name": "Vagrant Area - Overworld",
+        "children": [
+            {
+                "name": "rA0_4PowerUp",
+                "sections": [
+                    {
+                        "name": "Dodge Upgrade",
+                        "ref": "Blossom/Blossom Middle/Bandit Area/rA1_4 - Skill/Dodge Upgrade"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": "779",
+                        "y": "430"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Bandit Area - Overworld",
+        "children": [
+            {
+                "name": "",
                 "sections": [
                 ],
                 "map_locations": [
@@ -75,10 +81,10 @@
         ]
     },
     {
-        "name": "Fall",
+        "name": "Blossom Upper - Overworld",
         "children": [
             {
-                "name": "rA0",
+                "name": "",
                 "sections": [
                 ],
                 "map_locations": [
@@ -87,10 +93,10 @@
         ]
     },
     {
-        "name": "Lake",
+        "name": "Hills - Overworld",
         "children": [
             {
-                "name": "rA0",
+                "name": "",
                 "sections": [
                 ],
                 "map_locations": [
@@ -99,10 +105,10 @@
         ]
     },
     {
-        "name": "Pillar",
+        "name": "Hills Middle - Overworld",
         "children": [
             {
-                "name": "rA0",
+                "name": "",
                 "sections": [
                 ],
                 "map_locations": [
@@ -111,10 +117,10 @@
         ]
     },
     {
-        "name": "Crimson",
+        "name": "Hills Upper - Overworld",
         "children": [
             {
-                "name": "rA0",
+                "name": "",
                 "sections": [
                 ],
                 "map_locations": [
@@ -123,10 +129,10 @@
         ]
     },
     {
-        "name": "Swamp",
+        "name": "Fall - Overworld",
         "children": [
             {
-                "name": "rA0",
+                "name": "",
                 "sections": [
                 ],
                 "map_locations": [
@@ -135,10 +141,10 @@
         ]
     },
     {
-        "name": "Forbidden",
+        "name": "Fall Lower - Overworld",
         "children": [
             {
-                "name": "rA0",
+                "name": "",
                 "sections": [
                 ],
                 "map_locations": [
@@ -147,10 +153,262 @@
         ]
     },
     {
-        "name": "Temple",
+        "name": "Haunt - Overworld",
         "children": [
             {
-                "name": "rA0",
+                "name": "",
+                "sections": [
+                ],
+                "map_locations": [
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Fall Middle - Overworld",
+        "children": [
+            {
+                "name": "",
+                "sections": [
+                ],
+                "map_locations": [
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Fall Upper - Overworld",
+        "children": [
+            {
+                "name": "",
+                "sections": [
+                ],
+                "map_locations": [
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Fall Red Area Hallway - Overworld",
+        "children": [
+            {
+                "name": "",
+                "sections": [
+                ],
+                "map_locations": [
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Lake - Overworld",
+        "children": [
+            {
+                "name": "",
+                "sections": [
+                ],
+                "map_locations": [
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Lake Lower - Overworld",
+        "children": [
+            {
+                "name": "",
+                "sections": [
+                ],
+                "map_locations": [
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Tiny Warrior Area - Overworld",
+        "children": [
+            {
+                "name": "",
+                "sections": [
+                ],
+                "map_locations": [
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Lake Middle - Overworld",
+        "children": [
+            {
+                "name": "",
+                "sections": [
+                ],
+                "map_locations": [
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Lake Top Left - Overworld",
+        "children": [
+            {
+                "name": "",
+                "sections": [
+                ],
+                "map_locations": [
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Archer Area - Overworld",
+        "children": [
+            {
+                "name": "",
+                "sections": [
+                ],
+                "map_locations": [
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Lake East - Overworld",
+        "children": [
+            {
+                "name": "",
+                "sections": [
+                ],
+                "map_locations": [
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Pillar - Overworld",
+        "children": [
+            {
+                "name": "",
+                "sections": [
+                ],
+                "map_locations": [
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Spin Area - Overworld",
+        "children": [
+            {
+                "name": "",
+                "sections": [
+                ],
+                "map_locations": [
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Crimson - Overworld",
+        "children": [
+            {
+                "name": "",
+                "sections": [
+                ],
+                "map_locations": [
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Throw Area - Overworld",
+        "children": [
+            {
+                "name": "",
+                "sections": [
+                ],
+                "map_locations": [
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Swamp - Overworld",
+        "children": [
+            {
+                "name": "",
+                "sections": [
+                ],
+                "map_locations": [
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Armor Area - Overworld",
+        "children": [
+            {
+                "name": "",
+                "sections": [
+                ],
+                "map_locations": [
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Forbidden - Overworld",
+        "children": [
+            {
+                "name": "",
+                "sections": [
+                ],
+                "map_locations": [
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Forbidden Upper - Overworld",
+        "children": [
+            {
+                "name": "",
+                "sections": [
+                ],
+                "map_locations": [
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Temple - Overworld",
+        "children": [
+            {
+                "name": "",
+                "sections": [
+                ],
+                "map_locations": [
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Temple Upper - Overworld",
+        "children": [
+            {
+                "name": "",
+                "sections": [
+                ],
+                "map_locations": [
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Temple High - Overworld",
+        "children": [
+            {
+                "name": "",
                 "sections": [
                 ],
                 "map_locations": [
