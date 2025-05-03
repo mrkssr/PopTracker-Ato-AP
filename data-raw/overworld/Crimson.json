@@ -3,10 +3,8 @@
         "name": "Crimson - Overworld",
         "children": [
             {
-                "name": "rA1_69",
                 "sections": [
                     {
-                        "name": "Throw",
                         "ref": "Crimson/rA1_69/Throw"
                     }
                 ],
@@ -19,10 +17,8 @@
                 ]
             },
             {
-                "name": "rA1_66dark",
                 "sections": [
                     {
-                        "name": "Black Piles Room",
                         "ref": "Crimson/rA1_66dark/Black Piles Room"
                     }
                 ],
@@ -35,10 +31,8 @@
                 ]
             },
             {
-                "name": "rA1_67CP",
                 "sections": [
                     {
-                        "name": "Child",
                         "ref": "Crimson/rA1_67CP/Child"
                     }
                 ],
@@ -56,10 +50,8 @@
         "name": "Throw Area - Overworld",
         "children": [
             {
-                "name": "rA1_79",
                 "sections": [
                     {
-                        "name": "Red Shard",
                         "ref": "Crimson/Throw Area/rA1_79/Red Shard"
                     }
                 ],
@@ -72,10 +64,8 @@
                 ]
             },
             {
-                "name": "rA1_77Coin",
                 "sections": [
                     {
-                        "name": "Yari",
                         "ref": "Crimson/Throw Area/rA1_77Coin/Yari"
                     }
                 ],
@@ -88,10 +78,8 @@
                 ]
             },
             {
-                "name": "rA1_74",
                 "sections": [
                     {
-                        "name": "Yari",
                         "ref": "Crimson/Throw Area/rA1_74/Yari"
                     }
                 ],
@@ -104,10 +92,8 @@
                 ]
             },
             {
-                "name": "rA1_77",
                 "sections": [
                     {
-                        "name": "Yari",
                         "ref": "Crimson/Throw Area/rA1_77/Yari"
                     }
                 ],
