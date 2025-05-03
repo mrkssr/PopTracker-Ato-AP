@@ -5,7 +5,6 @@
             {
                 "sections": [
                     {
-                        "name": "Dodge",
                         "ref": "Blossom/rA0_4PowerUp/Dodge"
                     }
                 ],
@@ -20,8 +19,7 @@
             {
                 "sections": [
                     {
-                        "name": "Dodge Upgrade",
-                        "ref": "Blossom/Blossom Middle/rA1_4 - Skill/Dodge Upgrade"
+                        "ref": "Blossom/Blossom Middle/Bandit Area/rA1_4 - Skill/Dodge Upgrade"
                     }
                 ],
                 "map_locations": [
@@ -35,8 +33,7 @@
             {
                 "sections": [
                     {
-                        "name": "Crystal Break",
-                        "ref": "Blossom/Blossom Lower/Crystal Break"
+                        "ref": "Blossom/Crystal Break Area/rA1_8/Crystal Break"
                     }
                 ],
                 "map_locations": [
