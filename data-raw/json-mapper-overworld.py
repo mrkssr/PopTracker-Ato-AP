@@ -15,10 +15,11 @@ def find_sections_with_refs(overworld_region):
         elif "sections" in overworld_region:
             for section in overworld_region["sections"]:
                 if "ref" in section:
-                    room, object = get_room_and_objectname_from_section(section["ref"])
+                    if section["ref"]:
+                        room, object = get_room_and_objectname_from_reference(section["ref"])
 
-                    overworld_region["name"] = room
-                    section["name"] = object
+                        overworld_region["name"] = room
+                        section["name"] = object
         else:
             print(f"what are you? {overworld_region}")
     else:
@@ -26,9 +27,13 @@ def find_sections_with_refs(overworld_region):
     
     return overworld_region
 
-def get_room_and_objectname_from_section(ref):
+def get_room_and_objectname_from_reference(ref):
     segments = ref.split("/")
-    return segments[-2], segments[-1]
+    try:
+        return segments[-2], segments[-1]
+    except:
+        print(f"ref: {ref}")
+        raise
 
 if os.path.exists(transformed_overworld_destination_folder) and os.path.isdir(transformed_overworld_destination_folder):
     shutil.rmtree(transformed_overworld_destination_folder)
