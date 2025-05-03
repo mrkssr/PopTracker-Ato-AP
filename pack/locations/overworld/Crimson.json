@@ -3,50 +3,50 @@
         "name": "Crimson - Overworld",
         "children": [
             {
-                "name": "",
+                "name": "rA1_69",
                 "sections": [
                     {
-                        "name": "",
-                        "ref": ""
+                        "name": "Throw",
+                        "ref": "Crimson/rA1_69/Throw"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": "0",
-                        "y": "0"
+                        "x": "1337",
+                        "y": "296"
                     }
                 ]
             },
             {
-                "name": "",
+                "name": "rA1_66dark",
                 "sections": [
                     {
-                        "name": "",
-                        "ref": ""
+                        "name": "Black Piles Room",
+                        "ref": "Crimson/rA1_66dark/Black Piles Room"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": "0",
-                        "y": "0"
+                        "x": "1239",
+                        "y": "329"
                     }
                 ]
             },
             {
-                "name": "",
+                "name": "rA1_67CP",
                 "sections": [
                     {
-                        "name": "",
-                        "ref": ""
+                        "name": "Child",
+                        "ref": "Crimson/rA1_67CP/Child"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": "0",
-                        "y": "0"
+                        "x": "1271",
+                        "y": "296"
                     }
                 ]
             }
@@ -56,66 +56,66 @@
         "name": "Throw Area - Overworld",
         "children": [
             {
-                "name": "",
+                "name": "rA1_79",
                 "sections": [
                     {
-                        "name": "",
-                        "ref": ""
+                        "name": "Red Shard",
+                        "ref": "Crimson/Throw Area/rA1_79/Red Shard"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": "0",
-                        "y": "0"
+                        "x": "1764",
+                        "y": "264"
                     }
                 ]
             },
             {
-                "name": "",
+                "name": "rA1_77Coin",
                 "sections": [
                     {
-                        "name": "",
-                        "ref": ""
+                        "name": "Yari",
+                        "ref": "Crimson/Throw Area/rA1_77Coin/Yari"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": "0",
-                        "y": "0"
+                        "x": "1633",
+                        "y": "296"
                     }
                 ]
             },
             {
-                "name": "",
+                "name": "rA1_74",
                 "sections": [
                     {
-                        "name": "",
-                        "ref": ""
+                        "name": "Yari",
+                        "ref": "Crimson/Throw Area/rA1_74/Yari"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": "0",
-                        "y": "0"
+                        "x": "1436",
+                        "y": "230"
                     }
                 ]
             },
             {
-                "name": "",
+                "name": "rA1_77",
                 "sections": [
                     {
-                        "name": "",
-                        "ref": ""
+                        "name": "Yari",
+                        "ref": "Crimson/Throw Area/rA1_77/Yari"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": "0",
-                        "y": "0"
+                        "x": "1649",
+                        "y": "247"
                     }
                 ]
             }

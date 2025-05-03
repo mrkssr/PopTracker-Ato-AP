@@ -6,6 +6,7 @@
         ],
         "children": [
             {
+                "name": "rA1_69",
                 "sections": [
                     {
                         "ref": "Skills/Throw"
@@ -14,12 +15,13 @@
                 "map_locations": [
                     {
                         "map": "Crimson",
-                        "x": "0",
-                        "y": "0"
+                        "x": "495",
+                        "y": "352"
                     }
                 ]
             },
             {
+                "name": "rA1_66dark",
                 "sections": [
                     {
                         "ref": "Talismans/Black Piles Room"
@@ -28,12 +30,13 @@
                 "map_locations": [
                     {
                         "map": "Crimson",
-                        "x": "0",
-                        "y": "0"
+                        "x": "86",
+                        "y": "492"
                     }
                 ]
             },
             {
+                "name": "rA1_67CP",
                 "sections": [
                     {
                         "ref": "Checkpoints/Child"
@@ -42,8 +45,8 @@
                 "map_locations": [
                     {
                         "map": "Crimson",
-                        "x": "0",
-                        "y": "0"
+                        "x": "210",
+                        "y": "352"
                     }
                 ]
             },
@@ -54,6 +57,7 @@
                 ],
                 "children": [
                     {
+                        "name": "rA1_79",
                         "sections": [
                             {
                                 "ref": "Shards/Red Shard"
@@ -62,12 +66,13 @@
                         "map_locations": [
                             {
                                 "map": "Crimson",
-                                "x": "0",
-                                "y": "0"
+                                "x": "2268",
+                                "y": "222"
                             }
                         ]
                     },
                     {
+                        "name": "rA1_77Coin",
                         "sections": [
                             {
                                 "ref": "Coins/Yari"
@@ -76,12 +81,13 @@
                         "map_locations": [
                             {
                                 "map": "Crimson",
-                                "x": "0",
-                                "y": "0"
+                                "x": "1721",
+                                "y": "353"
                             }
                         ]
                     },
                     {
+                        "name": "rA1_74",
                         "sections": [
                             {
                                 "ref": "Talismans/Yari"
@@ -90,12 +96,13 @@
                         "map_locations": [
                             {
                                 "map": "Crimson",
-                                "x": "0",
-                                "y": "0"
+                                "x": "900",
+                                "y": "81"
                             }
                         ]
                     },
                     {
+                        "name": "rA1_77",
                         "sections": [
                             {
                                 "ref": "Checkpoints/Yari"
@@ -104,8 +111,8 @@
                         "map_locations": [
                             {
                                 "map": "Crimson",
-                                "x": "0",
-                                "y": "0"
+                                "x": "1780",
+                                "y": "145"
                             }
                         ]
                     }

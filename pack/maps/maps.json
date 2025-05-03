@@ -43,7 +43,7 @@
     },
     {
         "name": "Crimson",
-        "location_size": 40,
+        "location_size": 42,
         "location_border_thickness": 2,
         "img": "images/maps/Crimson.png"
     },
