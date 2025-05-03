@@ -19,8 +19,6 @@ def find_sections_with_refs(overworld_region):
 
                     overworld_region["name"] = room
                     section["name"] = object
-
-            print(f"section")
         else:
             print(f"what are you? {overworld_region}")
     else:
@@ -43,8 +41,6 @@ for key in overworld:
 
     for idx, overworld_region in enumerate(overworld_data):
         overworld_data[idx] = find_sections_with_refs(overworld_region)
-
-    print(overworld_data)
 
     with open(f'{transformed_overworld_destination_folder}/{key}.json', 'w') as file:
         json.dump(overworld_data, file, indent = 4, sort_keys=False)
