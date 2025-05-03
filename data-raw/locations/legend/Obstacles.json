@@ -1,22 +1,1133 @@
 [
     {
         "name": "Shards - Legend",
-        "children": []
+        "children": [
+            {
+                "sections": [
+                    {
+                        "ref": "Pillar/Spin Area/rA1_28/Blue Shard"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "MapLegend",
+                        "x": "0",
+                        "y": "0"
+                    }
+                ]
+            },
+            {
+                "sections": [
+                    {
+                        "ref": "Crimson/Throw Area/rA1_79/Red Shard"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "MapLegend",
+                        "x": "0",
+                        "y": "0"
+                    }
+                ]
+            },
+            {
+                "sections": [
+                    {
+                        "ref": "Swamp/Armor Area/rA1_112/Yellow Shard"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "MapLegend",
+                        "x": "0",
+                        "y": "0"
+                    }
+                ]
+            }
+        ]
     },
     {
         "name": "Runes - Legend",
-        "children": []
+        "children": [
+            {
+                "sections": [
+                    {
+                        "ref": "Blossom/Blossom Middle/Blossom Upper/rA1_35 - Rune/Juggernaut Rune"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "MapLegend",
+                        "x": "0",
+                        "y": "0"
+                    }
+                ]
+            },
+            {
+                "sections": [
+                    {
+                        "ref": "Fall/Fall Lower/rA1_59BossHiddenReward/Mind Rune"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "MapLegend",
+                        "x": "0",
+                        "y": "0"
+                    }
+                ]
+            },
+            {
+                "sections": [
+                    {
+                        "ref": "Fall/Fall Red Area Hallway/Phantom Jin/rA1_64/Echo Rune"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "MapLegend",
+                        "x": "0",
+                        "y": "0"
+                    }
+                ]
+            },
+            {
+                "sections": [
+                    {
+                        "ref": "Hills/Hills Middle/rA0_10 - Rune/Flurry Rune"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "MapLegend",
+                        "x": "0",
+                        "y": "0"
+                    }
+                ]
+            },
+            {
+                "sections": [
+                    {
+                        "ref": "Temple/Temple Upper/rA1_148Boss - Rune/Risk Rune"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "MapLegend",
+                        "x": "0",
+                        "y": "0"
+                    }
+                ]
+            },
+            {
+                "sections": [
+                    {
+                        "ref": "Temple/Temple Upper/Temple High/rA1_153Boss/Agility Rune"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "MapLegend",
+                        "x": "0",
+                        "y": "0"
+                    }
+                ]
+            }
+        ]
     },
     {
-        "name": "Magic Bar - Legend",
-        "children": []
+        "name": "Magic Bars - Legend",
+        "children": [
+            {
+                "sections": [
+                    {
+                        "ref": "Blossom/Blossom Middle/Vagrant Area/rA1_1VagrantBossFinalReward/Magic Bar Vagrant"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "MapLegend",
+                        "x": "0",
+                        "y": "0"
+                    }
+                ]
+            },
+            {
+                "sections": [
+                    {
+                        "ref": "Lake/Lake Lower/Tiny Warrior Area/rA1_171TWReward/Magic Bar Tiny Warrior"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "MapLegend",
+                        "x": "0",
+                        "y": "0"
+                    }
+                ]
+            }
+        ]
     },
     {
         "name": "Coins - Legend",
-        "children": []
+        "children": [
+            {
+                "sections": [
+                    {
+                        "ref": "Blossom/rA1_136Love/Love Room"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "MapLegend",
+                        "x": "0",
+                        "y": "0"
+                    }
+                ]
+            },
+            {
+                "sections": [
+                    {
+                        "ref": "Blossom/rA0_5Coin/Rogue"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "MapLegend",
+                        "x": "0",
+                        "y": "0"
+                    }
+                ]
+            },
+            {
+                "sections": [
+                    {
+                        "ref": "Blossom/Crystal Break Area/rA1_8Basement/Basement"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "MapLegend",
+                        "x": "0",
+                        "y": "0"
+                    }
+                ]
+            },
+            {
+                "sections": [
+                    {
+                        "ref": "Blossom/Blossom Middle/Vagrant Area/rA1_1Coin0/Hub Left"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "MapLegend",
+                        "x": "0",
+                        "y": "0"
+                    }
+                ]
+            },
+            {
+                "sections": [
+                    {
+                        "ref": "Blossom/Blossom Middle/Vagrant Area/rA1_1Coin1/Hub Up"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "MapLegend",
+                        "x": "0",
+                        "y": "0"
+                    }
+                ]
+            },
+            {
+                "sections": [
+                    {
+                        "ref": "Blossom/Blossom Middle/Blossom Upper/rA1_29VagrantBossReward/Vagrant II Reward"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "MapLegend",
+                        "x": "0",
+                        "y": "0"
+                    }
+                ]
+            },
+            {
+                "sections": [
+                    {
+                        "ref": "Hills/rA1_43/8 Coins Door"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "MapLegend",
+                        "x": "0",
+                        "y": "0"
+                    }
+                ]
+            },
+            {
+                "sections": [
+                    {
+                        "ref": "Hills/Hills Middle/rA0_9Coin/Hidden Time Puzzle"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "MapLegend",
+                        "x": "0",
+                        "y": "0"
+                    }
+                ]
+            },
+            {
+                "sections": [
+                    {
+                        "ref": "Hills/Hills Middle/Hills Upper/rA1_37/Phantom Shin"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "MapLegend",
+                        "x": "0",
+                        "y": "0"
+                    }
+                ]
+            },
+            {
+                "sections": [
+                    {
+                        "ref": "Hills/Hills Middle/Hills Upper/rA1_39Coin/Behind Warp"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "MapLegend",
+                        "x": "0",
+                        "y": "0"
+                    }
+                ]
+            },
+            {
+                "sections": [
+                    {
+                        "ref": "Fall/rA0_19Coin/Right of Double Jump Room"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "MapLegend",
+                        "x": "0",
+                        "y": "0"
+                    }
+                ]
+            },
+            {
+                "sections": [
+                    {
+                        "ref": "Fall/Fall Lower/rA1_165Coin/Tempest"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "MapLegend",
+                        "x": "0",
+                        "y": "0"
+                    }
+                ]
+            },
+            {
+                "sections": [
+                    {
+                        "ref": "Fall/Fall Lower/rA0_14Secret/Secret Room"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "MapLegend",
+                        "x": "0",
+                        "y": "0"
+                    }
+                ]
+            },
+            {
+                "sections": [
+                    {
+                        "ref": "Fall/Fall Lower/Haunt/rA1_54/Twitch Arena"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "MapLegend",
+                        "x": "0",
+                        "y": "0"
+                    }
+                ]
+            },
+            {
+                "sections": [
+                    {
+                        "ref": "Fall/Fall Middle/Fall Upper/rA0_24/Right Red Area Entry"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "MapLegend",
+                        "x": "0",
+                        "y": "0"
+                    }
+                ]
+            },
+            {
+                "sections": [
+                    {
+                        "ref": "Fall/Fall Middle/Fall Upper/rA0_26Coin/Left of Bridge Room"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "MapLegend",
+                        "x": "0",
+                        "y": "0"
+                    }
+                ]
+            },
+            {
+                "sections": [
+                    {
+                        "ref": "Fall/Fall Red Area Hallway/Phantom Jin/rA1_65Coin/Phantom Jin"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "MapLegend",
+                        "x": "0",
+                        "y": "0"
+                    }
+                ]
+            },
+            {
+                "sections": [
+                    {
+                        "ref": "Lake/rA0_28/After Bridge Drop"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "MapLegend",
+                        "x": "0",
+                        "y": "0"
+                    }
+                ]
+            },
+            {
+                "sections": [
+                    {
+                        "ref": "Lake/Lake Lower/rA1_169/Tiny Warrior Entry"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "MapLegend",
+                        "x": "0",
+                        "y": "0"
+                    }
+                ]
+            },
+            {
+                "sections": [
+                    {
+                        "ref": "Lake/Lake Lower/rA1_139/Time Puzzle Tiny Warrior"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "MapLegend",
+                        "x": "0",
+                        "y": "0"
+                    }
+                ]
+            },
+            {
+                "sections": [
+                    {
+                        "ref": "Lake/Lake Middle/rA0_84Coin/Breakable Floors"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "MapLegend",
+                        "x": "0",
+                        "y": "0"
+                    }
+                ]
+            },
+            {
+                "sections": [
+                    {
+                        "ref": "Lake/Lake Middle/rA0_36Coin/Bumper Time Puzzle"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "MapLegend",
+                        "x": "0",
+                        "y": "0"
+                    }
+                ]
+            },
+            {
+                "sections": [
+                    {
+                        "ref": "Lake/Lake Middle/Lake Top Left/rA1_81VagrantBossReward/Vagrant I Reward"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "MapLegend",
+                        "x": "0",
+                        "y": "0"
+                    }
+                ]
+            },
+            {
+                "sections": [
+                    {
+                        "ref": "Lake/Lake Middle/Lake Top Left/rA1_82/Fatal Draw"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "MapLegend",
+                        "x": "0",
+                        "y": "0"
+                    }
+                ]
+            },
+            {
+                "sections": [
+                    {
+                        "ref": "Pillar/Spin Area/rA1_23/Spins"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "MapLegend",
+                        "x": "0",
+                        "y": "0"
+                    }
+                ]
+            },
+            {
+                "sections": [
+                    {
+                        "ref": "Crimson/Throw Area/rA1_77Coin/Yari"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "MapLegend",
+                        "x": "0",
+                        "y": "0"
+                    }
+                ]
+            },
+            {
+                "sections": [
+                    {
+                        "ref": "Swamp/Armor Area/rA1_100Coin/Armor Time Puzzle"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "MapLegend",
+                        "x": "0",
+                        "y": "0"
+                    }
+                ]
+            },
+            {
+                "sections": [
+                    {
+                        "ref": "Swamp/Armor Area/rA1_105/Father"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "MapLegend",
+                        "x": "0",
+                        "y": "0"
+                    }
+                ]
+            },
+            {
+                "sections": [
+                    {
+                        "ref": "Forbidden/rA1_122/Most Left"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "MapLegend",
+                        "x": "0",
+                        "y": "0"
+                    }
+                ]
+            },
+            {
+                "sections": [
+                    {
+                        "ref": "Temple/rA1_144Coin/Double Jump Paradise"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "MapLegend",
+                        "x": "0",
+                        "y": "0"
+                    }
+                ]
+            },
+            {
+                "sections": [
+                    {
+                        "ref": "Temple/Temple Upper/rA1_151/Switch Puzzle"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "MapLegend",
+                        "x": "0",
+                        "y": "0"
+                    }
+                ]
+            },
+            {
+                "sections": [
+                    {
+                        "ref": "Temple/Temple Upper/rA1_152/Black Area Entry"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "MapLegend",
+                        "x": "0",
+                        "y": "0"
+                    }
+                ]
+            }
+        ]
     },
     {
         "name": "Talismans - Legend",
-        "children": []
+        "children": [
+            {
+                "sections": [
+                    {
+                        "ref": "Blossom/rA0_0/Start Room"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "MapLegend",
+                        "x": "0",
+                        "y": "0"
+                    }
+                ]
+            },
+            {
+                "sections": [
+                    {
+                        "ref": "Blossom/rA1_0runway/Runway"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "MapLegend",
+                        "x": "0",
+                        "y": "0"
+                    }
+                ]
+            },
+            {
+                "sections": [
+                    {
+                        "ref": "Blossom/Blossom Middle/rA1_1under/Under Leaves"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "MapLegend",
+                        "x": "0",
+                        "y": "0"
+                    }
+                ]
+            },
+            {
+                "sections": [
+                    {
+                        "ref": "Blossom/Blossom Middle/Bandit Area/rA1_4 - Talisman/Bandit"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "MapLegend",
+                        "x": "0",
+                        "y": "0"
+                    }
+                ]
+            },
+            {
+                "sections": [
+                    {
+                        "ref": "Blossom/Blossom Middle/Blossom Upper/rA1_9/Leave Room"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "MapLegend",
+                        "x": "0",
+                        "y": "0"
+                    }
+                ]
+            },
+            {
+                "sections": [
+                    {
+                        "ref": "Blossom/Blossom Middle/Blossom Upper/rA1_11Armor/Behind Rocks"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "MapLegend",
+                        "x": "0",
+                        "y": "0"
+                    }
+                ]
+            },
+            {
+                "sections": [
+                    {
+                        "ref": "Blossom/Blossom Middle/Blossom Upper/rA1_36/Spin Puzzle"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "MapLegend",
+                        "x": "0",
+                        "y": "0"
+                    }
+                ]
+            },
+            {
+                "sections": [
+                    {
+                        "ref": "Blossom/Blossom Middle/Blossom Upper/rA1_32Deflector/Deflector"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "MapLegend",
+                        "x": "0",
+                        "y": "0"
+                    }
+                ]
+            },
+            {
+                "sections": [
+                    {
+                        "ref": "Blossom/Blossom Middle/Blossom Upper/rA1_35 - Talisman/Twins"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "MapLegend",
+                        "x": "0",
+                        "y": "0"
+                    }
+                ]
+            },
+            {
+                "sections": [
+                    {
+                        "ref": "Hills/rA0_7 - Talisman/Dash Room"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "MapLegend",
+                        "x": "0",
+                        "y": "0"
+                    }
+                ]
+            },
+            {
+                "sections": [
+                    {
+                        "ref": "Hills/Hills Middle/rA0_9/Preview"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "MapLegend",
+                        "x": "0",
+                        "y": "0"
+                    }
+                ]
+            },
+            {
+                "sections": [
+                    {
+                        "ref": "Hills/Hills Middle/rA0_8/Top Platforms"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "MapLegend",
+                        "x": "0",
+                        "y": "0"
+                    }
+                ]
+            },
+            {
+                "sections": [
+                    {
+                        "ref": "Hills/Hills Middle/rA0_7/Jin"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "MapLegend",
+                        "x": "0",
+                        "y": "0"
+                    }
+                ]
+            },
+            {
+                "sections": [
+                    {
+                        "ref": "Fall/Fall Lower/tA1_56Fans/Fans"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "MapLegend",
+                        "x": "0",
+                        "y": "0"
+                    }
+                ]
+            },
+            {
+                "sections": [
+                    {
+                        "ref": "Fall/Fall Lower/rA1_57Secret/Secret"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "MapLegend",
+                        "x": "0",
+                        "y": "0"
+                    }
+                ]
+            },
+            {
+                "sections": [
+                    {
+                        "ref": "Fall/Fall Lower/Haunt/rA1_46Hidden/Hidden"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "MapLegend",
+                        "x": "0",
+                        "y": "0"
+                    }
+                ]
+            },
+            {
+                "sections": [
+                    {
+                        "ref": "Fall/Fall Lower/Haunt/rA1_47Armor/Armor Haunt Area"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "MapLegend",
+                        "x": "0",
+                        "y": "0"
+                    }
+                ]
+            },
+            {
+                "sections": [
+                    {
+                        "ref": "Fall/Fall Middle/rA0_23 - Talisman/Chain Dash Room"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "MapLegend",
+                        "x": "0",
+                        "y": "0"
+                    }
+                ]
+            },
+            {
+                "sections": [
+                    {
+                        "ref": "Fall/Fall Middle/rA0_17secret/Hidden Top"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "MapLegend",
+                        "x": "0",
+                        "y": "0"
+                    }
+                ]
+            },
+            {
+                "sections": [
+                    {
+                        "ref": "Fall/Fall Middle/rA0_16Secret/Left Red Area Entry"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "MapLegend",
+                        "x": "0",
+                        "y": "0"
+                    }
+                ]
+            },
+            {
+                "sections": [
+                    {
+                        "ref": "Lake/rA0_31Secret/Low Gravity Bumper"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "MapLegend",
+                        "x": "0",
+                        "y": "0"
+                    }
+                ]
+            },
+            {
+                "sections": [
+                    {
+                        "ref": "Lake/Lake Lower/rA0_32secret/Tiny Warrior"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "MapLegend",
+                        "x": "0",
+                        "y": "0"
+                    }
+                ]
+            },
+            {
+                "sections": [
+                    {
+                        "ref": "Lake/Lake Middle/rA1_84/Bumper"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "MapLegend",
+                        "x": "0",
+                        "y": "0"
+                    }
+                ]
+            },
+            {
+                "sections": [
+                    {
+                        "ref": "Lake/Lake Middle/rA0_37/Archer"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "MapLegend",
+                        "x": "0",
+                        "y": "0"
+                    }
+                ]
+            },
+            {
+                "sections": [
+                    {
+                        "ref": "Lake/Lake Middle/rA0_39/Ninja"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "MapLegend",
+                        "x": "0",
+                        "y": "0"
+                    }
+                ]
+            },
+            {
+                "sections": [
+                    {
+                        "ref": "Lake/Lake Middle/Lake East/Lake Upper/rA1_92/Hidden Breakables"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "MapLegend",
+                        "x": "0",
+                        "y": "0"
+                    }
+                ]
+            },
+            {
+                "sections": [
+                    {
+                        "ref": "Lake/Lake Middle/Lake East/Lake Upper/rA1_87/Sentinel"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "MapLegend",
+                        "x": "0",
+                        "y": "0"
+                    }
+                ]
+            },
+            {
+                "sections": [
+                    {
+                        "ref": "Lake/Lake Middle/Lake East/Lake Upper/Spin Arena Area/rA1_FH0/Owl"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "MapLegend",
+                        "x": "0",
+                        "y": "0"
+                    }
+                ]
+            },
+            {
+                "sections": [
+                    {
+                        "ref": "Pillar/Spin Area/rA1_20/Spins"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "MapLegend",
+                        "x": "0",
+                        "y": "0"
+                    }
+                ]
+            },
+            {
+                "sections": [
+                    {
+                        "ref": "Pillar/Spin Area/rA1_25CP - Talisman/Ancient Warrior"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "MapLegend",
+                        "x": "0",
+                        "y": "0"
+                    }
+                ]
+            },
+            {
+                "sections": [
+                    {
+                        "ref": "Crimson/rA1_66dark/Black Piles Room"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "MapLegend",
+                        "x": "0",
+                        "y": "0"
+                    }
+                ]
+            },
+            {
+                "sections": [
+                    {
+                        "ref": "Crimson/Throw Area/rA1_74/Yari"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "MapLegend",
+                        "x": "0",
+                        "y": "0"
+                    }
+                ]
+            },
+            {
+                "sections": [
+                    {
+                        "ref": "Swamp/rA1_97/Throws"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "MapLegend",
+                        "x": "0",
+                        "y": "0"
+                    }
+                ]
+            },
+            {
+                "sections": [
+                    {
+                        "ref": "Swamp/Armor Area/rA1_102/Warps"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "MapLegend",
+                        "x": "0",
+                        "y": "0"
+                    }
+                ]
+            },
+            {
+                "sections": [
+                    {
+                        "ref": "Temple/Temple Upper/rA1_151Coin/Warp Obstacles"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "MapLegend",
+                        "x": "0",
+                        "y": "0"
+                    }
+                ]
+            },
+            {
+                "sections": [
+                    {
+                        "ref": "Temple/rA1_145/Lore Room"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "MapLegend",
+                        "x": "0",
+                        "y": "0"
+                    }
+                ]
+            }
+        ]
     }
 ]

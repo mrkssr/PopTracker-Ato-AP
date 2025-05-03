@@ -6,6 +6,7 @@
         ],
         "children": [
             {
+                "name": "rA0_28",
                 "sections": [
                     {
                         "ref": "Coins/After Bridge Drop"
@@ -20,6 +21,7 @@
                 ]
             },
             {
+                "name": "rA0_31Secret",
                 "sections": [
                     {
                         "ref": "Talismans/Low Gravity Bumper"
@@ -34,6 +36,7 @@
                 ]
             },
             {
+                "name": "rA0_27",
                 "sections": [
                     {
                         "ref": "Checkpoints/Bridge Drop"
@@ -54,6 +57,7 @@
                 ],
                 "children": [
                     {
+                        "name": "rA1_169",
                         "sections": [
                             {
                                 "ref": "Coins/Tiny Warrior Entry"
@@ -68,6 +72,7 @@
                         ]
                     },
                     {
+                        "name": "rA1_139",
                         "sections": [
                             {
                                 "ref": "Coins/Time Puzzle Tiny Warrior"
@@ -82,6 +87,7 @@
                         ]
                     },
                     {
+                        "name": "rA0_32secret",
                         "sections": [
                             {
                                 "ref": "Talismans/Tiny Warrior"
@@ -102,6 +108,7 @@
                         ],
                         "children": [
                             {
+                                "name": "rA1_171TWReward",
                                 "sections": [
                                     {
                                         "ref": "Magic Bars/Magic Bar Tiny Warrior"
@@ -116,6 +123,7 @@
                                 ]
                             },
                             {
+                                "name": "rA1_170",
                                 "sections": [
                                     {
                                         "ref": "Checkpoints/Tiny Warrior"
@@ -140,6 +148,7 @@
                 ],
                 "children": [
                     {
+                        "name": "rA0_40",
                         "sections": [
                             {
                                 "ref": "Skills/Speed Charge"
@@ -154,6 +163,7 @@
                         ]
                     },
                     {
+                        "name": "rA0_84Coin",
                         "sections": [
                             {
                                 "ref": "Coins/Breakable Floors"
@@ -168,6 +178,7 @@
                         ]
                     },
                     {
+                        "name": "rA0_36Coin",
                         "sections": [
                             {
                                 "ref": "Coins/Bumper Time Puzzle"
@@ -182,6 +193,7 @@
                         ]
                     },
                     {
+                        "name": "rA1_84",
                         "sections": [
                             {
                                 "ref": "Talismans/Bumper"
@@ -196,6 +208,7 @@
                         ]
                     },
                     {
+                        "name": "rA0_37",
                         "sections": [
                             {
                                 "ref": "Talismans/Archer"
@@ -210,6 +223,7 @@
                         ]
                     },
                     {
+                        "name": "rA0_39",
                         "sections": [
                             {
                                 "ref": "Talismans/Ninja"
@@ -224,6 +238,7 @@
                         ]
                     },
                     {
+                        "name": "rA0_36",
                         "sections": [
                             {
                                 "ref": "Checkpoints/Climb"
@@ -238,6 +253,7 @@
                         ]
                     },
                     {
+                        "name": "rA0_38hallway",
                         "sections": [
                             {
                                 "ref": "Checkpoints/Ninja"
@@ -258,6 +274,7 @@
                         ],
                         "children": [
                             {
+                                "name": "rA1_82FatalDraw",
                                 "sections": [
                                     {
                                         "ref": "Skills/Fatal Draw"
@@ -272,6 +289,7 @@
                                 ]
                             },
                             {
+                                "name": "rA1_81VagrantBossReward",
                                 "sections": [
                                     {
                                         "ref": "Coins/Vagrant I Reward"
@@ -286,6 +304,7 @@
                                 ]
                             },
                             {
+                                "name": "rA1_82",
                                 "sections": [
                                     {
                                         "ref": "Coins/Fatal Draw"
@@ -308,6 +327,7 @@
                         ],
                         "children": [
                             {
+                                "name": "rA1_168ArcherReward",
                                 "sections": [
                                     {
                                         "ref": "Skills/Chain Dash Upgrade"
@@ -322,6 +342,7 @@
                                 ]
                             },
                             {
+                                "name": "rA1_167",
                                 "sections": [
                                     {
                                         "ref": "Checkpoints/Archer"
@@ -350,6 +371,7 @@
                                 ],
                                 "children": [
                                     {
+                                        "name": "rA1_91",
                                         "sections": [
                                             {
                                                 "ref": "Skills/Vision"
@@ -364,6 +386,7 @@
                                         ]
                                     },
                                     {
+                                        "name": "rA1_92",
                                         "sections": [
                                             {
                                                 "ref": "Talismans/Hidden Breakables"
@@ -378,6 +401,7 @@
                                         ]
                                     },
                                     {
+                                        "name": "rA1_87",
                                         "sections": [
                                             {
                                                 "ref": "Talismans/Sentinel"
@@ -392,6 +416,7 @@
                                         ]
                                     },
                                     {
+                                        "name": "rA1_86",
                                         "sections": [
                                             {
                                                 "ref": "Checkpoints/Sentinel"
@@ -412,6 +437,7 @@
                                         ],
                                         "children": [
                                             {
+                                                "name": "rA1_94ArenaSpin",
                                                 "sections": [
                                                     {
                                                         "ref": "Skills/Spin Upgrade"
@@ -426,6 +452,7 @@
                                                 ]
                                             },
                                             {
+                                                "name": "rA1_FH0",
                                                 "sections": [
                                                     {
                                                         "ref": "Talismans/Owl"
@@ -440,6 +467,7 @@
                                                 ]
                                             },
                                             {
+                                                "name": "rA1_93CP",
                                                 "sections": [
                                                     {
                                                         "ref": "Checkpoints/Spin Arena"
@@ -464,6 +492,7 @@
                                 ],
                                 "children": [
                                     {
+                                        "name": "rA0_44",
                                         "sections": [
                                             {
                                                 "ref": "Checkpoints/Acolyte"
@@ -478,6 +507,7 @@
                                         ]
                                     },
                                     {
+                                        "name": "rA0_45Boss",
                                         "sections": [
                                             {
                                                 "ref": "Bosses/Acolyte"

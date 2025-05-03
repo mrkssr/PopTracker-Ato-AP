@@ -3,11 +3,9 @@
         "name": "Temple - Overworld",
         "children": [
             {
-                "name": "",
                 "sections": [
                     {
-                        "name": "",
-                        "ref": ""
+                        "ref": "Temple/rA1_144Coin/Double Jump Paradise"
                     }
                 ],
                 "map_locations": [
@@ -19,11 +17,9 @@
                 ]
             },
             {
-                "name": "",
                 "sections": [
                     {
-                        "name": "",
-                        "ref": ""
+                        "ref": "Temple/rA1_145/Lore Room"
                     }
                 ],
                 "map_locations": [
@@ -40,11 +36,9 @@
         "name": "Temple Upper - Overworld",
         "children": [
             {
-                "name": "",
                 "sections": [
                     {
-                        "name": "",
-                        "ref": ""
+                        "ref": "Temple/Temple Upper/rA1_148Boss - Rune/Risk Rune"
                     }
                 ],
                 "map_locations": [
@@ -56,11 +50,9 @@
                 ]
             },
             {
-                "name": "",
                 "sections": [
                     {
-                        "name": "",
-                        "ref": ""
+                        "ref": "Temple/Temple Upper/rA1_151/Switch Puzzle"
                     }
                 ],
                 "map_locations": [
@@ -72,11 +64,9 @@
                 ]
             },
             {
-                "name": "",
                 "sections": [
                     {
-                        "name": "",
-                        "ref": ""
+                        "ref": "Temple/Temple Upper/rA1_152/Black Area Entry"
                     }
                 ],
                 "map_locations": [
@@ -88,11 +78,9 @@
                 ]
             },
             {
-                "name": "",
                 "sections": [
                     {
-                        "name": "",
-                        "ref": ""
+                        "ref": "Temple/Temple Upper/rA1_151Coin/Warp Obstacles"
                     }
                 ],
                 "map_locations": [
@@ -104,11 +92,9 @@
                 ]
             },
             {
-                "name": "",
                 "sections": [
                     {
-                        "name": "",
-                        "ref": ""
+                        "ref": "Temple/Temple Upper/rA1_146/Samurai"
                     }
                 ],
                 "map_locations": [
@@ -120,11 +106,9 @@
                 ]
             },
             {
-                "name": "",
                 "sections": [
                     {
-                        "name": "",
-                        "ref": ""
+                        "ref": "Temple/Temple Upper/rA1_148Boss - Boss/Samurai"
                     }
                 ],
                 "map_locations": [
@@ -141,11 +125,9 @@
         "name": "Temple High - Overworld",
         "children": [
             {
-                "name": "",
                 "sections": [
                     {
-                        "name": "",
-                        "ref": ""
+                        "ref": "Temple/Temple Upper/Temple High/rA1_153Boss/Agility Rune"
                     }
                 ],
                 "map_locations": [
@@ -157,11 +139,9 @@
                 ]
             },
             {
-                "name": "",
                 "sections": [
                     {
-                        "name": "",
-                        "ref": ""
+                        "ref": "Temple/Temple Upper/Temple High/rA1_157/Demon"
                     }
                 ],
                 "map_locations": [
@@ -173,11 +153,9 @@
                 ]
             },
             {
-                "name": "",
                 "sections": [
                     {
-                        "name": "",
-                        "ref": ""
+                        "ref": "Temple/Temple Upper/Temple High/rA1_159/Rebirth"
                     }
                 ],
                 "map_locations": [
@@ -189,11 +167,9 @@
                 ]
             },
             {
-                "name": "",
                 "sections": [
                     {
-                        "name": "",
-                        "ref": ""
+                        "ref": "Temple/Temple Upper/Temple High/rA1_162Boss/Rebirth"
                     }
                 ],
                 "map_locations": [

@@ -3,11 +3,9 @@
         "name": "Forbidden - Overworld",
         "children": [
             {
-                "name": "",
                 "sections": [
                     {
-                        "name": "",
-                        "ref": ""
+                        "ref": "Forbidden/rA1_118ArenaFatalReward/Fatal Draw Upgrade"
                     }
                 ],
                 "map_locations": [
@@ -19,11 +17,9 @@
                 ]
             },
             {
-                "name": "",
                 "sections": [
                     {
-                        "name": "",
-                        "ref": ""
+                        "ref": "Forbidden/rA1_122/Most Left"
                     }
                 ],
                 "map_locations": [
@@ -35,11 +31,9 @@
                 ]
             },
             {
-                "name": "",
                 "sections": [
                     {
-                        "name": "",
-                        "ref": ""
+                        "ref": "Forbidden/rA1_118/Fatal Arena"
                     }
                 ],
                 "map_locations": [
@@ -56,11 +50,9 @@
         "name": "Forbidden Upper - Overworld",
         "children": [
             {
-                "name": "",
                 "sections": [
                     {
-                        "name": "",
-                        "ref": ""
+                        "ref": "Forbidden/Forbidden Upper/rA1_134/Demon Blade"
                     }
                 ],
                 "map_locations": [
@@ -72,11 +64,9 @@
                 ]
             },
             {
-                "name": "",
                 "sections": [
                     {
-                        "name": "",
-                        "ref": ""
+                        "ref": "Forbidden/Forbidden Upper/rA1_130/Monk"
                     }
                 ],
                 "map_locations": [

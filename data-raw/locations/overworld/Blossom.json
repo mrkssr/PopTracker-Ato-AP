@@ -3,10 +3,8 @@
         "name": "Blossom - Overworld",
         "children": [
             {
-                "name": "rA0_4PowerUp",
                 "sections": [
                     {
-                        "name": "Dodge",
                         "ref": "Blossom/rA0_4PowerUp/Dodge"
                     }
                 ],
@@ -19,11 +17,9 @@
                 ]
             },
             {
-                "name": "",
                 "sections": [
                     {
-                        "name": "",
-                        "ref": ""
+                        "ref": "Blossom/rA1_136Love/Love Room"
                     }
                 ],
                 "map_locations": [
@@ -35,11 +31,9 @@
                 ]
             },
             {
-                "name": "",
                 "sections": [
                     {
-                        "name": "",
-                        "ref": ""
+                        "ref": "Blossom/rA0_5Coin/Rogue"
                     }
                 ],
                 "map_locations": [
@@ -51,11 +45,9 @@
                 ]
             },
             {
-                "name": "",
                 "sections": [
                     {
-                        "name": "",
-                        "ref": ""
+                        "ref": "Blossom/rA0_0/Start Room"
                     }
                 ],
                 "map_locations": [
@@ -67,13 +59,12 @@
                 ]
             },
             {
-                "name": "",
                 "sections": [
                     {
-                        "name": "",
-                        "ref": ""
+                        "ref": "Blossom/rA1_0runway/Runway"
                     }
                 ],
+                
                 "map_locations": [
                     {
                         "map": "Overworld",
@@ -83,13 +74,12 @@
                 ]
             },
             {
-                "name": "",
                 "sections": [
                     {
-                        "name": "",
-                        "ref": ""
+                        "ref": "Blossom/rA0_4/Rogue"
                     }
                 ],
+                
                 "map_locations": [
                     {
                         "map": "Overworld",
@@ -104,11 +94,9 @@
         "name": "Crystal Break Area - Overworld",
         "children": [
             {
-                "name": "rA1_8",
                 "sections": [
                     {
-                        "name": "Crystal Break",
-                        "ref": "Blossom/Blossom Lower/Crystal Break"
+                        "ref": "Blossom/Crystal Break Area/rA1_8/Crystal Break"
                     }
                 ],
                 "map_locations": [
@@ -120,11 +108,9 @@
                 ]
             },
             {
-                "name": "",
                 "sections": [
                     {
-                        "name": "",
-                        "ref": ""
+                        "ref": "Blossom/Crystal Break Area/rA1_8Basement/Basement"
                     }
                 ],
                 "map_locations": [
@@ -141,11 +127,9 @@
         "name": "Blossom Middle - Overworld",
         "children": [
             {
-                "name": "",
                 "sections": [
                     {
-                        "name": "",
-                        "ref": ""
+                        "ref": "Blossom/Blossom Middle/rA1_1under/Under Leaves"
                     }
                 ],
                 "map_locations": [
@@ -162,11 +146,9 @@
         "name": "Vagrant Area - Overworld",
         "children": [
             {
-                "name": "",
                 "sections": [
                     {
-                        "name": "",
-                        "ref": ""
+                        "ref": "Blossom/Blossom Middle/Vagrant Area/rA1_1VagrantBossFinalReward/Magic Bar Vagrant"
                     }
                 ],
                 "map_locations": [
@@ -178,11 +160,9 @@
                 ]
             },
             {
-                "name": "",
                 "sections": [
                     {
-                        "name": "",
-                        "ref": ""
+                        "ref": "Blossom/Blossom Middle/Vagrant Area/rA1_1Coin0/Hub Left"
                     }
                 ],
                 "map_locations": [
@@ -194,11 +174,9 @@
                 ]
             },
             {
-                "name": "",
                 "sections": [
                     {
-                        "name": "",
-                        "ref": ""
+                        "ref": "Blossom/Blossom Middle/Vagrant Area/rA1_1Coin1/Hub Up"
                     }
                 ],
                 "map_locations": [
@@ -210,11 +188,9 @@
                 ]
             },
             {
-                "name": "",
                 "sections": [
                     {
-                        "name": "",
-                        "ref": ""
+                        "ref": "Blossom/Blossom Middle/Vagrant Area/rA1_1CP/Vagrant"
                     }
                 ],
                 "map_locations": [
@@ -247,11 +223,9 @@
                 ]
             },
             {
-                "name": "",
                 "sections": [
                     {
-                        "name": "",
-                        "ref": ""
+                        "ref": "Blossom/Blossom Middle/Bandit Area/rA1_4 - Talisman/Bandit"
                     }
                 ],
                 "map_locations": [
@@ -263,11 +237,9 @@
                 ]
             },
             {
-                "name": "",
                 "sections": [
                     {
-                        "name": "",
-                        "ref": ""
+                        "ref": "Blossom/Blossom Middle/Bandit Area/rA1_2/Bandit"
                     }
                 ],
                 "map_locations": [
@@ -284,11 +256,9 @@
         "name": "Blossom Upper - Overworld",
         "children": [
             {
-                "name": "",
                 "sections": [
                     {
-                        "name": "",
-                        "ref": ""
+                        "ref": "Blossom/Blossom Middle/Blossom Upper/rA1_35 - Rune/Juggernaut Rune"
                     }
                 ],
                 "map_locations": [
@@ -300,11 +270,9 @@
                 ]
             },
             {
-                "name": "",
                 "sections": [
                     {
-                        "name": "",
-                        "ref": ""
+                        "ref": "Blossom/Blossom Middle/Blossom Upper/rA1_29VagrantBossReward/Vagrant II Reward"
                     }
                 ],
                 "map_locations": [
@@ -316,11 +284,9 @@
                 ]
             },
             {
-                "name": "",
                 "sections": [
                     {
-                        "name": "",
-                        "ref": ""
+                        "ref": "Blossom/Blossom Middle/Blossom Upper/rA1_9/Leave Room"
                     }
                 ],
                 "map_locations": [
@@ -332,11 +298,9 @@
                 ]
             },
             {
-                "name": "",
                 "sections": [
                     {
-                        "name": "",
-                        "ref": ""
+                        "ref": "Blossom/Blossom Middle/Blossom Upper/rA1_11Armor/Behind Rocks"
                     }
                 ],
                 "map_locations": [
@@ -348,11 +312,9 @@
                 ]
             },
             {
-                "name": "",
                 "sections": [
                     {
-                        "name": "",
-                        "ref": ""
+                        "ref": "Blossom/Blossom Middle/Blossom Upper/rA1_36/Spin Puzzle"
                     }
                 ],
                 "map_locations": [
@@ -364,11 +326,9 @@
                 ]
             },
             {
-                "name": "",
                 "sections": [
                     {
-                        "name": "",
-                        "ref": ""
+                        "ref": "Blossom/Blossom Middle/Blossom Upper/rA1_32Deflector/Deflector"
                     }
                 ],
                 "map_locations": [
@@ -380,11 +340,9 @@
                 ]
             },
             {
-                "name": "",
                 "sections": [
                     {
-                        "name": "",
-                        "ref": ""
+                        "ref": "Blossom/Blossom Middle/Blossom Upper/rA1_35 - Talisman/Twins"
                     }
                 ],
                 "map_locations": [
@@ -396,11 +354,9 @@
                 ]
             },
             {
-                "name": "",
                 "sections": [
                     {
-                        "name": "",
-                        "ref": ""
+                        "ref": "Blossom/Blossom Middle/Blossom Upper/rA1_33/Twins"
                     }
                 ],
                 "map_locations": [

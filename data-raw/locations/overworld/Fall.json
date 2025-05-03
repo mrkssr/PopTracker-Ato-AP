@@ -3,11 +3,9 @@
         "name": "Fall - Overworld",
         "children": [
             {
-                "name": "",
                 "sections": [
                     {
-                        "name": "",
-                        "ref": ""
+                        "ref": "Fall/rA0_19/Double Jump"
                     }
                 ],
                 "map_locations": [
@@ -19,11 +17,9 @@
                 ]
             },
             {
-                "name": "",
                 "sections": [
                     {
-                        "name": "",
-                        "ref": ""
+                        "ref": "Fall/rA1_141ArenaArmor/Armor Upgrade"
                     }
                 ],
                 "map_locations": [
@@ -35,11 +31,9 @@
                 ]
             },
             {
-                "name": "",
                 "sections": [
                     {
-                        "name": "",
-                        "ref": ""
+                        "ref": "Fall/rA0_19Coin/Right of Double Jump Room"
                     }
                 ],
                 "map_locations": [
@@ -51,11 +45,9 @@
                 ]
             },
             {
-                "name": "",
                 "sections": [
                     {
-                        "name": "",
-                        "ref": ""
+                        "ref": "Fall/rA1_140/Armor Arena"
                     }
                 ],
                 "map_locations": [
@@ -72,11 +64,9 @@
         "name": "Fall Lower - Overworld",
         "children": [
             {
-                "name": "",
                 "sections": [
                     {
-                        "name": "",
-                        "ref": ""
+                        "ref": "Fall/Fall Lower/rA1_165Meditate/Meditate"
                     }
                 ],
                 "map_locations": [
@@ -88,11 +78,9 @@
                 ]
             },
             {
-                "name": "",
                 "sections": [
                     {
-                        "name": "",
-                        "ref": ""
+                        "ref": "Fall/Fall Lower/rA1_166TempestReward/Triple Slash"
                     }
                 ],
                 "map_locations": [
@@ -104,11 +92,9 @@
                 ]
             },
             {
-                "name": "",
                 "sections": [
                     {
-                        "name": "",
-                        "ref": ""
+                        "ref": "Fall/Fall Lower/rA1_59BossHiddenReward/Mind Rune"
                     }
                 ],
                 "map_locations": [
@@ -120,11 +106,9 @@
                 ]
             },
             {
-                "name": "",
                 "sections": [
                     {
-                        "name": "",
-                        "ref": ""
+                        "ref": "Fall/Fall Lower/rA1_165Coin/Tempest"
                     }
                 ],
                 "map_locations": [
@@ -136,11 +120,9 @@
                 ]
             },
             {
-                "name": "",
                 "sections": [
                     {
-                        "name": "",
-                        "ref": ""
+                        "ref": "Fall/Fall Lower/rA0_14Secret/Secret Room"
                     }
                 ],
                 "map_locations": [
@@ -152,11 +134,9 @@
                 ]
             },
             {
-                "name": "",
                 "sections": [
                     {
-                        "name": "",
-                        "ref": ""
+                        "ref": "Fall/Fall Lower/tA1_56Fans/Fans"
                     }
                 ],
                 "map_locations": [
@@ -168,11 +148,9 @@
                 ]
             },
             {
-                "name": "",
                 "sections": [
                     {
-                        "name": "",
-                        "ref": ""
+                        "ref": "Fall/Fall Lower/rA1_57Secret/Secret"
                     }
                 ],
                 "map_locations": [
@@ -184,11 +162,9 @@
                 ]
             },
             {
-                "name": "",
                 "sections": [
                     {
-                        "name": "",
-                        "ref": ""
+                        "ref": "Fall/Fall Lower/rA1_57/Warden"
                     }
                 ],
                 "map_locations": [
@@ -200,11 +176,9 @@
                 ]
             },
             {
-                "name": "",
                 "sections": [
                     {
-                        "name": "",
-                        "ref": ""
+                        "ref": "Fall/Fall Lower/rA1_164/Tempest"
                     }
                 ],
                 "map_locations": [
@@ -221,11 +195,9 @@
         "name": "Haunt - Overworld",
         "children": [
             {
-                "name": "",
                 "sections": [
                     {
-                        "name": "",
-                        "ref": ""
+                        "ref": "Fall/Fall Lower/Haunt/rA1_51BossReward/Parry"
                     }
                 ],
                 "map_locations": [
@@ -237,11 +209,9 @@
                 ]
             },
             {
-                "name": "",
                 "sections": [
                     {
-                        "name": "",
-                        "ref": ""
+                        "ref": "Fall/Fall Lower/Haunt/rA1_54/Twitch Arena"
                     }
                 ],
                 "map_locations": [
@@ -253,11 +223,9 @@
                 ]
             },
             {
-                "name": "",
                 "sections": [
                     {
-                        "name": "",
-                        "ref": ""
+                        "ref": "Fall/Fall Lower/Haunt/rA1_46Hidden/Hidden"
                     }
                 ],
                 "map_locations": [
@@ -269,11 +237,9 @@
                 ]
             },
             {
-                "name": "",
                 "sections": [
                     {
-                        "name": "",
-                        "ref": ""
+                        "ref": "Fall/Fall Lower/Haunt/rA1_47Armor/Armor Haunt Area"
                     }
                 ],
                 "map_locations": [
@@ -285,11 +251,9 @@
                 ]
             },
             {
-                "name": "",
                 "sections": [
                     {
-                        "name": "",
-                        "ref": ""
+                        "ref": "Fall/Fall Lower/Haunt/rA1_50CP/Geisha"
                     }
                 ],
                 "map_locations": [
@@ -306,11 +270,9 @@
         "name": "Fall Middle - Overworld",
         "children": [
             {
-                "name": "",
                 "sections": [
                     {
-                        "name": "",
-                        "ref": ""
+                        "ref": "Fall/Fall Middle/rA0_23 - Skill/Chain Dash"
                     }
                 ],
                 "map_locations": [
@@ -322,11 +284,9 @@
                 ]
             },
             {
-                "name": "",
                 "sections": [
                     {
-                        "name": "",
-                        "ref": ""
+                        "ref": "Fall/Fall Middle/rA0_23 - Talisman/Chain Dash Room"
                     }
                 ],
                 "map_locations": [
@@ -338,11 +298,9 @@
                 ]
             },
             {
-                "name": "",
                 "sections": [
                     {
-                        "name": "",
-                        "ref": ""
+                        "ref": "Fall/Fall Middle/rA0_20/Guardian"
                     }
                 ],
                 "map_locations": [
@@ -354,11 +312,9 @@
                 ]
             },
             {
-                "name": "",
                 "sections": [
                     {
-                        "name": "",
-                        "ref": ""
+                        "ref": "Fall/Fall Middle/rA0_17secret/Hidden Top"
                     }
                 ],
                 "map_locations": [
@@ -370,11 +326,9 @@
                 ]
             },
             {
-                "name": "",
                 "sections": [
                     {
-                        "name": "",
-                        "ref": ""
+                        "ref": "Fall/Fall Middle/rA0_16Secret/Left Red Area Entry"
                     }
                 ],
                 "map_locations": [
@@ -391,11 +345,9 @@
         "name": "Fall Upper - Overworld",
         "children": [
             {
-                "name": "",
                 "sections": [
                     {
-                        "name": "",
-                        "ref": ""
+                        "ref": "Fall/Fall Middle/Fall Upper/rA0_24/Right Red Area Entry"
                     }
                 ],
                 "map_locations": [
@@ -407,11 +359,9 @@
                 ]
             },
             {
-                "name": "",
                 "sections": [
                     {
-                        "name": "",
-                        "ref": ""
+                        "ref": "Fall/Fall Middle/Fall Upper/rA0_26Coin/Left of Bridge Room"
                     }
                 ],
                 "map_locations": [
@@ -432,11 +382,9 @@
         "name": "Phantom Jin - Overworld",
         "children": [
             {
-                "name": "",
                 "sections": [
                     {
-                        "name": "",
-                        "ref": ""
+                        "ref": "Fall/Fall Red Area Hallway/Phantom Jin/rA1_64/Echo Rune"
                     }
                 ],
                 "map_locations": [
@@ -448,11 +396,9 @@
                 ]
             },
             {
-                "name": "",
                 "sections": [
                     {
-                        "name": "",
-                        "ref": ""
+                        "ref": "Fall/Fall Red Area Hallway/Phantom Jin/rA1_65Coin/Phantom Jin"
                     }
                 ],
                 "map_locations": [
@@ -464,11 +410,9 @@
                 ]
             },
             {
-                "name": "",
                 "sections": [
                     {
-                        "name": "",
-                        "ref": ""
+                        "ref": "Fall/Fall Red Area Hallway/Phantom Jin/rA1_62/Phantom Jin"
                     }
                 ],
                 "map_locations": [

@@ -3,6 +3,7 @@
         "name": "Temple",
         "children": [
             {
+                "name": "rA1_144Coin",
                 "sections": [
                     {
                         "ref": "Coins/Double Jump Paradise"
@@ -17,6 +18,7 @@
                 ]
             },
             {
+                "name": "rA1_145",
                 "sections": [
                     {
                         "ref": "Talismans/Lore Room"
@@ -37,6 +39,7 @@
                 ],
                 "children": [
                     {
+                        "name": "rA1_148Boss - Rune",
                         "sections": [
                             {
                                 "ref": "Runes/Risk Rune"
@@ -51,6 +54,7 @@
                         ]
                     },
                     {
+                        "name": "rA1_151",
                         "sections": [
                             {
                                 "ref": "Coins/Switch Puzzle"
@@ -65,6 +69,7 @@
                         ]
                     },
                     {
+                        "name": "rA1_152",
                         "sections": [
                             {
                                 "ref": "Coins/Black Area Entry"
@@ -79,6 +84,7 @@
                         ]
                     },
                     {
+                        "name": "rA1_151Coin",
                         "sections": [
                             {
                                 "ref": "Talismans/Warp Obstacles"
@@ -93,6 +99,7 @@
                         ]
                     },
                     {
+                        "name": "rA1_146",
                         "sections": [
                             {
                                 "ref": "Checkpoints/Samurai"
@@ -107,6 +114,7 @@
                         ]
                     },
                     {
+                        "name": "rA1_148Boss - Boss",
                         "sections": [
                             {
                                 "ref": "Bosses/Samurai"
@@ -127,6 +135,7 @@
                         ],
                         "children": [
                             {
+                                "name": "rA1_153Boss",
                                 "sections": [
                                     {
                                         "ref": "Runes/Agility Rune"
@@ -141,6 +150,7 @@
                                 ]
                             },
                             {
+                                "name": "rA1_157",
                                 "sections": [
                                     {
                                         "ref": "Checkpoints/Demon"
@@ -155,6 +165,7 @@
                                 ]
                             },
                             {
+                                "name": "rA1_159",
                                 "sections": [
                                     {
                                         "ref": "Checkpoints/Rebirth"
@@ -169,6 +180,7 @@
                                 ]
                             },
                             {
+                                "name": "rA1_162Boss",
                                 "sections": [
                                     {
                                         "ref": "Bosses/Rebirth"

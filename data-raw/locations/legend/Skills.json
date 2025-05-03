@@ -33,7 +33,7 @@
             {
                 "sections": [
                     {
-                        "ref": "/Dash"
+                        "ref": "Hills/rA0_7 - Skill/Dash"
                     }
                 ],
                 "map_locations": [
@@ -47,7 +47,7 @@
             {
                 "sections": [
                     {
-                        "ref": "/Chain Dash"
+                        "ref": "Fall/Fall Middle/rA0_23 - Skill/Chain Dash"
                     }
                 ],
                 "map_locations": [
@@ -61,7 +61,7 @@
             {
                 "sections": [
                     {
-                        "ref": "/Chain Dash Upgrade"
+                        "ref": "Lake/Lake Middle/Archer Area/rA1_168ArcherReward/Chain Dash Upgrade"
                     }
                 ],
                 "map_locations": [
@@ -75,7 +75,7 @@
             {
                 "sections": [
                     {
-                        "ref": "/Double Jump"
+                        "ref": "Fall/rA0_19/Double Jump"
                     }
                 ],
                 "map_locations": [
@@ -103,7 +103,7 @@
             {
                 "sections": [
                     {
-                        "ref": "/Electric Wind Lethal Strike"
+                        "ref": "Hills/Hills Middle/Hills Upper/rA1_42Boss/Electric Wind Lethal Strike"
                     }
                 ],
                 "map_locations": [
@@ -117,7 +117,7 @@
             {
                 "sections": [
                     {
-                        "ref": "/Parry"
+                        "ref": "Fall/Fall Lower/Haunt/rA1_51BossReward/Parry"
                     }
                 ],
                 "map_locations": [
@@ -131,7 +131,7 @@
             {
                 "sections": [
                     {
-                        "ref": "/Demon Blade"
+                        "ref": "Forbidden/Forbidden Upper/rA1_134/Demon Blade"
                     }
                 ],
                 "map_locations": [
@@ -145,7 +145,7 @@
             {
                 "sections": [
                     {
-                        "ref": "/Fatal Draw"
+                        "ref": "Lake/Lake Middle/Lake Top Left/rA1_82FatalDraw/Fatal Draw"
                     }
                 ],
                 "map_locations": [
@@ -159,7 +159,7 @@
             {
                 "sections": [
                     {
-                        "ref": "/Fatal Draw Upgrade"
+                        "ref": "Forbidden/rA1_118ArenaFatalReward/Fatal Draw Upgrade"
                     }
                 ],
                 "map_locations": [
@@ -173,7 +173,7 @@
             {
                 "sections": [
                     {
-                        "ref": "/Armor"
+                        "ref": "Swamp/rA1_98/Armor"
                     }
                 ],
                 "map_locations": [
@@ -187,7 +187,7 @@
             {
                 "sections": [
                     {
-                        "ref": "/Armor Upgrade"
+                        "ref": "Fall/rA1_141ArenaArmor/Armor Upgrade"
                     }
                 ],
                 "map_locations": [
@@ -215,7 +215,7 @@
             {
                 "sections": [
                     {
-                        "ref": "/Throw Upgrade"
+                        "ref": "Hills/Hills Middle/rA1_137 - Skill/Throw Upgrade"
                     }
                 ],
                 "map_locations": [
@@ -243,7 +243,7 @@
             {
                 "sections": [
                     {
-                        "ref": "/Spin Upgrade"
+                        "ref": "Lake/Lake Middle/Lake East/Lake Upper/Spin Arena Area/rA1_94ArenaSpin/Spin Upgrade"
                     }
                 ],
                 "map_locations": [
@@ -257,7 +257,7 @@
             {
                 "sections": [
                     {
-                        "ref": "/Meditate"
+                        "ref": "Fall/Fall Lower/rA1_165Meditate/Meditate"
                     }
                 ],
                 "map_locations": [
@@ -271,7 +271,7 @@
             {
                 "sections": [
                     {
-                        "ref": "/Triple Slash"
+                        "ref": "Fall/Fall Lower/rA1_166TempestReward/Triple Slash"
                     }
                 ],
                 "map_locations": [
@@ -285,7 +285,7 @@
             {
                 "sections": [
                     {
-                        "ref": "/Speed Charge"
+                        "ref": "Lake/Lake Middle/rA0_40/Speed Charge"
                     }
                 ],
                 "map_locations": [
@@ -299,7 +299,7 @@
             {
                 "sections": [
                     {
-                        "ref": "/Vision"
+                        "ref": "Lake/Lake Middle/Lake East/Lake Upper/rA1_91/Vision"
                     }
                 ],
                 "map_locations": [

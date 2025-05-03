@@ -3,11 +3,9 @@
         "name": "Lake - Overworld",
         "children": [
             {
-                "name": "",
                 "sections": [
                     {
-                        "name": "",
-                        "ref": ""
+                        "ref": "Lake/rA0_28/After Bridge Drop"
                     }
                 ],
                 "map_locations": [
@@ -19,11 +17,9 @@
                 ]
             },
             {
-                "name": "",
                 "sections": [
                     {
-                        "name": "",
-                        "ref": ""
+                        "ref": "Lake/rA0_31Secret/Low Gravity Bumper"
                     }
                 ],
                 "map_locations": [
@@ -35,11 +31,9 @@
                 ]
             },
             {
-                "name": "",
                 "sections": [
                     {
-                        "name": "",
-                        "ref": ""
+                        "ref": "Lake/rA0_27/Bridge Drop"
                     }
                 ],
                 "map_locations": [
@@ -56,11 +50,9 @@
         "name": "Lake Lower - Overworld",
         "children": [
             {
-                "name": "",
                 "sections": [
                     {
-                        "name": "",
-                        "ref": ""
+                        "ref": "Lake/Lake Lower/rA1_169/Tiny Warrior Entry"
                     }
                 ],
                 "map_locations": [
@@ -72,11 +64,9 @@
                 ]
             },
             {
-                "name": "",
                 "sections": [
                     {
-                        "name": "",
-                        "ref": ""
+                        "ref": "Lake/Lake Lower/rA1_139/Time Puzzle Tiny Warrior"
                     }
                 ],
                 "map_locations": [
@@ -88,11 +78,9 @@
                 ]
             },
             {
-                "name": "",
                 "sections": [
                     {
-                        "name": "",
-                        "ref": ""
+                        "ref": "Lake/Lake Lower/rA0_32secret/Tiny Warrior"
                     }
                 ],
                 "map_locations": [
@@ -109,11 +97,9 @@
         "name": "Tiny Warrior Area - Overworld",
         "children": [
             {
-                "name": "",
                 "sections": [
                     {
-                        "name": "",
-                        "ref": ""
+                        "ref": "Lake/Lake Lower/Tiny Warrior Area/rA1_171TWReward/Magic Bar Tiny Warrior"
                     }
                 ],
                 "map_locations": [
@@ -125,11 +111,9 @@
                 ]
             },
             {
-                "name": "",
                 "sections": [
                     {
-                        "name": "",
-                        "ref": ""
+                        "ref": "Lake/Lake Lower/Tiny Warrior Area/rA1_170/Tiny Warrior"
                     }
                 ],
                 "map_locations": [
@@ -146,11 +130,9 @@
         "name": "Lake Middle - Overworld",
         "children": [
             {
-                "name": "",
                 "sections": [
                     {
-                        "name": "",
-                        "ref": ""
+                        "ref": "Lake/Lake Middle/rA0_40/Speed Charge"
                     }
                 ],
                 "map_locations": [
@@ -162,11 +144,9 @@
                 ]
             },
             {
-                "name": "",
                 "sections": [
                     {
-                        "name": "",
-                        "ref": ""
+                        "ref": "Lake/Lake Middle/rA0_84Coin/Breakable Floors"
                     }
                 ],
                 "map_locations": [
@@ -178,11 +158,9 @@
                 ]
             },
             {
-                "name": "",
                 "sections": [
                     {
-                        "name": "",
-                        "ref": ""
+                        "ref": "Lake/Lake Middle/rA0_36Coin/Bumper Time Puzzle"
                     }
                 ],
                 "map_locations": [
@@ -194,11 +172,9 @@
                 ]
             },
             {
-                "name": "",
                 "sections": [
                     {
-                        "name": "",
-                        "ref": ""
+                        "ref": "Lake/Lake Middle/rA1_84/Bumper"
                     }
                 ],
                 "map_locations": [
@@ -210,11 +186,9 @@
                 ]
             },
             {
-                "name": "",
                 "sections": [
                     {
-                        "name": "",
-                        "ref": ""
+                        "ref": "Lake/Lake Middle/rA0_37/Archer"
                     }
                 ],
                 "map_locations": [
@@ -226,11 +200,9 @@
                 ]
             },
             {
-                "name": "",
                 "sections": [
                     {
-                        "name": "",
-                        "ref": ""
+                        "ref": "Lake/Lake Middle/rA0_39/Ninja"
                     }
                 ],
                 "map_locations": [
@@ -242,11 +214,9 @@
                 ]
             },
             {
-                "name": "",
                 "sections": [
                     {
-                        "name": "",
-                        "ref": ""
+                        "ref": "Lake/Lake Middle/rA0_36/Climb"
                     }
                 ],
                 "map_locations": [
@@ -258,11 +228,9 @@
                 ]
             },
             {
-                "name": "",
                 "sections": [
                     {
-                        "name": "",
-                        "ref": ""
+                        "ref": "Lake/Lake Middle/rA0_38hallway/Ninja"
                     }
                 ],
                 "map_locations": [
@@ -279,11 +247,9 @@
         "name": "Lake Top Left - Overworld",
         "children": [
             {
-                "name": "",
                 "sections": [
                     {
-                        "name": "",
-                        "ref": ""
+                        "ref": "Lake/Lake Middle/Lake Top Left/rA1_82FatalDraw/Fatal Draw"
                     }
                 ],
                 "map_locations": [
@@ -295,11 +261,9 @@
                 ]
             },
             {
-                "name": "",
                 "sections": [
                     {
-                        "name": "",
-                        "ref": ""
+                        "ref": "Lake/Lake Middle/Lake Top Left/rA1_81VagrantBossReward/Vagrant I Reward"
                     }
                 ],
                 "map_locations": [
@@ -311,11 +275,9 @@
                 ]
             },
             {
-                "name": "",
                 "sections": [
                     {
-                        "name": "",
-                        "ref": ""
+                        "ref": "Lake/Lake Middle/Lake Top Left/rA1_82/Fatal Draw"
                     }
                 ],
                 "map_locations": [
@@ -332,11 +294,9 @@
         "name": "Archer Area - Overworld",
         "children": [
             {
-                "name": "",
                 "sections": [
                     {
-                        "name": "",
-                        "ref": ""
+                        "ref": "Lake/Lake Middle/Archer Area/rA1_168ArcherReward/Chain Dash Upgrade"
                     }
                 ],
                 "map_locations": [
@@ -348,11 +308,9 @@
                 ]
             },
             {
-                "name": "",
                 "sections": [
                     {
-                        "name": "",
-                        "ref": ""
+                        "ref": "Lake/Lake Middle/Archer Area/rA1_167/Archer"
                     }
                 ],
                 "map_locations": [
@@ -373,11 +331,9 @@
         "name": "Lake Upper - Overworld",
         "children": [
             {
-                "name": "",
                 "sections": [
                     {
-                        "name": "",
-                        "ref": ""
+                        "ref": "Lake/Lake Middle/Lake East/Lake Upper/rA1_91/Vision"
                     }
                 ],
                 "map_locations": [
@@ -389,11 +345,9 @@
                 ]
             },
             {
-                "name": "",
                 "sections": [
                     {
-                        "name": "",
-                        "ref": ""
+                        "ref": "Lake/Lake Middle/Lake East/Lake Upper/rA1_92/Hidden Breakables"
                     }
                 ],
                 "map_locations": [
@@ -405,11 +359,9 @@
                 ]
             },
             {
-                "name": "",
                 "sections": [
                     {
-                        "name": "",
-                        "ref": ""
+                        "ref": "Lake/Lake Middle/Lake East/Lake Upper/rA1_87/Sentinel"
                     }
                 ],
                 "map_locations": [
@@ -421,11 +373,56 @@
                 ]
             },
             {
-                "name": "",
                 "sections": [
                     {
-                        "name": "",
-                        "ref": ""
+                        "ref": "Lake/Lake Middle/Lake East/Lake Upper/rA1_86/Sentinel"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": "0",
+                        "y": "0"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Spin Arena Area - Overworld",
+        "children": [
+            {
+                "sections": [
+                    {
+                        "ref": "Lake/Lake Middle/Lake East/Lake Upper/Spin Arena Area/rA1_94ArenaSpin/Spin Upgrade"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": "0",
+                        "y": "0"
+                    }
+                ]
+            },
+            {
+                "sections": [
+                    {
+                        "ref": "Lake/Lake Middle/Lake East/Lake Upper/Spin Arena Area/rA1_FH0/Owl"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": "0",
+                        "y": "0"
+                    }
+                ]
+            },
+            {
+                "sections": [
+                    {
+                        "ref": "Lake/Lake Middle/Lake East/Lake Upper/Spin Arena Area/rA1_93CP/Spin Arena"
                     }
                 ],
                 "map_locations": [
@@ -442,11 +439,9 @@
         "name": "Lake Temple - Overworld",
         "children": [
             {
-                "name": "",
                 "sections": [
                     {
-                        "name": "",
-                        "ref": ""
+                        "ref": "Lake/Lake Middle/Lake East/Lake Temple/rA0_44/Acolyte"
                     }
                 ],
                 "map_locations": [
@@ -458,11 +453,9 @@
                 ]
             },
             {
-                "name": "",
                 "sections": [
                     {
-                        "name": "",
-                        "ref": ""
+                        "ref": "Lake/Lake Middle/Lake East/Lake Temple/rA0_45Boss/Acolyte"
                     }
                 ],
                 "map_locations": [

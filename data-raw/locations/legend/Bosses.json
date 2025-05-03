@@ -5,8 +5,7 @@
             {
                 "sections": [
                     {
-                        "name": "Acolyte",
-                        "ref": "Lake/Lake Temple/[1]/Acolyte"
+                        "ref": "Lake/Lake Middle/Lake East/Lake Temple/rA0_45Boss/Acolyte"
                     }
                 ],
                 "map_locations": [
@@ -20,8 +19,7 @@
             {
                 "sections": [
                     {
-                        "name": "Samurai",
-                        "ref": "Temple/Temple Middle/[5]/Samurai"
+                        "ref": "Temple/Temple Upper/rA1_148Boss - Boss/Samurai"
                     }
                 ],
                 "map_locations": [

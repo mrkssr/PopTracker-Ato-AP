@@ -6,6 +6,7 @@
         ],
         "children": [
             {
+                "name": "rA0_19",
                 "sections": [
                     {
                         "ref": "Skills/Double Jump"
@@ -20,6 +21,7 @@
                 ]
             },
             {
+                "name": "rA1_141ArenaArmor",
                 "sections": [
                     {
                         "ref": "Skills/Armor Upgrade"
@@ -34,6 +36,7 @@
                 ]
             },
             {
+                "name": "rA0_19Coin",
                 "sections": [
                     {
                         "ref": "Coins/Right of Double Jump Room"
@@ -48,6 +51,7 @@
                 ]
             },
             {
+                "name": "rA1_140",
                 "sections": [
                     {
                         "ref": "Checkpoints/Armor Arena"
@@ -68,6 +72,7 @@
                 ],
                 "children": [
                     {
+                        "name": "rA1_165Meditate",
                         "sections": [
                             {
                                 "ref": "Skills/Meditate"
@@ -82,6 +87,7 @@
                         ]
                     },
                     {
+                        "name": "rA1_166TempestReward",
                         "sections": [
                             {
                                 "ref": "Skills/Triple Slash"
@@ -96,6 +102,7 @@
                         ]
                     },
                     {
+                        "name": "rA1_59BossHiddenReward",
                         "sections": [
                             {
                                 "ref": "Runes/Mind Rune"
@@ -110,6 +117,7 @@
                         ]
                     },
                     {
+                        "name": "rA1_165Coin",
                         "sections": [
                             {
                                 "ref": "Coins/Tempest"
@@ -124,6 +132,7 @@
                         ]
                     },
                     {
+                        "name": "rA0_14Secret",
                         "sections": [
                             {
                                 "ref": "Coins/Secret Room"
@@ -138,6 +147,7 @@
                         ]
                     },
                     {
+                        "name": "tA1_56Fans",
                         "sections": [
                             {
                                 "ref": "Talismans/Fans"
@@ -152,6 +162,7 @@
                         ]
                     },
                     {
+                        "name": "rA1_57Secret",
                         "sections": [
                             {
                                 "ref": "Talismans/Secret"
@@ -166,6 +177,7 @@
                         ]
                     },
                     {
+                        "name": "rA1_57",
                         "sections": [
                             {
                                 "ref": "Checkpoints/Warden"
@@ -180,6 +192,7 @@
                         ]
                     },
                     {
+                        "name": "rA1_164",
                         "sections": [
                             {
                                 "ref": "Checkpoints/Tempest"
@@ -200,6 +213,7 @@
                         ],
                         "children": [
                             {
+                                "name": "rA1_51BossReward",
                                 "sections": [
                                     {
                                         "ref": "Skills/Parry"
@@ -214,6 +228,7 @@
                                 ]
                             },
                             {
+                                "name": "rA1_54",
                                 "sections": [
                                     {
                                         "ref": "Coins/Twitch Arena"
@@ -228,6 +243,7 @@
                                 ]
                             },
                             {
+                                "name": "rA1_46Hidden",
                                 "sections": [
                                     {
                                         "ref": "Talismans/Hidden"
@@ -242,9 +258,10 @@
                                 ]
                             },
                             {
+                                "name": "rA1_47Armor",
                                 "sections": [
                                     {
-                                        "ref": "Talismans/Armor Geisha Area"
+                                        "ref": "Talismans/Armor Haunt Area"
                                     }
                                 ],
                                 "map_locations": [
@@ -256,6 +273,7 @@
                                 ]
                             },
                             {
+                                "name": "rA1_50CP",
                                 "sections": [
                                     {
                                         "ref": "Checkpoints/Geisha"
@@ -280,7 +298,7 @@
                 ],
                 "children": [
                     {
-                        "name": "rA0_23",
+                        "name": "rA0_23 - Skill",
                         "sections": [
                             {
                                 "ref": "Skills/Chain Dash"
@@ -295,6 +313,7 @@
                         ]
                     },
                     {
+                        "name": "rA0_23 - Talisman",
                         "sections": [
                             {
                                 "ref": "Talismans/Chain Dash Room"
@@ -309,6 +328,7 @@
                         ]
                     },
                     {
+                        "name": "rA0_20",
                         "sections": [
                             {
                                 "ref": "Checkpoints/Guardian"
@@ -338,6 +358,7 @@
                         ]
                     },
                     {
+                        "name": "rA0_16Secret",
                         "sections": [
                             {
                                 "ref": "Talismans/Left Red Area Entry"
@@ -358,6 +379,7 @@
                         ],
                         "children": [
                             {
+                                "name": "rA0_24",
                                 "sections": [
                                     {
                                         "ref": "Coins/Right Red Area Entry"
@@ -372,6 +394,7 @@
                                 ]
                             },
                             {
+                                "name": "rA0_26Coin",
                                 "sections": [
                                     {
                                         "ref": "Coins/Left of Bridge Room"
@@ -400,6 +423,7 @@
                                 ],
                                 "children": [
                                     {
+                                        "name": "rA1_64",
                                         "sections": [
                                             {
                                                 "ref": "Runes/Echo Rune"
@@ -414,6 +438,7 @@
                                         ]
                                     },
                                     {
+                                        "name": "rA1_65Coin",
                                         "sections": [
                                             {
                                                 "ref": "Coins/Phantom Jin"
@@ -428,6 +453,7 @@
                                         ]
                                     },
                                     {
+                                        "name": "rA1_62",
                                         "sections": [
                                             {
                                                 "ref": "Checkpoints/Phantom Jin"

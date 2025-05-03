@@ -3,11 +3,9 @@
         "name": "Swamp - Overworld",
         "children": [
             {
-                "name": "",
                 "sections": [
                     {
-                        "name": "",
-                        "ref": ""
+                        "ref": "Swamp/rA1_98/Armor"
                     }
                 ],
                 "map_locations": [
@@ -19,11 +17,9 @@
                 ]
             },
             {
-                "name": "",
                 "sections": [
                     {
-                        "name": "",
-                        "ref": ""
+                        "ref": "Swamp/rA1_97/Throws"
                     }
                 ],
                 "map_locations": [
@@ -35,11 +31,9 @@
                 ]
             },
             {
-                "name": "",
                 "sections": [
                     {
-                        "name": "",
-                        "ref": ""
+                        "ref": "Swamp/rA1_96/Green Area Entry"
                     }
                 ],
                 "map_locations": [
@@ -56,11 +50,9 @@
         "name": "Armor Area - Overworld",
         "children": [
             {
-                "name": "",
                 "sections": [
                     {
-                        "name": "",
-                        "ref": ""
+                        "ref": "Swamp/Armor Area/rA1_112/Yellow Shard"
                     }
                 ],
                 "map_locations": [
@@ -72,11 +64,9 @@
                 ]
             },
             {
-                "name": "",
                 "sections": [
                     {
-                        "name": "",
-                        "ref": ""
+                        "ref": "Swamp/Armor Area/rA1_100Coin/Armor Time Puzzle"
                     }
                 ],
                 "map_locations": [
@@ -88,11 +78,9 @@
                 ]
             },
             {
-                "name": "",
                 "sections": [
                     {
-                        "name": "",
-                        "ref": ""
+                        "ref": "Swamp/Armor Area/rA1_105/Father"
                     }
                 ],
                 "map_locations": [
@@ -104,11 +92,9 @@
                 ]
             },
             {
-                "name": "",
                 "sections": [
                     {
-                        "name": "",
-                        "ref": ""
+                        "ref": "Swamp/Armor Area/rA1_102/Warps"
                     }
                 ],
                 "map_locations": [
@@ -120,11 +106,9 @@
                 ]
             },
             {
-                "name": "",
                 "sections": [
                     {
-                        "name": "",
-                        "ref": ""
+                        "ref": "Swamp/Armor Area/rA1_103CP/Father"
                     }
                 ],
                 "map_locations": [
@@ -136,11 +120,9 @@
                 ]
             },
             {
-                "name": "",
                 "sections": [
                     {
-                        "name": "",
-                        "ref": ""
+                        "ref": "Swamp/Armor Area/rA1_109/Deceiver"
                     }
                 ],
                 "map_locations": [

@@ -6,6 +6,7 @@
         ],
         "children": [
             {
+                "name": "rA1_118ArenaFatalReward",
                 "sections": [
                     {
                         "ref": "Skills/Fatal Draw Upgrade"
@@ -20,6 +21,7 @@
                 ]
             },
             {
+                "name": "rA1_122",
                 "sections": [
                     {
                         "ref": "Coins/Most Left"
@@ -34,6 +36,7 @@
                 ]
             },
             {
+                "name": "rA1_118",
                 "sections": [
                     {
                         "ref": "Checkpoints/Fatal Arena"
@@ -54,6 +57,7 @@
                 ],
                 "children": [
                     {
+                        "name": "rA1_134",
                         "sections": [
                             {
                                 "ref": "Skills/Demon Blade"
@@ -68,6 +72,7 @@
                         ]
                     },
                     {
+                        "name": "rA1_130",
                         "sections": [
                             {
                                 "ref": "Checkpoints/Monk"

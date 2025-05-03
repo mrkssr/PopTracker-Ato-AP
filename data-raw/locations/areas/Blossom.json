@@ -21,6 +21,7 @@
                 ]
             },
             {
+                "name": "rA1_136Love",
                 "sections": [
                     {
                         "ref": "Coins/Love Room"
@@ -35,6 +36,7 @@
                 ]
             },
             {
+                "name": "rA0_5Coin",
                 "sections": [
                     {
                         "ref": "Coins/Rogue"
@@ -49,6 +51,7 @@
                 ]
             },
             {
+                "name": "rA0_0",
                 "sections": [
                     {
                         "ref": "Talismans/Start Room"
@@ -63,6 +66,7 @@
                 ]
             },
             {
+                "name": "rA1_0runway",
                 "sections": [
                     {
                         "ref": "Talismans/Runway"
@@ -77,6 +81,7 @@
                 ]
             },
             {
+                "name": "rA0_4",
                 "sections": [
                     {
                         "ref": "Checkpoints/Rogue"
@@ -112,6 +117,7 @@
                         ]
                     },
                     {
+                        "name": "rA1_8Basement",
                         "sections": [
                             {
                                 "ref": "Coins/Basement"
@@ -134,6 +140,7 @@
                 ],
                 "children": [
                     {
+                        "name": "rA1_1under",
                         "sections": [
                             {
                                 "ref": "Talismans/Under Leaves"
@@ -154,7 +161,7 @@
                         ],
                         "children": [
                             {
-                                "name": "Room Name",
+                                "name": "rA1_1VagrantBossFinalReward",
                                 "sections": [
                                     {
                                         "ref": "Magic Bars/Magic Bar Vagrant"
@@ -169,6 +176,7 @@
                                 ]
                             },
                             {
+                                "name": "rA1_1Coin0",
                                 "sections": [
                                     {
                                         "ref": "Coins/Hub Left"
@@ -183,6 +191,7 @@
                                 ]
                             },
                             {
+                                "name": "rA1_1Coin1",
                                 "sections": [
                                     {
                                         "ref": "Coins/Hub Up"
@@ -197,6 +206,7 @@
                                 ]
                             },
                             {
+                                "name": "rA1_1CP",
                                 "sections": [
                                     {
                                         "ref": "Checkpoints/Vagrant"
@@ -234,6 +244,7 @@
                                 ]
                             },
                             {
+                                "name": "rA1_4 - Talisman",
                                 "sections": [
                                     {
                                         "ref": "Talismans/Bandit"
@@ -248,6 +259,7 @@
                                 ]
                             },
                             {
+                                "name": "rA1_2",
                                 "sections": [
                                     {
                                         "ref": "Checkpoints/Bandit"
@@ -271,7 +283,7 @@
                         "visibility_rules": [],
                         "children": [
                             {
-                                "name": "Runes",
+                                "name": "rA1_35 - Rune",
                                 "sections": [
                                     {
                                         "ref": "Runes/Juggernaut Rune"
@@ -286,6 +298,7 @@
                                 ]
                             },
                             {
+                                "name": "rA1_29VagrantBossReward",
                                 "sections": [
                                     {
                                         "ref": "Coins/Vagrant II Reward"
@@ -300,6 +313,7 @@
                                 ]
                             },
                             {
+                                "name": "rA1_9",
                                 "sections": [
                                     {
                                         "ref": "Talismans/Leave Room"
@@ -314,6 +328,7 @@
                                 ]
                             },
                             {
+                                "name": "rA1_11Armor",
                                 "sections": [
                                     {
                                         "ref": "Talismans/Behind Rocks"
@@ -328,6 +343,7 @@
                                 ]
                             },
                             {
+                                "name": "rA1_36",
                                 "sections": [
                                     {
                                         "ref": "Talismans/Spin Puzzle"
@@ -342,6 +358,7 @@
                                 ]
                             },
                             {
+                                "name": "rA1_32Deflector",
                                 "sections": [
                                     {
                                         "ref": "Talismans/Deflector"
@@ -356,6 +373,7 @@
                                 ]
                             },
                             {
+                                "name": "rA1_35 - Talisman",
                                 "sections": [
                                     {
                                         "ref": "Talismans/Twins"
@@ -370,6 +388,7 @@
                                 ]
                             },
                             {
+                                "name": "rA1_33",
                                 "sections": [
                                     {
                                         "ref": "Checkpoints/Twins"
