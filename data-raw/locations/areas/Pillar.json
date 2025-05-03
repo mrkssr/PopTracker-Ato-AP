@@ -6,6 +6,7 @@
         ],
         "children": [
             {
+                "name": "rA1_16spinpower",
                 "sections": [
                     {
                         "ref": "Skills/Spin"
@@ -14,12 +15,13 @@
                 "map_locations": [
                     {
                         "map": "Pillar",
-                        "x": "0",
-                        "y": "0"
+                        "x": "758",
+                        "y": "579"
                     }
                 ]
             },
             {
+                "name": "rA1_14CP",
                 "sections": [
                     {
                         "ref": "Checkpoints/Mother"
@@ -28,8 +30,8 @@
                 "map_locations": [
                     {
                         "map": "Pillar",
-                        "x": "0",
-                        "y": "0"
+                        "x": "493",
+                        "y": "579"
                     }
                 ]
             },
@@ -40,6 +42,7 @@
                 ],
                 "children": [
                     {
+                        "name": "rA1_28",
                         "sections": [
                             {
                                 "ref": "Shards/Blue Shard"
@@ -48,12 +51,13 @@
                         "map_locations": [
                             {
                                 "map": "Pillar",
-                                "x": "0",
-                                "y": "0"
+                                "x": "1113",
+                                "y": "49"
                             }
                         ]
                     },
                     {
+                        "name": "rA1_23",
                         "sections": [
                             {
                                 "ref": "Coins/Spins"
@@ -62,12 +66,13 @@
                         "map_locations": [
                             {
                                 "map": "Pillar",
-                                "x": "0",
-                                "y": "0"
+                                "x": "404",
+                                "y": "268"
                             }
                         ]
                     },
                     {
+                        "name": "rA1_20",
                         "sections": [
                             {
                                 "ref": "Talismans/Spins"
@@ -76,26 +81,28 @@
                         "map_locations": [
                             {
                                 "map": "Pillar",
-                                "x": "0",
-                                "y": "0"
+                                "x": "51",
+                                "y": "315"
                             }
                         ]
                     },
                     {
+                        "name": "rA1_25CP - Talisman",
                         "sections": [
                             {
-                                "ref": "Talismans/Ancient Warrior Checkpoint"
+                                "ref": "Talismans/Ancient Warrior"
                             }
                         ],
                         "map_locations": [
                             {
                                 "map": "Pillar",
-                                "x": "0",
-                                "y": "0"
+                                "x": "671",
+                                "y": "138"
                             }
                         ]
                     },
                     {
+                        "name": "rA1_21",
                         "sections": [
                             {
                                 "ref": "Checkpoints/Spin Puzzles"
@@ -104,12 +111,13 @@
                         "map_locations": [
                             {
                                 "map": "Pillar",
-                                "x": "0",
-                                "y": "0"
+                                "x": "228",
+                                "y": "315"
                             }
                         ]
                     },
                     {
+                        "name": "rA1_25CP - Checkpoint",
                         "sections": [
                             {
                                 "ref": "Checkpoints/Ancient Warrior"
@@ -118,8 +126,8 @@
                         "map_locations": [
                             {
                                 "map": "Pillar",
-                                "x": "0",
-                                "y": "0"
+                                "x": "758",
+                                "y": "138"
                             }
                         ]
                     }

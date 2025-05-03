@@ -1,13 +1,13 @@
 [
     {
         "name": "Overworld",
-        "location_size": 16,
+        "location_size": 20,
         "location_border_thickness": 1,
         "img": "images/maps/Overworld.png"
     },
     {
         "name": "MapLegend",
-        "location_size": 16,
+        "location_size": 14,
         "location_border_thickness": 1,
         "img": "images/maps/MapLegend.png"
     },
@@ -43,7 +43,7 @@
     },
     {
         "name": "Crimson",
-        "location_size": 42,
+        "location_size": 64,
         "location_border_thickness": 2,
         "img": "images/maps/Crimson.png"
     },

@@ -33,6 +33,62 @@
             {
                 "sections": [
                     {
+                        "ref": "/Dash"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "MapLegend",
+                        "x": "0",
+                        "y": "0"
+                    }
+                ]
+            },
+            {
+                "sections": [
+                    {
+                        "ref": "/Chain Dash"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "MapLegend",
+                        "x": "0",
+                        "y": "0"
+                    }
+                ]
+            },
+            {
+                "sections": [
+                    {
+                        "ref": "/Chain Dash Upgrade"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "MapLegend",
+                        "x": "0",
+                        "y": "0"
+                    }
+                ]
+            },
+            {
+                "sections": [
+                    {
+                        "ref": "/Double Jump"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "MapLegend",
+                        "x": "0",
+                        "y": "0"
+                    }
+                ]
+            },
+            {
+                "sections": [
+                    {
                         "ref": "Blossom/Crystal Break Area/rA1_8/Crystal Break"
                     }
                 ],
@@ -41,6 +97,216 @@
                         "map": "MapLegend",
                         "x": "160",
                         "y": "120"
+                    }
+                ]
+            },
+            {
+                "sections": [
+                    {
+                        "ref": "/Electric Wind Lethal Strike"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "MapLegend",
+                        "x": "0",
+                        "y": "0"
+                    }
+                ]
+            },
+            {
+                "sections": [
+                    {
+                        "ref": "/Parry"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "MapLegend",
+                        "x": "0",
+                        "y": "0"
+                    }
+                ]
+            },
+            {
+                "sections": [
+                    {
+                        "ref": "/Demon Blade"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "MapLegend",
+                        "x": "0",
+                        "y": "0"
+                    }
+                ]
+            },
+            {
+                "sections": [
+                    {
+                        "ref": "/Fatal Draw"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "MapLegend",
+                        "x": "0",
+                        "y": "0"
+                    }
+                ]
+            },
+            {
+                "sections": [
+                    {
+                        "ref": "/Fatal Draw Upgrade"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "MapLegend",
+                        "x": "0",
+                        "y": "0"
+                    }
+                ]
+            },
+            {
+                "sections": [
+                    {
+                        "ref": "/Armor"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "MapLegend",
+                        "x": "0",
+                        "y": "0"
+                    }
+                ]
+            },
+            {
+                "sections": [
+                    {
+                        "ref": "/Armor Upgrade"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "MapLegend",
+                        "x": "0",
+                        "y": "0"
+                    }
+                ]
+            },
+            {
+                "sections": [
+                    {
+                        "ref": "Crimson/rA1_69/Throw"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "MapLegend",
+                        "x": "160",
+                        "y": "166"
+                    }
+                ]
+            },
+            {
+                "sections": [
+                    {
+                        "ref": "/Throw Upgrade"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "MapLegend",
+                        "x": "0",
+                        "y": "0"
+                    }
+                ]
+            },
+            {
+                "sections": [
+                    {
+                        "ref": "Pillar/rA1_16spinpower/Spin"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "MapLegend",
+                        "x": "160",
+                        "y": "143"
+                    }
+                ]
+            },
+            {
+                "sections": [
+                    {
+                        "ref": "/Spin Upgrade"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "MapLegend",
+                        "x": "0",
+                        "y": "0"
+                    }
+                ]
+            },
+            {
+                "sections": [
+                    {
+                        "ref": "/Meditate"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "MapLegend",
+                        "x": "0",
+                        "y": "0"
+                    }
+                ]
+            },
+            {
+                "sections": [
+                    {
+                        "ref": "/Triple Slash"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "MapLegend",
+                        "x": "0",
+                        "y": "0"
+                    }
+                ]
+            },
+            {
+                "sections": [
+                    {
+                        "ref": "/Speed Charge"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "MapLegend",
+                        "x": "0",
+                        "y": "0"
+                    }
+                ]
+            },
+            {
+                "sections": [
+                    {
+                        "ref": "/Vision"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "MapLegend",
+                        "x": "0",
+                        "y": "0"
                     }
                 ]
             }

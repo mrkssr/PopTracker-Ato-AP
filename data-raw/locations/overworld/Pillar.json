@@ -3,34 +3,30 @@
         "name": "Pillar - Overworld",
         "children": [
             {
-                "name": "",
                 "sections": [
                     {
-                        "name": "",
-                        "ref": ""
+                        "ref": "Pillar/rA1_16spinpower/Spin"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": "0",
-                        "y": "0"
+                        "x": "845",
+                        "y": "228"
                     }
                 ]
             },
             {
-                "name": "",
                 "sections": [
                     {
-                        "name": "",
-                        "ref": ""
+                        "ref": "Pillar/rA1_14CP/Mother"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": "0",
-                        "y": "0"
+                        "x": "746",
+                        "y": "228"
                     }
                 ]
             }
@@ -40,98 +36,86 @@
         "name": "Spin Area - Overworld",
         "children": [
             {
-                "name": "",
                 "sections": [
                     {
-                        "name": "",
-                        "ref": ""
+                        "ref": "Pillar/Spin Area/rA1_28/Blue Shard"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": "0",
-                        "y": "0"
+                        "x": "976",
+                        "y": "32"
                     }
                 ]
             },
             {
-                "name": "",
                 "sections": [
                     {
-                        "name": "",
-                        "ref": ""
+                        "ref": "Pillar/Spin Area/rA1_23/Spins"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": "0",
-                        "y": "0"
+                        "x": "713",
+                        "y": "114"
                     }
                 ]
             },
             {
-                "name": "",
                 "sections": [
                     {
-                        "name": "",
-                        "ref": ""
+                        "ref": "Pillar/Spin Area/rA1_20/Spins"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": "0",
-                        "y": "0"
+                        "x": "582",
+                        "y": "130"
                     }
                 ]
             },
             {
-                "name": "",
                 "sections": [
                     {
-                        "name": "",
-                        "ref": ""
+                        "ref": "Pillar/Spin Area/rA1_25CP - Talisman/Ancient Warrior"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": "0",
-                        "y": "0"
+                        "x": "813",
+                        "y": "64"
                     }
                 ]
             },
             {
-                "name": "",
                 "sections": [
                     {
-                        "name": "",
-                        "ref": ""
+                        "ref": "Pillar/Spin Area/rA1_21/Spin Puzzles"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": "0",
-                        "y": "0"
+                        "x": "647",
+                        "y": "130"
                     }
                 ]
             },
             {
-                "name": "",
                 "sections": [
                     {
-                        "name": "",
-                        "ref": ""
+                        "ref": "Pillar/Spin Area/rA1_25CP - Checkpoint/Ancient Warrior"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": "0",
-                        "y": "0"
+                        "x": "844",
+                        "y": "64"
                     }
                 ]
             }

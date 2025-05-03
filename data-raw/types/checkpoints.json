@@ -1,6 +1,9 @@
 [
     {
         "name": "Checkpoints",
+        "visibility-rules": [
+            "$checkpoints_visible"
+        ],
         "sections": [
             {
                 "name": "Rogue"
