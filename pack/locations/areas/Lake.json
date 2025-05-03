@@ -1,0 +1,532 @@
+[
+    {
+        "name": "Lake",
+        "access_rules": [
+            "@Lake Access"
+        ],
+        "children": [
+            {
+                "sections": [
+                    {
+                        "name": "After Bridge Drop",
+                        "ref": "Coins/After Bridge Drop"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Lake",
+                        "x": "0",
+                        "y": "0"
+                    }
+                ]
+            },
+            {
+                "sections": [
+                    {
+                        "name": "Low Gravity Bumper",
+                        "ref": "Talismans/Low Gravity Bumper"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Lake",
+                        "x": "0",
+                        "y": "0"
+                    }
+                ]
+            },
+            {
+                "sections": [
+                    {
+                        "name": "Bridge Drop",
+                        "ref": "Checkpoints/Bridge Drop"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Lake",
+                        "x": "0",
+                        "y": "0"
+                    }
+                ]
+            },
+            {
+                "name": "Lake Lower",
+                "access_rules": [
+                    "@Lake Lower Access"
+                ],
+                "children": [
+                    {
+                        "sections": [
+                            {
+                                "name": "Tiny Warrior Entry",
+                                "ref": "Coins/Tiny Warrior Entry"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Lake",
+                                "x": "0",
+                                "y": "0"
+                            }
+                        ]
+                    },
+                    {
+                        "sections": [
+                            {
+                                "name": "Time Puzzle Tiny Warrior",
+                                "ref": "Coins/Time Puzzle Tiny Warrior"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Lake",
+                                "x": "0",
+                                "y": "0"
+                            }
+                        ]
+                    },
+                    {
+                        "sections": [
+                            {
+                                "name": "Tiny Warrior",
+                                "ref": "Talismans/Tiny Warrior"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Lake",
+                                "x": "0",
+                                "y": "0"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Tiny Warrior Area",
+                        "access_rules": [
+                            "@Tiny Warrior Area Access"
+                        ],
+                        "children": [
+                            {
+                                "sections": [
+                                    {
+                                        "name": "Magic Bar Tiny Warrior",
+                                        "ref": "Magic Bars/Magic Bar Tiny Warrior"
+                                    }
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Lake",
+                                        "x": "0",
+                                        "y": "0"
+                                    }
+                                ]
+                            },
+                            {
+                                "sections": [
+                                    {
+                                        "name": "Tiny Warrior",
+                                        "ref": "Checkpoints/Tiny Warrior"
+                                    }
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Lake",
+                                        "x": "0",
+                                        "y": "0"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Lake Middle",
+                "access_rules": [
+                    "@Lake Middle Access"
+                ],
+                "children": [
+                    {
+                        "sections": [
+                            {
+                                "name": "Speed Charge",
+                                "ref": "Skills/Speed Charge"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Lake",
+                                "x": "0",
+                                "y": "0"
+                            }
+                        ]
+                    },
+                    {
+                        "sections": [
+                            {
+                                "name": "Breakable Floors",
+                                "ref": "Coins/Breakable Floors"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Lake",
+                                "x": "0",
+                                "y": "0"
+                            }
+                        ]
+                    },
+                    {
+                        "sections": [
+                            {
+                                "name": "Bumper Time Puzzle",
+                                "ref": "Coins/Bumper Time Puzzle"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Lake",
+                                "x": "0",
+                                "y": "0"
+                            }
+                        ]
+                    },
+                    {
+                        "sections": [
+                            {
+                                "name": "Bumper",
+                                "ref": "Talismans/Bumper"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Lake",
+                                "x": "0",
+                                "y": "0"
+                            }
+                        ]
+                    },
+                    {
+                        "sections": [
+                            {
+                                "name": "Archer",
+                                "ref": "Talismans/Archer"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Lake",
+                                "x": "0",
+                                "y": "0"
+                            }
+                        ]
+                    },
+                    {
+                        "sections": [
+                            {
+                                "name": "Ninja",
+                                "ref": "Talismans/Ninja"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Lake",
+                                "x": "0",
+                                "y": "0"
+                            }
+                        ]
+                    },
+                    {
+                        "sections": [
+                            {
+                                "name": "Climb",
+                                "ref": "Checkpoints/Climb"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Lake",
+                                "x": "0",
+                                "y": "0"
+                            }
+                        ]
+                    },
+                    {
+                        "sections": [
+                            {
+                                "name": "Ninja",
+                                "ref": "Checkpoints/Ninja"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Lake",
+                                "x": "0",
+                                "y": "0"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Lake Top Left",
+                        "access_rules": [
+                            "@Lake Top Left Access"
+                        ],
+                        "children": [
+                            {
+                                "sections": [
+                                    {
+                                        "name": "Fatal Draw",
+                                        "ref": "Skills/Fatal Draw"
+                                    }
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Lake",
+                                        "x": "0",
+                                        "y": "0"
+                                    }
+                                ]
+                            },
+                            {
+                                "sections": [
+                                    {
+                                        "name": "Vagrant I Reward",
+                                        "ref": "Coins/Vagrant I Reward"
+                                    }
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Lake",
+                                        "x": "0",
+                                        "y": "0"
+                                    }
+                                ]
+                            },
+                            {
+                                "sections": [
+                                    {
+                                        "name": "Fatal Draw",
+                                        "ref": "Coins/Fatal Draw"
+                                    }
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Lake",
+                                        "x": "0",
+                                        "y": "0"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Archer Area",
+                        "access_rules": [
+                            "@Archer Area Access"
+                        ],
+                        "children": [
+                            {
+                                "sections": [
+                                    {
+                                        "name": "Chain Dash Upgrade",
+                                        "ref": "Skills/Chain Dash Upgrade"
+                                    }
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Lake",
+                                        "x": "0",
+                                        "y": "0"
+                                    }
+                                ]
+                            },
+                            {
+                                "sections": [
+                                    {
+                                        "name": "Archer",
+                                        "ref": "Checkpoints/Archer"
+                                    }
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Lake",
+                                        "x": "0",
+                                        "y": "0"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Lake East",
+                        "access_rules": [
+                            "@Lake East Access"
+                        ],
+                        "children": [
+                            {
+                                "name": "Lake Upper",
+                                "access_rules": [
+                                    "@Lake Upper Access"
+                                ],
+                                "children": [
+                                    {
+                                        "sections": [
+                                            {
+                                                "name": "Vision",
+                                                "ref": "Skills/Vision"
+                                            }
+                                        ],
+                                        "map_locations": [
+                                            {
+                                                "map": "Lake",
+                                                "x": "0",
+                                                "y": "0"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "sections": [
+                                            {
+                                                "name": "Hidden Breakables",
+                                                "ref": "Talismans/Hidden Breakables"
+                                            }
+                                        ],
+                                        "map_locations": [
+                                            {
+                                                "map": "Lake",
+                                                "x": "0",
+                                                "y": "0"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "sections": [
+                                            {
+                                                "name": "Sentinel",
+                                                "ref": "Talismans/Sentinel"
+                                            }
+                                        ],
+                                        "map_locations": [
+                                            {
+                                                "map": "Lake",
+                                                "x": "0",
+                                                "y": "0"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "sections": [
+                                            {
+                                                "name": "Sentinel",
+                                                "ref": "Checkpoints/Sentinel"
+                                            }
+                                        ],
+                                        "map_locations": [
+                                            {
+                                                "map": "Lake",
+                                                "x": "0",
+                                                "y": "0"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Spin Arena Area",
+                                        "access_rules": [
+                                            "@Spin Arena Area Access"
+                                        ],
+                                        "children": [
+                                            {
+                                                "sections": [
+                                                    {
+                                                        "name": "Spin Upgrade",
+                                                        "ref": "Skills/Spin Upgrade"
+                                                    }
+                                                ],
+                                                "map_locations": [
+                                                    {
+                                                        "map": "Lake",
+                                                        "x": "0",
+                                                        "y": "0"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "sections": [
+                                                    {
+                                                        "name": "Owl",
+                                                        "ref": "Talismans/Owl"
+                                                    }
+                                                ],
+                                                "map_locations": [
+                                                    {
+                                                        "map": "Lake",
+                                                        "x": "0",
+                                                        "y": "0"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "sections": [
+                                                    {
+                                                        "name": "Spin Arena",
+                                                        "ref": "Checkpoints/Spin Arena"
+                                                    }
+                                                ],
+                                                "map_locations": [
+                                                    {
+                                                        "map": "Lake",
+                                                        "x": "0",
+                                                        "y": "0"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Lake Temple",
+                                "access_rules": [
+                                    "@Lake Temple Access"
+                                ],
+                                "children": [
+                                    {
+                                        "sections": [
+                                            {
+                                                "name": "Acolyte",
+                                                "ref": "Checkpoints/Acolyte"
+                                            }
+                                        ],
+                                        "map_locations": [
+                                            {
+                                                "map": "Lake",
+                                                "x": "0",
+                                                "y": "0"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "sections": [
+                                            {
+                                                "name": "Acolyte",
+                                                "ref": "Bosses/Acolyte"
+                                            }
+                                        ],
+                                        "map_locations": [
+                                            {
+                                                "map": "Lake",
+                                                "x": "0",
+                                                "y": "0"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

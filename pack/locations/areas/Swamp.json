@@ -1,0 +1,153 @@
+[
+    {
+        "name": "Swamp",
+        "access_rules": [
+            "@Swamp Access"
+        ],
+        "children": [
+            {
+                "sections": [
+                    {
+                        "name": "Armor",
+                        "ref": "Skills/Armor"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Swamp",
+                        "x": "0",
+                        "y": "0"
+                    }
+                ]
+            },
+            {
+                "sections": [
+                    {
+                        "name": "Throws",
+                        "ref": "Talismans/Throws"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Swamp",
+                        "x": "0",
+                        "y": "0"
+                    }
+                ]
+            },
+            {
+                "sections": [
+                    {
+                        "name": "Green Area Entry",
+                        "ref": "Checkpoints/Green Area Entry"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Swamp",
+                        "x": "0",
+                        "y": "0"
+                    }
+                ]
+            },
+            {
+                "name": "Armor Area",
+                "access_rules": [
+                    "@Armor Area Access"
+                ],
+                "children": [
+                    {
+                        "sections": [
+                            {
+                                "name": "Yellow Shard",
+                                "ref": "Shards/Yellow Shard"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Swamp",
+                                "x": "0",
+                                "y": "0"
+                            }
+                        ]
+                    },
+                    {
+                        "sections": [
+                            {
+                                "name": "Armor Time Puzzle",
+                                "ref": "Coins/Armor Time Puzzle"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Swamp",
+                                "x": "0",
+                                "y": "0"
+                            }
+                        ]
+                    },
+                    {
+                        "sections": [
+                            {
+                                "name": "Father",
+                                "ref": "Coins/Father"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Swamp",
+                                "x": "0",
+                                "y": "0"
+                            }
+                        ]
+                    },
+                    {
+                        "sections": [
+                            {
+                                "name": "Warps",
+                                "ref": "Talismans/Warps"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Swamp",
+                                "x": "0",
+                                "y": "0"
+                            }
+                        ]
+                    },
+                    {
+                        "sections": [
+                            {
+                                "name": "Father",
+                                "ref": "Checkpoints/Father"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Swamp",
+                                "x": "0",
+                                "y": "0"
+                            }
+                        ]
+                    },
+                    {
+                        "sections": [
+                            {
+                                "name": "Deceiver",
+                                "ref": "Checkpoints/Deceiver"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Swamp",
+                                "x": "0",
+                                "y": "0"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

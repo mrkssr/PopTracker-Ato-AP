@@ -1,0 +1,251 @@
+[
+    {
+        "name": "Hills",
+        "access_rules": [
+            "@Hills Access"
+        ],
+        "children": [
+            {
+                "sections": [
+                    {
+                        "name": "Dash",
+                        "ref": "Skills/Dash"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Hills",
+                        "x": "0",
+                        "y": "0"
+                    }
+                ]
+            },
+            {
+                "sections": [
+                    {
+                        "name": "8 Coins Door",
+                        "ref": "Coins/8 Coins Door"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Hills",
+                        "x": "0",
+                        "y": "0"
+                    }
+                ]
+            },
+            {
+                "sections": [
+                    {
+                        "name": "Dash Room",
+                        "ref": "Talismans/Dash"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Hills",
+                        "x": "0",
+                        "y": "0"
+                    }
+                ]
+            },
+            {
+                "name": "Hills Middle",
+                "access_rules": [
+                    "@Hills Middle Access"
+                ],
+                "children": [
+                    {
+                        "sections": [
+                            {
+                                "name": "Throw Upgrade",
+                                "ref": "Skills/Throw Upgrade"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hills",
+                                "x": "0",
+                                "y": "0"
+                            }
+                        ]
+                    },
+                    {
+                        "sections": [
+                            {
+                                "name": "Flurry Rune",
+                                "ref": "Runes/Flurry Rune"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hills",
+                                "x": "0",
+                                "y": "0"
+                            }
+                        ]
+                    },
+                    {
+                        "sections": [
+                            {
+                                "name": "Hidden Time Puzzle",
+                                "ref": "Coins/Hidden Time Puzzle"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hills",
+                                "x": "0",
+                                "y": "0"
+                            }
+                        ]
+                    },
+                    {
+                        "sections": [
+                            {
+                                "name": "Preview",
+                                "ref": "Talismans/Preview"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hills",
+                                "x": "0",
+                                "y": "0"
+                            }
+                        ]
+                    },
+                    {
+                        "sections": [
+                            {
+                                "name": "Top Platforms",
+                                "ref": "Talismans/Top Platforms"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hills",
+                                "x": "0",
+                                "y": "0"
+                            }
+                        ]
+                    },
+                    {
+                        "sections": [
+                            {
+                                "name": "Jin",
+                                "ref": "Talismans/Jin"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hills",
+                                "x": "0",
+                                "y": "0"
+                            }
+                        ]
+                    },
+                    {
+                        "sections": [
+                            {
+                                "name": "Throw Arena",
+                                "ref": "Checkpoints/Throw Arena"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hills",
+                                "x": "0",
+                                "y": "0"
+                            }
+                        ]
+                    },
+                    {
+                        "sections": [
+                            {
+                                "name": "Berserker",
+                                "ref": "Checkpoints/Berserker"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hills",
+                                "x": "0",
+                                "y": "0"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Hills Upper",
+                        "access_rules": [
+                            "@Hills Upper Access"
+                        ],
+                        "children": [
+                            {
+                                "sections": [
+                                    {
+                                        "name": "Electric Wind Lethal Strike",
+                                        "ref": "Skills/Electric Wind Lethal Strike"
+                                    }
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Hills",
+                                        "x": "0",
+                                        "y": "0"
+                                    }
+                                ]
+                            },
+                            {
+                                "sections": [
+                                    {
+                                        "name": "Phantom Shin",
+                                        "ref": "Coins/Phantom Shin"
+                                    }
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Hills",
+                                        "x": "0",
+                                        "y": "0"
+                                    }
+                                ]
+                            },
+                            {
+                                "sections": [
+                                    {
+                                        "name": "Behind Warp",
+                                        "ref": "Coins/Behind Warp"
+                                    }
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Hills",
+                                        "x": "0",
+                                        "y": "0"
+                                    }
+                                ]
+                            },
+                            {
+                                "sections": [
+                                    {
+                                        "name": "Phantom Shin",
+                                        "ref": "Checkpoints/Phantom Shin"
+                                    }
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Hills",
+                                        "x": "0",
+                                        "y": "0"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

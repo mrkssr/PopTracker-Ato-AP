@@ -1,0 +1,93 @@
+[
+    {
+        "name": "Forbidden",
+        "access_rules": [
+            "@Forbidden Access"
+        ],
+        "children": [
+            {
+                "sections": [
+                    {
+                        "name": "Fatal Draw Upgrade",
+                        "ref": "Skills/Fatal Draw Upgrade"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Forbidden",
+                        "x": "0",
+                        "y": "0"
+                    }
+                ]
+            },
+            {
+                "sections": [
+                    {
+                        "name": "Most Left",
+                        "ref": "Coins/Most Left"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Forbidden",
+                        "x": "0",
+                        "y": "0"
+                    }
+                ]
+            },
+            {
+                "sections": [
+                    {
+                        "name": "Fatal Arena",
+                        "ref": "Checkpoints/Fatal Arena"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Forbidden",
+                        "x": "0",
+                        "y": "0"
+                    }
+                ]
+            },
+            {
+                "name": "Forbidden Upper",
+                "access_rules": [
+                    "@Forbidden Upper Access"
+                ],
+                "children": [
+                    {
+                        "sections": [
+                            {
+                                "name": "Demon Blade",
+                                "ref": "Skills/Demon Blade"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Forbidden",
+                                "x": "0",
+                                "y": "0"
+                            }
+                        ]
+                    },
+                    {
+                        "sections": [
+                            {
+                                "name": "Monk",
+                                "ref": "Checkpoints/Monk"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Forbidden",
+                                "x": "0",
+                                "y": "0"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

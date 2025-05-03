@@ -1,0 +1,422 @@
+[
+    {
+        "name": "Blossom",
+        "access_rules": [
+            "@Blossom"
+        ],
+        "children": [
+            {
+                "name": "rA0_4PowerUp",
+                "sections": [
+                    {
+                        "name": "Dodge",
+                        "chest_unopened_img": "/images/items/skills/Dodge.png",
+                        "chest_opened_img": "/images/items/skills/Dodge.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Blossom",
+                        "x": "930",
+                        "y": "530"
+                    }
+                ]
+            },
+            {
+                "sections": [
+                    {
+                        "name": "Love Room",
+                        "ref": "Coins/Love Room"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Blossom",
+                        "x": "0",
+                        "y": "0"
+                    }
+                ]
+            },
+            {
+                "sections": [
+                    {
+                        "name": "Rogue",
+                        "ref": "Coins/Rogue"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Blossom",
+                        "x": "0",
+                        "y": "0"
+                    }
+                ]
+            },
+            {
+                "sections": [
+                    {
+                        "name": "Start Room",
+                        "ref": "Talismans/Start Room"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Blossom",
+                        "x": "486",
+                        "y": "573"
+                    }
+                ]
+            },
+            {
+                "sections": [
+                    {
+                        "name": "Runway",
+                        "ref": "Talismans/Runway"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Blossom",
+                        "x": "405",
+                        "y": "450"
+                    }
+                ]
+            },
+            {
+                "sections": [
+                    {
+                        "name": "Rogue",
+                        "ref": "Checkpoints/Rogue"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Blossom",
+                        "x": "0",
+                        "y": "0"
+                    }
+                ]
+            },
+            {
+                "name": "Crystal Break Area",
+                "access_rules": [
+                    "@Crystal Break Area Access"
+                ],
+                "children": [
+                    {
+                        "sections": [
+                            {
+                                "name": "Crystal Break",
+                                "ref": "Skills/Crystal Break"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Blossom",
+                                "x": "128",
+                                "y": "535"
+                            }
+                        ]
+                    },
+                    {
+                        "sections": [
+                            {
+                                "name": "Basement",
+                                "ref": "Coins/Basement"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Blossom",
+                                "x": "0",
+                                "y": "0"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Blossom Middle",
+                "access_rules": [
+                    "@Blossom Middle Access"
+                ],
+                "children": [
+                    {
+                        "sections": [
+                            {
+                                "name": "Under Leaves",
+                                "ref": "Talismans/Under Leaves"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Blossom",
+                                "x": "0",
+                                "y": "0"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Vagrant Area",
+                        "access_rules": [
+                            "@Vagrant Area Access"
+                        ],
+                        "children": [
+                            {
+                                "name": "Magic Bars",
+                                "sections": [
+                                    {
+                                        "name": "Magic Bar Vagrant",
+                                        "ref": "Magic Bars/Magic Bar Vagrant"
+                                    }
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Blossom",
+                                        "x": "0",
+                                        "y": "0"
+                                    }
+                                ]
+                            },
+                            {
+                                "sections": [
+                                    {
+                                        "name": "Hub Left",
+                                        "ref": "Coins/Hub Left"
+                                    }
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Blossom",
+                                        "x": "0",
+                                        "y": "0"
+                                    }
+                                ]
+                            },
+                            {
+                                "sections": [
+                                    {
+                                        "name": "Hub Up",
+                                        "ref": "Coins/Hub Up"
+                                    }
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Blossom",
+                                        "x": "0",
+                                        "y": "0"
+                                    }
+                                ]
+                            },
+                            {
+                                "sections": [
+                                    {
+                                        "name": "Vagrant",
+                                        "ref": "Checkpoints/Vagrant"
+                                    }
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Blossom",
+                                        "x": "0",
+                                        "y": "0"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Bandit Area",
+                        "access_rules": [
+                            "@Bandit Area Access"
+                        ],
+                        "children": [
+                            {
+                                "name": "rA1_4 - Skill",
+                                "sections": [
+                                    {
+                                        "name": "Dodge Upgrade",
+                                        "chest_unopened_img": "/images/items/skills/DodgeUpgrade.png",
+                                        "chest_opened_img": "/images/items/skills/DodgeUpgrade.png",
+                                        "access_rules": [
+                                            "$dash"
+                                        ]
+                                    }
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Blossom",
+                                        "x": "850",
+                                        "y": "375"
+                                    }
+                                ]
+                            },
+                            {
+                                "sections": [
+                                    {
+                                        "name": "Bandit",
+                                        "ref": "Talismans/Bandit"
+                                    }
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Blossom",
+                                        "x": "0",
+                                        "y": "0"
+                                    }
+                                ]
+                            },
+                            {
+                                "sections": [
+                                    {
+                                        "name": "Bandit",
+                                        "ref": "Checkpoints/Bandit"
+                                    }
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Blossom",
+                                        "x": "0",
+                                        "y": "0"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Blossom Upper",
+                        "access_rules": [
+                            "@Blossom Upper Access"
+                        ],
+                        "visibility_rules": [],
+                        "children": [
+                            {
+                                "name": "Runes",
+                                "sections": [
+                                    {
+                                        "name": "Juggernaut Rune",
+                                        "access_rules": [],
+                                        "visibility_rules": [],
+                                        "item_count": 1
+                                    }
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Blossom",
+                                        "x": "0",
+                                        "y": "0"
+                                    }
+                                ]
+                            },
+                            {
+                                "sections": [
+                                    {
+                                        "name": "Vagrant II Reward",
+                                        "ref": "Coins/Vagrant II Reward"
+                                    }
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Blossom",
+                                        "x": "0",
+                                        "y": "0"
+                                    }
+                                ]
+                            },
+                            {
+                                "sections": [
+                                    {
+                                        "name": "Leave Room",
+                                        "ref": "Talismans/Leave Room"
+                                    }
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Blossom",
+                                        "x": "0",
+                                        "y": "0"
+                                    }
+                                ]
+                            },
+                            {
+                                "sections": [
+                                    {
+                                        "name": "Behind Rocks",
+                                        "ref": "Talismans/Behind Rocks"
+                                    }
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Blossom",
+                                        "x": "0",
+                                        "y": "0"
+                                    }
+                                ]
+                            },
+                            {
+                                "sections": [
+                                    {
+                                        "name": "Spin Puzzle",
+                                        "ref": "Talismans/Spin Puzzle"
+                                    }
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Blossom",
+                                        "x": "0",
+                                        "y": "0"
+                                    }
+                                ]
+                            },
+                            {
+                                "sections": [
+                                    {
+                                        "name": "Deflector",
+                                        "ref": "Talismans/Deflector"
+                                    }
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Blossom",
+                                        "x": "0",
+                                        "y": "0"
+                                    }
+                                ]
+                            },
+                            {
+                                "sections": [
+                                    {
+                                        "name": "Twins",
+                                        "ref": "Talismans/Twins"
+                                    }
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Blossom",
+                                        "x": "0",
+                                        "y": "0"
+                                    }
+                                ]
+                            },
+                            {
+                                "sections": [
+                                    {
+                                        "name": "Twins",
+                                        "ref": "Checkpoints/Twins"
+                                    }
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Blossom",
+                                        "x": "0",
+                                        "y": "0"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]
