@@ -2,7 +2,7 @@ import os
 import shutil
 import json
 
-overworld_data_folder = "overworld"
+overworld_data_folder = "locations/overworld"
 transformed_overworld_destination_folder = "../pack/locations/overworld"
 
 overworld = ["Blossom", "Crimson", "Fall", "Forbidden", "Hills", "Lake", "Pillar", "Swamp", "Temple"]

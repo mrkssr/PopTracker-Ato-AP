@@ -2,7 +2,7 @@ import os
 import shutil
 import json
 
-legend_data_folder = "legend"
+legend_data_folder = "locations/legend"
 transformed_legend_destination_folder = "../pack/locations/legend"
 
 legend = ["Bosses", "Obstacles", "Skills"]

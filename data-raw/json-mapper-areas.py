@@ -3,7 +3,7 @@ import shutil
 import json
 
 types_data_folder = "types"
-areas_data_folder = "areas"
+areas_data_folder = "locations/areas"
 transformed_areas_destination_folder = "../pack/locations/areas"
 
 def replace_references(area, type):
