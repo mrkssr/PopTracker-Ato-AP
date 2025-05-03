@@ -29,12 +29,8 @@ def find_sections_with_refs(overworld_region):
 
 def get_room_and_objectname_from_reference(ref):
     segments = ref.split("/")
-    try:
-        return segments[-2], segments[-1]
-    except:
-        print(f"ref: {ref}")
-        raise
-
+    return segments[-2], segments[-1]
+    
 if os.path.exists(transformed_overworld_destination_folder) and os.path.isdir(transformed_overworld_destination_folder):
     shutil.rmtree(transformed_overworld_destination_folder)
 
