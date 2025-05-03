@@ -9,9 +9,7 @@
                 "name": "rA0_4PowerUp",
                 "sections": [
                     {
-                        "name": "Dodge",
-                        "chest_unopened_img": "/images/items/skills/Dodge.png",
-                        "chest_opened_img": "/images/items/skills/Dodge.png"
+                        "ref": "Skills/Dodge"
                     }
                 ],
                 "map_locations": [
@@ -25,7 +23,6 @@
             {
                 "sections": [
                     {
-                        "name": "Love Room",
                         "ref": "Coins/Love Room"
                     }
                 ],
@@ -40,7 +37,6 @@
             {
                 "sections": [
                     {
-                        "name": "Rogue",
                         "ref": "Coins/Rogue"
                     }
                 ],
@@ -55,7 +51,6 @@
             {
                 "sections": [
                     {
-                        "name": "Start Room",
                         "ref": "Talismans/Start Room"
                     }
                 ],
@@ -70,7 +65,6 @@
             {
                 "sections": [
                     {
-                        "name": "Runway",
                         "ref": "Talismans/Runway"
                     }
                 ],
@@ -85,7 +79,6 @@
             {
                 "sections": [
                     {
-                        "name": "Rogue",
                         "ref": "Checkpoints/Rogue"
                     }
                 ],
@@ -106,7 +99,6 @@
                     {
                         "sections": [
                             {
-                                "name": "Crystal Break",
                                 "ref": "Skills/Crystal Break"
                             }
                         ],
@@ -121,7 +113,6 @@
                     {
                         "sections": [
                             {
-                                "name": "Basement",
                                 "ref": "Coins/Basement"
                             }
                         ],
@@ -144,7 +135,6 @@
                     {
                         "sections": [
                             {
-                                "name": "Under Leaves",
                                 "ref": "Talismans/Under Leaves"
                             }
                         ],
@@ -163,10 +153,9 @@
                         ],
                         "children": [
                             {
-                                "name": "Magic Bars",
+                                "name": "Room Name",
                                 "sections": [
                                     {
-                                        "name": "Magic Bar Vagrant",
                                         "ref": "Magic Bars/Magic Bar Vagrant"
                                     }
                                 ],
@@ -181,7 +170,6 @@
                             {
                                 "sections": [
                                     {
-                                        "name": "Hub Left",
                                         "ref": "Coins/Hub Left"
                                     }
                                 ],
@@ -196,7 +184,6 @@
                             {
                                 "sections": [
                                     {
-                                        "name": "Hub Up",
                                         "ref": "Coins/Hub Up"
                                     }
                                 ],
@@ -211,7 +198,6 @@
                             {
                                 "sections": [
                                     {
-                                        "name": "Vagrant",
                                         "ref": "Checkpoints/Vagrant"
                                     }
                                 ],
@@ -235,12 +221,7 @@
                                 "name": "rA1_4 - Skill",
                                 "sections": [
                                     {
-                                        "name": "Dodge Upgrade",
-                                        "chest_unopened_img": "/images/items/skills/DodgeUpgrade.png",
-                                        "chest_opened_img": "/images/items/skills/DodgeUpgrade.png",
-                                        "access_rules": [
-                                            "$dash"
-                                        ]
+                                        "ref": "Skills/Dodge Upgrade"
                                     }
                                 ],
                                 "map_locations": [
@@ -254,7 +235,6 @@
                             {
                                 "sections": [
                                     {
-                                        "name": "Bandit",
                                         "ref": "Talismans/Bandit"
                                     }
                                 ],
@@ -269,7 +249,6 @@
                             {
                                 "sections": [
                                     {
-                                        "name": "Bandit",
                                         "ref": "Checkpoints/Bandit"
                                     }
                                 ],
@@ -294,10 +273,7 @@
                                 "name": "Runes",
                                 "sections": [
                                     {
-                                        "name": "Juggernaut Rune",
-                                        "access_rules": [],
-                                        "visibility_rules": [],
-                                        "item_count": 1
+                                        "ref": "Runes/Juggernaut Rune"
                                     }
                                 ],
                                 "map_locations": [
@@ -311,7 +287,6 @@
                             {
                                 "sections": [
                                     {
-                                        "name": "Vagrant II Reward",
                                         "ref": "Coins/Vagrant II Reward"
                                     }
                                 ],
@@ -326,7 +301,6 @@
                             {
                                 "sections": [
                                     {
-                                        "name": "Leave Room",
                                         "ref": "Talismans/Leave Room"
                                     }
                                 ],
@@ -341,7 +315,6 @@
                             {
                                 "sections": [
                                     {
-                                        "name": "Behind Rocks",
                                         "ref": "Talismans/Behind Rocks"
                                     }
                                 ],
@@ -356,7 +329,6 @@
                             {
                                 "sections": [
                                     {
-                                        "name": "Spin Puzzle",
                                         "ref": "Talismans/Spin Puzzle"
                                     }
                                 ],
@@ -371,7 +343,6 @@
                             {
                                 "sections": [
                                     {
-                                        "name": "Deflector",
                                         "ref": "Talismans/Deflector"
                                     }
                                 ],
@@ -386,7 +357,6 @@
                             {
                                 "sections": [
                                     {
-                                        "name": "Twins",
                                         "ref": "Talismans/Twins"
                                     }
                                 ],
@@ -401,7 +371,6 @@
                             {
                                 "sections": [
                                     {
-                                        "name": "Twins",
                                         "ref": "Checkpoints/Twins"
                                     }
                                 ],

@@ -8,7 +8,6 @@
             {
                 "sections": [
                     {
-                        "name": "Double Jump",
                         "ref": "Skills/Double Jump"
                     }
                 ],
@@ -23,7 +22,6 @@
             {
                 "sections": [
                     {
-                        "name": "Armor Upgrade",
                         "ref": "Skills/Armor Upgrade"
                     }
                 ],
@@ -38,7 +36,6 @@
             {
                 "sections": [
                     {
-                        "name": "Right of Double Jump Room",
                         "ref": "Coins/Right of Double Jump Room"
                     }
                 ],
@@ -53,7 +50,6 @@
             {
                 "sections": [
                     {
-                        "name": "Armor Arena",
                         "ref": "Checkpoints/Armor Arena"
                     }
                 ],
@@ -74,7 +70,6 @@
                     {
                         "sections": [
                             {
-                                "name": "Meditate",
                                 "ref": "Skills/Meditate"
                             }
                         ],
@@ -89,7 +84,6 @@
                     {
                         "sections": [
                             {
-                                "name": "Triple Slash",
                                 "ref": "Skills/Triple Slash"
                             }
                         ],
@@ -104,7 +98,6 @@
                     {
                         "sections": [
                             {
-                                "name": "Mind Rune",
                                 "ref": "Runes/Mind Rune"
                             }
                         ],
@@ -119,7 +112,6 @@
                     {
                         "sections": [
                             {
-                                "name": "Tempest",
                                 "ref": "Coins/Tempest"
                             }
                         ],
@@ -134,7 +126,6 @@
                     {
                         "sections": [
                             {
-                                "name": "Secret Room",
                                 "ref": "Coins/Secret Room"
                             }
                         ],
@@ -149,7 +140,6 @@
                     {
                         "sections": [
                             {
-                                "name": "Fans",
                                 "ref": "Talismans/Fans"
                             }
                         ],
@@ -164,7 +154,6 @@
                     {
                         "sections": [
                             {
-                                "name": "Secret",
                                 "ref": "Talismans/Secret"
                             }
                         ],
@@ -179,7 +168,6 @@
                     {
                         "sections": [
                             {
-                                "name": "Warden",
                                 "ref": "Checkpoints/Warden"
                             }
                         ],
@@ -194,7 +182,6 @@
                     {
                         "sections": [
                             {
-                                "name": "Tempest",
                                 "ref": "Checkpoints/Tempest"
                             }
                         ],
@@ -215,7 +202,6 @@
                             {
                                 "sections": [
                                     {
-                                        "name": "Parry",
                                         "ref": "Skills/Parry"
                                     }
                                 ],
@@ -230,7 +216,6 @@
                             {
                                 "sections": [
                                     {
-                                        "name": "Twitch Arena",
                                         "ref": "Coins/Twitch Arena"
                                     }
                                 ],
@@ -245,7 +230,6 @@
                             {
                                 "sections": [
                                     {
-                                        "name": "Hidden",
                                         "ref": "Talismans/Hidden"
                                     }
                                 ],
@@ -260,7 +244,6 @@
                             {
                                 "sections": [
                                     {
-                                        "name": "Armor Geisha Area",
                                         "ref": "Talismans/Armor Geisha Area"
                                     }
                                 ],
@@ -275,7 +258,6 @@
                             {
                                 "sections": [
                                     {
-                                        "name": "Geisha",
                                         "ref": "Checkpoints/Geisha"
                                     }
                                 ],
@@ -301,7 +283,6 @@
                         "name": "rA0_23",
                         "sections": [
                             {
-                                "name": "Chain Dash",
                                 "ref": "Skills/Chain Dash"
                             }
                         ],
@@ -316,8 +297,7 @@
                     {
                         "sections": [
                             {
-                                "name": "Chain Dash",
-                                "ref": "Talismans/Chain Dash"
+                                "ref": "Talismans/Chain Dash Room"
                             }
                         ],
                         "map_locations": [
@@ -331,7 +311,6 @@
                     {
                         "sections": [
                             {
-                                "name": "Guardian",
                                 "ref": "Checkpoints/Guardian"
                             }
                         ],
@@ -347,7 +326,6 @@
                         "name": "rA0_17secret",
                         "sections": [
                             {
-                                "name": "Hidden Top",
                                 "ref": "Talismans/Hidden Top"
                             }
                         ],
@@ -362,8 +340,7 @@
                     {
                         "sections": [
                             {
-                                "name": "Left Red Area Entry",
-                                "ref": "Talismans/Bumper Time Puzzle"
+                                "ref": "Talismans/Left Red Area Entry"
                             }
                         ],
                         "map_locations": [
@@ -383,7 +360,6 @@
                             {
                                 "sections": [
                                     {
-                                        "name": "Right Red Area Entry",
                                         "ref": "Coins/Right Red Area Entry"
                                     }
                                 ],
@@ -398,7 +374,6 @@
                             {
                                 "sections": [
                                     {
-                                        "name": "Left of Bridge Room",
                                         "ref": "Coins/Left of Bridge Room"
                                     }
                                 ],
@@ -427,7 +402,6 @@
                                     {
                                         "sections": [
                                             {
-                                                "name": "Echo Rune",
                                                 "ref": "Runes/Echo Rune"
                                             }
                                         ],
@@ -442,7 +416,6 @@
                                     {
                                         "sections": [
                                             {
-                                                "name": "Phantom Jin",
                                                 "ref": "Coins/Phantom Jin"
                                             }
                                         ],
@@ -457,7 +430,6 @@
                                     {
                                         "sections": [
                                             {
-                                                "name": "Phantom Jin",
                                                 "ref": "Checkpoints/Phantom Jin"
                                             }
                                         ],

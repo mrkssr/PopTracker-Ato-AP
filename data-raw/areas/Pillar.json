@@ -8,7 +8,6 @@
             {
                 "sections": [
                     {
-                        "name": "Spin",
                         "ref": "Skills/Spin"
                     }
                 ],
@@ -23,7 +22,6 @@
             {
                 "sections": [
                     {
-                        "name": "Mother",
                         "ref": "Checkpoints/Mother"
                     }
                 ],
@@ -44,7 +42,6 @@
                     {
                         "sections": [
                             {
-                                "name": "Blue Shard",
                                 "ref": "Shards/Blue Shard"
                             }
                         ],
@@ -59,7 +56,6 @@
                     {
                         "sections": [
                             {
-                                "name": "Spins",
                                 "ref": "Coins/Spins"
                             }
                         ],
@@ -74,7 +70,6 @@
                     {
                         "sections": [
                             {
-                                "name": "Spins",
                                 "ref": "Talismans/Spins"
                             }
                         ],
@@ -89,7 +84,6 @@
                     {
                         "sections": [
                             {
-                                "name": "Ancient Warrior Checkpoint",
                                 "ref": "Talismans/Ancient Warrior Checkpoint"
                             }
                         ],
@@ -104,7 +98,6 @@
                     {
                         "sections": [
                             {
-                                "name": "Spin Puzzles",
                                 "ref": "Checkpoints/Spin Puzzles"
                             }
                         ],
@@ -119,7 +112,6 @@
                     {
                         "sections": [
                             {
-                                "name": "Ancient Warrior",
                                 "ref": "Checkpoints/Ancient Warrior"
                             }
                         ],

@@ -8,7 +8,6 @@
             {
                 "sections": [
                     {
-                        "name": "After Bridge Drop",
                         "ref": "Coins/After Bridge Drop"
                     }
                 ],
@@ -23,7 +22,6 @@
             {
                 "sections": [
                     {
-                        "name": "Low Gravity Bumper",
                         "ref": "Talismans/Low Gravity Bumper"
                     }
                 ],
@@ -38,7 +36,6 @@
             {
                 "sections": [
                     {
-                        "name": "Bridge Drop",
                         "ref": "Checkpoints/Bridge Drop"
                     }
                 ],
@@ -59,7 +56,6 @@
                     {
                         "sections": [
                             {
-                                "name": "Tiny Warrior Entry",
                                 "ref": "Coins/Tiny Warrior Entry"
                             }
                         ],
@@ -74,7 +70,6 @@
                     {
                         "sections": [
                             {
-                                "name": "Time Puzzle Tiny Warrior",
                                 "ref": "Coins/Time Puzzle Tiny Warrior"
                             }
                         ],
@@ -89,7 +84,6 @@
                     {
                         "sections": [
                             {
-                                "name": "Tiny Warrior",
                                 "ref": "Talismans/Tiny Warrior"
                             }
                         ],
@@ -110,7 +104,6 @@
                             {
                                 "sections": [
                                     {
-                                        "name": "Magic Bar Tiny Warrior",
                                         "ref": "Magic Bars/Magic Bar Tiny Warrior"
                                     }
                                 ],
@@ -125,7 +118,6 @@
                             {
                                 "sections": [
                                     {
-                                        "name": "Tiny Warrior",
                                         "ref": "Checkpoints/Tiny Warrior"
                                     }
                                 ],
@@ -150,7 +142,6 @@
                     {
                         "sections": [
                             {
-                                "name": "Speed Charge",
                                 "ref": "Skills/Speed Charge"
                             }
                         ],
@@ -165,7 +156,6 @@
                     {
                         "sections": [
                             {
-                                "name": "Breakable Floors",
                                 "ref": "Coins/Breakable Floors"
                             }
                         ],
@@ -180,7 +170,6 @@
                     {
                         "sections": [
                             {
-                                "name": "Bumper Time Puzzle",
                                 "ref": "Coins/Bumper Time Puzzle"
                             }
                         ],
@@ -195,7 +184,6 @@
                     {
                         "sections": [
                             {
-                                "name": "Bumper",
                                 "ref": "Talismans/Bumper"
                             }
                         ],
@@ -210,7 +198,6 @@
                     {
                         "sections": [
                             {
-                                "name": "Archer",
                                 "ref": "Talismans/Archer"
                             }
                         ],
@@ -225,7 +212,6 @@
                     {
                         "sections": [
                             {
-                                "name": "Ninja",
                                 "ref": "Talismans/Ninja"
                             }
                         ],
@@ -240,7 +226,6 @@
                     {
                         "sections": [
                             {
-                                "name": "Climb",
                                 "ref": "Checkpoints/Climb"
                             }
                         ],
@@ -255,7 +240,6 @@
                     {
                         "sections": [
                             {
-                                "name": "Ninja",
                                 "ref": "Checkpoints/Ninja"
                             }
                         ],
@@ -276,7 +260,6 @@
                             {
                                 "sections": [
                                     {
-                                        "name": "Fatal Draw",
                                         "ref": "Skills/Fatal Draw"
                                     }
                                 ],
@@ -291,7 +274,6 @@
                             {
                                 "sections": [
                                     {
-                                        "name": "Vagrant I Reward",
                                         "ref": "Coins/Vagrant I Reward"
                                     }
                                 ],
@@ -306,7 +288,6 @@
                             {
                                 "sections": [
                                     {
-                                        "name": "Fatal Draw",
                                         "ref": "Coins/Fatal Draw"
                                     }
                                 ],
@@ -329,7 +310,6 @@
                             {
                                 "sections": [
                                     {
-                                        "name": "Chain Dash Upgrade",
                                         "ref": "Skills/Chain Dash Upgrade"
                                     }
                                 ],
@@ -344,7 +324,6 @@
                             {
                                 "sections": [
                                     {
-                                        "name": "Archer",
                                         "ref": "Checkpoints/Archer"
                                     }
                                 ],
@@ -373,7 +352,6 @@
                                     {
                                         "sections": [
                                             {
-                                                "name": "Vision",
                                                 "ref": "Skills/Vision"
                                             }
                                         ],
@@ -388,7 +366,6 @@
                                     {
                                         "sections": [
                                             {
-                                                "name": "Hidden Breakables",
                                                 "ref": "Talismans/Hidden Breakables"
                                             }
                                         ],
@@ -403,7 +380,6 @@
                                     {
                                         "sections": [
                                             {
-                                                "name": "Sentinel",
                                                 "ref": "Talismans/Sentinel"
                                             }
                                         ],
@@ -418,7 +394,6 @@
                                     {
                                         "sections": [
                                             {
-                                                "name": "Sentinel",
                                                 "ref": "Checkpoints/Sentinel"
                                             }
                                         ],
@@ -439,7 +414,6 @@
                                             {
                                                 "sections": [
                                                     {
-                                                        "name": "Spin Upgrade",
                                                         "ref": "Skills/Spin Upgrade"
                                                     }
                                                 ],
@@ -454,7 +428,6 @@
                                             {
                                                 "sections": [
                                                     {
-                                                        "name": "Owl",
                                                         "ref": "Talismans/Owl"
                                                     }
                                                 ],
@@ -469,7 +442,6 @@
                                             {
                                                 "sections": [
                                                     {
-                                                        "name": "Spin Arena",
                                                         "ref": "Checkpoints/Spin Arena"
                                                     }
                                                 ],
@@ -494,7 +466,6 @@
                                     {
                                         "sections": [
                                             {
-                                                "name": "Acolyte",
                                                 "ref": "Checkpoints/Acolyte"
                                             }
                                         ],
@@ -509,7 +480,6 @@
                                     {
                                         "sections": [
                                             {
-                                                "name": "Acolyte",
                                                 "ref": "Bosses/Acolyte"
                                             }
                                         ],

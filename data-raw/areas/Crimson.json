@@ -8,7 +8,6 @@
             {
                 "sections": [
                     {
-                        "name": "Throw",
                         "ref": "Skills/Throw"
                     }
                 ],
@@ -23,7 +22,6 @@
             {
                 "sections": [
                     {
-                        "name": "Black Piles Room",
                         "ref": "Talismans/Black Piles Room"
                     }
                 ],
@@ -38,7 +36,6 @@
             {
                 "sections": [
                     {
-                        "name": "Child",
                         "ref": "Checkpoints/Child"
                     }
                 ],
@@ -59,7 +56,6 @@
                     {
                         "sections": [
                             {
-                                "name": "Red Shard",
                                 "ref": "Shards/Red Shard"
                             }
                         ],
@@ -74,7 +70,6 @@
                     {
                         "sections": [
                             {
-                                "name": "Yari",
                                 "ref": "Coins/Yari"
                             }
                         ],
@@ -89,7 +84,6 @@
                     {
                         "sections": [
                             {
-                                "name": "Yari",
                                 "ref": "Talismans/Yari"
                             }
                         ],
@@ -104,7 +98,6 @@
                     {
                         "sections": [
                             {
-                                "name": "Yari",
                                 "ref": "Checkpoints/Yari"
                             }
                         ],

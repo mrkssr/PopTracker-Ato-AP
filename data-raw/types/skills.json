@@ -9,6 +9,14 @@
                 "chest_opened_img": "/images/items/skills/Dodge.png"
             },
             {
+                "name": "Dodge Upgrade",
+                "chest_unopened_img": "/images/items/skills/DodgeUpgrade.png",
+                "chest_opened_img": "/images/items/skills/DodgeUpgrade.png",
+                "access_rules": [
+                    "$dash"
+                ]
+            },
+            {
                 "name": "Dash",
                 "chest_unopened_img": "/images/items/skills/Dash.png",
                 "chest_opened_img": "/images/items/skills/Dash.png"
@@ -27,14 +35,6 @@
                 "name": "Double Jump",
                 "chest_unopened_img": "/images/items/skills/DoubleJump.png",
                 "chest_opened_img": "/images/items/skills/DoubleJump.png",
-                "access_rules": [
-                    "$dash"
-                ]
-            },
-            {
-                "name": "Dodge Upgrade",
-                "chest_unopened_img": "/images/items/skills/DodgeUpgrade.png",
-                "chest_opened_img": "/images/items/skills/DodgeUpgrade.png",
                 "access_rules": [
                     "$dash"
                 ]

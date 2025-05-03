@@ -8,7 +8,6 @@
             {
                 "sections": [
                     {
-                        "name": "Dash",
                         "ref": "Skills/Dash"
                     }
                 ],
@@ -23,7 +22,6 @@
             {
                 "sections": [
                     {
-                        "name": "8 Coins Door",
                         "ref": "Coins/8 Coins Door"
                     }
                 ],
@@ -38,8 +36,7 @@
             {
                 "sections": [
                     {
-                        "name": "Dash Room",
-                        "ref": "Talismans/Dash"
+                        "ref": "Talismans/Dash Room"
                     }
                 ],
                 "map_locations": [
@@ -59,7 +56,6 @@
                     {
                         "sections": [
                             {
-                                "name": "Throw Upgrade",
                                 "ref": "Skills/Throw Upgrade"
                             }
                         ],
@@ -74,7 +70,6 @@
                     {
                         "sections": [
                             {
-                                "name": "Flurry Rune",
                                 "ref": "Runes/Flurry Rune"
                             }
                         ],
@@ -89,7 +84,6 @@
                     {
                         "sections": [
                             {
-                                "name": "Hidden Time Puzzle",
                                 "ref": "Coins/Hidden Time Puzzle"
                             }
                         ],
@@ -104,7 +98,6 @@
                     {
                         "sections": [
                             {
-                                "name": "Preview",
                                 "ref": "Talismans/Preview"
                             }
                         ],
@@ -119,7 +112,6 @@
                     {
                         "sections": [
                             {
-                                "name": "Top Platforms",
                                 "ref": "Talismans/Top Platforms"
                             }
                         ],
@@ -134,7 +126,6 @@
                     {
                         "sections": [
                             {
-                                "name": "Jin",
                                 "ref": "Talismans/Jin"
                             }
                         ],
@@ -149,7 +140,6 @@
                     {
                         "sections": [
                             {
-                                "name": "Throw Arena",
                                 "ref": "Checkpoints/Throw Arena"
                             }
                         ],
@@ -164,7 +154,6 @@
                     {
                         "sections": [
                             {
-                                "name": "Berserker",
                                 "ref": "Checkpoints/Berserker"
                             }
                         ],
@@ -185,7 +174,6 @@
                             {
                                 "sections": [
                                     {
-                                        "name": "Electric Wind Lethal Strike",
                                         "ref": "Skills/Electric Wind Lethal Strike"
                                     }
                                 ],
@@ -200,7 +188,6 @@
                             {
                                 "sections": [
                                     {
-                                        "name": "Phantom Shin",
                                         "ref": "Coins/Phantom Shin"
                                     }
                                 ],
@@ -215,7 +202,6 @@
                             {
                                 "sections": [
                                     {
-                                        "name": "Behind Warp",
                                         "ref": "Coins/Behind Warp"
                                     }
                                 ],
@@ -230,7 +216,6 @@
                             {
                                 "sections": [
                                     {
-                                        "name": "Phantom Shin",
                                         "ref": "Checkpoints/Phantom Shin"
                                     }
                                 ],

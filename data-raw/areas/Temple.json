@@ -5,7 +5,6 @@
             {
                 "sections": [
                     {
-                        "name": "Double Jump Paradise",
                         "ref": "Coins/Double Jump Paradise"
                     }
                 ],
@@ -20,7 +19,6 @@
             {
                 "sections": [
                     {
-                        "name": "Lore Room",
                         "ref": "Talismans/Lore Room"
                     }
                 ],
@@ -41,7 +39,6 @@
                     {
                         "sections": [
                             {
-                                "name": "Risk Rune",
                                 "ref": "Runes/Risk Rune"
                             }
                         ],
@@ -56,7 +53,6 @@
                     {
                         "sections": [
                             {
-                                "name": "Switch Puzzle",
                                 "ref": "Coins/Switch Puzzle"
                             }
                         ],
@@ -71,7 +67,6 @@
                     {
                         "sections": [
                             {
-                                "name": "Black Area Entry",
                                 "ref": "Coins/Black Area Entry"
                             }
                         ],
@@ -86,7 +81,6 @@
                     {
                         "sections": [
                             {
-                                "name": "Warp Obstacles",
                                 "ref": "Talismans/Warp Obstacles"
                             }
                         ],
@@ -101,7 +95,6 @@
                     {
                         "sections": [
                             {
-                                "name": "Samurai",
                                 "ref": "Checkpoints/Samurai"
                             }
                         ],
@@ -116,7 +109,6 @@
                     {
                         "sections": [
                             {
-                                "name": "Samurai",
                                 "ref": "Bosses/Samurai"
                             }
                         ],
@@ -137,7 +129,6 @@
                             {
                                 "sections": [
                                     {
-                                        "name": "Agility Rune",
                                         "ref": "Runes/Agility Rune"
                                     }
                                 ],
@@ -152,7 +143,6 @@
                             {
                                 "sections": [
                                     {
-                                        "name": "Demon",
                                         "ref": "Checkpoints/Demon"
                                     }
                                 ],
@@ -167,7 +157,6 @@
                             {
                                 "sections": [
                                     {
-                                        "name": "Rebirth",
                                         "ref": "Checkpoints/Rebirth"
                                     }
                                 ],
@@ -182,7 +171,6 @@
                             {
                                 "sections": [
                                     {
-                                        "name": "Rebirth",
                                         "ref": "Bosses/Rebirth"
                                     }
                                 ],

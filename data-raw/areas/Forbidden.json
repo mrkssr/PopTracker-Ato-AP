@@ -8,7 +8,6 @@
             {
                 "sections": [
                     {
-                        "name": "Fatal Draw Upgrade",
                         "ref": "Skills/Fatal Draw Upgrade"
                     }
                 ],
@@ -23,7 +22,6 @@
             {
                 "sections": [
                     {
-                        "name": "Most Left",
                         "ref": "Coins/Most Left"
                     }
                 ],
@@ -38,7 +36,6 @@
             {
                 "sections": [
                     {
-                        "name": "Fatal Arena",
                         "ref": "Checkpoints/Fatal Arena"
                     }
                 ],
@@ -59,7 +56,6 @@
                     {
                         "sections": [
                             {
-                                "name": "Demon Blade",
                                 "ref": "Skills/Demon Blade"
                             }
                         ],
@@ -74,7 +70,6 @@
                     {
                         "sections": [
                             {
-                                "name": "Monk",
                                 "ref": "Checkpoints/Monk"
                             }
                         ],

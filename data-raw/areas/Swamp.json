@@ -8,7 +8,6 @@
             {
                 "sections": [
                     {
-                        "name": "Armor",
                         "ref": "Skills/Armor"
                     }
                 ],
@@ -23,7 +22,6 @@
             {
                 "sections": [
                     {
-                        "name": "Throws",
                         "ref": "Talismans/Throws"
                     }
                 ],
@@ -38,7 +36,6 @@
             {
                 "sections": [
                     {
-                        "name": "Green Area Entry",
                         "ref": "Checkpoints/Green Area Entry"
                     }
                 ],
@@ -59,7 +56,6 @@
                     {
                         "sections": [
                             {
-                                "name": "Yellow Shard",
                                 "ref": "Shards/Yellow Shard"
                             }
                         ],
@@ -74,7 +70,6 @@
                     {
                         "sections": [
                             {
-                                "name": "Armor Time Puzzle",
                                 "ref": "Coins/Armor Time Puzzle"
                             }
                         ],
@@ -89,7 +84,6 @@
                     {
                         "sections": [
                             {
-                                "name": "Father",
                                 "ref": "Coins/Father"
                             }
                         ],
@@ -104,7 +98,6 @@
                     {
                         "sections": [
                             {
-                                "name": "Warps",
                                 "ref": "Talismans/Warps"
                             }
                         ],
@@ -119,7 +112,6 @@
                     {
                         "sections": [
                             {
-                                "name": "Father",
                                 "ref": "Checkpoints/Father"
                             }
                         ],
@@ -134,7 +126,6 @@
                     {
                         "sections": [
                             {
-                                "name": "Deceiver",
                                 "ref": "Checkpoints/Deceiver"
                             }
                         ],
