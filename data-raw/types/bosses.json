@@ -3,13 +3,16 @@
         "name": "Bosses",
         "sections": [
             {
-                "name": "Acolyte"
+                "name": "Acolyte",
+                "chest_opened_img": "/images/items/events/Acolyte.png"
             },
             {
-                "name": "Samurai"
+                "name": "Samurai",
+                "chest_opened_img": "/images/items/events/Samurai.png"
             },
             {
-                "name": "Rebirth"
+                "name": "Rebirth",
+                "chest_opened_img": "/images/items/events/Rebirth.png"
             }
         ]
     }
