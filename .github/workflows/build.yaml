@@ -24,4 +24,5 @@ jobs:
         working-directory: pack
       - uses: actions/upload-artifact@v4
         with:
+          name: ato-manual-poptracker-pack.zip
           path: pack/ato-manual-poptracker-pack.zip
