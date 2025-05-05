@@ -1,6 +1,7 @@
 import os
 import shutil
 import json
+from locations import get_position
 
 overworld_data_folder = "locations/overworld"
 transformed_overworld_destination_folder = "../pack/locations/overworld"
@@ -12,7 +13,7 @@ def find_sections_with_refs(overworld_region):
         if "children" in overworld_region:
             for idx, subarea in enumerate(overworld_region["children"]):
                 overworld_region["children"][idx] = find_sections_with_refs(subarea)
-        elif "sections" in overworld_region:
+        else:
             for section in overworld_region["sections"]:
                 if "ref" in section:
                     if section["ref"]:
@@ -20,8 +21,9 @@ def find_sections_with_refs(overworld_region):
 
                         overworld_region["name"] = room
                         section["name"] = object
-        else:
-            print(f"what are you? {overworld_region}")
+            
+            if "map_locations" in overworld_region:
+                overworld_region["map_locations"] = get_position(overworld_region["map_locations"])
     else:
         print(f"overworld region is not a dict: {overworld_region}")
     

@@ -1,6 +1,7 @@
 import os
 import shutil
 import json
+from locations import get_position
 
 types_data_folder = "types"
 areas_data_folder = "locations/areas"
@@ -11,6 +12,9 @@ def replace_references(area, type):
 
 def find_refs(area, type):
     if isinstance(area, dict):
+        if "map_locations" in area:
+            area["map_locations"] = get_position(area["map_locations"])
+
         if "ref" in area:
             #print(f'area["ref"]: {type} -> {area["ref"].lower()}')
             if area["ref"].lower().startswith(f'{type}/'):
