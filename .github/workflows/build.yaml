@@ -11,11 +11,11 @@ jobs:
         with:
           python-version: '3.x'
       - name: Map Areas
-        run: py json-mapper-areas.py
+        run: python json-mapper-areas.py
         working-directory: data-raw
       - name: Map Overworld
-        run: py json-mapper-overworld.py
+        run: python json-mapper-overworld.py
         working-directory: data-raw
       - name: Map Legend
-        run: py json-mapper-legend.py
+        run: python json-mapper-legend.py
         working-directory: data-raw
