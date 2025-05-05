@@ -1,3 +1,5 @@
+name: Build Ato AP Pack
+
 on: [push]
 
 jobs:
