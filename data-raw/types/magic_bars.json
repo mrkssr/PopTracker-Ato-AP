@@ -5,10 +5,10 @@
         "chest_opened_img": "/images/items/collectibles/MagicBar.png",
         "sections": [
             {
-                "name": "Magic Bar Vagrant"
+                "name": "Vagrant"
             },
             {
-                "name": "Magic Bar Tiny Warrior"
+                "name": "Tiny Warrior"
             }
         ]
     }
