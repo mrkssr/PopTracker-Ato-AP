@@ -15,8 +15,8 @@
                 "map_locations": [
                     {
                         "map": "Crimson",
-                        "x": "495",
-                        "y": "352"
+                        "column": 4,
+                        "row": 3
                     }
                 ]
             },
@@ -30,8 +30,8 @@
                 "map_locations": [
                     {
                         "map": "Crimson",
-                        "x": "86",
-                        "y": "492"
+                        "column": 1,
+                        "row": 4
                     }
                 ]
             },
@@ -45,8 +45,8 @@
                 "map_locations": [
                     {
                         "map": "Crimson",
-                        "x": "218",
-                        "y": "352"
+                        "column": 2,
+                        "row": 3
                     }
                 ]
             },
@@ -66,8 +66,8 @@
                         "map_locations": [
                             {
                                 "map": "Crimson",
-                                "x": "2268",
-                                "y": "222"
+                                "column": 17,
+                                "row": 2
                             }
                         ]
                     },
@@ -81,8 +81,8 @@
                         "map_locations": [
                             {
                                 "map": "Crimson",
-                                "x": "1721",
-                                "y": "353"
+                                "column": 13,
+                                "row": 3
                             }
                         ]
                     },
@@ -96,8 +96,8 @@
                         "map_locations": [
                             {
                                 "map": "Crimson",
-                                "x": "900",
-                                "y": "81"
+                                "column": 7,
+                                "row": 1
                             }
                         ]
                     },
@@ -111,8 +111,8 @@
                         "map_locations": [
                             {
                                 "map": "Crimson",
-                                "x": "1788",
-                                "y": "145"
+                                "column": 13.5,
+                                "row": 1.5
                             }
                         ]
                     }

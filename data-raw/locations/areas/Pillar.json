@@ -15,8 +15,8 @@
                 "map_locations": [
                     {
                         "map": "Pillar",
-                        "x": "758",
-                        "y": "579"
+                        "column": 9,
+                        "row": 7
                     }
                 ]
             },
@@ -30,8 +30,8 @@
                 "map_locations": [
                     {
                         "map": "Pillar",
-                        "x": "493",
-                        "y": "579"
+                        "column": 6,
+                        "row": 7
                     }
                 ]
             },
@@ -51,8 +51,8 @@
                         "map_locations": [
                             {
                                 "map": "Pillar",
-                                "x": "1113",
-                                "y": "49"
+                                "column": 13,
+                                "row": 1
                             }
                         ]
                     },
@@ -66,8 +66,8 @@
                         "map_locations": [
                             {
                                 "map": "Pillar",
-                                "x": "404",
-                                "y": "268"
+                                "column": 5,
+                                "row": 3.5
                             }
                         ]
                     },
@@ -81,8 +81,8 @@
                         "map_locations": [
                             {
                                 "map": "Pillar",
-                                "x": "51",
-                                "y": "315"
+                                "column": 1,
+                                "row": 4
                             }
                         ]
                     },
@@ -96,8 +96,8 @@
                         "map_locations": [
                             {
                                 "map": "Pillar",
-                                "x": "671",
-                                "y": "138"
+                                "column": 8,
+                                "row": 2
                             }
                         ]
                     },
@@ -111,8 +111,8 @@
                         "map_locations": [
                             {
                                 "map": "Pillar",
-                                "x": "228",
-                                "y": "315"
+                                "column": 3,
+                                "row": 4
                             }
                         ]
                     },
@@ -126,8 +126,8 @@
                         "map_locations": [
                             {
                                 "map": "Pillar",
-                                "x": "758",
-                                "y": "138"
+                                "column": 9,
+                                "row": 2
                             }
                         ]
                     }

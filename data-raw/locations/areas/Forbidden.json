@@ -15,8 +15,8 @@
                 "map_locations": [
                     {
                         "map": "Forbidden",
-                        "x": "0",
-                        "y": "0"
+                        "column": 11,
+                        "row": 10
                     }
                 ]
             },
@@ -30,8 +30,8 @@
                 "map_locations": [
                     {
                         "map": "Forbidden",
-                        "x": "0",
-                        "y": "0"
+                        "column": 1,
+                        "row": 11
                     }
                 ]
             },
@@ -45,8 +45,8 @@
                 "map_locations": [
                     {
                         "map": "Forbidden",
-                        "x": "0",
-                        "y": "0"
+                        "column": 7.5,
+                        "row": 10.5
                     }
                 ]
             },
@@ -66,8 +66,8 @@
                         "map_locations": [
                             {
                                 "map": "Forbidden",
-                                "x": "0",
-                                "y": "0"
+                                "column": 3,
+                                "row": 1
                             }
                         ]
                     },
@@ -81,8 +81,8 @@
                         "map_locations": [
                             {
                                 "map": "Forbidden",
-                                "x": "0",
-                                "y": "0"
+                                "column": 7,
+                                "row": 1
                             }
                         ]
                     }

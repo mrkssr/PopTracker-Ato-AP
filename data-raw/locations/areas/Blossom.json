@@ -15,8 +15,8 @@
                 "map_locations": [
                     {
                         "map": "Blossom",
-                        "x": "930",
-                        "y": "530"
+                        "column": 12,
+                        "row": 7
                     }
                 ]
             },
@@ -30,8 +30,8 @@
                 "map_locations": [
                     {
                         "map": "Blossom",
-                        "x": "0",
-                        "y": "0"
+                        "column": 5,
+                        "row": 8
                     }
                 ]
             },
@@ -45,8 +45,8 @@
                 "map_locations": [
                     {
                         "map": "Blossom",
-                        "x": "0",
-                        "y": "0"
+                        "column": 15,
+                        "row": 6
                     }
                 ]
             },
@@ -60,8 +60,8 @@
                 "map_locations": [
                     {
                         "map": "Blossom",
-                        "x": "486",
-                        "y": "573"
+                        "column": 6.5,
+                        "row": 7.5
                     }
                 ]
             },
@@ -75,8 +75,8 @@
                 "map_locations": [
                     {
                         "map": "Blossom",
-                        "x": "405",
-                        "y": "450"
+                        "column": 5.5,
+                        "row": 6
                     }
                 ]
             },
@@ -90,8 +90,8 @@
                 "map_locations": [
                     {
                         "map": "Blossom",
-                        "x": "0",
-                        "y": "0"
+                        "column": 13,
+                        "row": 6.5
                     }
                 ]
             },
@@ -111,8 +111,8 @@
                         "map_locations": [
                             {
                                 "map": "Blossom",
-                                "x": "128",
-                                "y": "535"
+                                "column": 2,
+                                "row": 7
                             }
                         ]
                     },
@@ -126,8 +126,8 @@
                         "map_locations": [
                             {
                                 "map": "Blossom",
-                                "x": "0",
-                                "y": "0"
+                                "column": 2,
+                                "row": 8
                             }
                         ]
                     }
@@ -149,8 +149,8 @@
                         "map_locations": [
                             {
                                 "map": "Blossom",
-                                "x": "0",
-                                "y": "0"
+                                "column": 8,
+                                "row": 6
                             }
                         ]
                     },
@@ -164,14 +164,14 @@
                                 "name": "rA1_1VagrantBossFinalReward",
                                 "sections": [
                                     {
-                                        "ref": "Magic Bars/Magic Bar Vagrant"
+                                        "ref": "Magic Bars/Vagrant"
                                     }
                                 ],
                                 "map_locations": [
                                     {
                                         "map": "Blossom",
-                                        "x": "0",
-                                        "y": "0"
+                                        "column": 6,
+                                        "row": 1
                                     }
                                 ]
                             },
@@ -185,8 +185,8 @@
                                 "map_locations": [
                                     {
                                         "map": "Blossom",
-                                        "x": "0",
-                                        "y": "0"
+                                        "column": 6,
+                                        "row": 3
                                     }
                                 ]
                             },
@@ -200,8 +200,8 @@
                                 "map_locations": [
                                     {
                                         "map": "Blossom",
-                                        "x": "0",
-                                        "y": "0"
+                                        "column": 7,
+                                        "row": 2
                                     }
                                 ]
                             },
@@ -215,8 +215,8 @@
                                 "map_locations": [
                                     {
                                         "map": "Blossom",
-                                        "x": "0",
-                                        "y": "0"
+                                        "column": 8,
+                                        "row": 1.5
                                     }
                                 ]
                             }
@@ -238,8 +238,9 @@
                                 "map_locations": [
                                     {
                                         "map": "Blossom",
-                                        "x": "850",
-                                        "y": "375"
+                                        "column": 11,
+                                        "row": 5,
+                                        "rowOffset": 5
                                     }
                                 ]
                             },
@@ -253,8 +254,9 @@
                                 "map_locations": [
                                     {
                                         "map": "Blossom",
-                                        "x": "0",
-                                        "y": "0"
+                                        "column": 11,
+                                        "row": 4.5,
+                                        "rowOffset": -5
                                     }
                                 ]
                             },
@@ -268,8 +270,8 @@
                                 "map_locations": [
                                     {
                                         "map": "Blossom",
-                                        "x": "0",
-                                        "y": "0"
+                                        "column": 9,
+                                        "row": 5
                                     }
                                 ]
                             }
@@ -283,17 +285,20 @@
                         "visibility_rules": [],
                         "children": [
                             {
-                                "name": "rA1_35 - Rune",
+                                "name": "rA1_35",
                                 "sections": [
                                     {
                                         "ref": "Runes/Juggernaut Rune"
+                                    },
+                                    {
+                                        "ref": "Talismans/Twins"
                                     }
                                 ],
                                 "map_locations": [
                                     {
                                         "map": "Blossom",
-                                        "x": "0",
-                                        "y": "0"
+                                        "column": 13,
+                                        "row": 1
                                     }
                                 ]
                             },
@@ -307,8 +312,8 @@
                                 "map_locations": [
                                     {
                                         "map": "Blossom",
-                                        "x": "0",
-                                        "y": "0"
+                                        "column": 12,
+                                        "row": 1
                                     }
                                 ]
                             },
@@ -322,8 +327,8 @@
                                 "map_locations": [
                                     {
                                         "map": "Blossom",
-                                        "x": "0",
-                                        "y": "0"
+                                        "column": 9.5,
+                                        "row": 3.5
                                     }
                                 ]
                             },
@@ -337,8 +342,8 @@
                                 "map_locations": [
                                     {
                                         "map": "Blossom",
-                                        "x": "0",
-                                        "y": "0"
+                                        "column": 9,
+                                        "row": 2
                                     }
                                 ]
                             },
@@ -352,8 +357,8 @@
                                 "map_locations": [
                                     {
                                         "map": "Blossom",
-                                        "x": "0",
-                                        "y": "0"
+                                        "column": 12,
+                                        "row": 3
                                     }
                                 ]
                             },
@@ -367,23 +372,8 @@
                                 "map_locations": [
                                     {
                                         "map": "Blossom",
-                                        "x": "0",
-                                        "y": "0"
-                                    }
-                                ]
-                            },
-                            {
-                                "name": "rA1_35 - Talisman",
-                                "sections": [
-                                    {
-                                        "ref": "Talismans/Twins"
-                                    }
-                                ],
-                                "map_locations": [
-                                    {
-                                        "map": "Blossom",
-                                        "x": "0",
-                                        "y": "0"
+                                        "column": 16,
+                                        "row": 2
                                     }
                                 ]
                             },
@@ -397,8 +387,8 @@
                                 "map_locations": [
                                     {
                                         "map": "Blossom",
-                                        "x": "0",
-                                        "y": "0"
+                                        "column": 15,
+                                        "row": 1
                                     }
                                 ]
                             }
