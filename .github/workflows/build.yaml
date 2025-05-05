@@ -7,22 +7,28 @@ jobs:
     steps:
       - name: checkout repo content
         uses: actions/checkout@v2 # checkout the repository content to github runner.
+      
       - uses: actions/setup-python@v5
         with:
           python-version: '3.x'
+      
       - name: Map Areas
         run: python json-mapper-areas.py
         working-directory: data-raw
+      
       - name: Map Overworld
         run: python json-mapper-overworld.py
         working-directory: data-raw
+      
       - name: Map Legend
         run: python json-mapper-legend.py
         working-directory: data-raw
-      - name: Zip Package
-        run: zip -r ato-manual-poptracker-pack.zip .
-        working-directory: pack
+      
+      #- name: Zip Package
+      #  run: zip -r ato-manual-poptracker-pack.zip .
+      #  working-directory: pack
+      
       - uses: actions/upload-artifact@v4
         with:
           name: ato-manual-poptracker-pack.zip
-          path: pack/ato-manual-poptracker-pack.zip
+          path: pack
