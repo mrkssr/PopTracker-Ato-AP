@@ -52,7 +52,7 @@
             {
                 "sections": [
                     {
-                        "ref": "Blossom/Blossom Middle/Blossom Upper/rA1_35 - Rune/Juggernaut Rune"
+                        "ref": "Blossom/Blossom Middle/Blossom Upper/rA1_35/Juggernaut Rune"
                     }
                 ],
                 "map_locations": [
@@ -141,7 +141,7 @@
             {
                 "sections": [
                     {
-                        "ref": "Blossom/Blossom Middle/Vagrant Area/rA1_1VagrantBossFinalReward/Magic Bar Vagrant"
+                        "ref": "Blossom/Blossom Middle/Vagrant Area/rA1_1VagrantBossFinalReward/Vagrant"
                     }
                 ],
                 "map_locations": [
@@ -155,7 +155,7 @@
             {
                 "sections": [
                     {
-                        "ref": "Lake/Lake Lower/Tiny Warrior Area/rA1_171TWReward/Magic Bar Tiny Warrior"
+                        "ref": "Lake/Lake Lower/Tiny Warrior Area/rA1_171TWReward/Tiny Warrior"
                     }
                 ],
                 "map_locations": [
@@ -739,7 +739,7 @@
             {
                 "sections": [
                     {
-                        "ref": "Blossom/Blossom Middle/Blossom Upper/rA1_35 - Talisman/Twins"
+                        "ref": "Blossom/Blossom Middle/Blossom Upper/rA1_35/Twins"
                     }
                 ],
                 "map_locations": [
