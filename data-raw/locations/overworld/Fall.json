@@ -11,8 +11,8 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": "0",
-                        "y": "0"
+                        "column": 41,
+                        "row": 15
                     }
                 ]
             },
@@ -25,8 +25,8 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": "0",
-                        "y": "0"
+                        "column": 42,
+                        "row": 16
                     }
                 ]
             },
@@ -39,8 +39,8 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": "0",
-                        "y": "0"
+                        "column": 42,
+                        "row": 15
                     }
                 ]
             },
@@ -53,8 +53,8 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": "0",
-                        "y": "0"
+                        "column": 41,
+                        "row": 16
                     }
                 ]
             }
@@ -72,8 +72,8 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": "0",
-                        "y": "0"
+                        "column": 40,
+                        "row": 19
                     }
                 ]
             },
@@ -86,8 +86,8 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": "0",
-                        "y": "0"
+                        "column": 42,
+                        "row": 18
                     }
                 ]
             },
@@ -100,8 +100,8 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": "0",
-                        "y": "0"
+                        "column": 36,
+                        "row": 19
                     }
                 ]
             },
@@ -114,8 +114,8 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": "0",
-                        "y": "0"
+                        "column": 39,
+                        "row": 18
                     }
                 ]
             },
@@ -128,8 +128,8 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": "0",
-                        "y": "0"
+                        "column": 34.5,
+                        "row": 15.5
                     }
                 ]
             },
@@ -142,8 +142,8 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": "0",
-                        "y": "0"
+                        "column": 36,
+                        "row": 17
                     }
                 ]
             },
@@ -156,8 +156,8 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": "0",
-                        "y": "0"
+                        "column": 38,
+                        "row": 16
                     }
                 ]
             },
@@ -170,8 +170,8 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": "0",
-                        "y": "0"
+                        "column": 37,
+                        "row": 16.5
                     }
                 ]
             },
@@ -184,8 +184,8 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": "0",
-                        "y": "0"
+                        "column": 38.5,
+                        "row": 17
                     }
                 ]
             }
@@ -203,8 +203,8 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": "0",
-                        "y": "0"
+                        "column": 28,
+                        "row": 20
                     }
                 ]
             },
@@ -217,8 +217,8 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": "0",
-                        "y": "0"
+                        "column": 26,
+                        "row": 21
                     }
                 ]
             },
@@ -231,8 +231,8 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": "0",
-                        "y": "0"
+                        "column": 31,
+                        "row": 17
                     }
                 ]
             },
@@ -245,8 +245,8 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": "0",
-                        "y": "0"
+                        "column": 33,
+                        "row": 18
                     }
                 ]
             },
@@ -259,8 +259,8 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": "0",
-                        "y": "0"
+                        "column": 28.5,
+                        "row": 19
                     }
                 ]
             }
@@ -273,18 +273,7 @@
                 "sections": [
                     {
                         "ref": "Fall/Fall Middle/rA0_23 - Skill/Chain Dash"
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Overworld",
-                        "x": "0",
-                        "y": "0"
-                    }
-                ]
-            },
-            {
-                "sections": [
+                    },
                     {
                         "ref": "Fall/Fall Middle/rA0_23 - Talisman/Chain Dash Room"
                     }
@@ -292,8 +281,8 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": "0",
-                        "y": "0"
+                        "column": 41,
+                        "row": 14
                     }
                 ]
             },
@@ -306,8 +295,8 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": "0",
-                        "y": "0"
+                        "column": 38.5,
+                        "row": 14
                     }
                 ]
             },
@@ -320,8 +309,8 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": "0",
-                        "y": "0"
+                        "column": 35,
+                        "row": 12
                     }
                 ]
             },
@@ -334,8 +323,8 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": "0",
-                        "y": "0"
+                        "column": 36,
+                        "row": 12.5
                     }
                 ]
             }
@@ -353,8 +342,8 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": "0",
-                        "y": "0"
+                        "column": 39,
+                        "row": 12.5
                     }
                 ]
             },
@@ -367,8 +356,8 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": "0",
-                        "y": "0"
+                        "column": 41,
+                        "row": 11
                     }
                 ]
             }
@@ -384,42 +373,42 @@
             {
                 "sections": [
                     {
-                        "ref": "Fall/Fall Red Area Hallway/Phantom Jin/rA1_64/Echo Rune"
+                        "ref": "Fall/Fall Middle/Fall Red Area Hallway/Phantom Jin/rA1_64/Echo Rune"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": "0",
-                        "y": "0"
+                        "column": 35,
+                        "row": 11
                     }
                 ]
             },
             {
                 "sections": [
                     {
-                        "ref": "Fall/Fall Red Area Hallway/Phantom Jin/rA1_65Coin/Phantom Jin"
+                        "ref": "Fall/Fall Middle/Fall Red Area Hallway/Phantom Jin/rA1_65Coin/Phantom Jin"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": "0",
-                        "y": "0"
+                        "column": 35,
+                        "row": 10
                     }
                 ]
             },
             {
                 "sections": [
                     {
-                        "ref": "Fall/Fall Red Area Hallway/Phantom Jin/rA1_62/Phantom Jin"
+                        "ref": "Fall/Fall Middle/Fall Red Area Hallway/Phantom Jin/rA1_62/Phantom Jin"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": "0",
-                        "y": "0"
+                        "column": 37,
+                        "row": 11
                     }
                 ]
             }

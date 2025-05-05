@@ -11,8 +11,8 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": "0",
-                        "y": "0"
+                        "column": 32,
+                        "row": 15
                     }
                 ]
             },
@@ -25,8 +25,8 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": "0",
-                        "y": "0"
+                        "column": 33,
+                        "row": 14.5
                     }
                 ]
             },
@@ -39,8 +39,9 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": "0",
-                        "y": "0"
+                        "column": 31.5,
+                        "row": 14.5,
+                        "columnOffset": -6
                     }
                 ]
             }
@@ -53,13 +54,16 @@
                 "sections": [
                     {
                         "ref": "Hills/Hills Middle/rA1_137 - Skill/Throw Upgrade"
+                    },
+                    {
+                        "ref": "Hills/Hills Middle/rA1_137 - Checkpoint/Throw Arena"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": "0",
-                        "y": "0"
+                        "column": 32,
+                        "row": 12
                     }
                 ]
             },
@@ -72,8 +76,8 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": "0",
-                        "y": "0"
+                        "column": 33,
+                        "row": 13
                     }
                 ]
             },
@@ -86,8 +90,8 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": "0",
-                        "y": "0"
+                        "column": 28,
+                        "row": 13
                     }
                 ]
             },
@@ -100,8 +104,8 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": "0",
-                        "y": "0"
+                        "column": 29,
+                        "row": 13
                     }
                 ]
             },
@@ -114,8 +118,8 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": "0",
-                        "y": "0"
+                        "column": 30.5,
+                        "row": 12.5
                     }
                 ]
             },
@@ -128,22 +132,8 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": "0",
-                        "y": "0"
-                    }
-                ]
-            },
-            {
-                "sections": [
-                    {
-                        "ref": "Hills/Hills Middle/rA1_137 - Checkpoint/Throw Arena"
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Overworld",
-                        "x": "0",
-                        "y": "0"
+                        "column": 34,
+                        "row": 13.5
                     }
                 ]
             },
@@ -156,8 +146,8 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": "0",
-                        "y": "0"
+                        "column": 32,
+                        "row": 13
                     }
                 ]
             }
@@ -175,8 +165,8 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": "0",
-                        "y": "0"
+                        "column": 25,
+                        "row": 13
                     }
                 ]
             },
@@ -189,8 +179,8 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": "0",
-                        "y": "0"
+                        "column": 27.5,
+                        "row": 11.5
                     }
                 ]
             },
@@ -203,8 +193,8 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": "0",
-                        "y": "0"
+                        "column": 30,
+                        "row": 11
                     }
                 ]
             },
@@ -217,8 +207,8 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": "0",
-                        "y": "0"
+                        "column": 25,
+                        "row": 12
                     }
                 ]
             }

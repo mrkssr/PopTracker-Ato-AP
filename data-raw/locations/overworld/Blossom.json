@@ -11,8 +11,8 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": "810",
-                        "y": "491"
+                        "column": 25,
+                        "row": 15
                     }
                 ]
             },
@@ -25,8 +25,8 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": "0",
-                        "y": "0"
+                        "column": 18,
+                        "row": 16
                     }
                 ]
             },
@@ -39,8 +39,8 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": "0",
-                        "y": "0"
+                        "column": 28,
+                        "row": 14
                     }
                 ]
             },
@@ -53,8 +53,8 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": "0",
-                        "y": "0"
+                        "column": 19.5,
+                        "row": 15.5
                     }
                 ]
             },
@@ -68,8 +68,8 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": "0",
-                        "y": "0"
+                        "column": 18.5,
+                        "row": 14
                     }
                 ]
             },
@@ -83,8 +83,8 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": "0",
-                        "y": "0"
+                        "column": 26,
+                        "row": 14.5
                     }
                 ]
             }
@@ -102,8 +102,8 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": "483",
-                        "y": "491"
+                        "column": 15,
+                        "row": 15
                     }
                 ]
             },
@@ -116,8 +116,8 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": "0",
-                        "y": "0"
+                        "column": 15,
+                        "row": 16
                     }
                 ]
             }
@@ -135,8 +135,8 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": "0",
-                        "y": "0"
+                        "column": 21,
+                        "row": 13
                     }
                 ]
             }
@@ -148,14 +148,14 @@
             {
                 "sections": [
                     {
-                        "ref": "Blossom/Blossom Middle/Vagrant Area/rA1_1VagrantBossFinalReward/Magic Bar Vagrant"
+                        "ref": "Blossom/Blossom Middle/Vagrant Area/rA1_1VagrantBossFinalReward/Vagrant"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": "0",
-                        "y": "0"
+                        "column": 19,
+                        "row": 9
                     }
                 ]
             },
@@ -168,8 +168,8 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": "0",
-                        "y": "0"
+                        "column": 19,
+                        "row": 11
                     }
                 ]
             },
@@ -182,8 +182,8 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": "0",
-                        "y": "0"
+                        "column": 20,
+                        "row": 10
                     }
                 ]
             },
@@ -196,8 +196,8 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": "0",
-                        "y": "0"
+                        "column": 21,
+                        "row": 9.5
                     }
                 ]
             }
@@ -217,8 +217,8 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": "778",
-                        "y": "428"
+                        "column": 24,
+                        "row": 13
                     }
                 ]
             },
@@ -231,8 +231,9 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": "0",
-                        "y": "0"
+                        "column": 24,
+                        "row": 12.5,
+                        "rowOffset": -10
                     }
                 ]
             },
@@ -245,8 +246,8 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": "0",
-                        "y": "0"
+                        "column": 22,
+                        "row": 13
                     }
                 ]
             }
@@ -258,14 +259,17 @@
             {
                 "sections": [
                     {
-                        "ref": "Blossom/Blossom Middle/Blossom Upper/rA1_35 - Rune/Juggernaut Rune"
+                        "ref": "Blossom/Blossom Middle/Blossom Upper/rA1_35/Juggernaut Rune"
+                    },
+                    {
+                        "ref": "Blossom/Blossom Middle/Blossom Upper/rA1_35/Twins"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": "0",
-                        "y": "0"
+                        "column": 26,
+                        "row": 9
                     }
                 ]
             },
@@ -278,8 +282,8 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": "0",
-                        "y": "0"
+                        "column": 25,
+                        "row": 9
                     }
                 ]
             },
@@ -292,8 +296,8 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": "0",
-                        "y": "0"
+                        "column": 22.5,
+                        "row": 11.5
                     }
                 ]
             },
@@ -306,8 +310,8 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": "0",
-                        "y": "0"
+                        "column": 22,
+                        "row": 10
                     }
                 ]
             },
@@ -320,8 +324,8 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": "0",
-                        "y": "0"
+                        "column": 25,
+                        "row": 11
                     }
                 ]
             },
@@ -334,22 +338,8 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": "0",
-                        "y": "0"
-                    }
-                ]
-            },
-            {
-                "sections": [
-                    {
-                        "ref": "Blossom/Blossom Middle/Blossom Upper/rA1_35 - Talisman/Twins"
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Overworld",
-                        "x": "0",
-                        "y": "0"
+                        "column": 29,
+                        "row": 10
                     }
                 ]
             },
@@ -362,8 +352,8 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": "0",
-                        "y": "0"
+                        "column": 28,
+                        "row": 9
                     }
                 ]
             }
