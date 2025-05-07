@@ -19,7 +19,7 @@
             {
                 "sections": [
                     {
-                        "ref": "Lake/rA0_31Secret/Low Gravity Bumper"
+                        "ref": "Lake/rA0_31Secret/3 Coins Door"
                     }
                 ],
                 "map_locations": [
@@ -132,7 +132,26 @@
             {
                 "sections": [
                     {
-                        "ref": "Lake/Lake Middle/rA0_40/Speed Charge"
+                        "ref": "Lake/Lake Middle/rA0_36Coin/Bumper Time Puzzle"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "column": 50,
+                        "row": 15
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name":"Lake Central - Overworld",
+        "children": [
+            {
+                "sections": [
+                    {
+                        "ref": "Lake/Lake Middle/Lake Central/rA0_40/Speed Charge"
                     }
                 ],
                 "map_locations": [
@@ -146,7 +165,7 @@
             {
                 "sections": [
                     {
-                        "ref": "Lake/Lake Middle/rA0_84Coin/Breakable Floors"
+                        "ref": "Lake/Lake Middle/Lake Central/rA0_84Coin/Breakable Floors"
                     }
                 ],
                 "map_locations": [
@@ -160,21 +179,7 @@
             {
                 "sections": [
                     {
-                        "ref": "Lake/Lake Middle/rA0_36Coin/Bumper Time Puzzle"
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Overworld",
-                        "column": 50,
-                        "row": 15
-                    }
-                ]
-            },
-            {
-                "sections": [
-                    {
-                        "ref": "Lake/Lake Middle/rA1_84/Bumper"
+                        "ref": "Lake/Lake Middle/Lake Central/rA1_84/Bumper"
                     }
                 ],
                 "map_locations": [
@@ -188,7 +193,7 @@
             {
                 "sections": [
                     {
-                        "ref": "Lake/Lake Middle/rA0_37/Archer"
+                        "ref": "Lake/Lake Middle/Lake Central/rA0_37/Archer"
                     }
                 ],
                 "map_locations": [
@@ -202,7 +207,7 @@
             {
                 "sections": [
                     {
-                        "ref": "Lake/Lake Middle/rA0_39/Ninja"
+                        "ref": "Lake/Lake Middle/Lake Central/rA0_39/Ninja"
                     }
                 ],
                 "map_locations": [
@@ -216,7 +221,7 @@
             {
                 "sections": [
                     {
-                        "ref": "Lake/Lake Middle/rA0_36/Climb"
+                        "ref": "Lake/Lake Middle/Lake Central/rA0_36/Climb"
                     }
                 ],
                 "map_locations": [
@@ -230,7 +235,7 @@
             {
                 "sections": [
                     {
-                        "ref": "Lake/Lake Middle/rA0_38hallway/Ninja"
+                        "ref": "Lake/Lake Middle/Lake Central/rA0_38hallway/Ninja"
                     }
                 ],
                 "map_locations": [
@@ -249,7 +254,7 @@
             {
                 "sections": [
                     {
-                        "ref": "Lake/Lake Middle/Lake Top Left/rA1_82FatalDraw/Fatal Draw"
+                        "ref": "Lake/Lake Middle/Lake Central/Lake Top Left/rA1_82FatalDraw/Fatal Draw"
                     }
                 ],
                 "map_locations": [
@@ -263,7 +268,7 @@
             {
                 "sections": [
                     {
-                        "ref": "Lake/Lake Middle/Lake Top Left/rA1_81VagrantBossReward/Vagrant I Reward"
+                        "ref": "Lake/Lake Middle/Lake Central/Lake Top Left/rA1_81VagrantBossReward/Vagrant I Reward"
                     }
                 ],
                 "map_locations": [
@@ -277,7 +282,7 @@
             {
                 "sections": [
                     {
-                        "ref": "Lake/Lake Middle/Lake Top Left/rA1_82/Fatal Draw"
+                        "ref": "Lake/Lake Middle/Lake Central/Lake Top Left/rA1_82/Fatal Draw"
                     }
                 ],
                 "map_locations": [
@@ -296,7 +301,7 @@
             {
                 "sections": [
                     {
-                        "ref": "Lake/Lake Middle/Archer Area/rA1_168ArcherReward/Chain Dash Upgrade"
+                        "ref": "Lake/Lake Middle/Lake Central/Archer Area/rA1_168ArcherReward/Chain Dash Upgrade"
                     }
                 ],
                 "map_locations": [
@@ -310,7 +315,7 @@
             {
                 "sections": [
                     {
-                        "ref": "Lake/Lake Middle/Archer Area/rA1_167/Archer"
+                        "ref": "Lake/Lake Middle/Lake Central/Archer Area/rA1_167/Archer"
                     }
                 ],
                 "map_locations": [
@@ -333,7 +338,7 @@
             {
                 "sections": [
                     {
-                        "ref": "Lake/Lake Middle/Lake East/Lake Upper/rA1_91/Vision"
+                        "ref": "Lake/Lake Middle/Lake Central/Lake Upper/rA1_91/Vision"
                     }
                 ],
                 "map_locations": [
@@ -347,7 +352,7 @@
             {
                 "sections": [
                     {
-                        "ref": "Lake/Lake Middle/Lake East/Lake Upper/rA1_92/Hidden Breakables"
+                        "ref": "Lake/Lake Middle/Lake Central/Lake Upper/rA1_92/Hidden Breakables"
                     }
                 ],
                 "map_locations": [
@@ -361,7 +366,7 @@
             {
                 "sections": [
                     {
-                        "ref": "Lake/Lake Middle/Lake East/Lake Upper/rA1_87/Sentinel"
+                        "ref": "Lake/Lake Middle/Lake Central/Lake Upper/rA1_87/Sentinel"
                     }
                 ],
                 "map_locations": [
@@ -375,7 +380,7 @@
             {
                 "sections": [
                     {
-                        "ref": "Lake/Lake Middle/Lake East/Lake Upper/rA1_86/Sentinel"
+                        "ref": "Lake/Lake Middle/Lake Central/Lake Upper/rA1_86/Sentinel"
                     }
                 ],
                 "map_locations": [
@@ -394,7 +399,7 @@
             {
                 "sections": [
                     {
-                        "ref": "Lake/Lake Middle/Lake East/Lake Upper/Spin Arena Area/rA1_94ArenaSpin/Spin Upgrade"
+                        "ref": "Lake/Lake Middle/Lake Central/Lake Upper/Spin Arena Area/rA1_94ArenaSpin/Spin Upgrade"
                     }
                 ],
                 "map_locations": [
@@ -408,7 +413,7 @@
             {
                 "sections": [
                     {
-                        "ref": "Lake/Lake Middle/Lake East/Lake Upper/Spin Arena Area/rA1_FH0/Owl"
+                        "ref": "Lake/Lake Middle/Lake Central/Lake Upper/Spin Arena Area/rA1_FH0/Owl"
                     }
                 ],
                 "map_locations": [
@@ -422,7 +427,7 @@
             {
                 "sections": [
                     {
-                        "ref": "Lake/Lake Middle/Lake East/Lake Upper/Spin Arena Area/rA1_93CP/Spin Arena"
+                        "ref": "Lake/Lake Middle/Lake Central/Lake Upper/Spin Arena Area/rA1_93CP/Spin Arena"
                     }
                 ],
                 "map_locations": [
@@ -441,7 +446,7 @@
             {
                 "sections": [
                     {
-                        "ref": "Lake/Lake Middle/Lake East/Lake Temple/rA0_44/Acolyte"
+                        "ref": "Lake/Lake Middle/Lake Central/Lake East/Lake Temple/rA0_44/Acolyte"
                     }
                 ],
                 "map_locations": [
@@ -455,7 +460,7 @@
             {
                 "sections": [
                     {
-                        "ref": "Lake/Lake Middle/Lake East/Lake Temple/rA0_45Boss/Acolyte"
+                        "ref": "Lake/Lake Middle/Lake Central/Lake East/Lake Temple/rA0_45Boss/Acolyte"
                     }
                 ],
                 "map_locations": [

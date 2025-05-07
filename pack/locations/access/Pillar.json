@@ -2,7 +2,7 @@
   {
     "name": "Pillar Access",
     "access_rules": [
-      "@Blossom Upper Access,$double_jump,$chain_dash"
+      "@Blossom Upper Access,$double_jump,$dash"
     ]
   },
   {

@@ -1,6 +1,6 @@
 [
   {
-    "name": "Blossom",
+    "name": "Blossom Access",
     "access_rules": []
   },
   {
@@ -12,7 +12,8 @@
   {
     "name": "Blossom Middle Access",
     "access_rules": [
-      "$crystal_break,$dash"
+      "$logic_normal,$crystal_break,$chain_dash",
+      "$logic_hard,$crystal_break,$double_jump,$armor"
     ]
   },
   {
@@ -31,7 +32,13 @@
     "name": "Blossom Upper Access",
     "access_rules": [
       "@Blossom Middle Access,$double_jump,$chain_dash",
-      "@Hills Upper Access"
+      "@Hills Upper Access,$double_jump"
+    ]
+  },
+  {
+    "name": "Twins Area Access",
+    "access_rules": [
+      "@Blossom Upper Access,$double_jump,$dash"
     ]
   }
 ]

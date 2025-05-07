@@ -5,32 +5,51 @@
             {
                 "name": "Juggernaut Rune",
                 "chest_unopened_img": "/images/items/collectibles/JuggernautRune.png",
-                "chest_opened_img": "/images/items/collectibles/JuggernautRune.png"
+                "chest_opened_img": "/images/items/collectibles/JuggernautRune.png",
+                "access_rules": [
+                    "^$dash,$double_jump"
+                ]
             },
             {
                 "name": "Flurry Rune",
                 "chest_unopened_img": "/images/items/FlurryRune.png",
-                "chest_opened_img": "/images/items/FlurryRune.png"
+                "chest_opened_img": "/images/items/FlurryRune.png",
+                "access_rules": [
+                    "$prologue_done"
+                ]
             },
             {
                 "name": "Agility Rune",
                 "chest_unopened_img": "/images/items/collectibles/AgilityRune.png",
-                "chest_opened_img": "/images/items/collectibles/AgilityRune.png"
+                "chest_opened_img": "/images/items/collectibles/AgilityRune.png",
+                "access_rules": [
+                    "$chain_dash"
+                ]
             },
             {
                 "name": "Risk Rune",
                 "chest_unopened_img": "/images/items/RiskRune.png",
-                "chest_opened_img": "/images/items/RiskRune.png"
+                "chest_opened_img": "/images/items/RiskRune.png",
+                "access_rules": [
+                    "$double_jump"
+                ]
             },
             {
                 "name": "Echo Rune",
                 "chest_unopened_img": "/images/items/collectibles/EchoRune.png",
-                "chest_opened_img": "/images/items/collectibles/EchoRune.png"
+                "chest_opened_img": "/images/items/collectibles/EchoRune.png",
+                "access_rules": [
+                    "$double_jump"
+                ]
             },
             {
                 "name": "Mind Rune",
                 "chest_unopened_img": "/images/items/MindRune.png",
-                "chest_opened_img": "/images/items/MindRune.png"
+                "chest_opened_img": "/images/items/MindRune.png",
+                "access_rules": [
+                    "$logic_normal,$vision",
+                    "$logic_hard"
+                ]
             }
         ]
     }

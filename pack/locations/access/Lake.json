@@ -8,8 +8,8 @@
   {
     "name": "Lake Lower Access",
     "access_rules": [
-      "@Lake Access,$is_prologue,$double_slash_boost,$dash",
-      "@Lake Access,$is_prologue,$double_jump,$dash",
+      "@Lake Access,$is_prologue,$logic_normal,$double_jump,$dash",
+      "@Lake Access,$is_prologue,$logic_hard,$dash",
       "@Lake Access,$prologue_done,$crystal_break"
     ]
   },
@@ -22,20 +22,28 @@
   {
     "name": "Lake Middle Access",
     "access_rules": [
-      "@Lake Access,$double_jump,$chain_dash",
-      "@Lake Access,$use_map_jump,$double_jump,$dash"
+      "$is_prologue,@Lake Access,$logic_normal,$double_jump,$chain_dash",
+      "$is_prologue,@Lake Access,$logic_hard,$double_jump,$dash",
+      "$prologue_done,$speed_charge,$double_jump,$armor"
+    ]
+  },
+  {
+    "name": "Lake Central Access",
+    "access_rules": [
+      "$is_prologue,@Lake Middle Access",
+      "$prologue_done,@Lake Middle Access,$double_jump,$chain_dash"
     ]
   },
   {
     "name": "Lake Top Left Access",
     "access_rules": [
-      "@Lake Middle Access,$double_jump,$dash"
+      "@Lake Central Access,$double_jump,$dash"
     ]
   },
   {
     "name": "Archer Area Access",
     "access_rules": [
-      "@Lake Middle Access,$demon_blade"
+      "@Lake Middle Access,$double_jump,$dash,$demon_blade"
     ]
   },
   {
@@ -47,7 +55,8 @@
   {
     "name": "Lake Upper Access",
     "access_rules": [
-      "@Lake East Access,$speed_charge,$double_jump,$chain_dash"
+      "@Lake East Access,$speed_charge,$double_jump,$chain_dash",
+      "@Lake Central Access,$chain_dash,$crystal_break"
     ]
   },
   {

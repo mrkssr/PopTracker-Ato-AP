@@ -15,18 +15,29 @@
                 "name": "Vagrant"
             },
             {
-                "name": "Twins"
+                "name": "Twins",
+                "access_rules": [
+                    "^$dash,$double_jump"
+                ]
             },
             {
-                "name": "Phantom Shin"
+                "name": "Phantom Shin",
+                "access_rules": [
+                    "$logic_normal,$double_jump,$vision,$chain_dash",
+                    "$logic_hard,$double_jump,$armor"
+                ]
             },
             {
-                "name": "Throw Arena"
+                "name": "Throw Arena",
+                "access_rules": [
+                    "$logic_normal,$has|coin|13,$double_jump,$dash,$throw",
+                    "$logic_hard,$has|coin|13,$double_jump,$dash,$armor"
+                ]
             },
             {
                 "name": "Berserker",
                 "access_rules": [
-                    "$dash"
+                    "^$dash"
                 ]
             },
             {
@@ -45,7 +56,11 @@
                 "name": "Tempest"
             },
             {
-                "name": "Armor Arena"
+                "name": "Armor Arena",
+                "access_rules": [
+                    "$has|coin|13,$is_prologue,^$dash,$armor",
+                    "$has|coin|13,$prologue_done,^$dash,$double_jump,$crystal_break,$armor"
+                ]
             },
             {
                 "name": "Bridge Drop"
@@ -74,41 +89,67 @@
             {
                 "name": "Acolyte",
                 "access_rules": [
-                    "@Lake Temple Access,$double_jump"
+                    "$double_jump"
                 ]
             },
             {
                 "name": "Mother"
             },
             {
-                "name": "Spin Puzzles"
+                "name": "Spin Puzzles",
+                "access_rules": [
+                    "^$dash,$double_jump,$spin"
+                ]
             },
             {
-                "name": "Ancient Warrior"
+                "name": "Ancient Warrior",
+                "access_rules": [
+                    "$logic_normal,^$chain_dash,$double_jump,$spin",
+                    "$logic_hard,^$dash,$double_jump,$spin"
+                ]
             },
             {
-                "name": "Child"
+                "name": "Child",
+                "access_rules": [
+                    "$double_jump"
+                ]
             },
             {
-                "name": "Yari"
+                "name": "Yari",
+                "access_rules": [
+                  "$logic_normal,$double_jump,$dash,$throw",
+                  "$logic_hard,$double_jump,$armor,$speed_charge,$throw"
+                ]
             },
             {
                 "name": "Green Area Entry"
             },
             {
-                "name": "Father"
+                "name": "Father",
+                "access_rules": [
+                    "$double_jump,$armor"
+                ]
             },
             {
-                "name": "Deceiver"
+                "name": "Deceiver",
+                "access_rules": [
+                    "$double_jump,$armor"
+                ]
             },
             {
-                "name": "Fatal Arena"
+                "name": "Fatal Arena",
+                "access_rules": [
+                    "$has|coin|32,$is_prologue,^$dash,$double_jump,$fatal_draw"
+                ]
             },
             {
                 "name": "Monk"
             },
             {
-                "name": "Samurai"
+                "name": "Samurai",
+                "access_rules": [
+                    "$double_jump"
+                ]
             },
             {
                 "name": "Demon"

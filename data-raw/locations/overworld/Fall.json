@@ -66,7 +66,26 @@
             {
                 "sections": [
                     {
-                        "ref": "Fall/Fall Lower/rA1_165Meditate/Meditate"
+                        "ref": "Fall/Fall Lower/rA0_14Secret/Secret Room"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "column": 34.5,
+                        "row": 15.5
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Fall Lower East - Overworld",
+        "children": [
+            {
+                "sections": [
+                    {
+                        "ref": "Fall/Fall Lower/Fall Lower East/rA1_165Meditate/Meditate"
                     }
                 ],
                 "map_locations": [
@@ -80,7 +99,7 @@
             {
                 "sections": [
                     {
-                        "ref": "Fall/Fall Lower/rA1_166TempestReward/Triple Slash"
+                        "ref": "Fall/Fall Lower/Fall Lower East/rA1_166TempestReward/Triple Slash"
                     }
                 ],
                 "map_locations": [
@@ -94,7 +113,7 @@
             {
                 "sections": [
                     {
-                        "ref": "Fall/Fall Lower/rA1_59BossHiddenReward/Mind Rune"
+                        "ref": "Fall/Fall Lower/Fall Lower East/rA1_59BossHiddenReward/Mind Rune"
                     }
                 ],
                 "map_locations": [
@@ -108,7 +127,7 @@
             {
                 "sections": [
                     {
-                        "ref": "Fall/Fall Lower/rA1_165Coin/Tempest"
+                        "ref": "Fall/Fall Lower/Fall Lower East/rA1_165Coin/Tempest"
                     }
                 ],
                 "map_locations": [
@@ -122,21 +141,7 @@
             {
                 "sections": [
                     {
-                        "ref": "Fall/Fall Lower/rA0_14Secret/Secret Room"
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Overworld",
-                        "column": 34.5,
-                        "row": 15.5
-                    }
-                ]
-            },
-            {
-                "sections": [
-                    {
-                        "ref": "Fall/Fall Lower/tA1_56Fans/Fans"
+                        "ref": "Fall/Fall Lower/Fall Lower East/tA1_56Fans/Fans"
                     }
                 ],
                 "map_locations": [
@@ -150,7 +155,7 @@
             {
                 "sections": [
                     {
-                        "ref": "Fall/Fall Lower/rA1_57Secret/Secret"
+                        "ref": "Fall/Fall Lower/Fall Lower East/rA1_57Secret/Secret"
                     }
                 ],
                 "map_locations": [
@@ -164,7 +169,7 @@
             {
                 "sections": [
                     {
-                        "ref": "Fall/Fall Lower/rA1_57/Warden"
+                        "ref": "Fall/Fall Lower/Fall Lower East/rA1_57/Warden"
                     }
                 ],
                 "map_locations": [
@@ -178,7 +183,7 @@
             {
                 "sections": [
                     {
-                        "ref": "Fall/Fall Lower/rA1_164/Tempest"
+                        "ref": "Fall/Fall Lower/Fall Lower East/rA1_164/Tempest"
                     }
                 ],
                 "map_locations": [

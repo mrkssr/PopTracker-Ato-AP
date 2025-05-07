@@ -14,14 +14,16 @@
   {
     "name": "Fall Upper Access",
     "access_rules": [
-      "@Fall Middle Access,$double_jump,$double_dash"
+      "@Fall Middle Access,$logic_normal,$double_jump,$chain_dash",
+      "@Fall Middle Access,$logic_hard,$double_jump,$dash",
+      "@Fall Red Area Hallway Access"
     ]
   },
   {
     "name": "Fall Red Area Hallway Access",
     "access_rules": [
-      "@Fall Upper Access,$double_jump,$double_dash,$crystal_break",
-      "@Fall Upper Access,$speed_charge,$double_dash,$crystal_break",
+      "@Fall Upper Access,$double_jump,$chain_dash,$crystal_break",
+      "@Fall Upper Access,$speed_charge,$chain_dash,$crystal_break",
       "@Fall Middle Access,$double_jump,$dash,$crystal_break"
     ]
   },
@@ -35,6 +37,12 @@
     "name": "Fall Lower Access",
     "access_rules": [
       "@Fall Access,$crystal_break"
+    ]
+  },
+  {
+    "name": "Fall Lower East Access",
+    "access_rules": [
+      "@Fall Lower Access,$double_jump"
     ]
   },
   {

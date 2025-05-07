@@ -6,13 +6,17 @@
   {
     "name": "Hills Middle Access",
     "access_rules": [
-      "@Hills Access,$dash"
+      "$logic_normal,@Hills Access,$is_prologue,$dash",
+      "$logic_hard,@Hills Access,$prologue_done,$chain_dash",
+      "$logic_hard,@Hills Access,$prologue_done,$armor"
     ]
   },
   {
     "name": "Hills Upper Access",
     "access_rules": [
-      "@Hills Middle Access,$dash,$crystal_break",
+      "@Hills Middle Access,$is_prologue,$dash,$crystal_break",
+      "@Hills Middle Access,$prologue_done,$dash,$spin",
+      "@Hills Middle Access,$prologue_done,$dash,$double_jump",
       "@Blossom Upper Access"
     ]
   }

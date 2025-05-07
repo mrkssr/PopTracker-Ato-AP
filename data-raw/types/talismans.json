@@ -7,13 +7,13 @@
             {
                 "name": "Start Room",
                 "access_rules": [
-                    "$dash"
+                    "^$dash"
                 ]
             },
             {
                 "name": "Runway",
                 "access_rules": [
-                    "$speed_charge,$chain_dash"
+                    "$speed_charge,$chain_dash,$double_jump"
                 ]
             },
             {
@@ -24,82 +24,117 @@
                 ]
             },
             {
-                "name": "Bandit"
-            },
-            {
-                "name": "Leave Room"
-            },
-            {
-                "name": "Behind Rocks"
-            },
-            {
-                "name": "Spin Puzzle"
-            },
-            {
-                "name": "Deflector"
-            },
-            {
-                "name": "Twins"
-            },
-            {
-                "name": "Preview",
-                "access_rules": [
-                    "$dash"
-                ]
-            },
-            {
-                "name": "Top Platforms",
-                "access_rules": [
-                    "$dash"
-                ]
-            },
-            {
-                "name": "Dash Room",
-                "access_rules": [
-                    "$dash"
-                ]
-            },
-            {
-                "name": "Jin",
+                "name": "Bandit",
                 "access_rules": [
                     "$double_jump"
                 ]
             },
             {
-                "name": "Hidden",
+                "name": "Leave Room",
                 "access_rules": [
-                    "$double_jump,$dash"
+                    "$logic_normal,$spin",
+                    "$logic_hard,$double_jump,$chain_dash"
                 ]
             },
             {
-                "name": "Armor Haunt Area"
+                "name": "Behind Rocks",
+                "access_rules": [
+                    "$double_jump,$armor"
+                ]
             },
             {
-                "name": "Fans"
+                "name": "Spin Puzzle",
+                "access_rules": [
+                    "$double_jump,$spin"
+                ]
+            },
+            {
+                "name": "Deflector",
+                "access_rules": [
+                    "$logic_normal,$double_jump,$dash,$throw",
+                    "$logic_hard,$double_jump,$armor"
+                ]
+            },
+            {
+                "name": "Twins",
+                "access_rules": [
+                    "^$dash,$double_jump"
+                ]
+            },
+            {
+                "name": "Preview",
+                "access_rules": [
+                    "^$dash"
+                ]
+            },
+            {
+                "name": "Top Platforms",
+                "access_rules": [
+                    "^$dash"
+                ]
+            },
+            {
+                "name": "Dash Room",
+                "access_rules": [
+                    "$logic_normal,^$dash",
+                    "$logic_hard"
+                ]
+            },
+            {
+                "name": "Jin",
+                "access_rules": [
+                    "$logic_normal,$double_jump",
+                    "$logic_hard"
+                ]
+            },
+            {
+                "name": "Hidden",
+                "access_rules": [
+                    "$logic_normal,$vision",
+                    "$logic_hard"
+                ]
+            },
+            {
+                "name": "Armor Haunt Area",
+                "access_rules": [
+                    "$armor"
+                ]
+            },
+            {
+                "name": "Fans",
+                "access_rules": [
+                    "$spin,$dodge_upgrade"
+                ]
             },
             {
                 "name": "Secret"
             },
             {
-                "name": "Hidden Top"
+                "name": "Hidden Top",
+                "access_rules": [
+                    "^$dash,^$double_jump"
+                ]
             },
             {
-                "name": "Left Red Area Entry"
+                "name": "Left Red Area Entry",
+                "access_rules": [
+                    "^$dash,^$double_jump"
+                ]
             },
             {
                 "name": "Chain Dash Room",
                 "access_rules": [
-                    "$chain_dash",
-                    "$double_slash_boost",
-                    "$speed_charge,$double_jump"
+                    "$logic_normal,$chain_dash",
+                    "$logic_normal,$speed_charge,$double_jump",
+                    "$logic_hard"
                 ]
             },
             {
-                "name": "Low Gravity Bumper",
+                "name": "3 Coins Door",
                 "access_rules": [
-                    "$is_prologue,$double_slash_boost,$dash",
-                    "$is_prologue,$double_jump,$dash",
-                    "$prologue_done"
+                    "$has|coin|3,$is_prologue,$double_slash_boost,^$dash",
+                    "$has|coin|3,$is_prologue,$double_jump,^$dash",
+                    "$has|coin|3,$prologue_done"
                 ]
             },
             {
@@ -111,8 +146,8 @@
             {
                 "name": "Tiny Warrior",
                 "access_rules": [
-                    "$double_jump,$chain_dash",
-                    "$use_map_jump,$double_jump,$dash"
+                    "$logic_normal,$double_jump,$chain_dash",
+                    "$logic_hard,$double_jump,^$dash"
                 ]
             },
             {
@@ -124,45 +159,79 @@
             {
                 "name": "Ninja",
                 "access_rules": [
-                    "$double_jump,$chain_dash"
+                    "$logic_normal,$double_jump,$chain_dash",
+                    "$logic_hard,$double_jump,$speed_charge,$armor"
                 ]
             },
             {
-                "name": "Hidden Breakables"
+                "name": "Hidden Breakables",
+                "access_rules": [
+                    "$logic_normal,$double_jump,$dash,$vision",
+                    "$logic_hard,$double_jump,$armor"
+                ]
             },
             {
                 "name": "Sentinel",
                 "access_rules": [
-                    "$speed_charge,$dash,$slash_boost",
-                    "$speed_charge,$chain_dash"
+                    "$speed_charge,^$dash"
                 ]
             },
             {
-                "name": "Owl"
+                "name": "Owl",
+                "access_rules": [
+                    "$logic_normal,$vision,$chain",
+                    "$logic_hard,$double_jump,$armor,$throw"
+                ]
             },
             {
-                "name": "Spins"
+                "name": "Spins",
+                "access_rules": [
+                    "^$dash,$double_jump,$spin"
+                ]
             },
             {
-                "name": "Ancient Warrior"
+                "name": "Ancient Warrior",
+                "access_rules": [
+                    "$logic_normal,^$chain_dash,$double_jump,$spin",
+                    "$logic_hard,^$dash,$double_jump,$spin"
+                ]
             },
             {
-                "name": "Black Piles Room"
+                "name": "Black Piles Room",
+                "access_rules": [
+                    "^$dash,$double_jump,$dodge_upgrade"
+                ]
             },
             {
-                "name": "Yari"
+                "name": "Yari",
+                "access_rules": [
+                    "^$dash,$double_jump,$throw"
+                ]
             },
             {
-                "name": "Throws"
+                "name": "Throws",
+                "access_rules": [
+                    "$double_jump,$throw,[$throw]"
+                ]
             },
             {
-                "name": "Warps"
+                "name": "Warps",
+                "access_rules": [
+                    "$throw,[$double_jump]"
+                ]
             },
             {
-                "name": "Lore Room"
+                "name": "Lore Room",
+                "access_rules": [
+                    "$double_jump,$throw,[$vision]"
+                ]
             },
             {
-                "name": "Warp Obstacles"
+                "name": "Warp Obstacles",
+                "access_rules": [
+                    "$logic_normal,$double_jump,$armor,$throw",
+                    "$logic_hard,$double_jump,$armor"
+                ]
             }
         ]
     }

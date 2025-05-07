@@ -2,13 +2,13 @@
   {
     "name": "Temple Access",
     "access_rules": [
-      "@Lake Temple Access,$prologue_done"
+      "@Lake Temple Access,$prologue_done,$double_jump"
     ]
   },
   {
     "name": "Temple Upper Access",
     "access_rules": [
-      "@Temple Access,$prologue_done"
+      "@Temple Access,$chain_dash"
     ]
   },
   {

@@ -64,7 +64,6 @@
                         "ref": "Blossom/rA1_0runway/Runway"
                     }
                 ],
-                
                 "map_locations": [
                     {
                         "map": "Overworld",
@@ -79,7 +78,6 @@
                         "ref": "Blossom/rA0_4/Rogue"
                     }
                 ],
-                
                 "map_locations": [
                     {
                         "map": "Overworld",
@@ -129,6 +127,20 @@
             {
                 "sections": [
                     {
+                        "ref": "Blossom/Blossom Middle/rA1_9/Leave Room"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "column": 22.5,
+                        "row": 11.5
+                    }
+                ]
+            },
+            {
+                "sections": [
+                    {
                         "ref": "Blossom/Blossom Middle/rA1_1under/Under Leaves"
                     }
                 ],
@@ -136,7 +148,7 @@
                     {
                         "map": "Overworld",
                         "column": 21,
-                        "row": 13
+                        "row": 14
                     }
                 ]
             }
@@ -259,23 +271,6 @@
             {
                 "sections": [
                     {
-                        "ref": "Blossom/Blossom Middle/Blossom Upper/rA1_35/Juggernaut Rune"
-                    },
-                    {
-                        "ref": "Blossom/Blossom Middle/Blossom Upper/rA1_35/Twins"
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Overworld",
-                        "column": 26,
-                        "row": 9
-                    }
-                ]
-            },
-            {
-                "sections": [
-                    {
                         "ref": "Blossom/Blossom Middle/Blossom Upper/rA1_29VagrantBossReward/Vagrant II Reward"
                     }
                 ],
@@ -284,20 +279,6 @@
                         "map": "Overworld",
                         "column": 25,
                         "row": 9
-                    }
-                ]
-            },
-            {
-                "sections": [
-                    {
-                        "ref": "Blossom/Blossom Middle/Blossom Upper/rA1_9/Leave Room"
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Overworld",
-                        "column": 22.5,
-                        "row": 11.5
                     }
                 ]
             },
@@ -342,11 +323,33 @@
                         "row": 10
                     }
                 ]
+            }
+        ]
+    },
+    {
+        "name": "Twins Area - Overworld",
+        "children": [
+            {
+                "sections": [
+                    {
+                        "ref": "Blossom/Blossom Middle/Blossom Upper/Twins Area/rA1_35/Juggernaut Rune"
+                    },
+                    {
+                        "ref": "Blossom/Blossom Middle/Blossom Upper/Twins Area/rA1_35/Twins"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "column": 26,
+                        "row": 9
+                    }
+                ]
             },
             {
                 "sections": [
                     {
-                        "ref": "Blossom/Blossom Middle/Blossom Upper/rA1_33/Twins"
+                        "ref": "Blossom/Blossom Middle/Blossom Upper/Twins Area/rA1_33/Twins"
                     }
                 ],
                 "map_locations": [

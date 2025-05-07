@@ -13,7 +13,7 @@
                 "chest_unopened_img": "/images/items/skills/DodgeUpgrade.png",
                 "chest_opened_img": "/images/items/skills/DodgeUpgrade.png",
                 "access_rules": [
-                    "$dash"
+                    "^$dash"
                 ]
             },
             {
@@ -24,19 +24,25 @@
             {
                 "name": "Chain Dash",
                 "chest_unopened_img": "/images/items/skills/ChainDash.png",
-                "chest_opened_img": "/images/items/skills/ChainDash.png"
+                "chest_opened_img": "/images/items/skills/ChainDash.png",
+                "access_rules": [
+                    "$double_jump,$dash"
+                ]
             },
             {
                 "name": "Chain Dash Upgrade",
                 "chest_unopened_img": "/images/items/skills/ChainDashUpgrade.png",
-                "chest_opened_img": "/images/items/skills/ChainDashUpgrade.png"
+                "chest_opened_img": "/images/items/skills/ChainDashUpgrade.png",
+                "access_rules": [
+                    "$double_jump"
+                ]
             },
             {
                 "name": "Double Jump",
                 "chest_unopened_img": "/images/items/skills/DoubleJump.png",
                 "chest_opened_img": "/images/items/skills/DoubleJump.png",
                 "access_rules": [
-                    "$dash"
+                    "^$dash"
                 ]
             },
             {
@@ -50,12 +56,19 @@
             {
                 "name": "Electric Wind Lethal Strike",
                 "chest_unopened_img": "/images/items/skills/ElectricWindLethalStrike.png",
-                "chest_opened_img": "/images/items/skills/ElectricWindLethalStrike.png"
+                "chest_opened_img": "/images/items/skills/ElectricWindLethalStrike.png",
+                "access_rules": [
+                    "$logic_normal,$double_jump,$vision,$chain_dash",
+                    "$logic_hard,$double_jump,$armor"
+                ]
             },
             {
                 "name": "Parry",
                 "chest_unopened_img": "/images/items/skills/Parry.png",
-                "chest_opened_img": "/images/items/skills/Parry.png"
+                "chest_opened_img": "/images/items/skills/Parry.png",
+                "access_rules": [
+                    "$double_jump"
+                ]
             },
             {
                 "name": "Demon Blade",
@@ -65,12 +78,18 @@
             {
                 "name": "Fatal Draw",
                 "chest_unopened_img": "/images/items/skills/FatalDraw.png",
-                "chest_opened_img": "/images/items/skills/FatalDraw.png"
+                "chest_opened_img": "/images/items/skills/FatalDraw.png",
+                "access_rules": [
+                    "$has|coin|18,$double_jump"
+                ]
             },
             {
                 "name": "Fatal Draw Upgrade",
                 "chest_unopened_img": "/images/items/skills/FatalDrawUpgrade.png",
-                "chest_opened_img": "/images/items/skills/FatalDrawUpgrade.png"
+                "chest_opened_img": "/images/items/skills/FatalDrawUpgrade.png",
+                "access_rules": [
+                    "$has|coin|32,$is_prologue,^$dash,$double_jump,$fatal_draw"
+                ]
             },
             {
                 "name": "Armor",
@@ -80,27 +99,45 @@
             {
                 "name": "Armor Upgrade",
                 "chest_unopened_img": "/images/items/skills/ArmorUpgrade.png",
-                "chest_opened_img": "/images/items/skills/ArmorUpgrade.png"
+                "chest_opened_img": "/images/items/skills/ArmorUpgrade.png",
+                "access_rules": [
+                    "$has|coin|13,$is_prologue,^$dash,$armor",
+                    "$has|coin|13,$prologue_done,^$dash,$double_jump,$crystal_break,$armor",
+                    "$has|coin|13,$prologue_done,^$dash,$speed_charge,$crystal_break,$armor"
+                ]
             },
             {
                 "name": "Throw",
                 "chest_unopened_img": "/images/items/skills/Throw.png",
-                "chest_opened_img": "/images/items/skills/Throw.png"
+                "chest_opened_img": "/images/items/skills/Throw.png",
+                "access_rules": [
+                    "$double_jump,$dash"
+                ]
             },
             {
                 "name": "Throw Upgrade",
                 "chest_unopened_img": "/images/items/skills/ThrowUpgrade.png",
-                "chest_opened_img": "/images/items/skills/ThrowUpgrade.png"
+                "chest_opened_img": "/images/items/skills/ThrowUpgrade.png",
+                "access_rules": [
+                    "$logic_normal,$has|coin|13,$double_jump,$dash,$throw",
+                    "$logic_hard,$has|coin|13,$double_jump,$dash,$armor"
+                ]
             },
             {
                 "name": "Spin",
                 "chest_unopened_img": "/images/items/skills/Spin.png",
-                "chest_opened_img": "/images/items/skills/Spin.png"
+                "chest_opened_img": "/images/items/skills/Spin.png",
+                "access_rules": [
+                    "$double_jump"
+                ]
             },
             {
                 "name": "Spin Upgrade",
                 "chest_unopened_img": "/images/items/skills/SpinUpgrade.png",
-                "chest_opened_img": "/images/items/skills/SpinUpgrade.png"
+                "chest_opened_img": "/images/items/skills/SpinUpgrade.png",
+                "access_rules": [
+                    "$spin"
+                ]
             },
             {
                 "name": "Meditate",
@@ -110,23 +147,24 @@
             {
                 "name": "Triple Slash",
                 "chest_unopened_img": "/images/items/skills/TripleSlash.png",
-                "chest_opened_img": "/images/items/skills/TripleSlash.png"
+                "chest_opened_img": "/images/items/skills/TripleSlash.png",
+                "access_rules": [
+                    "$demon_blade,$double_jump"
+                ]
             },
             {
                 "name": "Speed Charge",
                 "chest_unopened_img": "/images/items/skills/SpeedCharge.png",
-                "chest_opened_img": "/images/items/skills/SpeedCharge.png",
-                "access_rules": [
-                    "$double_jump,$chain_dash"
-                ]
+                "chest_opened_img": "/images/items/skills/SpeedCharge.png"
             },
             {
                 "name": "Vision",
                 "chest_unopened_img": "/images/items/skills/Vision.png",
                 "chest_opened_img": "/images/items/skills/Vision.png",
                 "access_rules": [
-                    "$double_jump,$dash,$crystal_break",
-                    "$double_jump,$armor,$crystal_break"
+                    "$logic_normal,$double_jump,^$dash,$crystal_break",
+                    "$logic_hard,$double_jump,$armor,$crystal_break",
+                    "$logic_hard,$double_jump,$spin,$crystal_break"
                 ]
             }
         ]

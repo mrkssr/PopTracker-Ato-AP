@@ -5,10 +5,17 @@
         "chest_opened_img": "/images/items/collectibles/MagicBar.png",
         "sections": [
             {
-                "name": "Vagrant"
+                "name": "Vagrant",
+                "access_rules": [
+                    "$logic_normal,$double_jump,^$dash",
+                    "$logic_hard,$double_jump,$armor"
+                ]
             },
             {
-                "name": "Tiny Warrior"
+                "name": "Tiny Warrior",
+                "access_rules": [
+                    "$demon_blade,^$chain_dash,$double_jump"
+                ]
             }
         ]
     }

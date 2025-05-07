@@ -72,66 +72,6 @@
                 ],
                 "children": [
                     {
-                        "name": "rA1_165Meditate",
-                        "sections": [
-                            {
-                                "ref": "Skills/Meditate"
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Fall",
-                                "column": 17,
-                                "row": 10
-                            }
-                        ]
-                    },
-                    {
-                        "name": "rA1_166TempestReward",
-                        "sections": [
-                            {
-                                "ref": "Skills/Triple Slash"
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Fall",
-                                "column": 19,
-                                "row": 9
-                            }
-                        ]
-                    },
-                    {
-                        "name": "rA1_59BossHiddenReward",
-                        "sections": [
-                            {
-                                "ref": "Runes/Mind Rune"
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Fall",
-                                "column": 13,
-                                "row": 10
-                            }
-                        ]
-                    },
-                    {
-                        "name": "rA1_165Coin",
-                        "sections": [
-                            {
-                                "ref": "Coins/Tempest"
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Fall",
-                                "column": 16,
-                                "row": 9
-                            }
-                        ]
-                    },
-                    {
                         "name": "rA0_14Secret",
                         "sections": [
                             {
@@ -147,62 +87,130 @@
                         ]
                     },
                     {
-                        "name": "tA1_56Fans",
-                        "sections": [
-                            {
-                                "ref": "Talismans/Fans"
-                            }
+                        "name": "Fall Lower East",
+                        "access_rules": [
+                            "@Fall Lower East Access"
                         ],
-                        "map_locations": [
+                        "children": [
                             {
-                                "map": "Fall",
-                                "column": 13,
-                                "row": 8
-                            }
-                        ]
-                    },
-                    {
-                        "name": "rA1_57Secret",
-                        "sections": [
+                                "name": "rA1_165Meditate",
+                                "sections": [
+                                    {
+                                        "ref": "Skills/Meditate"
+                                    }
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Fall",
+                                        "column": 17,
+                                        "row": 10
+                                    }
+                                ]
+                            },
                             {
-                                "ref": "Talismans/Secret"
-                            }
-                        ],
-                        "map_locations": [
+                                "name": "rA1_166TempestReward",
+                                "sections": [
+                                    {
+                                        "ref": "Skills/Triple Slash"
+                                    }
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Fall",
+                                        "column": 19,
+                                        "row": 9
+                                    }
+                                ]
+                            },
                             {
-                                "map": "Fall",
-                                "column": 15,
-                                "row": 7
-                            }
-                        ]
-                    },
-                    {
-                        "name": "rA1_57",
-                        "sections": [
+                                "name": "rA1_59BossHiddenReward",
+                                "sections": [
+                                    {
+                                        "ref": "Runes/Mind Rune"
+                                    }
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Fall",
+                                        "column": 13,
+                                        "row": 10
+                                    }
+                                ]
+                            },
                             {
-                                "ref": "Checkpoints/Warden"
-                            }
-                        ],
-                        "map_locations": [
+                                "name": "rA1_165Coin",
+                                "sections": [
+                                    {
+                                        "ref": "Coins/Tempest"
+                                    }
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Fall",
+                                        "column": 16,
+                                        "row": 9
+                                    }
+                                ]
+                            },
                             {
-                                "map": "Fall",
-                                "column": 14,
-                                "row": 7.5
-                            }
-                        ]
-                    },
-                    {
-                        "name": "rA1_164",
-                        "sections": [
+                                "name": "tA1_56Fans",
+                                "sections": [
+                                    {
+                                        "ref": "Talismans/Fans"
+                                    }
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Fall",
+                                        "column": 13,
+                                        "row": 8
+                                    }
+                                ]
+                            },
                             {
-                                "ref": "Checkpoints/Tempest"
-                            }
-                        ],
-                        "map_locations": [
+                                "name": "rA1_57Secret",
+                                "sections": [
+                                    {
+                                        "ref": "Talismans/Secret"
+                                    }
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Fall",
+                                        "column": 15,
+                                        "row": 7
+                                    }
+                                ]
+                            },
                             {
-                                "map": "Fall",
-                                "column": 15.5,
-                                "row": 8
+                                "name": "rA1_57",
+                                "sections": [
+                                    {
+                                        "ref": "Checkpoints/Warden"
+                                    }
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Fall",
+                                        "column": 14,
+                                        "row": 7.5
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "rA1_164",
+                                "sections": [
+                                    {
+                                        "ref": "Checkpoints/Tempest"
+                                    }
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Fall",
+                                        "column": 15.5,
+                                        "row": 8
+                                    }
+                                ]
                             }
                         ]
                     },

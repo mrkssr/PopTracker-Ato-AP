@@ -4,15 +4,24 @@
         "sections": [
             {
                 "name": "Acolyte",
-                "chest_opened_img": "/images/items/events/Acolyte.png"
+                "chest_opened_img": "/images/items/events/Acolyte.png",
+                "access_rules": [
+                    "$double_jump"
+                ]
             },
             {
                 "name": "Samurai",
-                "chest_opened_img": "/images/items/events/Samurai.png"
+                "chest_opened_img": "/images/items/events/Samurai.png",
+                "access_rules": [
+                    "$double_jump"
+                ]
             },
             {
                 "name": "Rebirth",
-                "chest_opened_img": "/images/items/events/Rebirth.png"
+                "chest_opened_img": "/images/items/events/Rebirth.png",
+                "access_rules": [
+                    "$chain_dash"
+                ]
             }
         ]
     }

@@ -29,7 +29,7 @@
                 "name": "rA0_31Secret",
                 "sections": [
                     {
-                        "ref": "Talismans/Low Gravity Bumper"
+                        "ref": "Talismans/3 Coins Door"
                     }
                 ],
                 "map_locations": [
@@ -158,36 +158,6 @@
                 ],
                 "children": [
                     {
-                        "name": "rA0_40",
-                        "sections": [
-                            {
-                                "ref": "Skills/Speed Charge"
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Lake",
-                                "column": 13,
-                                "row": 5
-                            }
-                        ]
-                    },
-                    {
-                        "name": "rA0_84Coin",
-                        "sections": [
-                            {
-                                "ref": "Coins/Breakable Floors"
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Lake",
-                                "column": 6,
-                                "row": 4
-                            }
-                        ]
-                    },
-                    {
                         "name": "rA0_36Coin",
                         "sections": [
                             {
@@ -203,177 +173,207 @@
                         ]
                     },
                     {
-                        "name": "rA1_84",
-                        "sections": [
-                            {
-                                "ref": "Talismans/Bumper"
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Lake",
-                                "column": 7,
-                                "row": 3.5
-                            }
-                        ]
-                    },
-                    {
-                        "name": "rA0_37",
-                        "sections": [
-                            {
-                                "ref": "Talismans/Archer"
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Lake",
-                                "column": 10.5,
-                                "row": 3.5
-                            }
-                        ]
-                    },
-                    {
-                        "name": "rA0_39",
-                        "sections": [
-                            {
-                                "ref": "Talismans/Ninja"
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Lake",
-                                "column": 11,
-                                "row": 5
-                            }
-                        ]
-                    },
-                    {
-                        "name": "rA0_36",
-                        "sections": [
-                            {
-                                "ref": "Checkpoints/Climb"
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Lake",
-                                "column": 9,
-                                "row": 4.5
-                            }
-                        ]
-                    },
-                    {
-                        "name": "rA0_38hallway",
-                        "sections": [
-                            {
-                                "ref": "Checkpoints/Ninja"
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Lake",
-                                "column": 12,
-                                "row": 4.5
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Lake Top Left",
+                        "name": "Lake Central",
                         "access_rules": [
-                            "@Lake Top Left Access"
+                            "@Lake Central Access"
                         ],
                         "children": [
                             {
-                                "name": "rA1_82FatalDraw",
+                                "name": "rA0_40",
                                 "sections": [
                                     {
-                                        "ref": "Skills/Fatal Draw"
+                                        "ref": "Skills/Speed Charge"
+                                    }
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Lake",
+                                        "column": 13,
+                                        "row": 5
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "rA0_84Coin",
+                                "sections": [
+                                    {
+                                        "ref": "Coins/Breakable Floors"
                                     }
                                 ],
                                 "map_locations": [
                                     {
                                         "map": "Lake",
                                         "column": 6,
-                                        "row": 2
-                                    }
-                                ]
-                            },
-                            {
-                                "name": "rA1_81VagrantBossReward",
-                                "sections": [
-                                    {
-                                        "ref": "Coins/Vagrant I Reward"
-                                    }
-                                ],
-                                "map_locations": [
-                                    {
-                                        "map": "Lake",
-                                        "column": 3,
                                         "row": 4
                                     }
                                 ]
                             },
                             {
-                                "name": "rA1_82",
+                                "name": "rA1_84",
                                 "sections": [
                                     {
-                                        "ref": "Coins/Fatal Draw"
+                                        "ref": "Talismans/Bumper"
                                     }
                                 ],
                                 "map_locations": [
                                     {
                                         "map": "Lake",
-                                        "column": 5,
-                                        "row": 2
-                                    }
-                                ]
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Archer Area",
-                        "access_rules": [
-                            "@Archer Area Access"
-                        ],
-                        "children": [
-                            {
-                                "name": "rA1_168ArcherReward",
-                                "sections": [
-                                    {
-                                        "ref": "Skills/Chain Dash Upgrade"
-                                    }
-                                ],
-                                "map_locations": [
-                                    {
-                                        "map": "Lake",
-                                        "column": 9,
-                                        "row": 2
+                                        "column": 7,
+                                        "row": 3.5
                                     }
                                 ]
                             },
                             {
-                                "name": "rA1_167",
+                                "name": "rA0_37",
                                 "sections": [
                                     {
-                                        "ref": "Checkpoints/Archer"
+                                        "ref": "Talismans/Archer"
+                                    }
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Lake",
+                                        "column": 10.5,
+                                        "row": 3.5
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "rA0_39",
+                                "sections": [
+                                    {
+                                        "ref": "Talismans/Ninja"
                                     }
                                 ],
                                 "map_locations": [
                                     {
                                         "map": "Lake",
                                         "column": 11,
-                                        "row": 2
+                                        "row": 5
                                     }
                                 ]
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Lake East",
-                        "access_rules": [
-                            "@Lake East Access"
-                        ],
-                        "children": [
+                            },
+                            {
+                                "name": "rA0_36",
+                                "sections": [
+                                    {
+                                        "ref": "Checkpoints/Climb"
+                                    }
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Lake",
+                                        "column": 9,
+                                        "row": 4.5
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "rA0_38hallway",
+                                "sections": [
+                                    {
+                                        "ref": "Checkpoints/Ninja"
+                                    }
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Lake",
+                                        "column": 12,
+                                        "row": 4.5
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Lake Top Left",
+                                "access_rules": [
+                                    "@Lake Top Left Access"
+                                ],
+                                "children": [
+                                    {
+                                        "name": "rA1_82FatalDraw",
+                                        "sections": [
+                                            {
+                                                "ref": "Skills/Fatal Draw"
+                                            }
+                                        ],
+                                        "map_locations": [
+                                            {
+                                                "map": "Lake",
+                                                "column": 6,
+                                                "row": 2
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "rA1_81VagrantBossReward",
+                                        "sections": [
+                                            {
+                                                "ref": "Coins/Vagrant I Reward"
+                                            }
+                                        ],
+                                        "map_locations": [
+                                            {
+                                                "map": "Lake",
+                                                "column": 3,
+                                                "row": 4
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "rA1_82",
+                                        "sections": [
+                                            {
+                                                "ref": "Coins/Fatal Draw"
+                                            }
+                                        ],
+                                        "map_locations": [
+                                            {
+                                                "map": "Lake",
+                                                "column": 5,
+                                                "row": 2
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Archer Area",
+                                "access_rules": [
+                                    "@Archer Area Access"
+                                ],
+                                "children": [
+                                    {
+                                        "name": "rA1_168ArcherReward",
+                                        "sections": [
+                                            {
+                                                "ref": "Skills/Chain Dash Upgrade"
+                                            }
+                                        ],
+                                        "map_locations": [
+                                            {
+                                                "map": "Lake",
+                                                "column": 9,
+                                                "row": 2
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "rA1_167",
+                                        "sections": [
+                                            {
+                                                "ref": "Checkpoints/Archer"
+                                            }
+                                        ],
+                                        "map_locations": [
+                                            {
+                                                "map": "Lake",
+                                                "column": 11,
+                                                "row": 2
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
                             {
                                 "name": "Lake Upper",
                                 "access_rules": [
@@ -497,38 +497,46 @@
                                 ]
                             },
                             {
-                                "name": "Lake Temple",
+                                "name": "Lake East",
                                 "access_rules": [
-                                    "@Lake Temple Access"
+                                    "@Lake East Access"
                                 ],
                                 "children": [
                                     {
-                                        "name": "rA0_44",
-                                        "sections": [
-                                            {
-                                                "ref": "Checkpoints/Acolyte"
-                                            }
+                                        "name": "Lake Temple",
+                                        "access_rules": [
+                                            "@Lake Temple Access"
                                         ],
-                                        "map_locations": [
+                                        "children": [
                                             {
-                                                "map": "Lake",
-                                                "column": 19,
-                                                "row": 4
-                                            }
-                                        ]
-                                    },
-                                    {
-                                        "name": "rA0_45Boss",
-                                        "sections": [
+                                                "name": "rA0_44",
+                                                "sections": [
+                                                    {
+                                                        "ref": "Checkpoints/Acolyte"
+                                                    }
+                                                ],
+                                                "map_locations": [
+                                                    {
+                                                        "map": "Lake",
+                                                        "column": 19,
+                                                        "row": 4
+                                                    }
+                                                ]
+                                            },
                                             {
-                                                "ref": "Bosses/Acolyte"
-                                            }
-                                        ],
-                                        "map_locations": [
-                                            {
-                                                "map": "Lake",
-                                                "column": 20,
-                                                "row": 4
+                                                "name": "rA0_45Boss",
+                                                "sections": [
+                                                    {
+                                                        "ref": "Bosses/Acolyte"
+                                                    }
+                                                ],
+                                                "map_locations": [
+                                                    {
+                                                        "map": "Lake",
+                                                        "column": 20,
+                                                        "row": 4
+                                                    }
+                                                ]
                                             }
                                         ]
                                     }

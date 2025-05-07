@@ -8,7 +8,8 @@
   {
     "name": "Throw Area Access",
     "access_rules": [
-      "@Crimson Access,$double_jump,$dash,$throw"
+      "$logic_normal,@Crimson Access,$double_jump,$dash,$throw",
+      "$logic_hard,@Crimson Access,$double_jump,$armor"
     ]
   }
 ]

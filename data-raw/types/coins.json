@@ -5,139 +5,200 @@
         "chest_opened_img": "/images/items/open.png",
         "sections": [
             {
-                "name": "Basement"
+                "name": "Basement",
+                "access_rules": [
+                    "$armor"
+                ]
             },
             {
                 "name": "Love Room",
                 "access_rules": [
-                    "$dash",
-                    "$double_jump,$armor"
+                    "^$dash"
                 ]
             },
             {
-                "name": "Hub Left"
+                "name": "Hub Left",
+                "access_rules": [
+                    "$logic_normal,$double_jump,$chain",
+                    "$logic_hard,^$double_jump,$armor"
+                ]
             },
             {
-                "name": "Hub Up"
+                "name": "Hub Up",
+                "access_rules": [
+                    "$double_jump"
+                ]
             },
             {
-                "name": "Vagrant II Reward"
+                "name": "Vagrant II Reward",
+                "access_rules": [
+                    "$has|coin|5,$double_jump"
+                ]
             },
             {
-                "name": "Rogue"
+                "name": "Rogue",
+                "access_rules": [
+                    "$logic_normal,$vision,$chain_dash",
+                    "$logic_hard,$double_jump,$armor,$chain_dash"
+                ]
             },
             {
-                "name": "Phantom Shin"
+                "name": "Phantom Shin",
+                "access_rules": [
+                    "$double_jump"
+                ]
             },
             {
-                "name": "Behind Warp"
+                "name": "Behind Warp",
+                "access_rules": [
+                    "$logic_normal,$double_jump,$chain",
+                    "$logic_hard,$armor",
+                    "$logic_hard,$double_jump,$speed_charge"
+                ]
             },
             {
                 "name": "Hidden Time Puzzle",
                 "access_rules": [
-                    "$dash"
+                    "^$dash"
                 ]
             },
             {
                 "name": "8 Coins Door",
                 "access_rules": [
-                    "@Hills Middle Access,$dash,$double_jump,$crystal_break",
-                    "@Hills Middle Access,$dash,$use_slash_boost,$crystal_break",
-                    "@Fall Lower Access,$double_jump,$has|coin|8",
-                    "@Fall Lower Access,$speed_charge,$has|coin|8"
+                    "@Hills Middle Access,$logic_normal,^$dash,$crystal_break",
+                    "@Hills Middle Access,$logic_hard,$crystal_break",
+                    "@Fall Lower Access,$has|coin|8"
                 ]
             },
             {
                 "name": "Twitch Arena"
             },
             {
-                "name": "Secret Room"
+                "name": "Secret Room",
+                "access_rules": [
+                    "$logic_normal,$chain_dash,$speed_charge",
+                    "$logic_hard,$chain_dash"
+                ]
             },
             {
-                "name": "Phantom Jin"
+                "name": "Phantom Jin",
+                "access_rules": [
+                    "$logic_normal,$vision,$spin",
+                    "$logic_hard,$double_jump,$armor,$spin"
+                ]
             },
             {
                 "name": "Right Red Area Entry",
                 "access_rules": [
-                    "$double_jump,$double_dash",
-                    "$speed_charge,$double_dash"
+                    "$double_jump,$chain_dash"
                 ]
             },
             {
                 "name": "Left of Bridge Room",
                 "access_rules": [
-                    "$speed_charg,$double_jump"
+                    "$double_jump,$speed_charg"
                 ]
             },
             {
-                "name": "Right of Double Jump Room"
+                "name": "Right of Double Jump Room",
+                "access_rules": [
+                    "$is_prologue,^$dash,$throw,$double_jump",
+                    "$prologue_done,^$dash,$throw,$double_jump,$crystal_break"
+                ]
             },
             {
-                "name": "Tempest"
+                "name": "Tempest",
+                "access_rules": [
+                    "$double_jump"
+                ]
             },
             {
                 "name": "After Bridge Drop",
                 "access_rules": [
-                    "$double_slash_boost",
-                    "$speed_charg,$double_jump"
+                    "$logic_normal,$speed_charg,$double_jump",
+                    "$logic_hard"
                 ]
             },
             {
                 "name": "Vagrant I Reward",
                 "access_rules": [
-                    "$double_jump,$dash",
+                    "$double_jump,^$dash",
                     "$double_jump,$chain_dash"
                 ]
             },
             {
                 "name": "Fatal Draw",
                 "access_rules": [
-                    "$double_jump,$dash",
-                    "$double_jump,$chain_dash"
+                    "$double_jump"
                 ]
             },
             {
-                "name": "Breakable Floors"
-            },
-            {
-                "name": "Tiny Warrior Entry"
-            },
-            {
-                "name": "Time Puzzle Tiny Warrior",
-                "access_rules": [
-                    "$double_jump,$chain_dash",
-                    "$double_jump,$armor"
-                ]
-            },
-            {
-                "name": "Bumper Time Puzzle",
+                "name": "Breakable Floors",
                 "access_rules": [
                     "$double_jump"
                 ]
             },
             {
-                "name": "Spins"
+                "name": "Tiny Warrior Entry",
+                "access_rules": [
+                    "$logic_normal,$double_jump,^$dash",
+                    "$logic_hard,$armor"
+                ]
             },
             {
-                "name": "Yari"
+                "name": "Time Puzzle Tiny Warrior",
+                "access_rules": [
+                    "$demon_blade,$double_jump,$crystal_break"
+                ]
             },
             {
-                "name": "Armor Time Puzzle"
+                "name": "Bumper Time Puzzle"
             },
             {
-                "name": "Father"
+                "name": "Spins",
+                "access_rules": [
+                    "^$dash,$double_jump,$spin"
+                ]
+            },
+            {
+                "name": "Yari",
+                "access_rules": [
+                  "$logic_normal,$double_jump,$dash,$throw",
+                  "$logic_hard,$double_jump,$armor,$speed_charge,$throw"
+                ]
+            },
+            {
+                "name": "Armor Time Puzzle",
+                "access_rules": [
+                    "$double_jump,$armor"
+                ]
+            },
+            {
+                "name": "Father",
+                "access_rules": [
+                    "$double_jump,$armor"
+                ]
             },
             {
                 "name": "Most Left"
             },
             {
-                "name": "Double Jump Paradise"
+                "name": "Double Jump Paradise",
+                "access_rules": [
+                    "$double_jump"
+                ]
             },
             {
-                "name": "Switch Puzzle"
+                "name": "Switch Puzzle",
+                "access_rules": [
+                    "$double_jump,$armor,$throw[,$chain]"
+                ]
             },
             {
-                "name": "Black Area Entry"
+                "name": "Black Area Entry",
+                "access_rules": [
+                    "$double_jump,$speed_charge"
+                ]
             }
         ]
     }

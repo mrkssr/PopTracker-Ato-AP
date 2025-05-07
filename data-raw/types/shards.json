@@ -5,17 +5,28 @@
             {
                 "name": "Blue Shard",
                 "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png"
+                "chest_opened_img": "/images/items/open.png",
+                "access_rules": [
+                    "$logic_normal,^$chain_dash,$double_jump,$spin",
+                    "$logic_hard,^$dash,$double_jump,$spin"
+                ]
             },
             {
                 "name": "Red Shard",
                 "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png"
+                "chest_opened_img": "/images/items/open.png",
+                "access_rules": [
+                  "$logic_normal,$double_jump,$dash,$throw",
+                  "$logic_hard,$double_jump,$armor,$speed_charge,$throw"
+                ]
             },
             {
                 "name": "Yellow Shard",
                 "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png"
+                "chest_opened_img": "/images/items/open.png",
+                "access_rules": [
+                    "$double_jump,$armor"
+                ]
             }
         ]
     }

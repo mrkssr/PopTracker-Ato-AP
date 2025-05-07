@@ -8,11 +8,15 @@ function dodge()
 end
 
 function dash()
-    return
-        has("dash") or
-        has("chaindash") or
-        has("chaindashupgrade") or
-        (double_jump() and armor())
+    if (has("dash") or has("chaindash") or has("chaindash_upgrade")) then
+        return AccessibilityLevel.Normal
+    end
+    
+    if logic_hard() and (double_jump() and armor()) then
+        return AccessibilityLevel.SequenceBreak
+    end
+
+    return AccessibilityLevel.None
 end
 
 function chain_dash()
@@ -36,7 +40,14 @@ function dash_state(amount)
 end
 
 function double_jump()
-    return has("doublejump") or (not_has("doublejump") and armor())
+    if logic_normal() and has("doublejump") then
+        return AccessibilityLevel.Normal
+    end
+    if logic_hard() and (not_has("doublejump") and armor()) then
+        return AccessibilityLevel.SequenceBreak
+    end
+    
+    return AccessibilityLevel.None
 end
 
 function speed_charge()
@@ -55,6 +66,10 @@ function spin()
     return has("spin") or has("spin_upgrade")
 end
 
+function fatal_draw()
+    return has("fatal_draw") or has("fatal_draw_upgrade")
+end
+
 function vision()
     return has("vision")
 end
@@ -64,18 +79,31 @@ function demon_blade()
 end
 -- End Skills
 
+-- Logic
+function logic_normal()
+    -- requires the intended skill set
+    -- get from settings
+    return true
+end
+
+function logic_hard()
+    -- every special techs like map jumps, groundpound cancle and so on...
+    return not logic_normal()
+end
+-- End Logic
+
 -- Techs
-function use_slash_boost()
-    return true
-end
+--function use_slash_boost()
+--    return true
+--end
 
-function use_double_slash_boost()
-    return true
-end
+--function use_double_slash_boost()
+--    return true
+--end
 
-function use_map_jump()
-    return true
-end
+--function use_map_jump()
+--    return true
+--end
 -- End Techs
 
 -- Events

@@ -2,7 +2,7 @@
     {
         "name": "Blossom",
         "access_rules": [
-            "@Blossom"
+            "@Blossom Access"
         ],
         "children": [
             {
@@ -139,6 +139,21 @@
                     "@Blossom Middle Access"
                 ],
                 "children": [
+                    {
+                        "name": "rA1_9",
+                        "sections": [
+                            {
+                                "ref": "Talismans/Leave Room"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Blossom",
+                                "column": 9.5,
+                                "row": 3.5
+                            }
+                        ]
+                    },
                     {
                         "name": "rA1_1under",
                         "sections": [
@@ -285,24 +300,6 @@
                         "visibility_rules": [],
                         "children": [
                             {
-                                "name": "rA1_35",
-                                "sections": [
-                                    {
-                                        "ref": "Runes/Juggernaut Rune"
-                                    },
-                                    {
-                                        "ref": "Talismans/Twins"
-                                    }
-                                ],
-                                "map_locations": [
-                                    {
-                                        "map": "Blossom",
-                                        "column": 13,
-                                        "row": 1
-                                    }
-                                ]
-                            },
-                            {
                                 "name": "rA1_29VagrantBossReward",
                                 "sections": [
                                     {
@@ -314,21 +311,6 @@
                                         "map": "Blossom",
                                         "column": 12,
                                         "row": 1
-                                    }
-                                ]
-                            },
-                            {
-                                "name": "rA1_9",
-                                "sections": [
-                                    {
-                                        "ref": "Talismans/Leave Room"
-                                    }
-                                ],
-                                "map_locations": [
-                                    {
-                                        "map": "Blossom",
-                                        "column": 9.5,
-                                        "row": 3.5
                                     }
                                 ]
                             },
@@ -378,17 +360,43 @@
                                 ]
                             },
                             {
-                                "name": "rA1_33",
-                                "sections": [
-                                    {
-                                        "ref": "Checkpoints/Twins"
-                                    }
+                                "name": "Twins Area",
+                                "access_rules": [
+                                    "@Twins Area Access"
                                 ],
-                                "map_locations": [
+                                "children": [
                                     {
-                                        "map": "Blossom",
-                                        "column": 15,
-                                        "row": 1
+                                        "name": "rA1_35",
+                                        "sections": [
+                                            {
+                                                "ref": "Runes/Juggernaut Rune"
+                                            },
+                                            {
+                                                "ref": "Talismans/Twins"
+                                            }
+                                        ],
+                                        "map_locations": [
+                                            {
+                                                "map": "Blossom",
+                                                "column": 13,
+                                                "row": 1
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "rA1_33",
+                                        "sections": [
+                                            {
+                                                "ref": "Checkpoints/Twins"
+                                            }
+                                        ],
+                                        "map_locations": [
+                                            {
+                                                "map": "Blossom",
+                                                "column": 15,
+                                                "row": 1
+                                            }
+                                        ]
                                     }
                                 ]
                             }
