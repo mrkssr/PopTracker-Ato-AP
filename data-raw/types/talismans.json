@@ -19,8 +19,8 @@
             {
                 "name": "Under Leaves",
                 "access_rules": [
-                    "$double_jump",
-                    "$armor"
+                    "$logic_normal,$double_jump,$dodge_upgrade",
+                    "$logic_hard,$double_jump,$armor"
                 ]
             },
             {

@@ -19,7 +19,8 @@
   {
     "name": "Vagrant Area Access",
     "access_rules": [
-      "@Blossom Middle Access,$double_jump"
+      "@Blossom Middle Access,$logic_normal,$double_jump,^$dash",
+      "@Blossom Middle Access,$logic_hard,$double_jump,$armor"
     ]
   },
   {
