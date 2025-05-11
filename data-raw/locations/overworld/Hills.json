@@ -53,10 +53,10 @@
             {
                 "sections": [
                     {
-                        "ref": "Hills/Hills Middle/rA1_137 - Skill/Throw Upgrade"
+                        "ref": "Hills/Hills Middle/rA1_137/Throw Upgrade"
                     },
                     {
-                        "ref": "Hills/Hills Middle/rA1_137 - Checkpoint/Throw Arena"
+                        "ref": "Hills/Hills Middle/rA1_137/Throw Arena"
                     }
                 ],
                 "map_locations": [

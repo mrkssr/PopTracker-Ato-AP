@@ -7,7 +7,7 @@
             {
                 "name": "Basement",
                 "access_rules": [
-                    "$armor"
+                    "$prologue_done,$armor"
                 ]
             },
             {
@@ -38,7 +38,7 @@
             {
                 "name": "Rogue",
                 "access_rules": [
-                    "$logic_normal,$vision,$chain_dash",
+                    "$logic_normal,$vision,$double_jump,$chain_dash",
                     "$logic_hard,$double_jump,$armor,$chain_dash"
                 ]
             },

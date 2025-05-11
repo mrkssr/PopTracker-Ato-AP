@@ -20,15 +20,27 @@ function dash()
 end
 
 function chain_dash()
-    return
-        dash_state(2) or
-        (dash_state(1) and armor())
+    if dash_state(2) then
+        return AccessibilityLevel.Normal
+    end
+
+    if logic_hard() and ((dash_state(1) and (armor() or double_jump() or spin() or dodge()))) then
+        return AccessibilityLevel.SequenceBreak
+    end
+
+    return AccessibilityLevel.None
 end
 
 function chain_dash_upgrade()
-    return
-        (has("dash") and has("chaindash") and has("chaindash_upgrade")) or
-        (dash_state(2) and armor())
+    if dash_state(3) then
+        return AccessibilityLevel.Normal
+    end
+
+    if logic_hard() and ((dash_state(2) and (armor() or double_jump() or spin() or dodge()))) then
+        return AccessibilityLevel.SequenceBreak
+    end
+
+    return AccessibilityLevel.None
 end
 
 function dash_state(amount)
@@ -71,7 +83,14 @@ function fatal_draw()
 end
 
 function vision()
-    return has("vision")
+    if has("vision") then
+        return AccessibilityLevel.Normal
+    end
+    if logic_hard() then
+        return AccessibilityLevel.SequenceBreak
+    end
+    
+    return AccessibilityLevel.None
 end
 
 function demon_blade()

@@ -1,6 +1,6 @@
 [
     {
-        "name": "CrystalBreak",
+        "name": "Crystal Break",
         "type": "toggle",
         "img": "images/items/skills/CrystalBreak.png",
         "img_mods": "",
@@ -86,21 +86,21 @@
         ]
     },
     {
-        "name": "DemonBlade",
+        "name": "Demon Blade",
         "type": "toggle",
         "img": "images/items/skills/DemonBlade.png",
         "img_mods": "",
         "codes": "demonBlade,skills"
     },
     {
-        "name": "SpeedCharge",
+        "name": "Speed Charge",
         "type": "toggle",
         "img": "images/items/skills/SpeedCharge.png",
         "img_mods": "",
         "codes": "speedcharge,skills"
     },
     {
-        "name": "DoubleJump",
+        "name": "Double Jump",
         "type": "toggle",
         "img": "images/items/skills/DoubleJump.png",
         "img_mods": "",
@@ -114,7 +114,7 @@
         "codes": "parry,skills"
     },
     {
-        "name": "ElectricWindLethalStrike",
+        "name": "Electric Wind Lethal Strike",
         "type": "toggle",
         "img": "images/items/skills/ElectricWindLethalStrike.png",
         "img_mods": "",
@@ -128,7 +128,7 @@
         "codes": "meditate,skills"
     },
     {
-        "name": "TripleSlash",
+        "name": "Triple Slash",
         "type": "toggle",
         "img": "images/items/skills/TripleSlash.png",
         "img_mods": "",
@@ -142,7 +142,7 @@
         "codes": "vision,skills"
     },
     {
-        "name": "FatalDraw",
+        "name": "Fatal Draw",
         "type": "toggle",
         "img": "images/items/skills/FatalDraw.png",
         "img_mods": "",

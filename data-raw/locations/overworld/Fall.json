@@ -155,7 +155,7 @@
             {
                 "sections": [
                     {
-                        "ref": "Fall/Fall Lower/Fall Lower East/rA1_57Secret/Secret"
+                        "ref": "Fall/Fall Lower/Fall Lower East/rA1_57Secret/Bumper Time Puzzle"
                     }
                 ],
                 "map_locations": [
@@ -277,10 +277,10 @@
             {
                 "sections": [
                     {
-                        "ref": "Fall/Fall Middle/rA0_23 - Skill/Chain Dash"
+                        "ref": "Fall/Fall Middle/rA0_23/Chain Dash"
                     },
                     {
-                        "ref": "Fall/Fall Middle/rA0_23 - Talisman/Chain Dash Room"
+                        "ref": "Fall/Fall Middle/rA0_23/Chain Dash Room"
                     }
                 ],
                 "map_locations": [
@@ -308,7 +308,7 @@
             {
                 "sections": [
                     {
-                        "ref": "Fall/Fall Middle/rA0_17secret/Hidden Top"
+                        "ref": "Fall/Fall Middle/rA0_17secret/Secret"
                     }
                 ],
                 "map_locations": [
@@ -322,7 +322,7 @@
             {
                 "sections": [
                     {
-                        "ref": "Fall/Fall Middle/rA0_16Secret/Left Red Area Entry"
+                        "ref": "Fall/Fall Middle/rA0_16secret/Left Red Area Entry"
                     }
                 ],
                 "map_locations": [
@@ -392,7 +392,7 @@
             {
                 "sections": [
                     {
-                        "ref": "Fall/Fall Middle/Fall Red Area Hallway/Phantom Jin/rA1_65Coin/Phantom Jin"
+                        "ref": "Fall/Fall Middle/Fall Red Area Hallway/Phantom Jin/rA1_64Coin/Phantom Jin"
                     }
                 ],
                 "map_locations": [

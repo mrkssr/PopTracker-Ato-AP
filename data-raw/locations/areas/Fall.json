@@ -171,7 +171,7 @@
                                 "name": "rA1_57Secret",
                                 "sections": [
                                     {
-                                        "ref": "Talismans/Secret"
+                                        "ref": "Talismans/Bumper Time Puzzle"
                                     }
                                 ],
                                 "map_locations": [
@@ -306,7 +306,7 @@
                 ],
                 "children": [
                     {
-                        "name": "rA0_23 - Skill",
+                        "name": "rA0_23",
                         "sections": [
                             {
                                 "ref": "Skills/Chain Dash"
@@ -342,7 +342,7 @@
                         "name": "rA0_17secret",
                         "sections": [
                             {
-                                "ref": "Talismans/Hidden Top"
+                                "ref": "Talismans/Secret"
                             }
                         ],
                         "map_locations": [
@@ -354,7 +354,7 @@
                         ]
                     },
                     {
-                        "name": "rA0_16Secret",
+                        "name": "rA0_16secret",
                         "sections": [
                             {
                                 "ref": "Talismans/Left Red Area Entry"
@@ -434,7 +434,7 @@
                                         ]
                                     },
                                     {
-                                        "name": "rA1_65Coin",
+                                        "name": "rA1_64Coin",
                                         "sections": [
                                             {
                                                 "ref": "Coins/Phantom Jin"

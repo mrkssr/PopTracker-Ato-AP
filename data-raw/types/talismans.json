@@ -107,10 +107,10 @@
                 ]
             },
             {
-                "name": "Secret"
+                "name": "Bumper Time Puzzle"
             },
             {
-                "name": "Hidden Top",
+                "name": "Secret",
                 "access_rules": [
                     "^$dash,^$double_jump"
                 ]

@@ -19,27 +19,27 @@
                         "item_width": 36,
                         "rows": [
                             [
-                                "Dodge",
-                                "Dash",
-                                "Throw",
-                                "Armor"
+                                "dodge",
+                                "dash",
+                                "throw",
+                                "armor"
                             ],
                             [
-                                "CrystalBreak",
-                                "DoubleJump",
-                                "Spin",
-                                "DemonBlade"
+                                "crystalbreak",
+                                "doublejump",
+                                "spin",
+                                "demonBlade"
                             ],
                             [
-                                "SpeedCharge",
-                                "Vision",
-                                "TripleSlash",
-                                "Parry"
+                                "speedcharge",
+                                "vision",
+                                "tripleslash",
+                                "parry"
                             ],
                             [
-                                "ElectricWindLethalStrike",
-                                "Meditate",
-                                "FatalDraw"
+                                "electricwindlethalstrike",
+                                "meditate",
+                                "fataldraw"
                             ]
                         ]
                     }

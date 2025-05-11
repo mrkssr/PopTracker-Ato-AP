@@ -1,6 +1,6 @@
 {
     "name": "Ato Archipelago (Manual)",
-    "game_name": "Manual_Ato_AP_Mrks",
+    "game_name": "Manual_Ato_Mrks",
     "package_version": "0.0.1",
     "package_uid": "manual_ato_mrks_ap",
     "author": "Mrks",
@@ -8,7 +8,8 @@
         "Map Tracker": {
             "display_name": "Map Tracker",
             "flags": [
-                "ap"
+                "ap",
+                "apmanual"
             ]
         },
         "Items Only": {
