@@ -132,8 +132,8 @@
             {
                 "name": "3 Coins Door",
                 "access_rules": [
-                    "$has|coin|3,$is_prologue,$double_slash_boost,^$dash",
-                    "$has|coin|3,$is_prologue,$double_jump,^$dash",
+                    "$has|coin|3,$is_prologue,$logic_hard,^$dash",
+                    "$has|coin|3,$is_prologue,$logic_normal,$double_jump,^$dash",
                     "$has|coin|3,$prologue_done"
                 ]
             },
@@ -179,7 +179,7 @@
             {
                 "name": "Owl",
                 "access_rules": [
-                    "$logic_normal,$vision,$chain",
+                    "$logic_normal,$vision,$dash",
                     "$logic_hard,$double_jump,$armor,$throw"
                 ]
             },

@@ -19,7 +19,7 @@
             {
                 "name": "Hub Left",
                 "access_rules": [
-                    "$logic_normal,$double_jump,$chain",
+                    "$logic_normal,$double_jump,$chain_dash",
                     "$logic_hard,^$double_jump,$armor"
                 ]
             },
@@ -51,7 +51,7 @@
             {
                 "name": "Behind Warp",
                 "access_rules": [
-                    "$logic_normal,$double_jump,$chain",
+                    "$logic_normal,$double_jump,$chain_dash",
                     "$logic_hard,$armor",
                     "$logic_hard,$double_jump,$speed_charge"
                 ]
@@ -120,11 +120,7 @@
                 ]
             },
             {
-                "name": "Vagrant I Reward",
-                "access_rules": [
-                    "$double_jump,^$dash",
-                    "$double_jump,$chain_dash"
-                ]
+                "name": "Vagrant I Reward"
             },
             {
                 "name": "Fatal Draw",
@@ -148,7 +144,7 @@
             {
                 "name": "Time Puzzle Tiny Warrior",
                 "access_rules": [
-                    "$demon_blade,$double_jump,$crystal_break"
+                    "$double_jump,$crystal_break"
                 ]
             },
             {
@@ -170,7 +166,7 @@
             {
                 "name": "Armor Time Puzzle",
                 "access_rules": [
-                    "$double_jump,$armor"
+                    "$armor"
                 ]
             },
             {
@@ -191,7 +187,7 @@
             {
                 "name": "Switch Puzzle",
                 "access_rules": [
-                    "$double_jump,$armor,$throw[,$chain]"
+                    "$double_jump,$armor,$throw[,$chain_dash,$vision]"
                 ]
             },
             {

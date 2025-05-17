@@ -39,7 +39,8 @@
                 "chest_unopened_img": "/images/items/collectibles/EchoRune.png",
                 "chest_opened_img": "/images/items/collectibles/EchoRune.png",
                 "access_rules": [
-                    "$double_jump"
+                    "$double_jump",
+                    "[$vision]"
                 ]
             },
             {
